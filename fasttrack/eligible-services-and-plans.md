@@ -3,7 +3,7 @@ title: Поддерживаемые службы и тарифные планы
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: 'Когда вы приобретете любую из служб Office 365:, указанных в разделе Службы, для которых предусмотрена поддержка FastTrack , специалисты FastTrack проконсультируют вас по подключению Office 365: и тому, как использовать эти службы.'
-ms.openlocfilehash: 7547cf5528086e287bd3f156e39a5f5532a8fefd
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 2ba931c6aad66cd21bbab140c3550cb4aae0e57d
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499076"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449135"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -182,7 +182,7 @@ ms.locfileid: "21499076"
     
 - Office 365:, предоставляемый компанией 21Vianet\*\*
     
-\* Подробнее о преимуществах FastTrack для государственных организаций США см. на странице [Office 365 для государственных организаций США](https://go.microsoft.com/fwlink/?linkid=2005430).
+\* Подробнее о преимуществах FastTrack для государственных организаций США см. на странице [Office 365 для государственных организаций США](https://aka.ms/aboutgovcloud).
   
 \*\* За дополнительными сведениями о преимуществах FastTrack для Office 365: под управлением компании 21Vianet обращайтесь в [службу поддержки 21Vianet](https://go.microsoft.com/fwlink/?linkid=852156).
   
