@@ -3,7 +3,7 @@ title: Обязанности специалистов FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: 1d1b08663220411b681d79833306a8260dd84c15
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6a332cab1b2ea5bbbd55afa6f2dfa22792578a50
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498946"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449138"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
-При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
+При подключении специалисты FastTrack отвечают за указанные ниже аспекты.\*
   
 ## <a name="general"></a>Общие
 
@@ -168,7 +168,7 @@ ms.locfileid: "21498946"
     
 - Создание сайтов для администратора SharePoint Online.
     
-- планированию семейств веб-сайтов; 
+- Планирование семейств веб-сайтов. 
     
 - Защита контента и управление разрешениями.
     
@@ -176,7 +176,7 @@ ms.locfileid: "21498946"
     
 - Настройка функций SharePoint Online. 
     
-- переносу данных (если вы используете службу миграции FastTrack Center и соответствуете необходимым требованиям).
+- Перенос данных (если вы используете службу миграции FastTrack Center и соответствуете необходимым требованиям).
     
 - Оценка конфигурации инфраструктуры локальной фермы SharePoint для Гибридная среда SharePoint Online. 
     
@@ -348,5 +348,5 @@ ms.locfileid: "21498946"
     
 - Места для скачивания Microsoft StaffHub.
     
-
+\*Сведения об обязанностях специалистов FastTrack в отношении Office 365 для государственных организаций США см. в статье [Обязанности специалистов FastTrack применительно к Office 365 для государственных организаций США](US-Gov-appendix-fasttrack-responsibilities.md).
 

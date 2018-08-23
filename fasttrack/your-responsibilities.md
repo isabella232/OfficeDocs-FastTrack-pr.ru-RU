@@ -3,7 +3,7 @@ title: Ваши обязанности
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: В процессе подключения вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: 9d51fdf901d70c780dc3aa2a997e51cb1a0ad232
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6b572bb44edc1b4ae8312cfe1a59cbd005899a8f
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499106"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449132"
 ---
 # <a name="your-responsibilities"></a>Ваши обязанности
 
-В процессе подключения вы отвечаете за указанные ниже аспекты.
+В процессе подключения вы отвечаете за указанные ниже аспекты.\*
   
 ## <a name="general"></a>Общие
 
@@ -91,7 +91,7 @@ ms.locfileid: "21499106"
     
 - Участие в стартовом собрании, управление соответствующими сотрудниками в организации и подтверждение временных шкал устранения проблем.
     
-- Предоставление описания целей, для достижения которых вы предполагаете использовать службы Office 365: (например, SharePoint Online, Exchange Online или Yammer Enterprise) и общих целей организации.
+- Предоставление описания целей, для достижения которых вы предполагаете использовать службы Office 365 (например, SharePoint Online, Exchange Online, Microsoft Teams и Office 365 профессиональный плюс) и общих целей организации.
     
 ## <a name="assess-phase"></a>Фаза оценки
 
@@ -163,6 +163,6 @@ ms.locfileid: "21499106"
     
 - Обновление сертификата службы push-уведомлений Apple (APNS).
     
-
+\*Сведения о ваших обязанностях в отношении Office 365 для государственных организаций США см. в статье [Ваши обязанности применительно к Office 365 для государственных организаций США](US-Gov-appendix-your-responsibilities.md).
   
 
