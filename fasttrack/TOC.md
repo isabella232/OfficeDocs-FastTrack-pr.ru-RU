@@ -2,7 +2,7 @@
 ## [Подходящие службы и планы](eligible-services-and-plans.md)
 ## [Обзор Преимущества FastTrack Center](fasttrack-benefit-overview.md)
 ### [Процесс FastTrack](fasttrack-process.md)
-### [Требования к исходной среде](environment-expectations.md)
+### [Требования к исходной среде](source-environment-expectations.md)
 ### [Этапы миграции (в том числе входящей)](onboarding-and-migration.md)
 ### [Миграция данных](data-migration.md)
 ### [Обязанности специалистов FastTrack](fasttrack-responsibilities.md)
@@ -10,4 +10,4 @@
 ### [Приложение А. Миграция из IBM Domino в Exchange Online](from-ibm-domino-to-exchange-online.md)
 ### [Приложение B. Дополнительное преимущество FastTrack Center](fasttrack-additional-benefits.md)
 ### [Приложение C. Соглашение HIPAA-BAA для FastTrack Center](hipaa-business-associate-agreement.md)
-
+### [Приложение D. Обзор преимуществ FastTrack Center в Office 365 для государственных организаций США](US-Gov-appendix-overview.md)
