@@ -3,7 +3,7 @@ title: Ответственность за Office 365 государственн
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: В процессе подключения вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: c0ff252f3aeafcd866d8c506eb08f45c836b8025
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 6f9ec7c77829de607ec4b9bd019667dd2b7e7ef0
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329948"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827977"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Ответственность за Office 365 государственных организаций США.
 
@@ -95,7 +95,7 @@ ms.locfileid: "22329948"
     
 - Участие в стартовом собрании, управление соответствующими сотрудниками в организации и подтверждение временных шкал устранения проблем.
     
-- Укажите целей служб Office 365 (например, SharePoint Online, Exchange Online, группами Майкрософт и Office 365 ProPlus) и организационных задачах.
+- Предоставление описания целей, для достижения которых вы предполагаете использовать службы Office 365 (например, SharePoint Online, Exchange Online, Microsoft Teams и Office 365 профессиональный плюс) и общих целей организации.
     
 ## <a name="assess-phase"></a>Фаза оценки
 
