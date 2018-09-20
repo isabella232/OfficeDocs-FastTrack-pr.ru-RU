@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.assetid: 5c619c4e-2ac5-4c2f-8d8c-acccff3b9b20
 description: С помощью эту центр льгот для Office 365 вы удаленной работы с эту специалистам подготовиться к среде Office 365 для использования и план развертывания и использования в организации.
-ms.openlocfilehash: 959a398e395d4dc1a4d401d4838f1c13f34a44ef
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: b2776280dab424dec995c63c9673b5fdb32e15bf
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23827957"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021521"
 ---
 # <a name="appendix-d-fasttrack-center-benefit-overview-for-office-365-us-government"></a>Приложение D. Обзор преимуществ FastTrack Center в Office 365 для государственных организаций США
 
@@ -27,21 +27,13 @@ ms.locfileid: "23827957"
 >Необходимо приобрести по крайней мере 50 лицензий в списке [служб и планы](eligible-services-and-plans.md) для получения эту служб.  
 
 Мы рассмотрим следующие темы:
-
-- [Процесс FastTrack](fasttrack-process.md)
-    
-- [Источник ожиданиям среды для Office 365 государственных организаций США.](US-Gov-appendix-source-environment-expectations.md)
-    
+- [Процесс FastTrack](fasttrack-process.md) 
+- [Источник ожиданиям среды для Office 365 государственных организаций США.](US-Gov-appendix-source-environment-expectations.md)   
 - [Входящая и переноса этапы для Office 365 государственных организаций США.](US-Gov-appendix-onboarding-and-migration.md)
-
-- [Миграция данных](data-migration.md)
-    
-- [Обязанности эту для Office 365 государственных организаций США.](US-Gov-appendix-fasttrack-responsibilities.md)
-    
-- [Ответственность за Office 365 государственных организаций США.](US-Gov-appendix-your-responsibilities.md)
- 
-- [Приложение А. Миграция с IBM Domino в Exchange Online](from-ibm-domino-to-exchange-online.md)
-    
+- [Миграция данных](data-migration.md)    
+- [Обязанности эту для Office 365 государственных организаций США.](US-Gov-appendix-fasttrack-responsibilities.md)   
+- [Ответственность за Office 365 государственных организаций США.](US-Gov-appendix-your-responsibilities.md) 
+- [Приложение А. Миграция с IBM Domino в Exchange Online](from-ibm-domino-to-exchange-online.md)   
 - [Приложение Б. Дополнительное преимущество FastTrack Center](fasttrack-additional-benefits.md)
 
 
