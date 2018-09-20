@@ -11,158 +11,98 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: В процессе подключения вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: 500a78719ff31ce209630fb8a8c172bc6a394211
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 9b029c1354033427d28fe386af0f8ccbb13d41c2
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828087"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021621"
 ---
-# <a name="your-responsibilities"></a><span data-ttu-id="1d6f4-103">Ваши обязанности</span><span class="sxs-lookup"><span data-stu-id="1d6f4-103">Your Responsibilities</span></span>
+# <a name="your-responsibilities"></a><span data-ttu-id="aed11-103">Ваши обязанности</span><span class="sxs-lookup"><span data-stu-id="aed11-103">Your Responsibilities</span></span>
 
-<span data-ttu-id="1d6f4-104">В процессе подключения вы отвечаете за указанные ниже аспекты.\*</span><span class="sxs-lookup"><span data-stu-id="1d6f4-104">You have the following responsibilities during onboarding.\*</span></span>
+<span data-ttu-id="aed11-104">В процессе подключения вы отвечаете за указанные ниже аспекты.\*</span><span class="sxs-lookup"><span data-stu-id="aed11-104">You have the following responsibilities during onboarding.\*</span></span>
   
-## <a name="general"></a><span data-ttu-id="1d6f4-105">Общие</span><span class="sxs-lookup"><span data-stu-id="1d6f4-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="aed11-105">Общие</span><span class="sxs-lookup"><span data-stu-id="aed11-105">General</span></span>
 
-- <span data-ttu-id="1d6f4-106">Разработка и реализация плана успешной миграции.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-106">Develop and implement your success plan.</span></span>
-    
-- <span data-ttu-id="1d6f4-107">Обеспечение улучшений и интеграции клиента Office 365: помимо настраиваемых параметров, перечисленных в этой статье.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-107">Provide any enhancements and integrations to your Office 365 tenant beyond the configurable options listed here.</span></span> 
-    
-- <span data-ttu-id="1d6f4-108">Составление общей программы и организация управления проектом, включая следующие аспекты:</span><span class="sxs-lookup"><span data-stu-id="1d6f4-108">Provide overall program and project management, including:</span></span> 
-    
-  - <span data-ttu-id="1d6f4-109">Назначение руководителя проекта в качестве основного контактного лица для менеджера FastTrack.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-109">Assigning a project manager as the primary contact for the FastTrack Manager.</span></span>
-    
-  - <span data-ttu-id="1d6f4-110">Назначение технического руководителя в качестве основного контактного лица для инженера FastTrack.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-110">Assigning a technical lead as the primary contact for the FastTrack Engineer.</span></span>
-    
-  - <span data-ttu-id="1d6f4-111">Назначение технических ресурсов для выполнения исправлений, настройки и задач по внедрению согласно требованиям специалистов FastTrack.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-111">Assigning technical resources to perform remediation, configuration, and enablement tasks as outlined by the FastTrack team.</span></span> 
-    
-- <span data-ttu-id="1d6f4-112">Назначение сотрудников, отвечающих за освоение службы пользователями.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-112">Provide resources accountable for driving end user adoption of the service.</span></span>
-    
-- <span data-ttu-id="1d6f4-113">Обеспечение связи с конечными пользователями, документации, обучения и управления изменениями.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-113">Provide end-user communications, documentation, training, and change management.</span></span>
-    
-- <span data-ttu-id="1d6f4-114">Поиск и привлечение инвесторов.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-114">Identify and engage appropriate business sponsors.</span></span> 
-    
-- <span data-ttu-id="1d6f4-115">Предоставление документации и организация обучения персонала службы поддержки.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-115">Provide helpdesk documentation and training.</span></span> 
-    
-- <span data-ttu-id="1d6f4-116">Создание отчетов, презентаций и протоколов переговоров, относящихся к вашей организации.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-116">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span> 
-    
-- <span data-ttu-id="1d6f4-117">Создание архитектуры и технической документации, относящихся к вашей организации.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-117">Create architectural and technical documentation specific to your organization.</span></span> 
-    
-- <span data-ttu-id="1d6f4-118">Разработка, приобретение, установка и настройка оборудования и сетей.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-118">Design, procure, install, and configure hardware and networking.</span></span> 
-    
-- <span data-ttu-id="1d6f4-119">Приобретение, установка и настройка программного обеспечения.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-119">Procure, install, and configure software.</span></span> 
-    
-- <span data-ttu-id="1d6f4-120">Настройка, упаковка и распространение клиентского программного обеспечения для Office 365:.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-120">Configure, package, and distribute client software required for Office 365.</span></span>
-    
-- <span data-ttu-id="1d6f4-121">Настройка и применение политик безопасности, а также управление ими.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-121">Manage, configure, and apply security policies.</span></span>
-    
-- <span data-ttu-id="1d6f4-122">Активация мобильных устройств.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-122">Activate mobile devices.</span></span>
-    
-- <span data-ttu-id="1d6f4-123">Обеспечение настройки сети, анализа, проверки пропускной способности, тестирования и наблюдения.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-123">Provide network configuration, analysis, bandwidth validation, testing, and monitoring.</span></span> 
-    
-- <span data-ttu-id="1d6f4-124">Изменение сети для обеспечения пропускной способности, необходимой для работы служб Skype для бизнеса Online.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-124">Alter the network to provide necessary bandwidth for Skype for Business Online services.</span></span>
-    
-- <span data-ttu-id="1d6f4-125">Управление процессом утверждения управления техническими изменениями и создание вспомогательной документации.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-125">Manage a technical change management approval process and create supporting documentation.</span></span>
-    
-- <span data-ttu-id="1d6f4-126">Указание и определение групповых политик для управления пользователями, рабочими станциями и серверами.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-126">Specify and define group policies for user, workstation, and server management.</span></span>
-    
-- <span data-ttu-id="1d6f4-127">Изменение рабочей модели и руководств.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-127">Modify your operational model and operation guides.</span></span>
-    
-- <span data-ttu-id="1d6f4-128">Настройка многофакторной проверки подлинности.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-128">Set up multi-factor authentication.</span></span>
-    
-- <span data-ttu-id="1d6f4-129">Списание и удаление исходных сред (например, сред для обмена сообщениями и совместной работы).</span><span class="sxs-lookup"><span data-stu-id="1d6f4-129">Decommission and remove source environments (like messaging and collaboration).</span></span> 
-    
+- <span data-ttu-id="aed11-106">Разработка и реализация плана успешной миграции.</span><span class="sxs-lookup"><span data-stu-id="aed11-106">Develop and implement your success plan.</span></span>
+- <span data-ttu-id="aed11-107">Обеспечение улучшений и интеграции клиента Office 365: помимо настраиваемых параметров, перечисленных в этой статье.</span><span class="sxs-lookup"><span data-stu-id="aed11-107">Provide any enhancements and integrations to your Office 365 tenant beyond the configurable options listed here.</span></span>  
+- <span data-ttu-id="aed11-108">Составление общей программы и организация управления проектом, включая следующие аспекты:</span><span class="sxs-lookup"><span data-stu-id="aed11-108">Provide overall program and project management, including:</span></span> 
+  - <span data-ttu-id="aed11-109">Назначение руководителя проекта в качестве основного контактного лица для менеджера FastTrack.</span><span class="sxs-lookup"><span data-stu-id="aed11-109">Assigning a project manager as the primary contact for the FastTrack Manager.</span></span>
+  - <span data-ttu-id="aed11-110">Назначение технического руководителя в качестве основного контактного лица для инженера FastTrack.</span><span class="sxs-lookup"><span data-stu-id="aed11-110">Assigning a technical lead as the primary contact for the FastTrack Engineer.</span></span>
+  - <span data-ttu-id="aed11-111">Назначение технических ресурсов для выполнения исправлений, настройки и задач по внедрению согласно требованиям специалистов FastTrack.</span><span class="sxs-lookup"><span data-stu-id="aed11-111">Assigning technical resources to perform remediation, configuration, and enablement tasks as outlined by the FastTrack team.</span></span> 
+- <span data-ttu-id="aed11-112">Назначение сотрудников, отвечающих за освоение службы пользователями.</span><span class="sxs-lookup"><span data-stu-id="aed11-112">Provide resources accountable for driving end user adoption of the service.</span></span> 
+- <span data-ttu-id="aed11-113">Обеспечение связи с конечными пользователями, документации, обучения и управления изменениями.</span><span class="sxs-lookup"><span data-stu-id="aed11-113">Provide end-user communications, documentation, training, and change management.</span></span>
+- <span data-ttu-id="aed11-114">Поиск и привлечение инвесторов.</span><span class="sxs-lookup"><span data-stu-id="aed11-114">Identify and engage appropriate business sponsors.</span></span>  
+- <span data-ttu-id="aed11-115">Предоставление документации и организация обучения персонала службы поддержки.</span><span class="sxs-lookup"><span data-stu-id="aed11-115">Provide helpdesk documentation and training.</span></span>  
+- <span data-ttu-id="aed11-116">Создание отчетов, презентаций и протоколов переговоров, относящихся к вашей организации.</span><span class="sxs-lookup"><span data-stu-id="aed11-116">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span> 
+- <span data-ttu-id="aed11-117">Создание архитектуры и технической документации, относящихся к вашей организации.</span><span class="sxs-lookup"><span data-stu-id="aed11-117">Create architectural and technical documentation specific to your organization.</span></span>   
+- <span data-ttu-id="aed11-118">Разработка, приобретение, установка и настройка оборудования и сетей.</span><span class="sxs-lookup"><span data-stu-id="aed11-118">Design, procure, install, and configure hardware and networking.</span></span>   
+- <span data-ttu-id="aed11-119">Приобретение, установка и настройка программного обеспечения.</span><span class="sxs-lookup"><span data-stu-id="aed11-119">Procure, install, and configure software.</span></span>  
+- <span data-ttu-id="aed11-120">Настройка, упаковка и распространение клиентского программного обеспечения для Office 365:.</span><span class="sxs-lookup"><span data-stu-id="aed11-120">Configure, package, and distribute client software required for Office 365.</span></span>  
+- <span data-ttu-id="aed11-121">Настройка и применение политик безопасности, а также управление ими.</span><span class="sxs-lookup"><span data-stu-id="aed11-121">Manage, configure, and apply security policies.</span></span>
+- <span data-ttu-id="aed11-122">Активация мобильных устройств.</span><span class="sxs-lookup"><span data-stu-id="aed11-122">Activate mobile devices.</span></span>
+- <span data-ttu-id="aed11-123">Обеспечение настройки сети, анализа, проверки пропускной способности, тестирования и наблюдения.</span><span class="sxs-lookup"><span data-stu-id="aed11-123">Provide network configuration, analysis, bandwidth validation, testing, and monitoring.</span></span> 
+- <span data-ttu-id="aed11-124">Изменение сети для обеспечения пропускной способности, необходимой для работы служб Skype для бизнеса Online.</span><span class="sxs-lookup"><span data-stu-id="aed11-124">Alter the network to provide necessary bandwidth for Skype for Business Online services.</span></span> 
+- <span data-ttu-id="aed11-125">Управление процессом утверждения управления техническими изменениями и создание вспомогательной документации.</span><span class="sxs-lookup"><span data-stu-id="aed11-125">Manage a technical change management approval process and create supporting documentation.</span></span>  
+- <span data-ttu-id="aed11-126">Указание и определение групповых политик для управления пользователями, рабочими станциями и серверами.</span><span class="sxs-lookup"><span data-stu-id="aed11-126">Specify and define group policies for user, workstation, and server management.</span></span> 
+- <span data-ttu-id="aed11-127">Изменение рабочей модели и руководств.</span><span class="sxs-lookup"><span data-stu-id="aed11-127">Modify your operational model and operation guides.</span></span> 
+- <span data-ttu-id="aed11-128">Настройка многофакторной проверки подлинности.</span><span class="sxs-lookup"><span data-stu-id="aed11-128">Set up multi-factor authentication.</span></span>  
+- <span data-ttu-id="aed11-129">Списание и удаление исходных сред (например, сред для обмена сообщениями и совместной работы).</span><span class="sxs-lookup"><span data-stu-id="aed11-129">Decommission and remove source environments (like messaging and collaboration).</span></span> 
     > [!NOTE]
-    > <span data-ttu-id="1d6f4-130">Обеспечение перенесения всех нужных данных до удаления и прекращения использования исходной среды.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-130">Ensure that all wanted data is migrated prior to decommission and the removal of your source environment.</span></span> 
-  
-- <span data-ttu-id="1d6f4-131">Создание и поддержка тестовой среды.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-131">Construct and maintain your test environment.</span></span>
+    > <span data-ttu-id="aed11-130">Обеспечение перенесения всех нужных данных до удаления и прекращения использования исходной среды.</span><span class="sxs-lookup"><span data-stu-id="aed11-130">Ensure that all wanted data is migrated prior to decommission and the removal of your source environment.</span></span> 
+- <span data-ttu-id="aed11-131">Создание и поддержка тестовой среды.</span><span class="sxs-lookup"><span data-stu-id="aed11-131">Construct and maintain your test environment.</span></span>  
+- <span data-ttu-id="aed11-132">Установка средств администрирования Lync 2013 или Skype для бизнеса Online 2015 и пакетов обновления для поддержки конфигурации с разделенным доменом.</span><span class="sxs-lookup"><span data-stu-id="aed11-132">Install Lync 2013 or Skype for Business Online 2015 admin tools and service packs to support split domain configuration.</span></span>
+- <span data-ttu-id="aed11-133">Установка пакетов обновления и других необходимых обновлений на серверах инфраструктуры.</span><span class="sxs-lookup"><span data-stu-id="aed11-133">Install service packs and other required updates on infrastructure servers.</span></span> 
+- <span data-ttu-id="aed11-134">Предоставление и настройка открытых SSL-сертификатов.</span><span class="sxs-lookup"><span data-stu-id="aed11-134">Provide and configure any public Secure Sockets Layer (SSL) certificates.</span></span> 
     
-- <span data-ttu-id="1d6f4-132">Установка средств администрирования Lync 2013 или Skype для бизнеса Online 2015 и пакетов обновления для поддержки конфигурации с разделенным доменом.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-132">Install Lync 2013 or Skype for Business Online 2015 admin tools and service packs to support split domain configuration.</span></span>
-    
-- <span data-ttu-id="1d6f4-133">Установка пакетов обновления и других необходимых обновлений на серверах инфраструктуры.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-133">Install service packs and other required updates on infrastructure servers.</span></span> 
-    
-- <span data-ttu-id="1d6f4-134">Предоставление и настройка открытых SSL-сертификатов.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-134">Provide and configure any public Secure Sockets Layer (SSL) certificates.</span></span> 
-    
-## <a name="initiate-phase"></a><span data-ttu-id="1d6f4-135">Начальная фаза</span><span class="sxs-lookup"><span data-stu-id="1d6f4-135">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="aed11-135">Начальная фаза</span><span class="sxs-lookup"><span data-stu-id="aed11-135">Initiate phase</span></span>
 
-- <span data-ttu-id="1d6f4-136">Настройка пространства Microsoft Teams для совместной работы по подключению и приглашение участников команды FastTrack Center.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-136">Set up collaborative Microsoft Teams space for onboarding partnership and invite FastTrack Center team members.</span></span>
+- <span data-ttu-id="aed11-136">Настройка пространства Microsoft Teams для совместной работы по подключению и приглашение участников команды FastTrack Center.</span><span class="sxs-lookup"><span data-stu-id="aed11-136">Set up collaborative Microsoft Teams space for onboarding partnership and invite FastTrack Center team members.</span></span>   
+- <span data-ttu-id="aed11-137">Подключение служб, соответствующих критериям, совместно со специалистами FastTrack.</span><span class="sxs-lookup"><span data-stu-id="aed11-137">Work with FastTrack Specialists to begin onboarding of eligible services.</span></span>    
+- <span data-ttu-id="aed11-138">Участие в стартовом собрании, управление соответствующими сотрудниками в организации и подтверждение временных шкал устранения проблем.</span><span class="sxs-lookup"><span data-stu-id="aed11-138">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>   
+- <span data-ttu-id="aed11-139">Предоставление описания целей, для достижения которых вы предполагаете использовать службы Office 365 (например, SharePoint Online, Exchange Online, Microsoft Teams и Office 365 профессиональный плюс) и общих целей организации.</span><span class="sxs-lookup"><span data-stu-id="aed11-139">Provide your objectives for Office 365 services (for example, SharePoint Online, Exchange Online, Microsoft Teams, and Office 365 ProPlus) and organizational goals.</span></span>
     
-- <span data-ttu-id="1d6f4-137">Подключение служб, соответствующих критериям, совместно со специалистами FastTrack.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-137">Work with FastTrack Specialists to begin onboarding of eligible services.</span></span> 
-    
-- <span data-ttu-id="1d6f4-138">Участие в стартовом собрании, управление соответствующими сотрудниками в организации и подтверждение временных шкал устранения проблем.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-138">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>
-    
-- <span data-ttu-id="1d6f4-139">Предоставление описания целей, для достижения которых вы предполагаете использовать службы Office 365 (например, SharePoint Online, Exchange Online, Microsoft Teams и Office 365 профессиональный плюс) и общих целей организации.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-139">Provide your objectives for Office 365 services (for example, SharePoint Online, Exchange Online, Microsoft Teams, and Office 365 ProPlus) and organizational goals.</span></span>
-    
-## <a name="assess-phase"></a><span data-ttu-id="1d6f4-140">Фаза оценки</span><span class="sxs-lookup"><span data-stu-id="1d6f4-140">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="aed11-140">Фаза оценки</span><span class="sxs-lookup"><span data-stu-id="aed11-140">Assess phase</span></span>
 
-- <span data-ttu-id="1d6f4-141">Определение соответствующих заинтересованных лиц (в том числе руководителя проекта и владельцев предприятия) для выполнения необходимых действий по оценке.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-141">Identify appropriate stakeholders (including a project manager and business owners) to complete the necessary assessment activities.</span></span> 
+- <span data-ttu-id="aed11-141">Определение соответствующих заинтересованных лиц (в том числе руководителя проекта и владельцев предприятия) для выполнения необходимых действий по оценке.</span><span class="sxs-lookup"><span data-stu-id="aed11-141">Identify appropriate stakeholders (including a project manager and business owners) to complete the necessary assessment activities.</span></span>    
+- <span data-ttu-id="aed11-142">Участие в собраниях для создания контрольного списка устранения проблем и общего плана, включая инфраструктуру, сеть, администрирование, подготовку синхронизации каталогов, сетевую безопасность и федеративные удостоверения.</span><span class="sxs-lookup"><span data-stu-id="aed11-142">Participate in the meetings to create the remediation checklist, and contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>   
+- <span data-ttu-id="aed11-143">Участие в собраниях по определению подхода к подготовке пользователей.</span><span class="sxs-lookup"><span data-stu-id="aed11-143">Participate in the meetings to outline the user-provisioning approach.</span></span>  
+- <span data-ttu-id="aed11-144">Участие в собраниях по планированию настройки веб-служб.</span><span class="sxs-lookup"><span data-stu-id="aed11-144">Participate in the meetings to plan online service configuration.</span></span>    
+- <span data-ttu-id="aed11-145">Создание плана поддержки для процесса миграции.</span><span class="sxs-lookup"><span data-stu-id="aed11-145">Create support plan for migration readiness.</span></span> 
+- <span data-ttu-id="aed11-146">Участие в телефонных беседах, посвященных планированию успешной миграции, для определения:</span><span class="sxs-lookup"><span data-stu-id="aed11-146">Participate in the success planning call to outline:</span></span>   
+  - <span data-ttu-id="aed11-147">нужных заинтересованных лиц, которых необходимо привлечь;</span><span class="sxs-lookup"><span data-stu-id="aed11-147">The right stakeholders for the engagement.</span></span>  
+  - <span data-ttu-id="aed11-148">сценариев для удовлетворения потребностей и достижения целей в организации;</span><span class="sxs-lookup"><span data-stu-id="aed11-148">Scenarios to fit the needs and goals across your organization.</span></span>
+  - <span data-ttu-id="aed11-149">плана по информированию и обучению сотрудников организации.</span><span class="sxs-lookup"><span data-stu-id="aed11-149">An organizational awareness and training plan.</span></span>
     
-- <span data-ttu-id="1d6f4-142">Участие в собраниях для создания контрольного списка устранения проблем и общего плана, включая инфраструктуру, сеть, администрирование, подготовку синхронизации каталогов, сетевую безопасность и федеративные удостоверения.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-142">Participate in the meetings to create the remediation checklist, and contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span> 
-    
-- <span data-ttu-id="1d6f4-143">Участие в собраниях по определению подхода к подготовке пользователей.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-143">Participate in the meetings to outline the user-provisioning approach.</span></span> 
-    
-- <span data-ttu-id="1d6f4-144">Участие в собраниях по планированию настройки веб-служб.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-144">Participate in the meetings to plan online service configuration.</span></span> 
-    
-- <span data-ttu-id="1d6f4-145">Создание плана поддержки для процесса миграции.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-145">Create support plan for migration readiness.</span></span> 
-    
-- <span data-ttu-id="1d6f4-146">Участие в телефонных беседах, посвященных планированию успешной миграции, для определения:</span><span class="sxs-lookup"><span data-stu-id="1d6f4-146">Participate in the success planning call to outline:</span></span>
-    
-  - <span data-ttu-id="1d6f4-147">нужных заинтересованных лиц, которых необходимо привлечь;</span><span class="sxs-lookup"><span data-stu-id="1d6f4-147">The right stakeholders for the engagement.</span></span>
-    
-  - <span data-ttu-id="1d6f4-148">сценариев для удовлетворения потребностей и достижения целей в организации;</span><span class="sxs-lookup"><span data-stu-id="1d6f4-148">Scenarios to fit the needs and goals across your organization.</span></span>
-    
-  - <span data-ttu-id="1d6f4-149">плана по информированию и обучению сотрудников организации.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-149">An organizational awareness and training plan.</span></span>
-    
-## <a name="remediate-phase"></a><span data-ttu-id="1d6f4-150">Фаза устранения ошибок</span><span class="sxs-lookup"><span data-stu-id="1d6f4-150">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="aed11-150">Фаза устранения ошибок</span><span class="sxs-lookup"><span data-stu-id="aed11-150">Remediate phase</span></span>
 
-- <span data-ttu-id="1d6f4-151">Выполнение действий, необходимых для устранения проблем, определенных на этапе оценки.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-151">Perform required steps to complete remediation activities identified in the Assess phase.</span></span> 
+- <span data-ttu-id="aed11-151">Выполнение действий, необходимых для устранения проблем, определенных на этапе оценки.</span><span class="sxs-lookup"><span data-stu-id="aed11-151">Perform required steps to complete remediation activities identified in the Assess phase.</span></span> 
+- <span data-ttu-id="aed11-152">Участие в собраниях, посвященных контрольным точкам, а также:</span><span class="sxs-lookup"><span data-stu-id="aed11-152">Participate in checkpoint meetings and:</span></span> 
+  - <span data-ttu-id="aed11-153">определению бизнес-сценариев;</span><span class="sxs-lookup"><span data-stu-id="aed11-153">Define business scenarios.</span></span>   
+  - <span data-ttu-id="aed11-154">определению и привлечению заинтересованных лиц;</span><span class="sxs-lookup"><span data-stu-id="aed11-154">Define and engage stakeholders.</span></span>
+  - <span data-ttu-id="aed11-155">созданию плана информирования сотрудников;</span><span class="sxs-lookup"><span data-stu-id="aed11-155">Build an awareness plan.</span></span> 
+  - <span data-ttu-id="aed11-156">созданию плана обучения.</span><span class="sxs-lookup"><span data-stu-id="aed11-156">Build a training plan.</span></span>
     
-- <span data-ttu-id="1d6f4-152">Участие в собраниях, посвященных контрольным точкам, а также:</span><span class="sxs-lookup"><span data-stu-id="1d6f4-152">Participate in checkpoint meetings and:</span></span> 
-    
-  - <span data-ttu-id="1d6f4-153">определению бизнес-сценариев;</span><span class="sxs-lookup"><span data-stu-id="1d6f4-153">Define business scenarios.</span></span>
-    
-  - <span data-ttu-id="1d6f4-154">определению и привлечению заинтересованных лиц;</span><span class="sxs-lookup"><span data-stu-id="1d6f4-154">Define and engage stakeholders.</span></span>
-    
-  - <span data-ttu-id="1d6f4-155">созданию плана информирования сотрудников;</span><span class="sxs-lookup"><span data-stu-id="1d6f4-155">Build an awareness plan.</span></span>
-    
-  - <span data-ttu-id="1d6f4-156">созданию плана обучения.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-156">Build a training plan.</span></span>
-    
-## <a name="enable-phase"></a><span data-ttu-id="1d6f4-157">Фаза включения</span><span class="sxs-lookup"><span data-stu-id="1d6f4-157">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="aed11-157">Фаза включения</span><span class="sxs-lookup"><span data-stu-id="aed11-157">Enable phase</span></span>
 
-- <span data-ttu-id="1d6f4-158">Совместное со специалистами FastTrack подключение всех служб, соответствующих критериям, а также:</span><span class="sxs-lookup"><span data-stu-id="1d6f4-158">Work with FastTrack Specialists to complete onboarding of all eligible services and:</span></span>
+- <span data-ttu-id="aed11-158">Совместное со специалистами FastTrack подключение всех служб, соответствующих критериям, а также:</span><span class="sxs-lookup"><span data-stu-id="aed11-158">Work with FastTrack Specialists to complete onboarding of all eligible services and:</span></span>  
+  - <span data-ttu-id="aed11-159">реализация плана информирования сотрудников;</span><span class="sxs-lookup"><span data-stu-id="aed11-159">Implement an awareness plan.</span></span>  
+  - <span data-ttu-id="aed11-160">реализация плана обучения сотрудников;</span><span class="sxs-lookup"><span data-stu-id="aed11-160">Implement a training plan.</span></span> 
+  - <span data-ttu-id="aed11-161">обеспечение прогресса в планировании успешной миграции и определение областей, в случае которых вам нужно руководство.</span><span class="sxs-lookup"><span data-stu-id="aed11-161">Provide success planning progress and determine areas where you need guidance.</span></span>
+- <span data-ttu-id="aed11-162">Предоставление специалистам FastTrack доступа и разрешений (если вы поручаете миграцию Майкрософт).</span><span class="sxs-lookup"><span data-stu-id="aed11-162">Provide FastTrack Specialists with access and permissions (if you choose to have Microsoft perform migration tasks).</span></span>  
+- <span data-ttu-id="aed11-163">Приобретение и предоставление учетных записей администраторов для целевых сред (если вы решили поручить миграцию сотрудникам Майкрософт).</span><span class="sxs-lookup"><span data-stu-id="aed11-163">Procure and provide administrative accounts to target environments as appropriate (if you choose to have Microsoft perform migration activities).</span></span>   
+- <span data-ttu-id="aed11-164">Управление ресурсами соответствующим образом.</span><span class="sxs-lookup"><span data-stu-id="aed11-164">Manage resources as appropriate.</span></span>   
+- <span data-ttu-id="aed11-165">Настройка сетевых элементов в соответствии с указаниями Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="aed11-165">Configure network-related items per Microsoft guidance.</span></span>  
+- <span data-ttu-id="aed11-166">Настройка записей DNS в соответствии с требованиями к проверке доменов для добавления записей MX.</span><span class="sxs-lookup"><span data-stu-id="aed11-166">Configure DNS records based on domain validation requirements to include your MX records.</span></span>   
+- <span data-ttu-id="aed11-167">Обеспечение готовности каталогов и настройка их синхронизации согласно указаниям Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="aed11-167">Perform directory readiness and configure directory synchronization per Microsoft guidance.</span></span>
+- <span data-ttu-id="aed11-168">Заполнение локальных объектов Active Directory значениями атрибутов почты из сторонних каталогов.</span><span class="sxs-lookup"><span data-stu-id="aed11-168">Populate on-premises Active Directory objects with mail-related attribute values from third-party directories.</span></span>   
+- <span data-ttu-id="aed11-169">Настройка инфраструктуры безопасности (например, портов брандмауэра) согласно указаниям Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="aed11-169">Configure security-related infrastructure (like firewall ports) per Microsoft guidance.</span></span>
+- <span data-ttu-id="aed11-170">Реализация клиентской инфраструктуры.</span><span class="sxs-lookup"><span data-stu-id="aed11-170">Implement appropriate client infrastructure.</span></span>  
+- <span data-ttu-id="aed11-171">Реализация подхода к подготовке пользователей согласно указаниям Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="aed11-171">Implement a user-provisioning approach per Microsoft guidance.</span></span>  
+- <span data-ttu-id="aed11-172">Включение различных служб согласно указаниям Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="aed11-172">Enable various services per Microsoft guidance.</span></span>  
+- <span data-ttu-id="aed11-173">Получение идентификатора Apple ID при настройке управления мобильными устройствами (MDM).</span><span class="sxs-lookup"><span data-stu-id="aed11-173">Get an Apple ID if you're configuring Mobile Device Management (MDM).</span></span>   
+- <span data-ttu-id="aed11-174">Обновление сертификата службы push-уведомлений Apple (APNS).</span><span class="sxs-lookup"><span data-stu-id="aed11-174">Update your Apple Push Notification Service (APNS) certificate.</span></span>
     
-  - <span data-ttu-id="1d6f4-159">реализация плана информирования сотрудников;</span><span class="sxs-lookup"><span data-stu-id="1d6f4-159">Implement an awareness plan.</span></span>
-    
-  - <span data-ttu-id="1d6f4-160">реализация плана обучения сотрудников;</span><span class="sxs-lookup"><span data-stu-id="1d6f4-160">Implement a training plan.</span></span>
-    
-  - <span data-ttu-id="1d6f4-161">обеспечение прогресса в планировании успешной миграции и определение областей, в случае которых вам нужно руководство.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-161">Provide success planning progress and determine areas where you need guidance.</span></span>
-    
-- <span data-ttu-id="1d6f4-162">Предоставление специалистам FastTrack доступа и разрешений (если вы поручаете миграцию Майкрософт).</span><span class="sxs-lookup"><span data-stu-id="1d6f4-162">Provide FastTrack Specialists with access and permissions (if you choose to have Microsoft perform migration tasks).</span></span>
-    
-- <span data-ttu-id="1d6f4-163">Приобретение и предоставление учетных записей администраторов для целевых сред (если вы решили поручить миграцию сотрудникам Майкрософт).</span><span class="sxs-lookup"><span data-stu-id="1d6f4-163">Procure and provide administrative accounts to target environments as appropriate (if you choose to have Microsoft perform migration activities).</span></span>
-    
-- <span data-ttu-id="1d6f4-164">Управление ресурсами соответствующим образом.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-164">Manage resources as appropriate.</span></span> 
-    
-- <span data-ttu-id="1d6f4-165">Настройка сетевых элементов в соответствии с указаниями Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-165">Configure network-related items per Microsoft guidance.</span></span>
-    
-- <span data-ttu-id="1d6f4-166">Настройка записей DNS в соответствии с требованиями к проверке доменов для добавления записей MX.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-166">Configure DNS records based on domain validation requirements to include your MX records.</span></span>
-    
-- <span data-ttu-id="1d6f4-167">Обеспечение готовности каталогов и настройка их синхронизации согласно указаниям Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-167">Perform directory readiness and configure directory synchronization per Microsoft guidance.</span></span>
-    
-- <span data-ttu-id="1d6f4-168">Заполнение локальных объектов Active Directory значениями атрибутов почты из сторонних каталогов.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-168">Populate on-premises Active Directory objects with mail-related attribute values from third-party directories.</span></span>
-    
-- <span data-ttu-id="1d6f4-169">Настройка инфраструктуры безопасности (например, портов брандмауэра) согласно указаниям Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-169">Configure security-related infrastructure (like firewall ports) per Microsoft guidance.</span></span>
-    
-- <span data-ttu-id="1d6f4-170">Реализация клиентской инфраструктуры.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-170">Implement appropriate client infrastructure.</span></span>
-    
-- <span data-ttu-id="1d6f4-171">Реализация подхода к подготовке пользователей согласно указаниям Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-171">Implement a user-provisioning approach per Microsoft guidance.</span></span>
-    
-- <span data-ttu-id="1d6f4-172">Включение различных служб согласно указаниям Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="1d6f4-172">Enable various services per Microsoft guidance.</span></span>
-    
-- <span data-ttu-id="1d6f4-173">Получение идентификатора Apple ID при настройке управления мобильными устройствами (MDM).</span><span class="sxs-lookup"><span data-stu-id="1d6f4-173">Get an Apple ID if you're configuring Mobile Device Management (MDM).</span></span>
-    
-- <span data-ttu-id="1d6f4-174">Обновление сертификата службы push-уведомлений Apple (APNS).</span><span class="sxs-lookup"><span data-stu-id="1d6f4-174">Update your Apple Push Notification Service (APNS) certificate.</span></span>
-    
-<span data-ttu-id="1d6f4-175">\*Сведения о ваших обязанностях в отношении Office 365 для государственных организаций США см. в статье [Ваши обязанности применительно к Office 365 для государственных организаций США](US-Gov-appendix-your-responsibilities.md).</span><span class="sxs-lookup"><span data-stu-id="1d6f4-175">\*For information on your responsibilities for Office 365 US Government, see [Your Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).</span></span>
+<span data-ttu-id="aed11-175">\*Сведения о ваших обязанностях в отношении Office 365 для государственных организаций США см. в статье [Ваши обязанности применительно к Office 365 для государственных организаций США](US-Gov-appendix-your-responsibilities.md).</span><span class="sxs-lookup"><span data-stu-id="aed11-175">\*For information on your responsibilities for Office 365 US Government, see [Your Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).</span></span>
   
 
