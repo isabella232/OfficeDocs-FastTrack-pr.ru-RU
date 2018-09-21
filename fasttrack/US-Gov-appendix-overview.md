@@ -1,5 +1,5 @@
 ---
-title: Приложение D. Обзор преимуществ FastTrack Center в Office 365 для государственных организаций США
+title: Приложение D - центр эту Обзор преимуществ для Office 365 государственных организаций США.
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -10,14 +10,14 @@ ms.service: o365-administration
 localization_priority: None
 ms.assetid: 5c619c4e-2ac5-4c2f-8d8c-acccff3b9b20
 description: С помощью эту центр льгот для Office 365 вы удаленной работы с эту специалистам подготовиться к среде Office 365 для использования и план развертывания и использования в организации.
-ms.openlocfilehash: b2776280dab424dec995c63c9673b5fdb32e15bf
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: 8e866c57ebf4b9a8fededad0f307435f2445e3cc
+ms.sourcegitcommit: 04c086418a97082a88b7ab85b284e4741c1c9139
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021521"
+ms.lasthandoff: 09/20/2018
+ms.locfileid: "24057753"
 ---
-# <a name="appendix-d-fasttrack-center-benefit-overview-for-office-365-us-government"></a>Приложение D. Обзор преимуществ FastTrack Center в Office 365 для государственных организаций США
+# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Приложение D - центр эту Обзор преимуществ для Office 365 государственных организаций США.
 
 С помощью эту центр льгот для Office 365 вы удаленной работы с эту специалистам подготовиться к среде Office 365 для использования и план развертывания и использования в организации. 
   
