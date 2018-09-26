@@ -11,26 +11,22 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: 'Когда вы приобретете любую из служб Office 365:, указанных в разделе Службы, для которых предусмотрена поддержка FastTrack , специалисты FastTrack проконсультируют вас по подключению Office 365: и тому, как использовать эти службы.'
-ms.openlocfilehash: 96a5f720fbe20a648df862a364255da2c3b19049
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 54a7f6f7f2e06d28ac1d2d90deaa8e2c6efd4c20
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828117"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021701"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
 Когда вы приобретете любую из служб Office 365, указанных в разделе **Подходящие службы**, специалисты FastTrack проконсультируют вас по подключению Office 365 и тому, как использовать эти службы. 
   
-- Вы можете получить помощь через Центр администрирования Office 365: или [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Чтобы получить помощь через Центр администрирования Office 365:, администратор должен войти в Центр администрирования и клацнуть мини-приложение **Нужна помощь?** Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), выполните вход, нажмите **Службы** и заполните форму **Request Assistance for Office 365**. 
-    
+- Вы можете получить помощь через Центр администрирования Office 365: или [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Чтобы получить помощь через Центр администрирования Office 365:, администратор должен войти в Центр администрирования и клацнуть мини-приложение **Нужна помощь?** Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), выполните вход, нажмите **Службы** и заполните форму **Request Assistance for Office 365**.   
     > [!NOTE]
     >  Если в клиенте Office 365: указан партнер, эта команда не будет отображаться. Для получения помощи обратитесь к партнеру. 
-  
 - Партнеры можно также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого партнер должен войти на сайт, выбрать клиента, нажать **Службы** и заполнить форму **Request Assistance for Office 365**. 
-    
 - Вы также можете обратиться за помощью на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) в списке доступных служб для вашего клиента. 
-    
 > [!NOTE]
 > Чтобы получить какое-либо руководство от специалистов FastTrack, сначала необходимо успешно выполнить проверки FastTrack Center для локальной среды. 
   
@@ -39,23 +35,14 @@ ms.locfileid: "23828117"
 Специалисты FastTrack Center предоставляет помощь для следующих [служб Office 365](https://go.microsoft.com/fwlink/?linkid=2005429):
   
 - Exchange Online
-    
 - SharePoint Online
-    
 - OneDrive для бизнеса
-    
 - Skype для бизнеса Online
-    
 - Microsoft Teams
-    
 - Power BI
-    
 - Project Online
-    
 - Yammer корпоративный 
-    
 - Office 365 профессиональный плюс
-    
 - Microsoft StaffHub
     
 ## <a name="eligible-commercial-plans"></a>Подходящие коммерческие планы
@@ -64,85 +51,58 @@ ms.locfileid: "23828117"
   
  **Office 365**
   
-- Office 365 бизнес
-    
-- Office 365 бизнес базовый;
-    
+- Office 365 бизнес  
+- Office 365 бизнес базовый;  
 - Office 365 бизнес премиум;
-    
 - Office 365 для предприятий E1;
-    
 - Office 365 для предприятий E3
-    
-- Office 365 для предприятий E4
-    
+- Office 365 для предприятий E4  
 - Office 365 корпоративный E5
-    
 - Office 365 корпоративный F1
-    
 - Office 365 для государственных учреждений (США) G1\*
-    
 - Office 365 US Government G3\*
-    
 - Office 365 US Government G4\*
-    
-- Office 365 US Government G5\*
-    
+- Office 365 US Government G5\* 
 - Office 365 US Government F1\*
-    
 - Office 365 профессиональный плюс
     
  **Microsoft 365 корпоративный**
   
 - Microsoft 365 E3\*\*\*
-    
 - Microsoft 365 E5\*\*\*
-    
 - Microsoft 365 бизнес\*\*\*
     
  **Exchange Online**
   
 - Exchange Online (план 1)
-    
-- Exchange Online (план 2);
-    
+- Exchange Online (план 2); 
 - Базовая подписка на Exchange Online;
-    
 - Exchange Online Advanced Threat Protection
     
  **Project Online**
   
-- Project Online базовый
-    
+- Project Online базовый  
 - Project Online профессиональный
-    
 - Project Online расширенный
     
  **SharePoint Online**
   
 - SharePoint Online (план 1)
-    
 - SharePoint Online (план 2)
     
  **OneDrive для бизнеса**
   
-- OneDrive для бизнеса с Office Online
-    
+- OneDrive для бизнеса с Office Online 
 - OneDrive для бизнеса (план 1)
-    
 - OneDrive для бизнеса (план 2)
     
  **Skype для бизнеса Online**
   
 -  Телефонная система 
-    
 -  План звонков 
-    
 -  Аудиоконференции 
-    
--  Skype для бизнеса Online (план 1) 
-    
-- Skype для бизнеса Online (план 2)
+-  Skype для бизнеса Online (план 1)  
+-  Skype для бизнеса Online (план 2)
     
  **Yammer**
   
@@ -155,13 +115,11 @@ ms.locfileid: "23828117"
  **Office 365 для образования**
   
 - Office 365 A3
-    
 - Office 365 A5
     
  **Microsoft 365 для образования**
   
 - Microsoft 365 A3\*\*\*
-    
 - Microsoft 365 A5\*\*\*
     
 > [!NOTE]
@@ -175,11 +133,8 @@ ms.locfileid: "23828117"
 Планы, на которые не распространяются услуги FastTrack (неполный список):
   
 - Архивация на базе Exchange Online\*\*\*\*
-    
 - Exchange Online Protection\*\*\*\*
-    
 - Microsoft Office 365 (выделенный план) и план для федеральных учреждений/ITAR
-    
 - Office 365:, предоставляемый компанией 21Vianet\*\*
     
 \* Подробнее о преимуществах FastTrack для государственных организаций США см. на странице [Office 365 для государственных организаций США](https://aka.ms/aboutgovcloud).
