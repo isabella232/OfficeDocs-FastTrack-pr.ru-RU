@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: 'Когда вы приобретете любую из служб Office 365:, указанных в разделе Службы, для которых предусмотрена поддержка FastTrack , специалисты FastTrack проконсультируют вас по подключению Office 365: и тому, как использовать эти службы.'
-ms.openlocfilehash: fc77165f725ab48dd16237c62f11589792df39cf
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
+ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353646"
+ms.lasthandoff: 10/15/2018
+ms.locfileid: "25565563"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -45,9 +45,9 @@ ms.locfileid: "25353646"
 - Office 365 профессиональный плюс
 - Microsoft StaffHub
     
-## <a name="eligible-commercial-plans"></a>Подходящие коммерческие планы
+## <a name="eligible-plans"></a>Поддерживаемые планы
 
-Необходимо приобрести по крайней мере 50 лицензий, представленных ниже в списке поддерживаемых планов (включая соответствующие планы Office 365: Germany), чтобы получить доступ к службам FastTrack:
+Необходимо приобрести по крайней мере 150 лицензий, представленных ниже в списке поддерживаемых планов, чтобы получить доступ к службам FastTrack:
   
  **Office 365**
   
@@ -64,14 +64,24 @@ ms.locfileid: "25353646"
 - Office 365 US Government G4\*
 - Office 365 US Government G5\* 
 - Office 365 US Government F1\*
-- Office 365 профессиональный плюс
+- Office 365 профессиональный плюс
     
+ **Office 365 для образования**
+  
+- Office 365 A3
+- Office 365 A5
+
  **Microsoft 365 корпоративный**
   
 - Microsoft 365 E3\*\*\*
 - Microsoft 365 E5\*\*\*
 - Microsoft 365 бизнес\*\*\*
     
+ **Microsoft 365 для образования**
+  
+- Microsoft 365 A3\*\*\*
+- Microsoft 365 A5\*\*\*
+
  **Exchange Online**
   
 - Exchange Online (план 1)
@@ -106,29 +116,11 @@ ms.locfileid: "25353646"
     
  **Yammer**
   
-- Yammer корпоративный
-    
-## <a name="eligible-education-plans"></a>Подходящие планы для образования
-
-Службы FastTrack доступны в Office 365 для образования и Microsoft 365 для образования только при условии покупки не менее 1000 лицензий из следующего списка поддерживаемых планов:
-  
- **Office 365 для образования**
-  
-- Office 365 A3
-- Office 365 A5
-    
- **Microsoft 365 для образования**
-  
-- Microsoft 365 A3\*\*\*
-- Microsoft 365 A5\*\*\*
-    
+- Yammer корпоративный 
 > [!NOTE]
-> При покупке или обновлении плана Office 365 A5 до 1 декабря 2017 года минимальное количество рабочих мест для пользования услугами FastTrack составляет 50 (за текущий период). При покупке или обновлении плана Office 365 A5 после 1 декабря 2017 года минимальное количество рабочих мест для пользования услугами FastTrack составляет 1000. 
+> Право на получение преимуществ FastTrack Center зависит от приобретения платных лицензий для ранее упомянутых поддерживаемых планов. На бесплатные планы (например, Office 365 A1, Office 365 бизнес базовый для некоммерческих организаций и план преимуществ для учащихся) не распространяется поддержка FastTrack. 
   
-> [!NOTE]
-> Бесплатные планы, такие как Office 365 A1 и льготный план для учащихся, не поддерживают FastTrack. 
-  
-## <a name="ineligible-plans"></a>Неподходящие планы
+## <a name="ineligible-plans"></a>Неподдерживаемые планы
 
 Планы, на которые не распространяются услуги FastTrack (неполный список):
   
