@@ -3,7 +3,7 @@ title: Процесс FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: 'Процесс FastTrack обеспечивает входящую миграцию и услуги по популяризации продукта среди пользователей. '
-ms.openlocfilehash: 3a41e1a41bae421472af6c5d8645808410a0664f
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: d5f2ec3442dabda1cff09577a65992942e09611e
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353596"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895670"
 ---
 # <a name="the-fasttrack-process"></a>Процесс FastTrack
 
@@ -38,18 +38,31 @@ ms.locfileid: "25353596"
   
 ![График использования преимущества подключения](media/O365-Onboarding-Timeline.png)
   
-Вы можете получить помощь через Центр администрирования Office 365: или [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Чтобы получить помощь через Центр администрирования Office 365:, администратор должен войти в Центр администрирования и клацнуть мини-приложение **Нужна помощь?** Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), выполните вход, нажмите **Службы** и заполните форму **Request Assistance for Office 365**. 
-    
+Вы можете получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) или [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+
+Чтобы получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), администратор должен щелкнуть мини-приложение **Нужна помощь?**, войдя в этот центр. 
+
+Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Выберите **FastTrack**.
+3.  Выберите **Услуги**.
+4.  Заполните форму **Запрос помощи с Microsoft 365**. 
 > [!NOTE]
->  Если в клиенте Office 365 указан партнер, эта команда не будет отображаться. Для получения помощи обратитесь к партнеру. 
+>  Если в клиенте Office 365 указан партнер, этот параметр не будет отображаться. Для получения помощи обратитесь к партнеру. 
   
  Вы также можете запросить помощь на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) в списке доступных для вашего клиента услуг. 
     
- Когда начнется поддержка входящей миграции, мы составим расписание собраний по сети.
+ Когда начнется поддержка подключения, мы составим расписание собраний по сети.
     
-Партнеры можно также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого партнер должен войти на сайт, выбрать клиента, нажать **Службы** и заполнить форму **Request Assistance for Office 365**. 
+Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
+1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Выберите **FastTrack**.
+3.  Выберите **Мои пользователи**.
+4.  Найдите своего пользователя или выберите его в списке пользователей.
+5.  Выберите **Услуги**.
+6.  Заполните форму **Запрос помощи с Microsoft 365**. 
 
-В таблице ниже перечислены роли и обязанности, связанные с процессом FastTrack.
+В приведенной ниже таблице перечислены роли и обязанности, связанные с процессом FastTrack.
     
 |||
 |:-----|:-----|
