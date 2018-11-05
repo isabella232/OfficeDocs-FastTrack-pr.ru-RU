@@ -3,7 +3,7 @@ title: Обзор Преимущества FastTrack Center
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: При приобретении любых служб Windows 10 или Microsoft 365 специалисты FastTrack предоставляют советы и рекомендации по устранению проблем при развертывании Windows 10 и Office 365 профессиональный плюс и по своевременному обновлению без дополнительной платы (при наличии соответствующей подписки).
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353676"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895622"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>Предлагаемая помощь и поддерживаемые планы   
 
-При приобретении любых служб Windows 10 или Microsoft 365 (как описано в следующем разделе **Поддерживаемые планы**) специалисты FastTrack предоставляют советы и рекомендации по устранению проблем при развертывании Windows 10 и Office 365 профессиональный плюс и по своевременному обновлению без дополнительной платы (при наличии соответствующей подписки).
+Когда вы приобретаете какие-либо услуги касательно Windows 10 или Microsoft 365 (как описано в следующем разделе **Поддерживаемые планы**), специалисты FastTrack предоставляют советы и рекомендации по устранению проблем, если они возникнут с совместимостью приложений при развертывании в Windows 10 и Office 365 профессиональный плюс и выполнении обновления без дополнительной платы (при наличии соответствующей подписки).
 
 Для получения помощи выполните [запрос на обслуживание Desktop App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 

@@ -3,22 +3,22 @@ title: Миграция данных
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
-description: Специалисты FastTrack помогают перенести данные в Office 365:, предоставляя соответствующие инструменты и документацию, а также выполняя настройку (при необходимости и возможности). Такая поддержка доступна всем пользователям Office 365:, соответствующим установленным критериям, в случае Exchange Online, OneDrive для бизнеса и SharePoint Online.
-ms.openlocfilehash: d7ed685c5b8affeda242d3e0715095332f12d025
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+description: Специалисты FastTrack предоставляют рекомендации по этапам переноса данных в Office 365. Такие услуги доступны соответствующим требованиям пользователям служб Office 365 для Exchange Online, OneDrive для бизнеса и SharePoint Online.
+ms.openlocfilehash: cf4093bbaa775c0d4be1bac2fa895aa6b48f83fc
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565611"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895778"
 ---
-# <a name="data-migration"></a>Миграция данных
+# <a name="data-migration"></a>Перенос данных
 
 Специалисты FastTrack помогают перенести данные в Office 365:, предоставляя соответствующие инструменты и документацию, а также выполняя настройку (при необходимости и возможности). Такая поддержка доступна всем пользователям Office 365:, соответствующим установленным критериям, в случае Exchange Online, OneDrive для бизнеса и SharePoint Online.
   

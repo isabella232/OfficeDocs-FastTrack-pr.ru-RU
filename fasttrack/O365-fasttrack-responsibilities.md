@@ -3,7 +3,7 @@ title: Обязанности специалистов FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: 813fc4c1f4fdb48bdae8184b9afc0528dcb4feb7
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2c02450376b3a64e1e7e63b966d284f3223567f9
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353736"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895646"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
@@ -103,6 +103,7 @@ ms.locfileid: "25353736"
 - Включение маршрутизации электронной почты между исходной системой обмена сообщениями и средой Office 365:. 
 - Настройка функций Exchange Online Protection (в том числе функций Exchange Online Advanced Threat Protection, если они доступны в вашей подписке) и проверка записей MX (они должны указывать на Office 365: для всех проверенных доменов, поддерживающих почту.
 - Настройка гибридных функций либо для одной локальной организации Exchange и Office 365 *, либо* для нескольких локальных организаций Exchange и Office 365. 
+- Настройка почтовых клиентов (Outlook для Windows, Outlook в Интернете, Outlook для iOS и Android).
     
 Дополнительные сведения об обязанностях при переносе данных см. в статье [Перенос данных](O365-data-migration.md).
   
@@ -191,8 +192,8 @@ ms.locfileid: "25353736"
 
 Вы можете получить помощь по указанным ниже вопросам.
 - Решение проблем, связанных с развертыванием.
-- Назначение пользователям лицензий с помощью Центра администрирования Office 365 и Windows PowerShell.
-- Скачивание и установка Клиент Project Online для настольных ПК с портала.   
+- Назначение пользователям лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell.
+- Скачивание клиента Project Online для настольных ПК на портале и установка.   
 - Настройка параметров обновления с помощью средства развертывания Office или шаблонов групповых политик.
 - Настройка единого локального сервера распространения для Клиент Project Online для настольных ПК, в том числе рекомендации по созданию файла configuration.xml для средства развертывания Office 2016. 
 - Подключение Клиент Project Online для настольных ПК к Project Online.
@@ -205,9 +206,9 @@ ms.locfileid: "25353736"
 
 Вы можете получить помощь по указанным ниже вопросам.
 - Решение проблем, связанных с развертыванием.
-- Назначение пользователям лицензий с помощью Центра администрирования Office 365 и Windows PowerShell.
-- Установка Office 365 профессиональный плюс с портала Office 365: с помощью технологии "нажми и работай".
-- Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile, русская версия и PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile. 
+- Назначение пользователям лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell.
+- Установка Office 365 профессиональный плюс с использованием портала Office 365 и технологии "нажми и работай".
+- Установка приложений Office Mobile (например, Outlook для iOS и Android, Word Mobile, Excel Mobile, PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile. 
 - Настройка параметров обновления с помощью средства развертывания Office 2016 или шаблонов групповых политик.
 - Настройка одного внутреннего сервера распространения для Office 365 профессиональный плюс, в том числе помощь по созданию файла configuration.xml для его последующего использования в средстве развертывания Office.
 - Развертывание с помощью System Center Configuration Manager, а также создание упаковки System Center Configuration Manager.
@@ -220,5 +221,11 @@ ms.locfileid: "25353736"
 - Основные функции продукта.
 - Места для скачивания Microsoft StaffHub.
     
-\*Сведения об обязанностях специалистов FastTrack в отношении Office 365 для государственных организаций США см. в статье [Обязанности специалистов FastTrack применительно к Office 365 для государственных организаций США](US-Gov-appendix-fasttrack-responsibilities.md).
+## <a name="outlook-for-ios-and-android"></a>Outlook для iOS и Android
+
+Вы можете получить помощь по указанным ниже вопросам.
+- Скачивание Outlook на устройства с iOS и Android.
+- Настройка учетных записей в Outlook.
+
+\*Сведения об обязанностях специалистов FastTrack в отношении Office 365 US Government см. в статье [Обязанности специалистов FastTrack применительно к Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
 

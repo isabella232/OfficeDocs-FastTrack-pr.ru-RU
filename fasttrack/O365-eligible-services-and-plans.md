@@ -3,30 +3,46 @@ title: Поддерживаемые службы и тарифные планы
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
-description: 'Когда вы приобретете любую из служб Office 365:, указанных в разделе Службы, для которых предусмотрена поддержка FastTrack , специалисты FastTrack проконсультируют вас по подключению Office 365: и тому, как использовать эти службы.'
-ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+description: Когда вы приобретете любую из служб Office 365, специалисты FastTrack проконсультируют вас по подключению Office 365 и тому, как использовать эти службы.
+ms.openlocfilehash: b363cd679a86896f24597ad713749bf762877691
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565563"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895586"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
 Когда вы приобретете любую из служб Office 365, указанных в разделе **Подходящие службы**, специалисты FastTrack проконсультируют вас по подключению Office 365 и тому, как использовать эти службы. 
   
-- Вы можете получить помощь через Центр администрирования Office 365: или [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Чтобы получить помощь через Центр администрирования Office 365:, администратор должен войти в Центр администрирования и клацнуть мини-приложение **Нужна помощь?** Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), выполните вход, нажмите **Службы** и заполните форму **Request Assistance for Office 365**.   
+Вы можете получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) или [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+
+Чтобы получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), администратор должен щелкнуть мини-приложение **Нужна помощь?**, войдя в этот центр. 
+
+Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Выберите **FastTrack**.
+3.  Выберите **Услуги**.
+4.  Заполните форму **Запрос помощи с Microsoft 365**.
     > [!NOTE]
-    >  Если в клиенте Office 365: указан партнер, эта команда не будет отображаться. Для получения помощи обратитесь к партнеру. 
-- Партнеры можно также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого партнер должен войти на сайт, выбрать клиента, нажать **Службы** и заполнить форму **Request Assistance for Office 365**. 
-- Вы также можете обратиться за помощью на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) в списке доступных служб для вашего клиента. 
+    >  Если в клиенте Office 365 указан партнер, этот параметр не будет отображаться. Для получения помощи обратитесь к партнеру. 
+
+Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
+1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Выберите **FastTrack**.
+3.  Выберите **Мои пользователи**.
+4.  Найдите своего пользователя или выберите его в списке пользователей.
+5.  Выберите **Услуги**.
+6.  Заполните форму **Запрос помощи с Microsoft 365**.
+
+Вы также можете запросить помощь FastTrack Center на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), открыв список доступных услуг для своего клиента. 
 > [!NOTE]
 > Чтобы получить какое-либо руководство от специалистов FastTrack, сначала необходимо успешно выполнить проверки FastTrack Center для локальной среды. 
   
@@ -47,7 +63,7 @@ ms.locfileid: "25565563"
     
 ## <a name="eligible-plans"></a>Поддерживаемые планы
 
-Необходимо приобрести по крайней мере 150 лицензий, представленных ниже в списке поддерживаемых планов, чтобы получить доступ к службам FastTrack:
+Чтобы получить доступ к услугам FastTrack, необходимо приобрести *по крайней мере* 150 лицензий в рамках поддерживаемых планов из указанного ниже списка.
   
  **Office 365**
   
