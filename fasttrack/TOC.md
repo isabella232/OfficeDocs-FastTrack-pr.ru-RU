@@ -11,22 +11,14 @@
 ### [Приложение B. Дополнительное преимущество FastTrack Center](O365-fasttrack-additional-benefits.md)
 ### [Приложение C. Соглашение HIPAA-BAA для FastTrack Center](O365-hipaa-business-associate-agreement.md)
 ### [Приложение D. Обзор преимущества FastTrack Center для Office 365 US Government](US-Gov-appendix-overview.md)
-# 
-  [Преимущество FastTrack Center для Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
-## 
-  [Службы и планы, для которых предусмотрено преимущество FastTrack Center](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-## 
-  [Процесс реализации преимущества FastTrack Center для Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [Обзор преимущества FastTrack Center](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [Требования к исходной среде](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [Этапы подключения](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [Обязанности специалистов FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
-### 
-  [Ваши обязанности](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+# [Преимущество FastTrack Center для Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
+## [Службы и планы, для которых предусмотрено преимущество FastTrack Center](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
+## [Процесс реализации преимущества FastTrack Center для Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
+### [Обзор преимущества FastTrack Center](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
+### [Требования к исходной среде](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
+### [Этапы подключения](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
+### [Обязанности специалистов FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+### [Ваши обязанности](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
 # [Преимущество FastTrack Center для Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
 ## [Desktop App Assure](Win-10-desktop-app-assure.md)
 ### [Предлагаемая помощь и поддерживаемые планы](Win-10-daa-assistance-offered-and-plans.md)
