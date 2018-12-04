@@ -3,7 +3,7 @@ title: Поддерживаемые службы и тарифные планы
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: Когда вы приобретете любую из служб Office 365, специалисты FastTrack проконсультируют вас по подключению Office 365 и тому, как использовать эти службы.
-ms.openlocfilehash: b363cd679a86896f24597ad713749bf762877691
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 1fbdd21a53abbb6b3bcef22081b2abb321d8fa4c
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895586"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133005"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
