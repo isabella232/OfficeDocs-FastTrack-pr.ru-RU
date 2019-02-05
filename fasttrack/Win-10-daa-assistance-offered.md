@@ -3,7 +3,7 @@ title: Предлагаемая помощь
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При приобретении любых служб Windows 10 или Microsoft 365 специалисты FastTrack предоставляют советы и рекомендации по устранению проблем при развертывании Windows 10 и Office 365 профессиональный плюс и по своевременному обновлению без дополнительной платы (при наличии соответствующей подписки).
-ms.openlocfilehash: 895807ab93688552e200eb6aba6d1c77b982db87
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: d7d79c78102d229d15e0b55dfc18d1063371ef17
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472795"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696630"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
@@ -39,6 +39,12 @@ ms.locfileid: "27472795"
     - Классические и веб-приложения Windows 10.
 > [!NOTE]
 > Специалисты FastTrack прилагают все разумные усилия, чтобы устранить проблемы совместимости. 
+
+> [!NOTE]
+> Специалисты FastTrack не могут исправлять старые версии приложений независимых поставщиков программного обеспечения (ISV) при наличии более новой версии, поддерживаемой в Windows 10.
+
+> [!NOTE]
+> Специалисты FastTrack не могут исправлять старые версии стороннего программного обеспечения надстроек, если у поставщика программного обеспечения есть более новая версия, поддерживаемая в Office 365 профессиональный плюс.
 
 ## <a name="out-of-scope"></a>Вне области поддержки
 

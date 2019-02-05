@@ -3,20 +3,19 @@ title: Процесс FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: 'Процесс FastTrack обеспечивает входящую миграцию и услуги по популяризации продукта среди пользователей. '
-ms.openlocfilehash: d4e090f6a9e692ae3de2238b9626a78bc806ccfe
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 401faec69b6d33cd4f07814c6e598cc5e5ccf359
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133017"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696738"
 ---
 # <a name="the-fasttrack-process"></a>Процесс FastTrack
 
@@ -44,9 +43,8 @@ ms.locfileid: "27133017"
 
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Выберите **FastTrack**.
-3.  Выберите **Услуги**.
-4.  Заполните форму **Запрос помощи с Microsoft 365**. 
+2.  Выберите **Услуги**.
+3.  Заполните форму **Запрос помощи с Microsoft 365**. 
 > [!NOTE]
 >  Если в клиенте Office 365 указан партнер, этот параметр не будет отображаться. Для получения помощи обратитесь к партнеру. 
   
@@ -56,11 +54,10 @@ ms.locfileid: "27133017"
     
 Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Выберите **FastTrack**.
-3.  Выберите **Мои пользователи**.
-4.  Найдите своего пользователя или выберите его в списке пользователей.
-5.  Выберите **Услуги**.
-6.  Заполните форму **Запрос помощи с Microsoft 365**. 
+2.  Выберите **Мои пользователи**.
+3.  Найдите своего пользователя или выберите его в списке пользователей.
+4.  Выберите **Услуги**.
+5.  Заполните форму **Запрос помощи с Microsoft 365**. 
 
 В приведенной ниже таблице перечислены роли и обязанности, связанные с процессом FastTrack.
     

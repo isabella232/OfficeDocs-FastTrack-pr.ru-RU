@@ -3,19 +3,19 @@ title: Поддерживаемые службы и тарифные планы
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: 167568338d4d4a9e1132761c821fcaa63868bc0a
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472807"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696810"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -30,19 +30,17 @@ ms.locfileid: "27472807"
 
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Выберите **FastTrack**.
-3.  Выберите **Услуги**.
-4.  Заполните форму **Запрос помощи с Microsoft 365**.
+2.  Выберите **Услуги**.
+3.  Заполните форму **Запрос помощи с Microsoft 365**.
     > [!NOTE]
     >  Если в клиенте Office 365 указан партнер, этот параметр не будет отображаться. Для получения помощи обратитесь к партнеру. 
 
 Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Выберите **FastTrack**.
-3.  Выберите **Мои пользователи**.
-4.  Найдите своего пользователя или выберите его в списке пользователей.
-5.  Выберите **Услуги**.
-6.  Заполните форму **Запрос помощи с Microsoft 365**.
+2.  Выберите **Мои пользователи**.
+3.  Найдите своего пользователя или выберите его в списке пользователей.
+4.  Выберите **Услуги**.
+5.  Заполните форму **Запрос помощи с Microsoft 365**.
 
 Вы также можете запросить помощь FastTrack Center на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), открыв список доступных услуг для своего клиента. 
 
@@ -56,8 +54,8 @@ ms.locfileid: "27472807"
 - Exchange Online
 - SharePoint Online
 - OneDrive для бизнеса
-- Skype для бизнеса Online
 - Microsoft Teams
+- Skype для бизнеса Online
 - Power BI
 - Project Online
 - Yammer корпоративный 
@@ -71,9 +69,9 @@ ms.locfileid: "27472807"
   
  **Microsoft 365 корпоративный**
 
-- Microsoft 365 E3
-- Microsoft 365 E5
-- Microsoft 365 бизнес
+- Microsoft 365 E3\*
+- Microsoft 365 E5\*
+- Microsoft 365 бизнес\*
     
  **Microsoft 365 для образования**
 
@@ -134,9 +132,9 @@ ms.locfileid: "27472807"
     
  **Skype для бизнеса Online**
   
--  Телефонная система 
--  План звонков 
--  Аудиоконференции 
+-  Телефонная система\*\*\* 
+-  План звонков\*\*\* 
+-  Аудиоконференции\*\*\*
 -  Skype для бизнеса Online (план 1)  
 -  Skype для бизнеса Online (план 2)
     
@@ -147,6 +145,8 @@ ms.locfileid: "27472807"
 \*Руководство доступно только для компонентов и облачных служб с поддержкой FastTrack, указанных в этом описании преимуществ.
 
 \*\*Подробнее о преимуществах FastTrack для государственных организаций США см. на странице [Office 365 для государственных организаций США](https://aka.ms/aboutgovcloud).
+
+\*\*\*Можно использовать для лицензированных пользователей Skype для бизнеса Online и Microsoft Teams.
 
 > [!NOTE]
 > Право на получение преимущества FastTrack Center зависит от покупки платных лицензий для ранее указанных поддерживаемых планов. 
