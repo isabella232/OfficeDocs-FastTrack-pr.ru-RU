@@ -3,19 +3,19 @@ title: Процесс FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Процесс FastTrack обеспечивает входящую миграцию и услуги по популяризации продукта среди пользователей. '
-ms.openlocfilehash: 401faec69b6d33cd4f07814c6e598cc5e5ccf359
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: cf6b75ce9381574bd9545b80b6ad3abd215b4fbf
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696738"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355203"
 ---
 # <a name="the-fasttrack-process"></a>Процесс FastTrack
 
