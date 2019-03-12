@@ -3,19 +3,19 @@ title: Поддерживаемые службы и тарифные планы
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696810"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355299"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -71,6 +71,7 @@ ms.locfileid: "29696810"
 
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
+- Microsoft 365 E5 Security\*
 - Microsoft 365 бизнес\*
     
  **Microsoft 365 для образования**
@@ -167,7 +168,7 @@ ms.locfileid: "29696810"
 |**Microsoft Advanced Threat Analytics**   |        Ограниченная поддержка. Поддерживается только при приобретении в виде автономного плана. Для этого перейдите на [портал Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 |**Microsoft Cloud App Security**    |       Ограниченная поддержка. Поддерживается только при приобретении в виде автономного плана. Для этого перейдите на [портал Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
-Дополнительные сведения см. в статье [Преимущество FastTrack Center для Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312)
+Дополнительные сведения см. в статье [Преимущество FastTrack Center для Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)
 
 ## <a name="eligible-windows-10-plans"></a>Поддерживаемые планы Windows 10
 
