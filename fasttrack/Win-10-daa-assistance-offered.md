@@ -3,7 +3,7 @@ title: Предлагаемая помощь
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При приобретении любых служб Windows 10 или Microsoft 365 специалисты FastTrack предоставляют советы и рекомендации по устранению проблем при развертывании Windows 10 и Office 365 профессиональный плюс и по своевременному обновлению без дополнительной платы (при наличии соответствующей подписки).
-ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ac175893fe4afb2aa553740d0e85dceeb6582d69
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355191"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016879"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
@@ -46,7 +46,7 @@ ms.locfileid: "30355191"
 ## <a name="out-of-scope"></a>Вне области поддержки
 
 Специалисты FastTrack не предоставляют следующую помощь:
-- Изучение и тестирование приложения с целью определения того, какие функции поддерживаются и не поддерживается в Windows 10 и Office 365 профессиональный плюс. Дополнительные инструкции об этом процессе см. на странице [Центр развертывания современных компьютеров](https://go.microsoft.com/fwlink/?linkid=2080140). Если вас интересует глубокая оценка готовности к обновлению, заполните форму [Запрос клиента на оценку современных компьютеров](https://go.microsoft.com/fwlink/?linkid=2053818).
+- Изучение и тестирование приложения с целью определения того, какие функции поддерживаются и не поддерживаются в Windows 10 и Office 365 профессиональный плюс. Дополнительные руководства по этому процессу см. на странице [Центр развертывания компьютеров](https://go.microsoft.com/fwlink/?linkid=2080140). Если вас интересует глубокая оценка готовности к обновлению, заполните форму [Запрос клиента на оценку современных компьютеров](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Анализ приложений независимых поставщиков программного обеспечения (ISV) на совместимость с Windows 10 и сведений о поддержке. Дополнительные сведения см. в разделе [Ready for Windows](https://go.microsoft.com/fwlink/?linkid=2054580).
 - Услуги по упаковке приложений. Однако группа Desktop App Assure упаковывает приложения, исправленные для Windows 10, чтобы обеспечить возможность их развертывания в среде клиента.
 
