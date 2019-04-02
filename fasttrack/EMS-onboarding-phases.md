@@ -5,21 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 86d69ec9ff9ef26646496d1b9fb443befdd76327
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 9f41ee105af4ff7d0a250d69a56756577d47b0a7
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30360011"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017023"
 ---
-# <a name="onboarding-phases"></a>Этапы входящей миграции
+# <a name="onboarding-phases"></a>Этапы подключения
 
 При использовании подХодящих [служб и планов](M365-eligible-services-and-plans.md) для получения Microsoft Azure Active Directory Premium и готовности Microsoft Intune к использованию в процесс включается несколько этапов. В следующих разделах описывается каждый этап процесса входящей миграции.
 
@@ -42,12 +42,12 @@ ms.locfileid: "30360011"
 3. Выберите **Услуги**.
 4. ЗаПолните **запрос для помощи в форме Microsoft 365**.
 
-Когда начнется поддержка входящей миграции, мы составим расписание собраний по сети.
+Когда начнется поддержка входящей миграции, мы настроим расписание собраний по сети.
 
 > [!NOTE]
 > Если у вас есть партнер Майкрософт, указанный в вашем клиенте Office 365, этот параметр не отображается. Обратитесь за помощью к своему партнеру Майкрософт.
 
-Партнеры корпорации Майкрософт также могут получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от имени клиента. Для этого выполните указанные ниже действия.
+Партнеры корпорации Майкрософт также могут получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от имени клиента. To do so:
 
 1. Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Выберите **FastTrack**.
@@ -70,7 +70,7 @@ FastTrack Center также подключается к вам и рекомен
 
 ![Фаза оценки входящей миграции](./media/ft-assess-phase.png)
 
-## <a name="remediate-phase"></a>Фаза устранения ошибок
+## <a name="remediate-phase"></a>Фаза исправления
 Вы выполняете задачи в плане по исправлению в исходной среде, чтобы обеспечить соответствие требованиям для входящей миграции и адаптации каждой службы (при необходимости).
 
 ![Этап исправления входящей миграции](./media/ft-remediate-phase.png)

@@ -3,7 +3,7 @@ title: Преимущество FastTrack Center для Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Если вы приобретаете *не менее* 150 лицензий на соответствующую службу или тарифный план, то можете воспользоваться услугами Преимущество FastTrack Center для Windows 10.
-ms.openlocfilehash: 90ad43b17e37c2828333eee6bed300aca5e47fba
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 1f7544709fe8b176a42e17efa035afef73d69c8f
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355179"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016807"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Преимущество FastTrack Center для Windows 10
 

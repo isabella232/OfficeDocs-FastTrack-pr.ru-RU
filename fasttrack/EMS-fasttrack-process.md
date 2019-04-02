@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0516035e55bc791645b32ad1819839b6c73f1772
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: a2d3f601c1395b908d2ad8fd7a6a0dde38502784
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359843"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016783"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Процесс реализации преимущества FastTrack Center для Enterprise Mobility + Security (EMS)
 Если ваша организация соответствует преимуществам FastTrack Center для EMS, вы можете работать удаленно с FastTrack, чтобы получить Microsoft Azure Active Directory Premium и Microsoft Intune готов к использованию. Вы также можете запросить помощь через [сайт FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) для Azure Information Protection, Microsoft Cloud App Security и Microsoft Advanced Threat Analytics. Чтобы узнать, соответствует ли ваша организация требованиям, ознакомьтесь со статьями [Доступные службы и планы](M365-eligible-services-and-plans.md).
@@ -27,7 +27,7 @@ ms.locfileid: "30359843"
 
 -   [Общие сведения о процессе входящей миграции](EMS-fasttrack-benefit-overview.md)
 
--   [требования к исходной среде](EMS-source-environment-expectations.md);
+-   [Ожидания для исходной среды](EMS-source-environment-expectations.md)
 
 -   [Этапы процесса входящей миграции](EMS-onboarding-phases.md)
 
@@ -35,7 +35,7 @@ ms.locfileid: "30359843"
 
 -   [Обязанности клиента](EMS-your-responsibilities.md) для каждого этапа
 
-По завершении входящей миграции вы можете ожидать следующее:
+При завершении входящей миграции вы можете ожидать:
 
 -   Будут созданы клиенты EMS для выбранных служб.
 

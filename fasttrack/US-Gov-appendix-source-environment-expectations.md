@@ -3,19 +3,19 @@ title: Ожидание в исходной среде для Office 365 для 
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Преимущество FastTrack Center включает руководство по настройке уровней интеграции с исходной средой (например, если в исходной среде уже есть службы, которые требуется переместить в Office 365).
-ms.openlocfilehash: 520ae3e241e2af9f39f7dc7d91059cf561a70259
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7556568b4f9a3ab9291f00aff528d3fc37b0063d
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355227"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016951"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Ожидание в исходной среде для Office 365 для государственных организаций США
 

@@ -5,25 +5,25 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1d11b2898176df059633cfb3fc2c6bb3f851c0b5
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359915"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016903"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Обзор Преимущества FastTrack Center
 
 Благодаря преимуществам FastTrack Center для Microsoft Azure Active Directory Premium и Microsoft Intune вы работаете удаленно с FastTrack специалистами, чтобы подготовить среду к использованию и спланировать развертывание и использование в вашей организации. Чтобы узнать больше о приемлемости, ознакомьтесь со статьей [процесс использования FastTrack Center для Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 
-Процесс входящей миграции состоит из двух основных этапов:
+Входящая миграция состоит из двух основных компонентов:
 
 -   **Основная** входящая миграция — задачи, необходимые для настройки клиента и интеграции с Azure Active Directory (при необходимости). Базовая входящая миграция также предоставляет базовый уровень для входящей миграции других служб Microsoft Online.
 
