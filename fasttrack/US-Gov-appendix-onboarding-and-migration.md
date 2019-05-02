@@ -3,19 +3,19 @@ title: Этапы входящей миграции и миграции для O
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Входящая миграция Office 365 для Office 365 США состоит из четырех основных этапов: инициации, оценки, исправления и включения. Вы можете выполнить эти этапы с помощью необязательного этапа миграции данных, как показано на следующем рисунке.'
-ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 8be691ee3a83e7dacea2d287460642c37c461ab3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016987"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513691"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы входящей миграции и миграции для Office 365 для государственных организаций США
 
@@ -177,7 +177,7 @@ ms.locfileid: "31016987"
 Мы предоставляем руководство по включению службы Yammer Enterprise.
 
 > [!NOTE]
-> Yammer Enterprise не является компонентом Office 365 США, но его можно бесплатно приобрести в качестве автономного решения для каждого пользователя, лицензированного для Office 365 в GCC. В настоящее время это предлагается только тем пользователям, которые приобрели Office 365 GCC в соответствии с корпоративными соглашениями и соглашениями о корпоративном подПиске. Yammer недоступна в планах GCC High или DoD. 
+> Yammer Enterprise не является компонентом Office 365 США, но его можно бесплатно приобрести в качестве автономного решения для каждого пользователя, лицензированного для Office 365 в GCC. В настоящее время это предлагается только тем пользователям, которые приобрели Office 365 GCC в соответствии с корпоративными соглашениями и соглашениями о корпоративном подписке. Yammer недоступна в планах GCC High или DoD. 
   
 ## <a name="office-365-proplus"></a>Office 365 профессиональный плюс
 

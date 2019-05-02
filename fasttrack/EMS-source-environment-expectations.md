@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0d0fa0415bc27013d7e035b75a5e5d9d9f9919c3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: a512e97f48df7fc3040478f4e35fe0c357ef7ce3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016771"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513154"
 ---
 # <a name="source-environment-expectations"></a>Требования к исходной среде
 
-При использовании [преимуществ FastTrack Center для Enterprise Mobility + Security (EMS)](EMS-fasttrack-benefit-for-EMS.md) для получения Microsoft Azure Active Directory Premium и готовности Microsoft Intune к использованию среда должна соответствовать ожиданиям, описанным в следующих разделах.
+При использовании [преимуществ FastTrack Center для Enterprise Mobility + Security (EMS)](EMS-fasttrack-benefit-for-EMS.md) для получения Microsoft Azure Active Directory Premium, Microsoft Intune и Azure Information Protection, готовой к использованию, ваша среда должна соответствовать ожиданиям описывается в следующих разделах.
 
 Возможно, у вас уже есть локальная служба Active Directory в Организации, которую необходимо интегрировать с Enterprise Mobility + Security (EMS) или любой из ее отдельных служб, использующих расширенное управление удостоверениями с одной консоли. Преимущества FastTrack Center для Enterprise Mobility + Security (EMS) помогут вам интегрировать Azure Active Directory с существующей локальной средой Active Directory.
 
@@ -36,6 +36,8 @@ ms.locfileid: "31016771"
 |Интеграция Intune с Advanced Threat Protection в Защитнике Windows (Защитник Windows ATP)|Подписка на пакет ATP для защитника Windows активирована и настроена в соответствии с требованиями безопасности компании.<br /><br />**Note**: служба FastTrack предоставляет помощь по интеграции Intune с защитником Windows ATP и созданию политик соответствия требованиям к устройствам на основе оценки уровня риска Windows 10. Преимущества службы FastTrack не предоставляют помощь по приобретению, лицензированию, активации или использованию пакета ATP для защитника Windows и его консоли безопасности. |
 |Windows Autopilot|ИТ – администраторы отвечают за регистрацию своих устройств в Организации, получив поставщик оборудования на отправку идентификаторов оборудования от их имени или отправив их в службу Windows автопилота. |
 |Безопасная установка Outlook для iOS и Android с помощью Intune|<br /><br />— Удостоверения пользователей, включенные в Azure AD для Office 365.<br />— Exchange Online или гибридный Exchange, настроенный с назначенными лицензиями пользователей.<br />|
+|Azure Information Protection (P2 или EMS)|<br /><br />Пользователи уже должны: <br /> — Используйте Azure AD.<br />— Используйте либо Windows, либо iOS (другие операционные системы выходят из области действия).<br /> — Используйте клиенты Office новее Office 2010 с ПАКЕТом обновления 2 (SP2), которые не полагаются на Office Online в качестве основного клиента. <br /> — Имеют основные расположения для общего файлового ресурса.  <br /> — Обновлены из службы управления правами Active Directory (AD RMS). <br /> — У вас есть утвержденная таксономия классификации. <br /> — Понимание всех нормативных ограничений для управления защищенным ключом. <br />|
+|Сканер Azure Information Protection|<br /><br /> Пользователи уже должны: <br /> — Используйте Windows Server 2012 R2 или Windows Server 2016.<br /> — Есть подключение к Интернету. <br /> — Попросите Microsoft SQL Server 2012 в локальном или удаленном экземпляре.  <br /> — У вас есть учетная запись службы, созданная для локальной службы Active Directory и синхронизированная с Azure AD.  <br /> — Загрузил Азинфопротектион. exe. <br /> — Метки настроены для автоматической классификации/защиты.<br />|
 
 > [!NOTE]
 > **Хотите узнать больше?** 

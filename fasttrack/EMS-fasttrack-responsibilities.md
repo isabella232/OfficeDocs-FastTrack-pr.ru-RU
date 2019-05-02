@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016915"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513838"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
@@ -72,7 +72,7 @@ ms.locfileid: "31016915"
 
     -   Установка сервера синхронизации каталогов между доменными службами Active Directory (AD DS) и подходящими службами Microsoft Online (только в случае необходимости).
 
-    -   Настройка управляемой проверки подлинности (синхронизация хэша паролей или сквозная проверка поДлинности) с помощью средства Azure Active Directory Connect. (при необходимости — только руководство).
+    -   Настройка управляемой проверки подлинности (синхронизация хэша паролей или сквозная проверка подлинности) с помощью средства Azure Active Directory Connect. (при необходимости — только руководство).
 
         > [!NOTE]
         > Разработка и реализация расширений настраиваемых правил выходят за рамки области.
@@ -100,7 +100,7 @@ ms.locfileid: "31016915"
 
   -   Установка синхронизации каталогов между доменными службами Active Directory (AD DS) и Azure AD Connect, если это необходимо.
 
-  -   Настройка метода проверки подлинности (синхронизации хэша паролей или сквозной проверки поДлинности) с помощью средства Azure AD Connect.
+  -   Настройка метода проверки подлинности (синхронизации хэша паролей или сквозной проверки подлинности) с помощью средства Azure AD Connect.
 
 - Для среды с несколькими лесами:
 
@@ -109,9 +109,9 @@ ms.locfileid: "31016915"
   - Настройка сквозной проверки подлинности Azure Active Directory (при необходимости).
   - Настройка эффективного единого входа Azure Active Directory (при необходимости).
     > [!NOTE]
-    > Проверка поДлинности на основе Azure Active Directory для сред с несколькими лесами поддерживается при наличии доверия лесов между лесами Active Directory и при правильной настройке маршрутизации суффиксов имен. Дополнительные агенты можно установить на нескольких локальных серверах, чтобы обеспечить высокую доступность для запросов на вход.
+    > Проверка подлинности на основе Azure Active Directory для сред с несколькими лесами поддерживается при наличии доверия лесов между лесами Active Directory и при правильной настройке маршрутизации суффиксов имен. Дополнительные агенты можно установить на нескольких локальных серверах, чтобы обеспечить высокую доступность для запросов на вход.
 
-  - Дополнительные сведения см. в статье [Azure Active Directory сквозНая проверка подлинности: краткое](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) руководство и [Azure Active Directory, единый вход: быстрый запуск](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
+  - Дополнительные сведения см. в статье [Azure Active Directory сквозная проверка подлинности: краткое](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) руководство и [Azure Active Directory, единый вход: быстрый запуск](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
   - Дополнительные сведения об ограничениях сквозной проверки подлинности см. в статье [Текущие ограничения сквозной проверки подлинности Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).
   - Дополнительные сведения о проблемах, связанных с простым единым входом, см. в статье [Устранение неполадок с простым единым входом Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).
 
@@ -140,9 +140,9 @@ ms.locfileid: "31016915"
 
 - Синхронизация службы каталогов Azure AD Connect (с обратной записью пароля и синхронизацией хэша пароля).
 
-  - Сброс пароля самоОбслуживания Azure Active Directory (SSPR).
+  - Сброс пароля самообслуживания Azure Active Directory (SSPR).
 
-  - МногоФакторная проверка поДлинности Azure.
+  - Многофакторная проверка подлинности Azure.
 
   - До трех (3) или более программного обеспечения для интеграции приложений (SaaS) с единым входом (SSO) из службы [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
@@ -218,7 +218,7 @@ ms.locfileid: "31016915"
 
         -   Решения для защиты от угроз для мобильных устройств (требуются подписки на мобильные решения для защиты от угроз).
 
-        -   Решения для управления расходами на телеКоммуникации (необходимо указать подписку на решение для управления расходами на связи).
+        -   Решения для управления расходами на телекоммуникации (необходимо указать подписку на решение для управления расходами на связи).
 
         -   Advanced Threat Protection в Защитнике Windows (требуются лицензии Windows или Microsoft 365 для вододействия).
 
@@ -277,9 +277,25 @@ ms.locfileid: "31016915"
 
 - Включение функции совместного управления в консоли Configuration Manager.
 
-- ПереКлючить рабочие нагрузки на Intune.
+- Переключить рабочие нагрузки на Intune.
 
 - Отслеживайте действие по совместному управлению в вашей среде.
+
+### <a name="enable-phase--azure-information-protection"></a>Фаза включения — Azure Information Protection
+
+Предоставление поддержки для: 
+
+- Клиентам автоматически классифицировать и помечать информацию в приложениях Office (например, Word, PowerPoint, Excel и Outlook), работающих в Windows, и с помощью клиента Azure Information Protection. 
+- Файлы в REST с помощью сканера Azure Information Protection.
+- Сообщения электронной почты на пути с помощью правил для почтовых ящиков Exchange Online. 
+
+Поддержка также предоставляется пользователям, которые хотят применять защиту с помощью службы управления правами Microsoft Azure (Azure RMS), службы шифрования сообщений Office 365 (OME) и защиты от потери данных (DLP). 
+
+В этой статье приведены инструкции по следующим вопросам: 
+
+- Активируйте и настройте свой клиент.
+- Создайте и настройте метки и политики.
+- Примените защиту информации к документам. 
 
 > [!NOTE]
 > **Хотите узнать больше?** Ознакомьтесь с разрешениями [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).

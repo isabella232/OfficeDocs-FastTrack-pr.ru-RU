@@ -1,33 +1,33 @@
 ---
-title: Общие сведения
-description: Общие сведения
+title: Обзор
+description: Обзор
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 42d6c23dd4da1ed8071092ccf4cc045c5128d856
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016903"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513175"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Обзор Преимущества FastTrack Center
 
-Благодаря преимуществам FastTrack Center для Microsoft Azure Active Directory Premium и Microsoft Intune вы работаете удаленно с FastTrack специалистами, чтобы подготовить среду к использованию и спланировать развертывание и использование в вашей организации. Чтобы узнать больше о приемлемости, ознакомьтесь со статьей [процесс использования FastTrack Center для Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
+Благодаря преимуществам центра FastTrack для Microsoft Azure Active Directory Premium, Microsoft Intune и Azure Information Protection вы сможете удаленно работать с специалистами FastTrack, чтобы обеспечить готовность среды к использованию, а также спланировать развертывание и использование в вашей предприятии. Чтобы узнать больше о приемлемости, ознакомьтесь со статьей [процесс использования FastTrack Center для Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 
 Входящая миграция состоит из двух основных компонентов:
 
 -   **Основная** входящая миграция — задачи, необходимые для настройки клиента и интеграции с Azure Active Directory (при необходимости). Базовая входящая миграция также предоставляет базовый уровень для входящей миграции других служб Microsoft Online.
 
--   Входящей миграции **служб** — задачи, необходимые для настройки отдельных вариантов загрузки EMS (Azure AD Premium и Intune).
+-   Входящей миграции **служб** — задачи, необходимые для настройки отдельных вариантов загрузки EMS (Azure AD Premium, Intune и Azure Information Protection).
 
 На следующей схеме описаны фазы входящей миграции высокого уровня для FastTrack Center.
 
