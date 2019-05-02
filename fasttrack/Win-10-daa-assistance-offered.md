@@ -3,7 +3,7 @@ title: Предлагаемая помощь
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При приобретении любых служб Windows 10 или Microsoft 365 специалисты FastTrack предоставляют советы и рекомендации по устранению проблем при развертывании Windows 10 и Office 365 профессиональный плюс и по своевременному обновлению без дополнительной платы (при наличии соответствующей подписки).
-ms.openlocfilehash: ac175893fe4afb2aa553740d0e85dceeb6582d69
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 58230a191871343c99a3448c163cf16fc6068b3c
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016879"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513058"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
