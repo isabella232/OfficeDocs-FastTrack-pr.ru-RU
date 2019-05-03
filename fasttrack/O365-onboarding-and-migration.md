@@ -3,19 +3,19 @@ title: Этапы подключения и миграции
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Подключение к Office 365 предусматривает четыре основных этапа: подготовка, оценка, исправление и включение. За этими этапами может следовать этап переноса данных.'
-ms.openlocfilehash: 69f381f7ed84ad601d7c7b273abffcb306c5b56a
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 3fcd64283c419fdfee775b31983d17eec63783b8
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017047"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513901"
 ---
 # <a name="onboarding-and-migration-phases"></a>Фазы подключения и миграции
 
@@ -197,7 +197,8 @@ ms.locfileid: "31017047"
 - Установка Office 365 профессиональный плюс с использованием портала Office 365 и технологии "нажми и работай".   
 - Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile.   
 - Настройка параметров обновления с помощью средства развертывания Office 365.   
-- Настройка одного внутреннего сервера распространения для Office 365 профессиональный плюс, в том числе помощь по созданию файла configuration.xml для его последующего использования в средстве развертывания Office 365.  
+- Выбор и настройка локальной или облачной установки. 
+- Создание XML-файла конфигурации средства развертывания Office с помощью центра развертывания Office или встроенного XML-файла для настройки пакета развертывания.  
 - Развертывание с помощью Microsoft System Center Configuration Manager, а также создание пакета System Center Configuration Manager.
     
 ![Этапы входящей миграции Office профессиональный плюс](media/O365-Onboarding-Enable-OProPlus.png)

@@ -3,19 +3,19 @@ title: Поддерживаемые службы и тарифные планы
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016999"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513094"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -147,7 +147,7 @@ ms.locfileid: "31016999"
 
 \*\*Подробнее о преимуществах FastTrack для государственных организаций США см. на странице [Office 365 для государственных организаций США](https://aka.ms/aboutgovcloud).
 
-\*\*\*Можно использовать для лицензированных пользователей Skype для бизнеса Online и Microsoft Teams.
+\*\*\*Можно использовать для лицензированных пользователей Skype для бизнеса Online и Microsoft Teams. Требует соответствующей покупки Skype для бизнеса или Microsoft Teams. 
 
 > [!NOTE]
 > Право на получение преимущества FastTrack Center зависит от покупки платных лицензий для ранее указанных поддерживаемых планов. 
@@ -160,7 +160,7 @@ ms.locfileid: "31016999"
 |---------|---------|
 |**Enterprise Mobility + Security (EMS) в плане E3 или E5**       |   Доступно для облачных служб с поддержкой преимуществ FastTrack. В ином случае выполняется перенаправление к специалисту FastTrack или для получения рекомендации партнера.        |
 |**Microsoft Azure Active Directory Premium**     |  Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.       |
-|**Microsoft Azure Information Protection**    |  Доступно для плана 2, в составе плана E5 или для автономного плана. В ином случае выполняется перенаправление к специалисту FastTrack или для получения рекомендации партнера.        |
+|**Microsoft Azure Information Protection**    |  Доступно для плана 2, в составе плана EMS E5 или для автономного плана. В ином случае выполняется перенаправление к специалисту FastTrack или для получения рекомендации партнера.        |
 |**Microsoft Intune**    |   Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.      |
 |**Cloud Attach**     |    Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.     |
 |**Microsoft Intune для образовательных учреждений**     |  Поддерживается при приобретении в виде автономного плана или в составе плана A3 или A5.       |
