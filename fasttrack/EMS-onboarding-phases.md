@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513532"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967988"
 ---
 # <a name="onboarding-phases"></a>Этапы подключения
 
@@ -47,7 +47,7 @@ ms.locfileid: "33513532"
 > [!NOTE]
 > Если у вас есть партнер Майкрософт, указанный в вашем клиенте Office 365, этот параметр не отображается. Обратитесь за помощью к своему партнеру Майкрософт.
 
-Партнеры корпорации Майкрософт также могут получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от имени клиента. To do so:
+Партнеры корпорации Майкрософт также могут получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от имени клиента. Для этого:
 
 1. Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Выберите **FastTrack**.
@@ -272,7 +272,7 @@ FastTrack также предоставляет инструкции по усп
 
 #### <a name="enable-phase--azure-information-protection"></a>Фаза включения — Azure Information Protection
 
-Azure Information Protection обеспечивает поддержку следующих компонентов: 
+Azure Information Protection предоставляет рекомендации по следующим вопросам: 
 
 - Клиентам автоматически классифицировать и помечать информацию в приложениях Office (например, Word, PowerPoint, Excel и Outlook), работающих в Windows, и с помощью клиента Azure Information Protection. 
 - Файлы в REST с помощью сканера Azure Information Protection.
