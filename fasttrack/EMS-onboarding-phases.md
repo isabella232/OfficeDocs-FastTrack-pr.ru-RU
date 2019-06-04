@@ -5,19 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
+ms.openlocfilehash: 3725a730a5191bfbe38958403b88ace00ed5bd02
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967988"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673574"
 ---
 # <a name="onboarding-phases"></a>Этапы подключения
 
@@ -272,24 +274,20 @@ FastTrack также предоставляет инструкции по усп
 
 #### <a name="enable-phase--azure-information-protection"></a>Фаза включения — Azure Information Protection
 
-Azure Information Protection предоставляет рекомендации по следующим вопросам: 
-
-- Клиентам автоматически классифицировать и помечать информацию в приложениях Office (например, Word, PowerPoint, Excel и Outlook), работающих в Windows, и с помощью клиента Azure Information Protection. 
-- Файлы в REST с помощью сканера Azure Information Protection.
-- Сообщения электронной почты на пути с помощью правил для почтовых ящиков Exchange Online. 
-
-Поддержка также предоставляется пользователям, которые хотят применять защиту с помощью службы управления правами Microsoft Azure (Azure RMS), службы шифрования сообщений Office 365 (OME) и защиты от потери данных (DLP). 
-
 В этой статье приведены инструкции по следующим вопросам: 
 
 - Активируйте и настройте свой клиент.
 - Создайте и настройте метки и политики.
 - Примените защиту информации к документам. 
+- Автоматическая классификация и маркировка информации в приложениях Office (например, Word, PowerPoint, Excel и Outlook), работающих в Windows и использующих клиент Azure Information Protection.
+- Используйте файлы в REST с помощью сканера Azure Information Protection.
+- Отслеживайте сообщения на транспорте с помощью правил для почтового процесса Exchange Online.
 
+Кроме того, руководство предоставляется пользователям, которые хотят применить защиту с помощью службы управления правами Microsoft Azure (Azure RMS), Office 365 шифрования сообщений (OME) и защиты от потери данных (DLP).
 
 > [!NOTE]
 > **Хотите узнать больше?** Ознакомьтесь с разрешениями [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
-[Преимущества FastTrack для ответственности в СЛУЖБах EMS (Майкрософт)](EMS-fasttrack-responsibilities.md)
+[Преимущества FastTrack для ответственности в службах EMS (Майкрософт)](EMS-fasttrack-responsibilities.md)
