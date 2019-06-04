@@ -3,19 +3,19 @@ title: Этапы подключения и миграции
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Подключение к Office 365 предусматривает четыре основных этапа: подготовка, оценка, исправление и включение. За этими этапами может следовать этап переноса данных.'
-ms.openlocfilehash: 3fcd64283c419fdfee775b31983d17eec63783b8
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: cb7648f6cf7393201c16c6928a93b50765783d5d
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513901"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673790"
 ---
 # <a name="onboarding-and-migration-phases"></a>Фазы подключения и миграции
 

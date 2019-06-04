@@ -3,7 +3,7 @@ title: Обзор Преимущества FastTrack Center
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Если вы используете Преимущество FastTrack Center для Office 365, специалисты FastTrack удаленно подготовят среду Office 365 к использованию, а также спланируют ее развертывание и использование в вашей организации. Дополнительные сведения о требованиях программы см. в статье "Преимущество FastTrack Center для Office 365".
-ms.openlocfilehash: c220ff2180122aa5d16fa3b118742897fb545bcd
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 9c686d7d007fcc6d661ffe81050c96122989a899
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513814"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673466"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Обзор Преимущества FastTrack Center
 
