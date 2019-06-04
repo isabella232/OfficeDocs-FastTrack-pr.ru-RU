@@ -1,58 +1,60 @@
 ---
 title: Процесс FastTrack
-description: Обзор процесса входящей миграции FastTrack Center
+description: Обзор процесса входящей миграции с использованием преимущества FastTrack Center
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e3f34284cb4b6300a50116ad2bb1df3cb6ab0fe
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
-ms.translationtype: MT
+ms.openlocfilehash: 0b24a3d1b339836fb07137a7ad2138f85ed7709b
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513778"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673250"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Процесс реализации преимущества FastTrack Center для Enterprise Mobility + Security (EMS)
-Если ваша организация может использовать FastTrack Center для служб EMS, вы можете работать с ними в удаленном режиме с помощью FastTrack-специалистов, чтобы получить Microsoft Azure Active Directory Premium, Microsoft Intune и Azure Information Protection готовы к использованию. Вы также можете запросить помощь через [сайт FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) для Azure Information Protection, Microsoft Cloud App Security и Microsoft Advanced Threat Analytics. Чтобы узнать, соответствует ли ваша организация требованиям, ознакомьтесь со статьями [Доступные службы и планы](M365-eligible-services-and-plans.md).
+Если ваша организация может использовать преимущество FastTrack Center для EMS, вы можете удаленно сотрудничать со специалистами FastTrack для подготовки к использованию служб Microsoft Azure Active Directory Premium, Microsoft Intune и Azure Information Protection. Кроме того, вы можете запросить помощь [на сайте FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) для Azure Information Protection, Microsoft Cloud App Security и Microsoft Advanced Threat Analytics. Чтобы узнать, отвечает ли ваша организация требованиям, см. статью [Поддерживаемые службы и тарифные планы](M365-eligible-services-and-plans.md).
 
 
-Мы рассмотрим процесс входящей миграции:
+Рассматриваемые аспекты процесса входящей миграции:
 
--   [Общие сведения о процессе входящей миграции](EMS-fasttrack-benefit-overview.md)
+-   [Обзор процесса входящей миграции](EMS-fasttrack-benefit-overview.md)
 
--   [Ожидания для исходной среды](EMS-source-environment-expectations.md)
+-   [Требования к исходной среде](EMS-source-environment-expectations.md)
 
--   [Этапы процесса входящей миграции](EMS-onboarding-phases.md)
+-   [Фазы процесса входящей миграции](EMS-onboarding-phases.md)
 
--   [Обязанности FastTrack](EMS-fasttrack-responsibilities.md) для каждого этапа
+-   [Обязанности специалистов FastTrack](EMS-fasttrack-responsibilities.md) на каждой фазе
 
--   [Обязанности клиента](EMS-your-responsibilities.md) для каждого этапа
+-   [Обязанности клиента](EMS-your-responsibilities.md) на каждой фазе
 
-При завершении входящей миграции вы можете ожидать:
+По завершении входящей миграции вы можете ожидать следующее:
 
 -   Будут созданы клиенты EMS для выбранных служб.
 
--   Лицензированные пользователи могут получить доступ к службам EMS с помощью одного из следующих параметров удостоверения.
+-   Лицензированные пользователи могут получать доступ к службам EMS с помощью одного из указанных ниже вариантов удостоверений.
 
     -   Облачные удостоверения (уникальные учетные записи EMS).
 
-    -   Синхронизированные удостоверения: учетные записи EMS, синхронизированные из локальной службы Active Directory, с помощью средства Azure Active Directory Connect (синхронизация хэша паролей или сквозная проверка подлинности). Этот параметр предназначен для клиентов с одним лесом или несколькими лесами Active Directory.
+    -   Синхронизированные удостоверения: учетные записи EMS, синхронизируемые из локальной службы Active Directory с помощью средства Azure Active Directory Connect (синхронизация хэшей паролей или сквозная проверка подлинности). Эта возможность доступна для клиентов с одним или несколькими лесами Active Directory.
 
-    -   Федеративные удостоверения (с учетными записями Майкрософт EMS):
+    -   Федеративные удостоверения с учетными записями Microsoft EMS, которые:
 
-        -   Синхронизируется из Active Directory с помощью средства Azure AD Connect. Этот параметр предназначен для пользователей с одной конфигурацией леса Active Directory.
+        -   Синхронизируются из Active Directory с помощью средства Azure AD Connect. Эта возможность доступна для клиентов с одним лесом Active Directory.
 
-        -   Федеративные службы федерации Active Directory (AD FS) с Windows Server 2012 R2 (AD FS) 2,0 или более поздней версии из локальной службы Active Directory.
+        -   Объединены со службами федерации Active Directory (AD FS) Windows Server 2012 R2 (версии 2.0 или более поздней) из локальной службы Active Directory.
 
-        -   Возможность автоматической классификации и защиты информации как в REST, так и в транзите с помощью Azure Information Protection. 
+        -   Могут автоматически классифицировать и защищать как хранящиеся, так и передаваемые сведения с помощью службы Azure Information Protection. 
 
-        -   Возможность обнаружения сведений в локальных файловых ресурсах и серверах SharePoint с помощью сканера Azure Information Protection. 
+        -   Могут обнаруживать сведения на локальных файловых ресурсах и серверах SharePoint с помощью сканера Azure Information Protection. 
 
-        -   Возможность управления ключами клиента Azure Information Protection в хранилище ключей Azure. 
+        -   Могут управлять ключами клиента Azure Information Protection в хранилище Azure Key Vault. 
