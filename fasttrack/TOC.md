@@ -19,6 +19,6 @@
 #### [Этапы подключения](EMS-onboarding-phases.md)
 #### [Обязанности специалистов FastTrack](EMS-fasttrack-responsibilities.md)
 #### [Ваши обязанности](EMS-your-responsibilities.md)
-## [Преимущество FastTrack Center для Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
+## [Преимущество FastTrack Center для Windows 10](Win-10-fasttrack-benefit-for-windows-10.md)
 ### [Desktop App Assure](Win-10-desktop-app-assure.md)
 #### [Предлагаемая помощь](Win-10-daa-assistance-offered.md)

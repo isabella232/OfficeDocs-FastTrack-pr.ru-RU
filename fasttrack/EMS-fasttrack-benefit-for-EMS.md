@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,16 +14,16 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: b8d84c1f3ff0d64b0056800c2e80b59585aaa7fc
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: a02f80244677999aa9c5fd80b924b69619c089f6
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673286"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410890"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Преимущество FastTrack Center для Enterprise Mobility + Security (EMS)
 
-Вы можете использовать преимущество FastTrack Center для Enterprise Mobility + Security (EMS) при покупке не менее 150 лицензий продукта EMS или любого из его отдельных облачных служб в поддерживаемом плане. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти специалисты также помогут вам перенести данные.
+Вы можете использовать преимущество FastTrack Center для Enterprise Mobility + Security (EMS) при покупке не менее 150 лицензий продукта EMS или любого из его отдельных облачных служб в поддерживаемом плане. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти специалисты также помогут вам перенести данные. 
 
 > [!IMPORTANT]
 > В целях настоящего документа под специалистами FastTrack подразумеваются как сотрудники Майкрософт, так и утвержденные Майкрософт поставщики услуг и партнеры.

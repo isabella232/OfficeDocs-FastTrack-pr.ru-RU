@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c3cbc52811bfdbb6780fefce58e8a58f7ad78c14
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 2b4a24dad8319abd723ce32d1cefa6eb3b440cfa
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673568"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410818"
 ---
 # <a name="source-environment-expectations"></a>Требования к исходной среде
 
@@ -38,7 +38,7 @@ ms.locfileid: "34673568"
 |Интеграция Intune с Advanced Threat Protection в Защитнике Windows (ATP в Защитнике Windows)|Подписка на ATP в Защитнике Windows активирована и настроена в соответствии с требованиями безопасности компании.<br /><br />**Примечание**. Преимущество службы FastTrack обеспечивает помощь по интеграции Intune с ATP в Защитнике Windows и созданию политик соответствия требованиям для устройств на основе оценки уровня риска Windows 10. Преимущество службы FastTrack не предоставляет помощь по приобретению, лицензированию, активации или использованию ATP в Защитнике Windows и его консоли центра безопасности. |
 |Windows Autopilot|ИТ-администраторы отвечают за регистрацию устройств в организации путем отправки поставщиком оборудования идентификаторов оборудования от имени администраторов или с помощью самостоятельной их отправки в службу Windows Autopilot. |
 |Безопасное развертывание Outlook для iOS и Android с помощью Intune|<br /><br />— Удостоверения пользователей включены в Azure AD для Office 365.<br />— Exchange Online или гибридная конфигурация Exchange настроена с использованием назначенных лицензий пользователей.<br />|
-|Azure Information Protection (P2 или EMS E5)|<br /><br />Пользователи уже должны: <br /> — Использовать Azure AD.<br />— Использовать Windows или iOS (другие ОС не рассматриваются).<br /> — Применять клиенты Office более поздней версии, чем Office 2010 SP2, не использующие Office Online в качестве основного клиента. <br /> — Определить основные папки файловых ресурсов.  <br /> — Выполнить переход со служб Active Directory Rights Management (AD RMS). <br /> — Утвердить таксономию классификации. <br /> — Понимать все нормативные ограничения, относящиеся к управлению защищенными ключами. <br />|
+|Azure Information Protection (P2 или EMS E5)|<br /><br />Пользователи уже должны: <br /> — Использовать Azure AD.<br />— Использовать Windows или iOS (другие ОС не рассматриваются).<br /> — Применять клиенты Office более поздней версии, чем Office 2010 SP2, не использующие Office в качестве основного клиента. <br /> — Определить основные папки файловых ресурсов.  <br /> — Выполнить переход со служб Active Directory Rights Management (AD RMS). <br /> — Утвердить таксономию классификации. <br /> — Понимать все нормативные ограничения, относящиеся к управлению защищенными ключами. <br />|
 |Сканер Azure Information Protection|<br /><br /> Пользователи уже должны: <br /> — Использовать Windows Server 2012 R2 или Windows Server 2016.<br /> — Установить подключение к Интернету. <br /> — Установить Microsoft SQL Server 2012 или более поздней версии в локальном или удаленном экземпляре.  <br /> — Создать учетную запись для локальной службы Active Directory и синхронизировать ее с Azure AD.  <br /> — Скачать файл AzInfoProtection.exe. <br /> — Настроить метки для автоматической классификации и защиты.<br />|
 
 > [!NOTE]

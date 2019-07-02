@@ -3,7 +3,7 @@ title: Преимущество FastTrack Center для Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Если вы приобретаете не менее 150 лицензий на соответствующую службу или тарифный план для клиента Office 365, то можете воспользоваться услугами Преимущество FastTrack Center для Office 365. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти же специалисты помогут выполнить миграцию.
-ms.openlocfilehash: 04eeface1fae8dfa2effb15688c5b531e2a8b78a
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: c8277e2d80199c70734c0b156c7e4653d303ba07
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673430"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410998"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Преимущество FastTrack Center для Office 365
 
