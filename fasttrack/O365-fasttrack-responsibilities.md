@@ -3,19 +3,19 @@ title: Обязанности специалистов FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: 93d88be1b3279b19d1136f96968bb9f2c39713ea
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: c1121c804b547401c18050be6013f62c5bbc8fe1
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673598"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053958"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
@@ -221,8 +221,9 @@ ms.locfileid: "34673598"
 - Назначение пользователям лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell.
 - Установка Office 365 профессиональный плюс с использованием портала Office 365 и технологии "нажми и работай".
 - Установка приложений Office Mobile (например, Outlook для iOS и Android, Word Mobile, Excel Mobile, PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile. 
-- Настройка параметров обновления с помощью средства развертывания Office 2016 или шаблонов групповых политик.
-- Настройка одного внутреннего сервера распространения для Office 365 профессиональный плюс, в том числе помощь по созданию файла configuration.xml для его последующего использования в средстве развертывания Office 365.
+- Настройка параметров обновления с помощью средства развертывания Office 365.
+- Выбор и настройка локальной или облачной установки.
+- Создание XML-файла конфигурации средства развертывания Office с помощью центра развертывания Office или встроенного XML-файла для настройки пакета развертывания.
 - Развертывание с помощью System Center Configuration Manager, а также создание пакета System Center Configuration Manager.
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
