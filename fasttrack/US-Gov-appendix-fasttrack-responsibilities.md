@@ -3,19 +3,19 @@ title: Обязанности FastTrack для Office 365 для государ�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: c646583e121bbf453da571253968461425f6d5ec
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 9078f50a93d2ece8d137578fe8339e6ecffad63b
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673670"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054054"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Обязанности FastTrack для Office 365 для государственных учреждений США
 
@@ -157,9 +157,6 @@ ms.locfileid: "34673670"
   - Настройка организации для федерации со службой трансляции собраний.
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
-
-> [!NOTE]
-> Следующее недоступно в планах GCC High или DoD.
 
 Вы можете получить помощь по указанным ниже вопросам.
 - Проверка минимальных требований.   
