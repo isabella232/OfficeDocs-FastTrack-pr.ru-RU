@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: e9dad847ebb41be6d00791bd1415622228811a6d
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: 30875b429649b7d69083ea39f99b0158fbc7de0b
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35410746"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053790"
 ---
 # <a name="your-responsibilities"></a>Ваши обязанности
 
@@ -43,7 +43,7 @@ ms.locfileid: "35410746"
 
 -   Приобретение, установка и настройка программного обеспечения.
 
--   Управление, настройка и применение политик безопасности в дополнение к созданным для базовой конфигурации и функциональности служб EMS.
+-   Управление политиками безопасности, их настройка и применение в дополнение к созданным для базовой конфигурации и функциональности служб EMS.
 
 -   Регистрация учетных записей пользователей в дополнение к использованным для тестирования базовой конфигурации и функциональности Microsoft Azure Active Directory в службах EMS.
 
@@ -55,7 +55,7 @@ ms.locfileid: "35410746"
 
 -   Настройка многофакторной проверки подлинности в локальной среде.
 
--   Вывод из эксплуатации и удаление использованных ранее исходных сред и служб.
+-   Вывод из эксплуатации и удаление использовавшихся ранее исходных сред и служб.
 
 -   Создание и обслуживание тестовой среды.
 
@@ -73,9 +73,9 @@ ms.locfileid: "35410746"
 
 -   Регистрация на сторонние подписки, такие как Mobile Threat Defense, затраты на телекоммуникации и т. п., когда требуется интеграция с Microsoft Intune.
 
--   Регистрация на подписки Team Viewer, Mobile Threat Defense и решение управления затратами на телекоммуникации.
+-   Регистрация на подписки Team Viewer, Mobile Threat Defense и решение для управления затратами на телекоммуникации.
 
--   Регистрация для получения лицензий Advanced Threat Protection в Защитнике Windows (лицензии Windows E5 или Microsoft E5).
+-   Регистрация для получения лицензий на Расширенную защиту от угроз в Защитнике Windows (лицензии на Windows E5 или Microsoft E5).
 
 ## <a name="initiate-phase"></a>Этап инициирования
 
