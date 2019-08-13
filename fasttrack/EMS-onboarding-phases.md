@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 30b0f1eae559bbc32eb80f89d4f177be0178079b
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0ea242b03fc0d7cdfc3241c6d2f023213c2fa383
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053826"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294305"
 ---
 # <a name="onboarding-phases"></a>Этапы подключения
 
@@ -44,12 +44,9 @@ ms.locfileid: "36053826"
 3. Выберите **Сервисы**.
 4. Заполните **форму "Запрос помощи с Microsoft 365"**.
 
-Когда начнется поддержка подключения, мы составим расписание собраний по сети.
+Когда начнется поддержка входящей миграции, мы составим расписание собраний по сети.
 
-> [!NOTE]
-> Если в клиенте Office 365 указан партнер корпорации Майкрософт, эта команда не будет отображаться. Для получения помощи обратитесь к партнеру корпорации Майкрософт.
-
-Партнеры корпорации Майкрософт могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
+Партнеры корпорации Майкрософт могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от имени клиента. Для этого:
 
 1. Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Выберите **FastTrack**.

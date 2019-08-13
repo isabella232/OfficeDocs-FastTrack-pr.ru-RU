@@ -3,19 +3,19 @@ title: Этапы миграции
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Миграция на Windows 10 состоит из четырех основных этапов — инициирование, оценка, устранение ошибок и включение.
-ms.openlocfilehash: e0edad16976fadbe33cee95af5f90d5c02f6bf61
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0789cb80e25a085d2d631d6032b5c7663bd1b8c2
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054102"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294365"
 ---
 # <a name="onboarding-phases"></a>Этапы миграции
 
@@ -29,7 +29,7 @@ ms.locfileid: "36054102"
 
 Специалисты FastTrack вместе с вами оценят исходную среду и требования. Убедитесь, что решение System Center Configuration Manager обновлено до необходимого уровня для поддержки развертывания Windows 10. 
 
-Мы предоставляем рекомендуемые варианты для оценки ваших приложений, используемых под управлением Windows 10.
+Мы предоставляем рекомендуемые варианты для оценки ваших приложений, используемых под управлением Windows 10. FastTrack предоставляет рекомендации по использованию решения "Аналитика компьютеров" и помогает создать план развертывания решения "Аналитика компьютеров".
 
 FastTrack также может предоставить рекомендации для оценки совместимости с Office 365 профессиональный плюс. Для этого используется панель мониторинга готовности для Office 365 в составе Configuration Manager или автономный набор средств проверки готовности для Office. Дополнительные сведения о доступных услугах см. в статье [Преимущество FastTrack Center для Office 365](O365-fasttrack-benefit-for-office-365.md). 
 

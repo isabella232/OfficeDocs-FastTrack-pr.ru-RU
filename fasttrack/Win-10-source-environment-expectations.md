@@ -3,19 +3,19 @@ title: Требования к исходной среде
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Преимущество FastTrack Center включает рекомендации по настройке уровней интеграции вашей исходной среды для развертывания Windows 10.
-ms.openlocfilehash: 08a8a5dbc93edd1406b1a0e943a435eb451b07da
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 2aaee180b8cc6a0b6b0f6d0608ebbcb02610d2da
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054090"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294400"
 ---
 # <a name="source-environment-expectations"></a>Требования к исходной среде
 
@@ -23,7 +23,7 @@ ms.locfileid: "36054090"
   
 Для обновления ПК должны быть выполнены следующие требования:
 
-- Исходная ОС: Windows 7 Профессиональная, Windows 8.1 Профессиональная
+- Исходная ОС: Windows 7 Корпоративная или Профессиональная, Windows 8.1 Корпоративная или Профессиональная
 - Устройства: настольный ПК, ноутбук или планшет
 - Целевая ОС: Window 10 Корпоративная
 
@@ -31,7 +31,7 @@ ms.locfileid: "36054090"
 
 - Поддерживаемая версия System Center Configuration Manager (Current Branch) для целевой операционной системы Windows 10
 
-Дополнительные сведения см. в таблице поддержки Configuration Manager в статье [Поддержка Windows 10 в Configuration Manager](https://docs.microsoft.com/ru-RU/sccm/core/plan-design/configs/support-for-windows-10).
+Дополнительные сведения см. в таблице поддержки Configuration Manager в статье [Поддержка Windows 10 в Configuration Manager](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).
   
 
  
