@@ -3,19 +3,19 @@ title: Поддерживаемые службы и тарифные планы
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: ee7b762486b069313569485b313c95eb9d32028e
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053886"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294221"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -32,9 +32,7 @@ ms.locfileid: "36053886"
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Выберите **Услуги**.
 3.  Заполните форму **Запрос помощи с Microsoft 365**.
-    > [!NOTE]
-    >  Если в клиенте Office 365 указан партнер, этот параметр не будет отображаться. Для получения помощи обратитесь к партнеру. 
-
+  
 Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Выберите **Мои пользователи**.
@@ -163,7 +161,7 @@ ms.locfileid: "36053886"
 |**Microsoft Azure Active Directory Premium**     |  Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.       |
 |**Microsoft Azure Information Protection**    |  Доступно для плана 2 в составе плана E5 или для автономного плана. Доступно для облачных служб, в которых можно использовать преимущества FastTrack. Для облачных служб плана 1 в FastTrack предоставляется руководство по самостоятельному развертыванию.       |
 |**Microsoft Intune**    |   Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.      |
-|**Cloud Attach**     |    Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.     |
+|**Cloud Attach Configuration Manager с Microsoft Intune**     |    Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.     |
 |**Microsoft Intune для образовательных учреждений**     |  Поддерживается при приобретении в виде автономного плана или в составе плана A3 или A5.       |
 |**Microsoft Advanced Threat Protection**     |    Ограниченная поддержка. Поддерживается только при приобретении в виде автономного плана. Для этого перейдите на [портал Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
 |**Microsoft Advanced Threat Analytics**   |        Ограниченная поддержка. Поддерживается только при приобретении в виде автономного плана. Для этого перейдите на [портал Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
