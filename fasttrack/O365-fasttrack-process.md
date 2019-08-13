@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Процесс FastTrack обеспечивает входящую миграцию и услуги по популяризации продукта среди пользователей. '
-ms.openlocfilehash: 7fdc5c01ee2da2c28409dd187f0f2fed8e6ea3b0
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 854f30a9af210da5f6fb4837e473fd29fea5d606
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053994"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294341"
 ---
 # <a name="the-fasttrack-process"></a>Процесс FastTrack
 
@@ -45,10 +45,8 @@ ms.locfileid: "36053994"
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Выберите **Услуги**.
 3.  Заполните форму **Запрос помощи с Microsoft 365**. 
-> [!NOTE]
->  Если в клиенте Office 365 указан партнер, этот параметр не будет отображаться. Для получения помощи обратитесь к партнеру. 
   
- Вы также можете запросить помощь на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) в списке доступных для вашего клиента услуг. 
+ Вы также можете запросить помощь FastTrack Center на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), открыв список доступных услуг для своего клиента. 
     
  Когда начнется поддержка подключения, мы составим расписание собраний по сети.
     
