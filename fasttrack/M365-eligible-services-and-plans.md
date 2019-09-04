@@ -3,19 +3,19 @@ title: Поддерживаемые службы и тарифные планы
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: fc2fbf5911d3460a67941ca63a233731106a3823
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294221"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36711639"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -158,13 +158,12 @@ ms.locfileid: "36294221"
 |План    |Сведения о поддержке  |
 |---------|---------|
 |**Enterprise Mobility + Security (EMS) в плане E3 или E5**       |   Доступно для облачных служб с поддержкой преимуществ FastTrack. В ином случае выполняется перенаправление к специалисту FastTrack или для получения рекомендации партнера.        |
-|**Microsoft Azure Active Directory Premium**     |  Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.       |
-|**Microsoft Azure Information Protection**    |  Доступно для плана 2 в составе плана E5 или для автономного плана. Доступно для облачных служб, в которых можно использовать преимущества FastTrack. Для облачных служб плана 1 в FastTrack предоставляется руководство по самостоятельному развертыванию.       |
+|**Azure Active Directory Premium**     |  Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.       |
+|**Azure Information Protection**    |  Доступно для плана 2 в составе плана E5 или для автономного плана. Доступно для облачных служб, в которых можно использовать преимущества FastTrack. Для облачных служб плана 1 в FastTrack предоставляется руководство по самостоятельному развертыванию.       |
 |**Microsoft Intune**    |   Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.      |
-|**Cloud Attach Configuration Manager с Microsoft Intune**     |    Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.     |
+|**Microsoft Intune и Configuration Manager**     |    Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.     |
 |**Microsoft Intune для образовательных учреждений**     |  Поддерживается при приобретении в виде автономного плана или в составе плана A3 или A5.       |
-|**Microsoft Advanced Threat Protection**     |    Ограниченная поддержка. Поддерживается только при приобретении в виде автономного плана. Для этого перейдите на [портал Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
-|**Microsoft Advanced Threat Analytics**   |        Ограниченная поддержка. Поддерживается только при приобретении в виде автономного плана. Для этого перейдите на [портал Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
+|**Расширенная защита от угроз Azure**     |    Ограниченная поддержка. Поддерживается только при приобретении в виде автономного плана. Для этого перейдите на [портал Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
 |**Microsoft Cloud App Security**    |       Ограниченная поддержка. Поддерживается только при приобретении в виде автономного плана. Для этого перейдите на [портал Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
 Дополнительные сведения см. в статье [Преимущество FastTrack Center для Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)

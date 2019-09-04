@@ -3,19 +3,19 @@ title: Обязанности специалистов FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: c1121c804b547401c18050be6013f62c5bbc8fe1
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 4e2383b2654fb1218bbb2cb9913e6cbf6b94572a
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053958"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712166"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
