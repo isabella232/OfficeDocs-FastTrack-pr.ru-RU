@@ -3,29 +3,29 @@ title: Преимущество FastTrack Center для Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Если вы приобретаете *не менее* 150 лицензий на соответствующую службу или тарифный план, то можете воспользоваться услугами Преимущество FastTrack Center для Windows 10.
-ms.openlocfilehash: 6ef15aa75c24fe3d290de643fff0aec2cc0e80f5
-ms.sourcegitcommit: 7418a1878b0c254b239583c13a97f712c8c2bffe
+ms.openlocfilehash: 873af7f0904454c5a566fa4cdb43810d6f7039cb
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36427400"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712275"
 ---
-# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="24cb6-103">Преимущество FastTrack Center для Windows 10</span><span class="sxs-lookup"><span data-stu-id="24cb6-103">FastTrack Center Benefit for Windows 10</span></span>
+# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="c58de-103">Преимущество FastTrack Center для Windows 10</span><span class="sxs-lookup"><span data-stu-id="c58de-103">FastTrack Center Benefit for Windows 10</span></span>
 
-<span data-ttu-id="24cb6-104">Если вы приобретаете не менее 150 лицензий на соответствующую службу или тарифный план, то можете воспользоваться услугами Преимущества FastTrack Center для Windows 10.</span><span class="sxs-lookup"><span data-stu-id="24cb6-104">You use the FastTrack Center Benefit for Windows 10 when you purchase  at least  150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="24cb6-105">В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки и развернуть Windows 10, а также координировать преимущества FastTrack Center для Office 365 профессиональный плюс.</span><span class="sxs-lookup"><span data-stu-id="24cb6-105">You then work with FastTrack Specialists to assess, remediate, and deploy Windows 10 and coordinate FastTrack Center benefits for Office 365 ProPlus.</span></span> <span data-ttu-id="24cb6-106">Служба Assure для классических приложений обеспечивает доступность специалиста FastTrack, который предоставляет рекомендации и руководства по исправлению в случае возникновения проблем с совместимостью приложений.</span><span class="sxs-lookup"><span data-stu-id="24cb6-106">The Desktop App Assure service makes a FastTrack Specialist available who provides advisory and remediation guidance if you encounter app compatibility issues.</span></span>  <span data-ttu-id="24cb6-107">Специалисты FastTrack также предоставляют руководство во время развертывания и обновления Windows 10 и Office 365 профессиональный плюс.</span><span class="sxs-lookup"><span data-stu-id="24cb6-107">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10 and Office 365 ProPlus.</span></span> <span data-ttu-id="24cb6-108">Эти преимущества службы доступны бесплатно при использовании поддерживаемой подписки, входящей в список [поддерживаемых служб и тарифных планов](M365-eligible-services-and-plans.md) FastTrack.</span><span class="sxs-lookup"><span data-stu-id="24cb6-108">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="c58de-104">Если вы приобретаете не менее 150 лицензий на соответствующую службу или тарифный план, то можете воспользоваться услугами Преимущества FastTrack Center для Windows 10.</span><span class="sxs-lookup"><span data-stu-id="c58de-104">You use the FastTrack Center Benefit for Windows 10 when you purchase  at least  150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="c58de-105">В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки и развернуть Windows 10, а также координировать преимущества FastTrack Center для Office 365 профессиональный плюс.</span><span class="sxs-lookup"><span data-stu-id="c58de-105">You then work with FastTrack Specialists to assess, remediate, and deploy Windows 10 and coordinate FastTrack Center benefits for Office 365 ProPlus.</span></span> <span data-ttu-id="c58de-106">Служба Assure для классических приложений обеспечивает доступность специалиста FastTrack, который предоставляет рекомендации и руководства по исправлению в случае возникновения проблем с совместимостью приложений.</span><span class="sxs-lookup"><span data-stu-id="c58de-106">The Desktop App Assure service makes a FastTrack Specialist available who provides advisory and remediation guidance if you encounter app compatibility issues.</span></span>  <span data-ttu-id="c58de-107">Специалисты FastTrack также предоставляют руководство во время развертывания и обновления Windows 10 и Office 365 профессиональный плюс.</span><span class="sxs-lookup"><span data-stu-id="c58de-107">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10 and Office 365 ProPlus.</span></span> <span data-ttu-id="c58de-108">Эти преимущества службы доступны бесплатно при использовании поддерживаемой подписки, входящей в список [поддерживаемых служб и тарифных планов](M365-eligible-services-and-plans.md) FastTrack.</span><span class="sxs-lookup"><span data-stu-id="c58de-108">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="24cb6-109">В целях настоящего документа под специалистами FastTrack подразумеваются как сотрудники Майкрософт, так и утвержденные Майкрософт поставщики услуг и партнеры.</span><span class="sxs-lookup"><span data-stu-id="24cb6-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="c58de-109">В целях настоящего документа под специалистами FastTrack подразумеваются как сотрудники Майкрософт, так и утвержденные Майкрософт поставщики услуг и партнеры.</span><span class="sxs-lookup"><span data-stu-id="c58de-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
     
-- [<span data-ttu-id="24cb6-110">Windows 10</span><span class="sxs-lookup"><span data-stu-id="24cb6-110">Windows 10</span></span>](Win-10-windows-10.md)
-- [<span data-ttu-id="24cb6-111">Служба Assure для классических приложений</span><span class="sxs-lookup"><span data-stu-id="24cb6-111">Desktop App Assure</span></span>](Win-10-desktop-app-assure.md)
+- [<span data-ttu-id="c58de-110">Windows 10</span><span class="sxs-lookup"><span data-stu-id="c58de-110">Windows 10</span></span>](Win-10-windows-10.md)
+- [<span data-ttu-id="c58de-111">Служба Assure для классических приложений</span><span class="sxs-lookup"><span data-stu-id="c58de-111">Desktop App Assure</span></span>](Win-10-desktop-app-assure.md)
   
 
   
