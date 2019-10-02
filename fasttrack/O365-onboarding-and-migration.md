@@ -3,19 +3,19 @@ title: Этапы подключения и миграции
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Подключение к Office 365 предусматривает четыре основных этапа: подготовка, оценка, исправление и включение. За этими этапами может следовать этап переноса данных.'
-ms.openlocfilehash: c254b95ae5227d07dc646b9db2ffc670ee9ece9a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712239"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342418"
 ---
 # <a name="onboarding-and-migration-phases"></a>Фазы подключения и миграции
 
@@ -200,16 +200,6 @@ ms.locfileid: "36712239"
 - Развертывание с помощью Microsoft System Center Configuration Manager, а также создание пакета System Center Configuration Manager.
     
 ![Этапы входящей миграции Office профессиональный плюс](media/O365-Onboarding-Enable-OProPlus.png)
-  
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-Мы предоставляем руководство по следующим вопросам:
-- Подтверждение того, что приложение Microsoft StaffHub включено для клиента Office 365:.
-- Включение или отключение пользовательских лицензий.
-- Основные функции продукта. 
-- Расположения для скачивания в случае Microsoft StaffHub.
-    
-![Этапы подключения Microsoft StaffHub](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook для iOS и Android
 
