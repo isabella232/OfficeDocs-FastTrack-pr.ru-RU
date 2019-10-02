@@ -3,19 +3,19 @@ title: Обязанности специалистов FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: 4e2383b2654fb1218bbb2cb9913e6cbf6b94572a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712166"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342298"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
@@ -225,14 +225,6 @@ ms.locfileid: "36712166"
 - Выбор и настройка локальной или облачной установки.
 - Создание XML-файла конфигурации средства развертывания Office с помощью центра развертывания Office или встроенного XML-файла для настройки пакета развертывания.
 - Развертывание с помощью System Center Configuration Manager, а также создание пакета System Center Configuration Manager.
-    
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-Вы можете получить помощь по указанным ниже вопросам.
-- Подтверждение того, что рабочее пространство Microsoft StaffHub включено в клиенте Office 365:.
-- Включение или отключение пользовательских лицензий.
-- Основные функции продукта.
-- Места для скачивания Microsoft StaffHub.
     
 ## <a name="outlook-for-ios-and-android"></a>Outlook для iOS и Android
 

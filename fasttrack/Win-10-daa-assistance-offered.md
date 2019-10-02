@@ -3,19 +3,19 @@ title: Предлагаемая помощь
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При приобретении любых служб Windows 10 или Microsoft 365 специалисты FastTrack предоставляют советы и рекомендации по устранению проблем при развертывании Windows 10 и Office 365 профессиональный плюс и по своевременному обновлению без дополнительной платы (при наличии соответствующей подписки).
-ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712251"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342574"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
@@ -51,7 +51,9 @@ ms.locfileid: "36712251"
 Список обязанностей клиента включает:
 - Создание ведомости приложения
 - Проверки работы данных приложений в Windows 10 и Office 365 профессиональный плюс.
+
 > [!NOTE]
-> Специалисты Майкрософт не могут вносить изменения в ваш исходный код. Однако группа Desktop App Assure предоставляет руководство для разработчиков приложений, если для приложений доступен исходный код. [!NOTE]
-> FastTrack не может исправлять недостатки более ранних версий приложений независимых поставщиков ПО, надстроек или макросов при наличии более новых версий, которые поддерживаются в Windows 10 и Office 365 профессиональный плюс. [!NOTE]
+> Специалисты Майкрософт не могут вносить изменения в ваш исходный код. Однако группа Desktop App Assure предоставляет руководство для разработчиков приложений, если для приложений доступен исходный код.
+
+> [!NOTE]
 > Свяжитесь с [партнером Майкрософт](https://go.microsoft.com/fwlink/?linkid=2080150) для получения помощи по работе со службами, определенными как выходящие за пределы области.

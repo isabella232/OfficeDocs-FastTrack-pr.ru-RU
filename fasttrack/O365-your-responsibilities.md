@@ -3,19 +3,19 @@ title: Ваши обязанности
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: В процессе подключения вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: 60bdfd0ba6a9d9840a8cdaaa64506c0aba8b1716
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 30e23a54e511e978c58fd3654ee160c1c7b74c1b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712107"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342154"
 ---
 # <a name="your-responsibilities"></a>Ваши обязанности
 
@@ -99,8 +99,6 @@ ms.locfileid: "36712107"
 - Реализация клиентской инфраструктуры.  
 - Реализация подхода к подготовке пользователей согласно указаниям Майкрософт.  
 - Включение различных служб согласно указаниям Майкрософт.  
-- Получение идентификатора Apple ID при настройке управления мобильными устройствами (MDM).   
-- Обновление сертификата службы push-уведомлений Apple (APNS).
     
 \*Сведения о ваших обязанностях в отношении Office 365 для государственных организаций США см. в статье [Ваши обязанности применительно к Office 365 для государственных организаций США](US-Gov-appendix-your-responsibilities.md).
   
