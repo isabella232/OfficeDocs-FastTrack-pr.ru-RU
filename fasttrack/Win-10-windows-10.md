@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Специалисты FastTrack предоставляют руководство по развертыванию Windows 10, помогающее обновить Windows 7 Профессиональная и Windows 8.1 Профессиональная до Windows 10 Корпоративная.
-ms.openlocfilehash: ffbbde094e77bfc5ddf6155a318e7534e2a1c666
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e9999306b8ac1a6916562eb7ac0f422622c834da
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342658"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921573"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -24,6 +24,7 @@ ms.locfileid: "37342658"
 - Развернуть Windows 10 Корпоративная с помощью Microsoft System Center Configuration Manager или Microsoft 365.
 - Развернуть Office 365 профессиональный плюс. 
 - Обновить Windows 10 Корпоративная и Office 365 профессиональный плюс с помощью System Center Configuration Manager или Microsoft 365.
+- Подключить к облаку диспетчер конфигураций с Microsoft Intune или развернуть Intune в качестве единственного решения для управления облаком.
   
 > [!NOTE]
 > FastTrack предоставляет пользователям рекомендации и советы для достижения быстрых и предсказуемых результатов. Если вы выполните развертывание без учета этих рекомендаций, это может сказаться на удобстве использования. Руководство включает в себя как устные, так и письменные инструкции. Когда специалисты FastTrack предоставляют руководство, они не могут действовать от вашего имени. Пока ваша подписка активна, вы можете использовать FastTrack для соответствующих планов.  

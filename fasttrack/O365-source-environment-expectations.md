@@ -3,19 +3,19 @@ title: Требования к исходной среде
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Преимущество FastTrack Center включает руководство по настройке уровней интеграции с исходной средой (например, если в исходной среде уже есть службы, которые требуется переместить в Office 365).
-ms.openlocfilehash: ab6553f543dceeb7061ae4ad6503c87ccefc1255
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: c53bdc7eb149a43e7ee254e3e20957fb712d6359
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342178"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922612"
 ---
 # <a name="source-environment-expectations"></a>Требования к исходной среде
 
