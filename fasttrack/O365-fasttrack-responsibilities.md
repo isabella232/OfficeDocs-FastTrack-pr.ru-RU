@@ -3,19 +3,19 @@ title: Обязанности специалистов FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342298"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921585"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
@@ -88,7 +88,7 @@ ms.locfileid: "37342298"
   - Установка и настройка WAP для публикации инфраструктуры AD FS в Интернете.
     > [!NOTE]
     > Для любых конфигураций с несколькими лесами услуги по развертыванию AD FS не предусмотрены. 
-- Тестирование функций службы единого входа, если она развернута.
+- Тестирование функций службы простого единого входа, если она развернута.
 - Успешное внедрение и оценка служб.
     
 \*\*Дополнительные сведения об ограничениях сквозной проверки подлинности см. в статье [Текущие ограничения сквозной проверки подлинности Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=860356). 
@@ -100,9 +100,10 @@ ms.locfileid: "37342298"
 Вы можете получить помощь по указанным ниже вопросам.
 - созданию или обновлению записей DNS; 
 - Включение маршрутизации электронной почты между исходной системой обмена сообщениями и средой Office 365:. 
-- Настройка функций Exchange Online Protection, защиты от потери данных (DLP) и шифрования сообщений Office 365 (в том числе функций Exchange Online Advanced Threat Protection, если они доступны в вашей подписке) и проверка записей MX (они должны указывать на Office 365) для всех проверенных доменов, поддерживающих почту.
+- Настройка функций Exchange Online Protection, защиты от потери данных (DLP) и шифрования сообщений Office 365, а также Office 365 Advanced Threat Protection (ATP), (если они доступны в вашей подписке) и проверка записей MX (они должны указывать на Office 365) для всех проверенных доменов, поддерживающих почту.
 - Настройка гибридных функций либо для одной локальной организации Exchange и Office 365 *, либо* для нескольких локальных организаций Exchange и Office 365. 
 - Настройка почтовых клиентов (Outlook для Windows, Outlook в Интернете, Outlook для iOS и Android).
+- Настройка автоматизации, исследования и ответа на Office 365 ATP (если доступно в вашей подписке).
     
 Дополнительные сведения об обязанностях при переносе данных см. в статье [Перенос данных](O365-data-migration.md).
   
@@ -139,6 +140,16 @@ ms.locfileid: "37342298"
 - Как настроить перенаправление из SharePoint Online в гибридную среду OneDrive для бизнеса (только для SharePoint 2013 и SharePoint 2016).
 - Перенос данных (если используется служба переноса данных FastTrack Center, а организация соответствует требованиям).
     
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+
+Вы можете получить помощь по указанным ниже вопросам.
+- Включение безопасных ссылок.
+- Включение безопасных вложений.
+- Включение политик защиты от фишинга.
+- Настройка автоматизации, исследования и ответа.
+- Использование имитатора атак.
+- Отчеты и анализ угроз.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Вы можете получить помощь по указанным ниже вопросам.
