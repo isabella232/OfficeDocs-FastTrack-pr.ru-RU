@@ -3,19 +3,19 @@ title: Этапы подключения и миграции
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Подключение к Office 365 предусматривает четыре основных этапа: подготовка, оценка, исправление и включение. За этими этапами может следовать этап переноса данных.'
-ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 21b201c4c9d88c3b92c815beeef3e6ae46c3b73a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342418"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922645"
 ---
 # <a name="onboarding-and-migration-phases"></a>Фазы подключения и миграции
 
@@ -97,9 +97,13 @@ ms.locfileid: "37342418"
 - Настройка функций Exchange Online Protection (EOP) для всех доменов, поддерживающих почту и проверенных в Office 365.
     > [!NOTE]
     > Записи обмена электронной почтой (MX) должны указывать на Office 365. 
-- Настройка функции Exchange Online Advanced Threat Protection (ATP), если она входит в состав подписки. Это выполняется, когда записи MX указывают на Office 365. Эта функция настраивается вместе с другими параметрами защиты от вредоносного ПО в Exchange Online Protection.
+- Настройка функции Office 365 Advanced Threat Protection (ATP), если она включена в вашу подписку. Дополнительные сведения см. в статье [Office 365 Advanced Threat Protection](#office-365-advanced-threat-protection).
 - Настройка функции защиты от потери данных (DLP) для всех доменов с включенной поддержкой почты, проверенных в Office 365 в рамках подписки. Это выполняется, когда записи MX указывают на Office 365.
 - Настройка шифрования сообщений Office 365 (OME) для всех доменов с включенной поддержкой почты, проверенных в Office 365 в рамках подписки. Это выполняется, когда записи MX указывают на Office 365.
+
+> [!NOTE]
+> Служба репликации почтовых ящиков (MRS) попытается перенести сообщения с управляемыми правами на доступ к данным (IRM) из локального почтового ящика в соответствующий почтовый ящик Exchange Online. Возможность чтения защищенных данных после переноса зависит от сопоставления клиентом шаблонов службы Active Directory Rights Managed Services (AD RMS) и их копирования в службу Azure Rights Management Service (Azure RMS).
+
 - Настройка портов брандмауэра.
 - Настройка DNS, в том числе обязательного автообнаружения, инфраструктуры политики отправителей и записей MX (при необходимости). 
 - Настройка потока обработки почты между исходной средой обмена сообщениями и Exchange Online (при необходимости).
@@ -128,6 +132,14 @@ ms.locfileid: "37342418"
   
 ![Этапы входящей миграции OneDrive во время фазы активации](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+
+Вы можете получить помощь с Office 365 ATP по следующим вопросам:
+- Включение компонентов "Безопасные ссылки", "Безопасные вложения" и защиты от фишинга. 
+- Настройка автоматизации, исследований и ответов.
+- Использование эмулятора атак.
+- Отчеты и анализ угроз.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Мы предоставляем руководство по следующим вопросам:
