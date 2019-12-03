@@ -3,19 +3,19 @@ title: Поддерживаемые службы и тарифные планы
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 47f0a830a289974b8cfe370101d4049f3f19816f
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921177"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662772"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -72,6 +72,7 @@ ms.locfileid: "37921177"
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
+- Microsoft 365 F1*
 - Microsoft 365 бизнес\*
     
  **Microsoft 365 для образования**
@@ -164,8 +165,6 @@ ms.locfileid: "37921177"
 |**Microsoft Intune**    |   Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.      |
 |**Microsoft Intune и Configuration Manager**     |    Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.     |
 |**Microsoft Intune для образовательных учреждений**     |  Поддерживается при приобретении в виде автономного плана или в составе плана A3 или A5.       |
-|**Расширенная защита от угроз Azure**     |    Ограниченная поддержка. Поддерживается только при приобретении в виде автономного плана. Для этого перейдите на [портал Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
-|**Microsoft Cloud App Security**    |       Ограниченная поддержка. Поддерживается только при приобретении в виде автономного плана. Для этого перейдите на [портал Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
 Дополнительные сведения см. в статье [Преимущество FastTrack Center для Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)
 
