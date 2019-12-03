@@ -3,19 +3,19 @@ title: Этапы входящей миграции и миграции для O
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Входящая миграция Office 365 для Office 365 США состоит из четырех основных этапов: инициации, оценки, исправления и включения. Вы можете выполнить эти этапы с помощью необязательного этапа миграции данных, как показано на следующем рисунке.'
-ms.openlocfilehash: fc6f89d64ee78089c584014a080d8739e94239eb
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: f1c208654cf85e7c9f5211a0275d43153185e2e2
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921977"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39663484"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы входящей миграции и миграции для Office 365 для государственных организаций США
 
@@ -36,7 +36,7 @@ ms.locfileid: "37921977"
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Выберите **FastTrack**.
-3.  Выберите **Сервисы**.
+3.  Выберите **Услуги**.
 4.  Заполните форму **Запрос помощи с Microsoft 365**. 
 
 Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
