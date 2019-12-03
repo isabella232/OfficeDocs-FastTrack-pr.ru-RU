@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 65be29729f38b3007399b05b495b56f641680878
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 71030fee255c784f57ed4ee880b6bc01087d5a1b
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921105"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662860"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
@@ -148,7 +148,7 @@ ms.locfileid: "37921105"
 
   - Интеграция до трех (3) или более приложений в виде услуги (SaaS) с единым входом из [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
-  - Автоматическая подготовка пользователей для предварительно интегрированных приложений SaaS, перечисленных в [списке руководства по интеграции приложений](https://docs.microsoft.com/ru-RU/azure/active-directory/saas-apps/tutorial-list), ограниченных только исходящей подготовкой.
+  - Автоматическая подготовка пользователей для предварительно интегрированных приложений SaaS, перечисленных в [списке руководства по интеграции приложений](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), ограниченных только исходящей подготовкой.
 
   - Настраиваемый экран входа в систему, включая логотип, текст и изображения.
 

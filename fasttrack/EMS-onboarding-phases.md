@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 8f850c133d18ea42b50f3c4333092d5358d8b1c8
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 858294224aa18dc3f2aae927630498f49afeb872
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921597"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662920"
 ---
 # <a name="onboarding-phases"></a>Этапы подключения
 
@@ -103,7 +103,7 @@ ms.locfileid: "37921597"
 
 -   Интеграция до трех (3) или более приложений в виде услуги (SaaS) с единым входом из [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
--   Автоматическая подготовка пользователей для предварительно интегрированных приложений SaaS, перечисленных в [списке руководства по интеграции приложений](https://docs.microsoft.com/ru-RU/azure/active-directory/saas-apps/tutorial-list), ограниченных только исходящей подготовкой.
+-   Автоматическая подготовка пользователей для предварительно интегрированных приложений SaaS, перечисленных в [списке руководства по интеграции приложений](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), ограниченных только исходящей подготовкой.
 
 -   Настраиваемый экран входа в систему, включая логотип, текст и изображения.
 
@@ -280,7 +280,7 @@ FastTrack поддерживает следующие сценарии Autopilot
 Поддержка также предоставляется пользователям, которые хотят применять защиту с помощью служб Microsoft Azure Rights Management (Azure RMS), шифрования сообщений Office 365 (OME) и защиты от потери данных (DLP).
 
 > [!NOTE]
-> **Хотите узнать больше?** См. статью [Enterprise Mobility + Security](https://www.microsoft.com/ru-RU/cloud-platform/enterprise-mobility).
+> **Хотите узнать больше?** См. статью [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Дальнейшие действия
 
