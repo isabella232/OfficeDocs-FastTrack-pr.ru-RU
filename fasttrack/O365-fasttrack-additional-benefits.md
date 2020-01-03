@@ -3,18 +3,18 @@ title: Приложение Б. Дополнительное преимущес
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Пользователи, которые приобрели не менее 20 000 лицензий на клиент Exchange Online, получают право на дополнительные услуги FastTrack Center. Дополнительные сведения см. в статье "Подходящие службы и планы".
-ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662872"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929213"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Приложение Б. Дополнительное преимущество FastTrack Center
 
@@ -102,7 +102,6 @@ ms.locfileid: "39662872"
 
 - Предоставление руководства по сосуществованию одного дерева общедоступных папок, в том числе указания по:  
   - подготовке общедоступных папок в Exchange 2007, Exchange 2010 и Exchange 2013; 
-  - командлетам Windows PowerShell, необходимым для синхронизации иерархии общедоступных папок Exchange 2007, Exchange 2010 и Exchange 2013 с Exchange Online;  
   - настройке Exchange Online для перенаправления доступа к общедоступным папкам, чтобы вместо папок из облака открывались локальные;  
   - настройке доступа к общедоступным папкам из Exchange Online в единой локальной среде Exchange 2007, Exchange 2010 или Exchange 2013;  
   - проверке доступа к среде общедоступных папок для не более 10 пользователей в Exchange Online.

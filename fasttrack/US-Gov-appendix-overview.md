@@ -1,22 +1,22 @@
 ---
-title: Приложение D. Обзор преимущества FastTrack Center для Office 365 US Government
+title: Приложение D. Обзор преимуществ FastTrack Center в Office 365 для государственных организаций США
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Благодаря преимуществам FastTrack Center для Office 365 вы работаете с специалистами FastTrack, чтобы подготовить среду Office 365 к использованию и спланировать развертывание и использование в вашей организации.
-ms.openlocfilehash: b5f529d23b9d7b766dff37e656e8bee08aec0c2c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 65ba566d024232879814d594cf761900df83301b
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663472"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929321"
 ---
-# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Приложение D. Обзор преимущества FastTrack Center для Office 365 US Government
+# <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Приложение D. Обзор преимуществ FastTrack Center в Office 365 для государственных организаций США
 
 Благодаря преимуществам FastTrack Center для Office 365 вы работаете с специалистами FastTrack, чтобы подготовить среду Office 365 к использованию и спланировать развертывание и использование в вашей организации. 
   
