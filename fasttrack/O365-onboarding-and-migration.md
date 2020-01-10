@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Подключение к Office 365 предусматривает четыре основных этапа: подготовка, оценка, исправление и включение. За этими этапами может следовать этап переноса данных.'
-ms.openlocfilehash: d40e0733bf0257faa7c5c39195377cd5872652c4
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 919908648177a45a9544d8980c11344064d4c4bd
+ms.sourcegitcommit: b5a887ad5e592a469476af3716634ec64a1afe4a
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928781"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40988439"
 ---
 # <a name="onboarding-and-migration-phases"></a>Фазы подключения и миграции
 
@@ -139,6 +139,8 @@ ms.locfileid: "40928781"
 - Настройка автоматизации, исследований и ответов.
 - Использование эмулятора атак.
 - Отчеты и анализ угроз.
+
+![Схема Office 365 ATP (подключение)](media/Office-365-Advanced-Threat-Protector-orange-3.png)
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
