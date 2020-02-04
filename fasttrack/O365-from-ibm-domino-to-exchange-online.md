@@ -3,19 +3,19 @@ title: Приложение А. Миграция с IBM Domino в Exchange On
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Переход с IBM Domino на Exchange Online включает ряд важных аспектов, в том числе действия, выполняемые в ходе следующих этапов:'
-ms.openlocfilehash: 17d7b6669dbd5f8647ee7dcf7218f898ddac59fc
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 8221d1657f6ccbcf51178aada4f5ac10531832f1
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929273"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677119"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Приложение А. Миграция с IBM Domino в Exchange Online
 

@@ -3,19 +3,19 @@ title: Перенос данных
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Специалисты FastTrack предоставляют рекомендации по этапам переноса данных в Office 365. Такие услуги доступны соответствующим требованиям пользователям служб Office 365 для Exchange Online, OneDrive для бизнеса и SharePoint Online.
-ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
-ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
+ms.openlocfilehash: 7446a22f1389085220a99c01a6c10c5b7bcde6ae
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40959203"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677059"
 ---
 # <a name="data-migration"></a>Перенос данных
 

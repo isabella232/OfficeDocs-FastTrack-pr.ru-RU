@@ -3,19 +3,19 @@ title: Предлагаемая помощь
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При покупке любой службы Windows 10 или Microsoft 365 специалисты FastTrack помогут выполнить удаленное развертывание для защиты конечных точек. Наша служба адаптирована к среде и потребностям каждого клиента.
-ms.openlocfilehash: d9ac7129a10e59198c5c60e131ae019598a2a4db
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 7496b42c0fde63e950f687254e1e52085aada551
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929189"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677269"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
@@ -24,9 +24,6 @@ ms.locfileid: "40929189"
 - Оценка состояния антивирусных служб Windows или других программ для обеспечения безопасности конечных точек.
 - Оценка прокси-серверов и брандмауэров, ограничивающих сетевой трафик.
 - Определение спонсоров, планов развертывания, дат начала и частоты проведения собраний службы поддержки.
-
-> [!NOTE]
-> На данный момент помощь предоставляется только на английском языке. 
 
 ## <a name="assistance"></a>Помощь
 
@@ -45,6 +42,10 @@ ms.locfileid: "40929189"
 Специалисты FastTrack не предоставляют следующую помощь:
 - Управление проектами, связанное с действиями клиента по внесению исправлений.
 - Поддержка на месте.
+- Подключение и настройка следующих агентов ATP в Microsoft Defender:
+   - Windows Server
+   - macOS
+   - Linux
 - Аппаратная изоляция, управление приложениями, защита от эксплойтов, помощь с использованием сетевого брандмауэра.
 - Текущее управление и реагирование на угрозы.
 

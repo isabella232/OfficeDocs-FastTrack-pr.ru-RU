@@ -3,18 +3,18 @@ title: Приложение Б. Дополнительное преимущес
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Пользователи, которые приобрели не менее 20 000 лицензий на клиент Exchange Online, получают право на дополнительные услуги FastTrack Center. Дополнительные сведения см. в статье "Подходящие службы и планы".
-ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929213"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41676651"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Приложение Б. Дополнительное преимущество FastTrack Center
 
