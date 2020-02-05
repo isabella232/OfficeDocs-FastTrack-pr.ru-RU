@@ -3,19 +3,19 @@ title: Поддерживаемые службы и тарифные планы
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
-ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
+ms.openlocfilehash: be16cbd7248d9a05b75ea9bcccb48f0580febca6
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40959179"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677023"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -79,6 +79,7 @@ ms.locfileid: "40959179"
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
+- Microsoft 365 A5 Security\*
  
 ## <a name="eligible-office-365-plans"></a>Поддерживаемые планы Office 365
 
@@ -157,14 +158,35 @@ ms.locfileid: "40959179"
 
 ## <a name="eligible-enterprise-mobility--security-plans"></a>Поддерживаемые планы Enterprise Mobility + Security
 
-|План    |Сведения о поддержке  |
-|---------|---------|
-|**Enterprise Mobility + Security (EMS) в плане E3 или E5**       |   Доступно для облачных служб с поддержкой преимуществ FastTrack. В ином случае выполняется перенаправление к специалисту FastTrack или для получения рекомендации партнера.        |
-|**Azure Active Directory Premium**     |  Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.       |
-|**Azure Information Protection**    |  Доступно для плана 2 в составе плана E5 или для автономного плана. Доступно для облачных служб, в которых можно использовать преимущества FastTrack. Для облачных служб плана 1 в FastTrack предоставляется руководство по самостоятельному развертыванию.       |
-|**Microsoft Intune**    |   Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.      |
-|**Microsoft Intune и Configuration Manager**     |    Поддерживается при приобретении в виде автономного плана или в составе плана E3 или E5.     |
-|**Microsoft Intune для образовательных учреждений**     |  Поддерживается при приобретении в виде автономного плана или в составе плана A3 или A5.       |
+**Enterprise Mobility + Security** 
+
+- Enterprise Mobility + Security (EMS) E3\*\*\*\*
+- Enterprise Mobility + Security (EMS) E5\*\*\*\*
+
+**Azure Active Directory Premium**
+
+- Azure Active Directory Premium (план 1)
+- Azure Active Directory Premium (план 2)
+
+**Azure Information Protection**
+
+- Azure Information Protection (план 2)\*\*\*\*\*
+
+**Microsoft Intune**
+
+- Microsoft Intune
+
+**Microsoft Intune и Configuration Manager**
+
+- Microsoft Intune и Configuration Manager
+
+**Microsoft Intune для образовательных учреждений**
+
+- Microsoft Intune для образовательных учреждений
+
+\*\*\*\*Доступно для облачных служб, в которых можно использовать преимущества FastTrack. В противном случае выполняется перенаправление к специалисту FastTrack или для получения рекомендации партнера.
+
+\*\*\*\*\*Доступно для плана 2 в составе плана E5 или для автономного плана. Доступно для облачных служб, в которых можно использовать преимущества FastTrack. Для облачных служб плана 1 в FastTrack предоставляется руководство по самостоятельному развертыванию.
 
 Дополнительные сведения см. в статье [Преимущество FastTrack Center для Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)
 
