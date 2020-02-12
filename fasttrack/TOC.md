@@ -26,5 +26,7 @@
 #### [Ваши обязанности](Win-10-your-responsibilities.md)
 ### [Служба Assure для приложений](Win-10-app-assure.md)
 #### [Предлагаемая помощь](Win-10-app-assure-assistance-offered.md)
+### [Microsoft Edge](Win-10-microsoft-edge.md)
+#### [Предлагаемая помощь](Win-10-microsoft-edge-assistance-offered.md)
 ### [Advanced Threat Protection в Microsoft Defender](Win-10-microsoft-defender-atp.md)
 #### [Предлагаемая помощь](Win-10-microsoft-defender-atp-assistance-offered.md)
