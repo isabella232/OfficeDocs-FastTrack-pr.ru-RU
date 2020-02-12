@@ -1,0 +1,52 @@
+### YamlMime:Hub
+title: Документация и ресурсы по Microsoft FastTrack
+summary: Узнайте, как Microsoft FastTrack помогает клиентам развертывать облачные решения Майкрософт. Клиенты с подписке на Microsoft 365, Azure или Dynamics 365 могут использовать FastTrack без дополнительных затрат на срок действия подписки.
+brand: m365
+metadata:
+  title: Документация и ресурсы по Microsoft FastTrack
+  description: Узнайте, как Microsoft FastTrack помогает клиентам развертывать облачные решения Майкрософт. Клиенты с подписке на Microsoft 365, Azure или Dynamics 365 могут использовать FastTrack без дополнительных затрат на срок действия подписки.
+  ms.service: microsoft-365-enterprise
+  ms.topic: hub-page
+  audience: ITPro
+  author: samanro
+  ms.author: samanro
+  ms.date: 07/03/2019
+  localization_priority: Priority
+  ms.openlocfilehash: c890da55f729c321c506493ada7be8b11395e0e7
+  ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+  ms.translationtype: MT
+  ms.contentlocale: ru-RU
+  ms.lasthandoff: 02/11/2020
+  ms.locfileid: "41891769"
+conceptualContent:
+  items:
+  - title: FastTrack для Microsoft 365
+    links:
+    - url: /fasttrack/m365-fasttrack-benefit-overview
+      itemType: overview
+      text: Обзор
+    - url: /fasttrack/O365-fasttrack-benefit-for-office-365
+      itemType: concept
+      text: Office 365;
+    - url: /enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program
+      itemType: concept
+      text: Enterprise Mobility + Security;
+    - url: /fasttrack/win-10-fasttrack-benefit-for-windows-10
+      itemType: concept
+      text: Windows 10.
+  - title: FastTrack для Azure
+    links:
+    - url: https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03
+      itemType: overview
+      text: Основные преимущества
+    - url: https://azure.microsoft.com/programs/azure-fasttrack/partners/
+      itemType: concept
+      text: FastTrack для партнеров Azure
+  - title: FastTrack для Dynamics 365
+    links:
+    - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
+      itemType: overview
+      text: Общие сведения о службах взаимодействия с клиентами
+    - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
+      itemType: concept
+      text: Dynamics для операций & финансов
