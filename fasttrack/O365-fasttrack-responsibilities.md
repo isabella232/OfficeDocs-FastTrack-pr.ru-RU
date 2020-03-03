@@ -3,19 +3,19 @@ title: Обязанности специалистов FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: c8bbd015252265f7742c071b04c79e3b9d2c884c
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677107"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347771"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
@@ -152,7 +152,7 @@ ms.locfileid: "41677107"
 - Настройка параметров обновления с помощью средства развертывания Office 365.
 - Выбор и настройка локальной или облачной установки.
 - Создание XML-файла конфигурации средства развертывания Office с помощью центра развертывания Office или встроенного XML-файла для настройки пакета развертывания.
-- Развертывание с помощью System Center Configuration Manager, а также создание пакета System Center Configuration Manager.
+- Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.
     
 ## <a name="onedrive-for-business"></a>OneDrive для бизнеса
 

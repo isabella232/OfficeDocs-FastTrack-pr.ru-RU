@@ -3,19 +3,19 @@ title: Предлагаемая помощь
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При приобретении любых служб Windows 10 или Microsoft 365 специалисты FastTrack предоставляют советы и рекомендации по устранению проблем при развертывании Windows 10 и Office 365 профессиональный плюс и по своевременному обновлению без дополнительной платы (при наличии соответствующей подписки).
-ms.openlocfilehash: 088901d2508acd679e261f3870476f8e21e79cdf
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677203"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347687"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
@@ -40,6 +40,8 @@ ms.locfileid: "41677203"
 
 - Если ваши веб-приложения или сайты работают в Internet Explorer 11, поддерживаемой версии Google Chrome или любой версии Microsoft Edge, они также будут работать в новой версии Microsoft Edge.
 
+Инструкции по развертыванию Microsoft Edge см. в статье [Обзор каналов Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). Так как Интернет постоянно развивается, мы публикуем список известных [изменений Microsoft Edge, влияющих на совместимость с сайтами](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
+
 ### <a name="windows-virtual-desktop"></a>Виртуальный рабочий стол Windows
 
 - Виртуализованные приложения, работающие на узле сеансов удаленных рабочих столов в Windows Server, также работают в Windows 10 Корпоративная с поддержкой нескольких сеансов в рамках виртуального рабочего стола Windows.
@@ -58,7 +60,7 @@ ms.locfileid: "41677203"
 
 ## <a name="out-of-scope"></a>Вне области поддержки
 
-Специалисты FastTrack не предоставляют следующую помощь:
+Услуги FastTrack не включают следующее:
 - Изучение и тестирование приложения с целью определения того, какие функции поддерживаются и не поддерживаются в Windows 10 и Office 365 профессиональный плюс. Дополнительные руководства по этому процессу см. на странице [Центр развертывания компьютеров](https://go.microsoft.com/fwlink/?linkid=2080140). Если вас интересует глубокая оценка готовности к обновлению, заполните форму [Запрос клиента на оценку современных компьютеров](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Анализ приложений независимых поставщиков программного обеспечения (ISV) на совместимость с Windows 10 и сведений о поддержке. Дополнительные сведения см. в разделе [Аналитика компьютеров](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Услуги по упаковке приложений. Команда App Assure упаковывает приложения, исправленные для Windows 10, чтобы обеспечить возможность их развертывания в среде клиента.

@@ -3,27 +3,27 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Специалисты FastTrack предоставляют руководство по развертыванию Windows 10, помогающее обновить Windows 7 Профессиональная и Windows 8.1 Профессиональная до Windows 10 Корпоративная.
-ms.openlocfilehash: ce40590a481465a3aa5ee5238935aa98627bb05b
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 8d959c773009f144b258d18629c18a94d5c180fb
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677305"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347519"
 ---
 # <a name="windows-10"></a>Windows 10
 
 Специалисты FastTrack предоставляют руководство по развертыванию Windows 10, помогающее обновить Windows 7 Профессиональная и Windows 8.1 Профессиональная до Windows 10 Корпоративная. Вы работаете со специалистами FastTrack, чтобы:
 
-- Развернуть Windows 10 Корпоративная с помощью Microsoft System Center Configuration Manager или Microsoft 365.
+- Развернуть Windows 10 Корпоративная с помощью Microsoft Endpoint Configuration Manager или Microsoft 365.
 - Развернуть Office 365 профессиональный плюс. 
-- Обновить Windows 10 Корпоративная и Office 365 профессиональный плюс с помощью System Center Configuration Manager или Microsoft 365.
+- Обновить Windows 10 Корпоративная и Office 365 профессиональный плюс с помощью Microsoft Endpoint Configuration Manager или Microsoft 365.
 - Подключить к облаку диспетчер конфигураций с Microsoft Intune или развернуть Intune в качестве единственного решения для управления облаком.
   
 > [!NOTE]
@@ -41,14 +41,14 @@ ms.locfileid: "41677305"
 
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Выберите **Услуги**.
-3.  Заполните форму **Запрос помощи с Microsoft 365**.
+2.  Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
+3.  Заполните форму **Запросить помощь с Microsoft 365**.
   
 Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Выберите **Мои пользователи**.
 3.  Найдите своего пользователя или выберите его в списке пользователей.
 4.  Выберите **Сервисы**.
-5.  Выберите форму **Запрос помощи с Microsoft 365**.
+5.  Выберите форму **Запросить помощь для Microsoft 365**.
 6.  Выберите продукт Windows 10 и заполните форму.
  

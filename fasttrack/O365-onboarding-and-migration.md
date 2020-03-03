@@ -3,19 +3,19 @@ title: Этапы подключения и миграции
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Подключение к Office 365 предусматривает четыре основных этапа: подготовка, оценка, исправление и включение. За этими этапами может следовать этап переноса данных.'
-ms.openlocfilehash: 3911394440de4577af53812aff80fcd1c5081069
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: c3716b2a55a2c04b58e19cf6530050cd843dcfdc
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677131"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347747"
 ---
 # <a name="onboarding-and-migration-phases"></a>Фазы подключения и миграции
 
@@ -38,15 +38,15 @@ ms.locfileid: "41677131"
 
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Выберите **Услуги**.
-3.  Заполните форму **Запрос помощи с Microsoft 365**. 
+2.  Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
+3.  Заполните форму **Запросить помощь с Microsoft 365**. 
   
 Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Выберите **Мои пользователи**.
 3.  Найдите своего пользователя или выберите его в списке пользователей.
-4.  Выберите **Услуги**.
-5.  Заполните форму **Запрос помощи с Microsoft 365**.
+4.  Выберите **Сервисы**.
+5.  Заполните форму **Запросить помощь с Microsoft 365**.
 
 Вы также можете запросить помощь FastTrack Center на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), открыв список доступных услуг для своего клиента. 
     
@@ -211,7 +211,7 @@ ms.locfileid: "41677131"
 - Настройка параметров обновления с помощью средства развертывания Office 365.   
 - Выбор и настройка локальной или облачной установки. 
 - Создание XML-файла конфигурации средства развертывания Office с помощью центра развертывания Office или встроенного XML-файла для настройки пакета развертывания.  
-- Развертывание с помощью Microsoft System Center Configuration Manager, а также создание пакета System Center Configuration Manager.
+- Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.
     
 ![Этапы входящей миграции Office профессиональный плюс](media/O365-Onboarding-Enable-OProPlus.png)
   

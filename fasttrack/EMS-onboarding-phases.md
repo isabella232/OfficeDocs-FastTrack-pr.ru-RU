@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 02f5a1c0c2bbbe2526f0ee0fcea9da844dae1f6a
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676807"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347507"
 ---
 # <a name="onboarding-phases"></a>Этапы подключения
 
@@ -32,25 +32,23 @@ ms.locfileid: "41676807"
 После приобретения необходимого количества лицензий следуйте указаниям из сообщения о подтверждении покупки, чтобы связать лицензии с имеющимся или новым клиентом. После этого корпорация Майкрософт проверяет ваше право на использование преимущества FastTrack Center и пытается связаться с вами, чтобы предложить помощь по подключению.
 
 > [!NOTE]
-> Также можно запросить помощь в [Центре FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), если вы готовы развернуть эти службы для своей организации.
+> Также можно запросить помощь на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), если вы готовы развернуть эти службы для своей организации.
 
 ### <a name="to-request-assistance"></a>Чтобы запросить помощь
 
 1. Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2. Выберите **FastTrack**.
-3. Выберите **Сервисы**.
-4. Заполните **форму "Запрос помощи с Microsoft 365"**.
+2. Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
+3. Заполните форму **Запросить помощь с Microsoft 365**.
 
 Когда начнется поддержка входящей миграции, мы составим расписание собраний по сети.
 
 Партнеры корпорации Майкрософт могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от имени клиента. Для этого:
 
 1. Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2. Выберите **FastTrack**.
-3. Выберите **Мои пользователи**.
-4. Найдите своего пользователя или выберите его в списке пользователей.
-5. Выберите **Сервисы**.
-6. Заполните **форму "Запрос помощи с Microsoft 365"**.
+2. Выберите **Мои пользователи**.
+3. Найдите своего пользователя или выберите его в списке пользователей.
+4. Выберите **Сервисы**.
+5. Заполните форму **Запросить помощь с Microsoft 365**.
 
 После запуска поддержки подключения специалисты FastTrack настроят для вас расписание собраний по сети, чтобы обсудить процесс подключения, проверить данные и подготовить установочное собрание.
 
@@ -123,6 +121,10 @@ ms.locfileid: "41676807"
 
 -   Проверки доступа Azure Active Directory.
 
+-   Защита пароля Azure Active Directory.
+
+-   Azure Active Directory B2B.
+
 ![Этап запуска подключения — Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
 ### <a name="enable-phase---intune"></a>Этап включения — Intune
@@ -162,7 +164,7 @@ ms.locfileid: "41676807"
 
             -   Решение для управления затратами на телекоммуникации (требуется подписка на решение для управления затратами на телекоммуникации).
 
-            -   Advanced Threat Protection в Защитнике Windows (требуется лицензия Windows E5 или Microsoft 365 E5).
+            -   Advanced Threat Protection в Microsoft Defender (требуется лицензия Windows E5 или Microsoft 365 E5).
 
     -   Регистрация устройств всех [поддерживаемых платформ](https://technet.microsoft.com/library/dn600287.aspx) в Intune.
 
@@ -242,7 +244,7 @@ FastTrack поддерживает следующие сценарии Autopilot
 
 - Добавление пользователей в подписку Intune, определение ролей ИТ-администраторов, а также создание групп пользователей и устройств.
 
-- Предоставление рекомендаций по переходу со службы Intune, интегрированной с System Center Configuration Manager (гибридная конфигурация), в автономную службу Intune.
+- Предоставление рекомендаций по переходу со службы Intune, интегрированной с Microsoft Endpoint Configuration Manager, в автономную службу Intune.
 
 - Предоставление рекомендаций по настройке Azure Active Directory для автоматической регистрации MDM.
 

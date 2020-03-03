@@ -3,18 +3,18 @@ title: Приложение Б. Дополнительное преимущес
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Пользователи, которые приобрели не менее 20 000 лицензий на клиент Exchange Online, получают право на дополнительные услуги FastTrack Center. Дополнительные сведения см. в статье "Подходящие службы и планы".
-ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676651"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347615"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Приложение Б. Дополнительное преимущество FastTrack Center
 
@@ -43,7 +43,7 @@ ms.locfileid: "41676651"
 Мы предоставляем руководство по следующим вопросам: 
 - Оценка и планирование, при которых особое внимание уделяется подготовке среды к начальному развертыванию и управлению обновлениями в соответствии с эффективными методиками корпорации Майкрософт. 
 - Определение конфигураций развертывания и настроек обновлений с помощью средства развертывания Office 365 и центра развертывания Office. 
-- Упаковка развертываний с помощью System Center Configuration Manager.  
+- Упаковка развертываний с помощью Microsoft Endpoint Configuration Manager.  
 - Предоставление возможности использовать набор средств Readiness Toolkit for Office для выявления проблем совместимости, которые могут возникнуть при использовании макросов Microsoft Visual Basic for Applications (VBA) и надстроек с Office.
     
 ## <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
