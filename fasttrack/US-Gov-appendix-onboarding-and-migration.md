@@ -3,19 +3,19 @@ title: Этапы входящей миграции и миграции для O
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Входящая миграция Office 365 для Office 365 США состоит из четырех основных этапов: инициации, оценки, исправления и включения. Вы можете выполнить эти этапы с помощью необязательного этапа миграции данных, как показано на следующем рисунке.'
-ms.openlocfilehash: 699b2f9229187df182e6d9fc6f2f7d49d9707174
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: eac974f67137a327b873b911a8c9906859fd3597
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676663"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347531"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы входящей миграции и миграции для Office 365 для государственных организаций США
 
@@ -35,19 +35,17 @@ ms.locfileid: "41676663"
 
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Выберите **FastTrack**.
-3.  Выберите **Услуги**.
-4.  Заполните форму **Запрос помощи с Microsoft 365**. 
+2.  Установите флажок **запросить помощь для microsoft 365** в разделе **быстрые действия** , расположенные в верхней части целевой страницы, или выбрав команду **запросить помощь для Microsoft 365** на карте развертывания.
+3. Заполните форму **запроса помощника для Microsoft 365** . 
 
 Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
 1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Выберите **FastTrack**.
-3.  Выберите **Мои пользователи**.
-4.  Найдите своего пользователя или выберите его в списке пользователей.
-5.  Выберите **Услуги**.
-6.  Заполните форму **Запрос помощи с Microsoft 365**.   
+2.  Выберите **Мои пользователи**.
+3.  Найдите своего пользователя или выберите его в списке пользователей.
+4.  Выберите **Сервисы**.
+5.  Заполните форму **запроса помощника для Microsoft 365** .   
 
-Вы также можете запросить помощь FastTrack Center на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), открыв список доступных услуг для своего клиента. 
+Вы также можете запросить помощь на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) в списке доступных для вашего клиента услуг. 
     
 На этом этапе мы обсудим процесс миграции, проверим данные и назначим начальное собрание.
   
@@ -186,7 +184,7 @@ ms.locfileid: "41676663"
 - Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile.   
 - Настройка параметров обновления с помощью средства развертывания Office 365.    
 - Настройка одного внутреннего сервера распространения для Office 365 профессиональный плюс, в том числе помощь по созданию файла configuration.xml для его последующего использования в средстве развертывания Office 365.    
-- Развертывание с помощью Microsoft System Center Configuration Manager, а также создание пакета System Center Configuration Manager.
+- Развертывание с помощью диспетчера конфигураций конечных точек Майкрософт, в том числе помощь по созданию упаковки диспетчера конфигураций конечных точек Майкрософт.
     
 ![Этапы входящей миграции Office профессиональный плюс](media/O365-Onboarding-Enable-OProPlus.png)
 

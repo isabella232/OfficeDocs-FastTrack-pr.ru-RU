@@ -3,19 +3,19 @@ title: Обязанности FastTrack для Office 365 для государ�
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: 502f3c7595de510caf98b51b7b2d0bd274d076e8
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 450106d47775f531cbfccdec978d3d15eedad5ac
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677035"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347459"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Обязанности FastTrack для Office 365 для государственных учреждений США
 
@@ -201,7 +201,7 @@ ms.locfileid: "41677035"
 - Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile.   
 - Настройка параметров обновления с помощью средства развертывания Office 2016 или шаблонов групповых политик.   
 - Настройка одного внутреннего сервера распространения для Office 365 профессиональный плюс, в том числе помощь по созданию файла configuration.xml для его последующего использования в средстве развертывания Office 365.   
-- Развертывание с помощью System Center Configuration Manager, а также создание пакета System Center Configuration Manager.
+- Развертывание с помощью диспетчера конфигураций конечных точек Майкрософт, в том числе помощь по созданию упаковки диспетчера конфигураций конечных точек Майкрософт.
 
     
 
