@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
+ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347507"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637395"
 ---
 # <a name="onboarding-phases"></a>Этапы подключения
 
@@ -71,7 +71,7 @@ ms.locfileid: "42347507"
 
 Перед началом этапа включения мы совместно с вами проверим результаты действий по устранению ошибок и убедимся, что вы готовы продолжить работу.
 
-## <a name="enable-phase"></a>Этап включения
+## <a name="enable-phase"></a>Фаза включения
 После выполнения всех задач по устранению ошибок проект переходит к этапу настройки базовой инфраструктуры использования сервисов и подготовки всех поддерживаемых облачных служб EMS.
 
 **Этап включения — базовые возможности**
@@ -266,7 +266,7 @@ FastTrack поддерживает следующие сценарии Autopilot
 
 ![Этап запуска подключения — Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![Этап запуска подключения — совместное управление](./media/ft-9-enable-phase-comanagement.png)
+![Этап запуска подключения — совместное управление](./media/ft-9-enable-phase-comanagement.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>Этап включения — Azure Information Protection
 
