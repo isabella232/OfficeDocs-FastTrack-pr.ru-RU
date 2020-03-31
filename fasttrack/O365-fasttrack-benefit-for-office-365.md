@@ -12,46 +12,47 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Если вы приобретаете не менее 150 лицензий на соответствующую службу или тарифный план для клиента Office 365, то можете воспользоваться услугами Преимущество FastTrack Center для Office 365. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти же специалисты помогут выполнить миграцию.
-ms.openlocfilehash: 246786daecd665a2e9e6d02ae7a1699ae135ab40
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9bb79dbf6c7dc770d460801048476e0e6e8ba8a8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347387"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052744"
 ---
-# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="b9789-105">Преимущество FastTrack Center для Office 365</span><span class="sxs-lookup"><span data-stu-id="b9789-105">FastTrack Center Benefit for Office 365</span></span>
+# <a name="fasttrack-center-benefit-for-office-365"></a><span data-ttu-id="a6a43-105">Преимущество FastTrack Center для Office 365</span><span class="sxs-lookup"><span data-stu-id="a6a43-105">FastTrack Center Benefit for Office 365</span></span>
 
-<span data-ttu-id="b9789-p102">Если вы приобретаете *не менее* 150 лицензий на соответствующую службу или тарифный план для клиента Office 365, то можете воспользоваться услугами Преимущество FastTrack Center для Office 365. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти же специалисты помогут выполнить миграцию.</span><span class="sxs-lookup"><span data-stu-id="b9789-p102">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.</span></span> 
+<span data-ttu-id="a6a43-p102">Если вы приобретаете *не менее* 150 лицензий на соответствующую службу или тарифный план для клиента Office 365, то можете воспользоваться услугами Преимущество FastTrack Center для Office 365. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти же специалисты помогут выполнить миграцию.</span><span class="sxs-lookup"><span data-stu-id="a6a43-p102">You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="b9789-109">В целях настоящего документа под специалистами FastTrack подразумеваются как сотрудники Майкрософт, так и утвержденные Майкрософт поставщики услуг и партнеры.</span><span class="sxs-lookup"><span data-stu-id="b9789-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="a6a43-109">В целях настоящего документа под специалистами FastTrack подразумеваются как сотрудники Майкрософт, так и утвержденные Майкрософт поставщики услуг и партнеры.</span><span class="sxs-lookup"><span data-stu-id="a6a43-109">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
   
-<span data-ttu-id="b9789-p103">Чтобы воспользоваться услугами FastTrack Center по переносу, у клиента Office 365 должно быть не менее 500 лицензий. Дополнительные сведения см. в статье [Миграция данных](O365-data-migration.md).</span><span class="sxs-lookup"><span data-stu-id="b9789-p103">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).</span></span>
+<span data-ttu-id="a6a43-p103">Чтобы воспользоваться услугами FastTrack Center по переносу, у клиента Office 365 должно быть не менее 500 лицензий. Дополнительные сведения см. в статье [Миграция данных](O365-data-migration.md).</span><span class="sxs-lookup"><span data-stu-id="a6a43-p103">To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).</span></span>
   
-<span data-ttu-id="b9789-112">Дополнительные сведения о доступных вам службах и планах см. в статье [Поддерживаемые службы и тарифные планы](M365-eligible-services-and-plans.md).</span><span class="sxs-lookup"><span data-stu-id="b9789-112">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="a6a43-112">Дополнительные сведения о доступных вам службах и планах см. в статье [Поддерживаемые службы и тарифные планы](M365-eligible-services-and-plans.md).</span><span class="sxs-lookup"><span data-stu-id="a6a43-112">To learn more about eligible services and plans, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
   
-<span data-ttu-id="b9789-113">Сведения о процессе FastTrack Center и обязанностях сторон см. в статье [Обзор Преимущества FastTrack Center](O365-fasttrack-benefit-overview.md).</span><span class="sxs-lookup"><span data-stu-id="b9789-113">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
+<span data-ttu-id="a6a43-113">Сведения о процессе FastTrack Center и обязанностях сторон см. в статье [Обзор Преимущества FastTrack Center](O365-fasttrack-benefit-overview.md).</span><span class="sxs-lookup"><span data-stu-id="a6a43-113">To learn about the FastTrack Center process and who's responsible for what, see [FastTrack Center Benefit Overview](O365-fasttrack-benefit-overview.md).</span></span>
 
-<span data-ttu-id="b9789-114">Сведения о преимуществах, предоставляемых специалистами FastTrack для отдельных служб, см. в следующих статьях:</span><span class="sxs-lookup"><span data-stu-id="b9789-114">To learn about the benefits provided by FastTrack by service, see:</span></span>
+<span data-ttu-id="a6a43-114">Сведения о преимуществах, предоставляемых специалистами FastTrack для отдельных служб, см. в следующих статьях:</span><span class="sxs-lookup"><span data-stu-id="a6a43-114">To learn about the benefits provided by FastTrack by service, see:</span></span>
 
-- [<span data-ttu-id="b9789-115">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="b9789-115">Exchange Online</span></span>](O365-fasttrack-responsibilities.md#exchange-online)
-- [<span data-ttu-id="b9789-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="b9789-116">Microsoft Teams</span></span>](O365-fasttrack-responsibilities.md#microsoft-teams)
-- [<span data-ttu-id="b9789-117">Office 365 Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="b9789-117">Office 365 Advanced Threat Protection</span></span>](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
-- [<span data-ttu-id="b9789-118">Office 365 профессиональный плюс</span><span class="sxs-lookup"><span data-stu-id="b9789-118">Office 365 ProPlus</span></span>](O365-fasttrack-responsibilities.md#office-365-proplus)
-- [<span data-ttu-id="b9789-119">OneDrive для бизнеса</span><span class="sxs-lookup"><span data-stu-id="b9789-119">OneDrive for Business</span></span>](O365-fasttrack-responsibilities.md#onedrive-for-business)
-- [<span data-ttu-id="b9789-120">Outlook для iOS и Android</span><span class="sxs-lookup"><span data-stu-id="b9789-120">Outlook for iOS and Android</span></span>](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
-- [<span data-ttu-id="b9789-121">Power BI</span><span class="sxs-lookup"><span data-stu-id="b9789-121">Power BI</span></span>](O365-fasttrack-responsibilities.md#power-bi)
-- [<span data-ttu-id="b9789-122">Project Online</span><span class="sxs-lookup"><span data-stu-id="b9789-122">Project Online</span></span>](O365-fasttrack-responsibilities.md#project-online)
-- [<span data-ttu-id="b9789-123">Project Online профессиональный и расширенный</span><span class="sxs-lookup"><span data-stu-id="b9789-123">Project Online Professional and Project Online Premium</span></span>](O365-fasttrack-responsibilities.md#project-online-professional-and-project-online-premium)
-- [<span data-ttu-id="b9789-124">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="b9789-124">SharePoint Online</span></span>](O365-fasttrack-responsibilities.md#sharepoint-online)
-- [<span data-ttu-id="b9789-125">Skype для бизнеса Online</span><span class="sxs-lookup"><span data-stu-id="b9789-125">Skype for Business Online</span></span>](O365-fasttrack-responsibilities.md#skype-for-business-online)
-- [<span data-ttu-id="b9789-126">Yammer корпоративный</span><span class="sxs-lookup"><span data-stu-id="b9789-126">Yammer Enterprise</span></span>](O365-fasttrack-responsibilities.md#yammer-enterprise)
+- [<span data-ttu-id="a6a43-115">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="a6a43-115">Exchange Online</span></span>](O365-fasttrack-responsibilities.md#exchange-online)
+- [<span data-ttu-id="a6a43-116">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="a6a43-116">Microsoft Teams</span></span>](O365-fasttrack-responsibilities.md#microsoft-teams)
+- [<span data-ttu-id="a6a43-117">Office 365 Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="a6a43-117">Office 365 Advanced Threat Protection</span></span>](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
+- [<span data-ttu-id="a6a43-118">Office 365 профессиональный плюс</span><span class="sxs-lookup"><span data-stu-id="a6a43-118">Office 365 ProPlus</span></span>](O365-fasttrack-responsibilities.md#office-365-proplus)
+- [<span data-ttu-id="a6a43-119">OneDrive для бизнеса</span><span class="sxs-lookup"><span data-stu-id="a6a43-119">OneDrive for Business</span></span>](O365-fasttrack-responsibilities.md#onedrive-for-business)
+- [<span data-ttu-id="a6a43-120">Outlook для iOS и Android</span><span class="sxs-lookup"><span data-stu-id="a6a43-120">Outlook for iOS and Android</span></span>](O365-fasttrack-responsibilities.md#outlook-for-ios-and-android)
+- [<span data-ttu-id="a6a43-121">Power BI</span><span class="sxs-lookup"><span data-stu-id="a6a43-121">Power BI</span></span>](O365-fasttrack-responsibilities.md#power-bi)
+- [<span data-ttu-id="a6a43-122">Project Online</span><span class="sxs-lookup"><span data-stu-id="a6a43-122">Project Online</span></span>](O365-fasttrack-responsibilities.md#project-online)
+- [<span data-ttu-id="a6a43-123">Project Online профессиональный и расширенный</span><span class="sxs-lookup"><span data-stu-id="a6a43-123">Project Online Professional and Project Online Premium</span></span>](O365-fasttrack-responsibilities.md#project-online-professional-and-project-online-premium)
+- [<span data-ttu-id="a6a43-124">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="a6a43-124">SharePoint Online</span></span>](O365-fasttrack-responsibilities.md#sharepoint-online)
+- [<span data-ttu-id="a6a43-125">Skype для бизнеса Online</span><span class="sxs-lookup"><span data-stu-id="a6a43-125">Skype for Business Online</span></span>](O365-fasttrack-responsibilities.md#skype-for-business-online)
+- [<span data-ttu-id="a6a43-126">Yammer корпоративный</span><span class="sxs-lookup"><span data-stu-id="a6a43-126">Yammer Enterprise</span></span>](O365-fasttrack-responsibilities.md#yammer-enterprise)
   
-<span data-ttu-id="b9789-p104">Ищете сведения о преимуществах [FastTrack Center для Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? В этой статье приведены сведения, касающиеся таких продуктов:</span><span class="sxs-lookup"><span data-stu-id="b9789-p104">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:</span></span>
+<span data-ttu-id="a6a43-p104">Ищете сведения о преимуществах [FastTrack Center для Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? В этой статье приведены сведения, касающиеся таких продуктов:</span><span class="sxs-lookup"><span data-stu-id="a6a43-p104">Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:</span></span>
   
-- <span data-ttu-id="b9789-129">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="b9789-129">Microsoft Intune</span></span>    
-- <span data-ttu-id="b9789-130">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="b9789-130">Azure Active Directory Premium</span></span> 
-- <span data-ttu-id="b9789-131">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="b9789-131">Azure Information Protection</span></span>
+- <span data-ttu-id="a6a43-129">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="a6a43-129">Microsoft Intune</span></span>    
+- <span data-ttu-id="a6a43-130">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="a6a43-130">Azure Active Directory Premium</span></span> 
+- <span data-ttu-id="a6a43-131">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="a6a43-131">Azure Information Protection</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="b9789-132">Это руководство предназначено исключительно для ознакомительных целей.</span><span class="sxs-lookup"><span data-stu-id="b9789-132">For informational purposes only.</span></span> 
+> <span data-ttu-id="a6a43-132">Это руководство предназначено исключительно для ознакомительных целей.</span><span class="sxs-lookup"><span data-stu-id="a6a43-132">For informational purposes only.</span></span> 
+
