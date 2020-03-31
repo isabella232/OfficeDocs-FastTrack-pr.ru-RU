@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 5ba44a6c06fa8d607bb9587e33e9a4508b4eb48a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: de8a5570478cd0b6317a7b6da8430272983dca68
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347399"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052324"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Процесс реализации преимущества FastTrack Center для Enterprise Mobility + Security (EMS)
 Если ваша организация может использовать преимущество FastTrack Center для EMS, вы можете удаленно сотрудничать со специалистами FastTrack для подготовки к использованию служб Microsoft Azure Active Directory Premium, Microsoft Intune и Azure Information Protection. Кроме того, вы можете запросить помощь [на сайте FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) для Azure Information Protection и Microsoft Cloud App Security. Чтобы узнать, отвечает ли ваша организация требованиям, см. статью [Поддерживаемые службы и тарифные планы](M365-eligible-services-and-plans.md).
@@ -58,3 +58,4 @@ ms.locfileid: "42347399"
         -   Могут обнаруживать сведения на локальных файловых ресурсах и серверах SharePoint с помощью сканера Azure Information Protection. 
 
         -   Могут управлять ключами клиента Azure Information Protection в хранилище Azure Key Vault. 
+

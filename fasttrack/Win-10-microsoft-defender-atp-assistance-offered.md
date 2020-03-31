@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При покупке любой службы Windows 10 или Microsoft 365 специалисты FastTrack помогут выполнить удаленное развертывание для защиты конечных точек. Наша служба адаптирована к среде и потребностям каждого клиента.
-ms.openlocfilehash: 466830de034342d196a3bc5b681b28f43ee5cbbe
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: ed8e9d9764f2dcf970fb1f345482ddc450a87711
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347711"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052804"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
@@ -48,4 +48,3 @@ ms.locfileid: "42347711"
    - Linux
 - Аппаратная изоляция, управление приложениями, защита от эксплойтов, помощь с использованием сетевого брандмауэра.
 - Текущее управление и реагирование на угрозы.
-

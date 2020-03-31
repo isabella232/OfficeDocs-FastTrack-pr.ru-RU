@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: bec4a709c6728803b383db40f53fc84826fa6b55
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347483"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052545"
 ---
 # <a name="your-responsibilities"></a>Ваши обязанности
 
@@ -63,9 +63,9 @@ ms.locfileid: "42347483"
 
 -   Предоставление и настройка открытых SSL-сертификатов.
 
--   Настройка или обновление Configuration Manager до минимальных требований для интеграции с Microsoft Intune.
+-     Настройка или обновление Configuration Manager до минимальных требований для интеграции с Microsoft Intune.
 
--   Предоставление и настройка центра сертификации и необходимой инфраструктуры Wi-Fi и VPN, если необходимо развернуть профили Wi-Fi и VPN с Intune.
+-     Предоставление и настройка центра сертификации и необходимой инфраструктуры Wi-Fi и VPN, если необходимо развернуть профили Wi-Fi и VPN с Intune.
 
 -   Создание заявления вашей организации с условиями использования: эта информация настраивается и отображается на портале Microsoft Intune вашей компании, доступном для конечных пользователей.
 
@@ -103,7 +103,7 @@ ms.locfileid: "42347483"
 
 -   Участие в собраниях по контрольным точкам.
 
-## <a name="enable-phase"></a>Этап включения
+## <a name="enable-phase"></a>Фаза включения
 
 -   Предоставление команде FastTrack доступа к вашему экрану, если требуются рекомендации при запуске средств оценки вашей среды, EMS или отдельных подписок на облачные службы (при вашем согласии). Управление ресурсами по мере необходимости.
 
@@ -127,5 +127,6 @@ ms.locfileid: "42347483"
 ## <a name="see-also"></a>См. также
 
 - [Преимущество FastTrack для EMS](EMS-fasttrack-benefit-for-EMS.md)
+
 - [Преимущество FastTrack для Office 365](O365-fasttrack-benefit-for-office-365.md)
 

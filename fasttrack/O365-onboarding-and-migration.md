@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Подключение к Office 365 предусматривает четыре основных этапа: подготовка, оценка, исправление и включение. За этими этапами может следовать этап переноса данных.'
-ms.openlocfilehash: c3716b2a55a2c04b58e19cf6530050cd843dcfdc
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 395a63f56f1140ae8475a4a2f090d1d3eb6dd7f7
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347747"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052828"
 ---
 # <a name="onboarding-and-migration-phases"></a>Фазы подключения и миграции
 
@@ -37,16 +37,16 @@ ms.locfileid: "42347747"
 Чтобы получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), администратор должен щелкнуть мини-приложение **Нужна помощь?**, войдя в этот центр. 
 
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
-3.  Заполните форму **Запросить помощь с Microsoft 365**. 
+1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
+3.    Заполните форму **Запросить помощь с Microsoft 365**. 
   
 Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
-1.  Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Выберите **Мои пользователи**.
-3.  Найдите своего пользователя или выберите его в списке пользователей.
-4.  Выберите **Сервисы**.
-5.  Заполните форму **Запросить помощь с Microsoft 365**.
+1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Выберите **Мои пользователи**.
+3.    Найдите своего пользователя или выберите его в списке пользователей.
+4.    Выберите **Сервисы**.
+5.    Заполните форму **Запросить помощь с Microsoft 365**.
 
 Вы также можете запросить помощь FastTrack Center на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), открыв список доступных услуг для своего клиента. 
     
@@ -205,7 +205,7 @@ ms.locfileid: "42347747"
 
 Мы предоставляем руководство по следующим вопросам:
 - Решение проблем, связанных с развертыванием.   
-- Назначение пользователям лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell. 
+- Назначение пользователям и устройствам лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell. 
 - Установка Office 365 профессиональный плюс с использованием портала Office 365 и технологии "нажми и работай".   
 - Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile.   
 - Настройка параметров обновления с помощью средства развертывания Office 365.   
@@ -220,4 +220,3 @@ ms.locfileid: "42347747"
 Вы можете получить помощь с Outlook для iOS и Android по указанным ниже вопросам.
 - Скачивание Outlook для iOS и Android через Apple App Store или Google Play.
 - Настройка учетных записей и оценка почтового ящика Exchange Online.
-

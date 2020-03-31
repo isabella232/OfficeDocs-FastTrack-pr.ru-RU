@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При приобретении любых служб Windows 10 или Microsoft 365 специалисты FastTrack предоставляют советы и рекомендации по устранению проблем при развертывании Windows 10 и Office 365 профессиональный плюс и по своевременному обновлению без дополнительной платы (при наличии соответствующей подписки).
-ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 69804ab95b01ad45191f95a5b16405790fd6e500
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347687"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052960"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
@@ -74,3 +74,5 @@ ms.locfileid: "42347687"
 
 > [!NOTE]
 > Свяжитесь с [партнером Майкрософт](https://go.microsoft.com/fwlink/?linkid=2080150) для получения помощи по работе со службами, определенными как выходящие за пределы области.
+
+

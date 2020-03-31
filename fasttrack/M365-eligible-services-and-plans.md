@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: 801984b3f6f6762ba455bbff0f86e5cc3b1c2365
-ms.sourcegitcommit: 6f67f054a52821211ee0e3a5bc1926ec6c111310
+ms.openlocfilehash: 0f9b9326bafdfd4c6297ba9cfff1bf152358afd5
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42707048"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052551"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
 Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
 
 > [!IMPORTANT]
-> Чтобы получить доступ к услугам FastTrack, необходимо приобрести *по крайней мере* 150 лицензий в рамках поддерживаемых планов из указанного списка. Новинки в 2020 г. Корпорация Майкрософт рекомендует в течение шести месяцев [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) и [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) пробных лицензий, которые помогут вам работать с удаленными клиентами и изучать КОВИД – 19 (коронавирус). В качестве исключения FastTrack помогает подключиться к этим бесплатным лицензиям с марта 2020 года по август 2020 года.  
+> Чтобы получить доступ к услугам FastTrack, необходимо приобрести *по крайней мере* 150 лицензий в рамках поддерживаемых планов из указанного списка. Новые возможности в марте 2020 г. Корпорация Майкрософт делает доступными пробные лицензии на [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) и [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) на шесть месяцев для поддержки удаленной работы и обучения в качестве ответной меры на вспышку эпидемии COVID-19. В качестве исключения FastTrack помогает со входящей миграцией на эти бесплатные пробные лицензии, а также на [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) (студенческий) с марта по август 2020 года. Корпорация Майкрософт оставляет за собой право в любое время отменить, изменить или приостановить это предложение без уведомления.   
   
 Вы можете получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) или [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
@@ -224,6 +224,3 @@ ms.locfileid: "42707048"
 
 Пользователи, которые приобрели не менее 20 000 лицензий на клиент Office 365, получают право на дополнительные услуги FastTrack Center. Дополнительные сведения см. в статье [Приложение Б. Дополнительное преимущество FastTrack Center](O365-fasttrack-additional-benefits.md).
   
-
-  
-

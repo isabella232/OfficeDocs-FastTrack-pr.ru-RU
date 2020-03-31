@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0a6ec092c8c9ec5ba574465fc10a59ae48e7b23e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347771"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052276"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
@@ -146,7 +146,7 @@ ms.locfileid: "42347771"
 
 Вы можете получить помощь по указанным ниже вопросам.
 - Решение проблем, связанных с развертыванием.
-- Назначение пользователям лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell.
+- Назначение пользователям и устройствам лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell.
 - Установка Office 365 профессиональный плюс с использованием портала Office 365 и технологии "нажми и работай".
 - Установка приложений Office Mobile (например, Outlook для iOS и Android, Word Mobile, Excel Mobile, PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile. 
 - Настройка параметров обновления с помощью средства развертывания Office 365.
@@ -243,4 +243,3 @@ ms.locfileid: "42347771"
 Предоставление рекомендаций по преобразованию сети Yammer Basic в сеть Yammer Enterprise.
   
 \*Сведения об обязанностях специалистов FastTrack в отношении Office 365 US Government см. в статье [Обязанности специалистов FastTrack применительно к Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
-
