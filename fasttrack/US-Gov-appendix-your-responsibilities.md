@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: В процессе подключения вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: 088534b930921210396a0ba9371bd3373756ff92
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0ee08a2fdbe05365731bd0110be29499ae6cce63
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347783"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052972"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Ваши обязанности для Office 365 для государственных организаций США
 
@@ -103,7 +103,4 @@ ms.locfileid: "42347783"
 - Включение различных служб согласно указаниям Майкрософт.    
 - Получение идентификатора Apple ID при настройке управления мобильными устройствами (MDM).   
 - Обновление сертификата службы push-уведомлений Apple (APNS).
-    
-
   
-
