@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: В процессе подключения вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: 9ef9df9c1430c73b8c8f9f93108555b16215bc0b
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 68023823f4bbc18618b922fd455f2f53834dcefc
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347627"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052636"
 ---
 # <a name="your-responsibilities"></a>Ваши обязанности
 
@@ -102,4 +102,3 @@ ms.locfileid: "42347627"
     
 \*Сведения о ваших обязанностях в отношении Office 365 для государственных организаций США см. в статье [Ваши обязанности применительно к Office 365 для государственных организаций США](US-Gov-appendix-your-responsibilities.md).
   
-

@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Преимущество FastTrack Center включает рекомендации по настройке уровней интеграции вашей исходной среды для развертывания Windows 10.
-ms.openlocfilehash: 6aa9b600ac68286cc788995f155f8c5ec63a84ad
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 17873396463de2a8b08563ea9245b7206890de1e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347639"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052288"
 ---
 # <a name="source-environment-expectations"></a>Требования к исходной среде
 
@@ -34,5 +34,3 @@ ms.locfileid: "42347639"
 
 Дополнительные сведения см. в таблице поддержки Configuration Manager в статье [Поддержка Windows 10 в Configuration Manager](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).
   
-
- 

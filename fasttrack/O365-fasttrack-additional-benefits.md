@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Пользователи, которые приобрели не менее 20 000 лицензий на клиент Exchange Online, получают право на дополнительные услуги FastTrack Center. Дополнительные сведения см. в статье "Подходящие службы и планы".
-ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 2cb4a8e5ba7378b96833c89da88db963e271552b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347615"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052564"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Приложение Б. Дополнительное преимущество FastTrack Center
 
@@ -143,7 +143,3 @@ ms.locfileid: "42347615"
 - Назначение оперативного лица или руководителя с правом принятия решений главой руководящего комитета.  
 - Назначение куратора проекта для работы с куратором проекта Майкрософт.  
 - Планирование ежемесячных собраний руководящего комитета.
-    
-
-  
-

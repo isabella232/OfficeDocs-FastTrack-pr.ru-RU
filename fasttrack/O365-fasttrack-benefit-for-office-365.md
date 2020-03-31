@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Если вы приобретаете не менее 150 лицензий на соответствующую службу или тарифный план для клиента Office 365, то можете воспользоваться услугами Преимущество FastTrack Center для Office 365. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти же специалисты помогут выполнить миграцию.
-ms.openlocfilehash: 246786daecd665a2e9e6d02ae7a1699ae135ab40
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9bb79dbf6c7dc770d460801048476e0e6e8ba8a8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347387"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052744"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Преимущество FastTrack Center для Office 365
 
@@ -55,3 +55,4 @@ ms.locfileid: "42347387"
     
 > [!NOTE]
 > Это руководство предназначено исключительно для ознакомительных целей. 
+

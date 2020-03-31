@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Если вы используете Преимущество FastTrack Center для Office 365, специалисты FastTrack удаленно подготовят среду Office 365 к использованию, а также спланируют ее развертывание и использование в вашей организации. Дополнительные сведения о требованиях программы см. в статье "Преимущество FastTrack Center для Office 365".
-ms.openlocfilehash: 83007d0d0b7e843f87e44cc8408529e657497308
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8ce3fa3b8a0f677c520aa8ffd1924c4461ee17c2
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347435"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052756"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Обзор Преимущества FastTrack Center
 
@@ -51,6 +51,4 @@ ms.locfileid: "42347435"
     > Развертывание и настройка AD FS и WAP выполняются с помощью [мастера конфигурации Azure AD Connect](https://go.microsoft.com/fwlink/?linkid=844794) в локальной среде. 
   
 - [Службы и планы](M365-eligible-services-and-plans.md), доступные лицензированным пользователям.
-    
 
- 

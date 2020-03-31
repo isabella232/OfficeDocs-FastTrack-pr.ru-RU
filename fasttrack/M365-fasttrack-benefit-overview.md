@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Программа FastTrack для Microsoft 365 предоставляет рекомендации по планированию, развертыванию и внедрению, включая удаленный доступ к специалистам по разработке Майкрософт, советы, средства и ресурсы. Программа FastTrack для Microsoft 365 помогает организациям и их партнерам ускорять развертывание и обеспечивать конечное внедрение Office 365, Windows 10 и Enterprise Mobility + Security.
-ms.openlocfilehash: 84e08aab87cc1223c858f82c8e84484dd257cde8
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 7595141667db532522104a48ce07b61d4f724200
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347567"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052530"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Преимущество FastTrack Center для Microsoft 365
 
@@ -35,6 +35,3 @@ ms.locfileid: "42347567"
 
 FastTrack — это ваш партнер для достижения успеха при работе с Microsoft 365.
   
-  
-
- 
