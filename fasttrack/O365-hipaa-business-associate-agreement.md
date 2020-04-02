@@ -3,21 +3,21 @@ title: Приложение C. Соглашение HIPAA-BAA для FastTrack C
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 'При наличии соглашения HIPAA-BAA с корпорацией Майкрософт на использование служб FastTrack в это соглашение включаются все службы, перечисленные в списке FastTrack Center Benefit for Office 365, за исключением:'
-ms.openlocfilehash: ed6d259afa689b7dacd3269d271155593cbb2410
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: b6d0d438a5a0e0be3a12c6287e7442b9cb557e42
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052780"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098057"
 ---
-# <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="bed3c-103">Приложение C. Соглашение HIPAA-BAA для FastTrack Center</span><span class="sxs-lookup"><span data-stu-id="bed3c-103">Appendix C - FastTrack Center HIPAA Business Associate Agreement</span></span>
+# <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="14e38-103">Приложение C. Соглашение HIPAA-BAA для FastTrack Center</span><span class="sxs-lookup"><span data-stu-id="14e38-103">Appendix C - FastTrack Center HIPAA Business Associate Agreement</span></span>
 
-<span data-ttu-id="bed3c-104">При наличии соглашения HIPAA-BAA с корпорацией Майкрософт все службы, перечисленные в статье [Преимущество FastTrack Center для Office 365](O365-fasttrack-benefit-for-office-365.md), используются в соответствии с этим соглашением BAA, за исключением миграций GroupWise.</span><span class="sxs-lookup"><span data-stu-id="bed3c-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are performed in accordance with that BAA except GroupWise migrations.</span></span>
+<span data-ttu-id="14e38-104">При наличии соглашения HIPAA-BAA с корпорацией Майкрософт все службы, перечисленные в статье [Преимущество FastTrack Center для Office 365](O365-fasttrack-benefit-for-office-365.md), используются в соответствии с этим соглашением BAA, за исключением миграций GroupWise.</span><span class="sxs-lookup"><span data-stu-id="14e38-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are performed in accordance with that BAA except GroupWise migrations.</span></span>
 
 
