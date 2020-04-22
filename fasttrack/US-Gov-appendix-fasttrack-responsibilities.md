@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: 2a39c7fb74d0b8d9e369a0b61a7a97b892aa9e7a
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: f0f52400b0400267d00d2033ea2431277f4e2f33
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098257"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665863"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Обязанности FastTrack для Office 365 для государственных учреждений США
 
@@ -192,13 +192,13 @@ ms.locfileid: "43098257"
 > [!NOTE]
 > Yammer Enterprise не является компонентом Office 365 США, но его можно бесплатно приобрести в качестве автономного решения для каждого пользователя, лицензированного для Office 365 в GCC. В настоящее время это предлагается только тем пользователям, которые приобрели Office 365 GCC в соответствии с корпоративными соглашениями и соглашениями о корпоративном подписке. Yammer недоступна в планах GCC High или DoD.
   
-## <a name="office-365-proplus"></a>Office 365 профессиональный плюс
+## <a name="microsoft-365-apps"></a>Приложения Microsoft 365
 
 Вы можете получить помощь по указанным ниже вопросам.
 - Решение проблем, связанных с развертыванием.   
 - Назначение пользователям лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell.  
-- Установка Office 365 профессиональный плюс с использованием портала Office 365 и технологии "нажми и работай".   
-- Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile.   
+- Установка приложений Microsoft 365 с портала Office 365 с помощью функции "нажми и работай".   
+- Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile, русская версия и PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile.   
 - Настройка параметров обновления с помощью средства развертывания Office 2016 или шаблонов групповых политик.   
-- Настройка одного внутреннего сервера распространения для Office 365 профессиональный плюс, в том числе помощь по созданию файла configuration.xml для его последующего использования в средстве развертывания Office 365.   
+- Настройка одного сервера распространения на месте для приложений Microsoft 365, в том числе помощь по созданию файла Configuration. XML для использования в средстве развертывания Office 365.   
 - Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Процесс FastTrack обеспечивает входящую миграцию и услуги по популяризации продукта среди пользователей. '
-ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 641637705a5a578b18f3ba06130d9477975b92f8
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097709"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666146"
 ---
 # <a name="the-fasttrack-process"></a>Процесс FastTrack
 
@@ -35,7 +35,7 @@ ms.locfileid: "43097709"
 
 На приведенной ниже схеме представлен процесс подключения.
   
-![График использования преимущества подключения](media/O365-Onboarding-Timeline.png)
+![График использования преимущества подключения](media/o365-onboarding-timeline-m365-apps.png)
   
 Вы можете получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) или [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 

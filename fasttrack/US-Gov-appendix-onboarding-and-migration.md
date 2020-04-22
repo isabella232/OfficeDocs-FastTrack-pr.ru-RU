@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Входящая миграция Office 365 для Office 365 США состоит из четырех основных этапов: инициации, оценки, исправления и включения. Вы можете выполнить эти этапы с помощью необязательного этапа миграции данных, как показано на следующем рисунке.'
-ms.openlocfilehash: 2fe39da0e41e6d42cecef8d4ecb410a1676419e1
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098245"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665925"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы входящей миграции и миграции для Office 365 для государственных организаций США
 
@@ -175,15 +175,15 @@ ms.locfileid: "43098245"
 > [!NOTE]
 > Yammer Enterprise не является компонентом Office 365 США, но его можно бесплатно приобрести в качестве автономного решения для каждого пользователя, лицензированного для Office 365 в GCC. В настоящее время это предлагается только тем пользователям, которые приобрели Office 365 GCC в соответствии с корпоративными соглашениями и соглашениями о корпоративном подписке. Yammer недоступна в планах GCC High или DoD. 
   
-## <a name="office-365-proplus"></a>Office 365 профессиональный плюс
+## <a name="microsoft-365-apps"></a>Приложения Microsoft 365
 
-Мы предоставляем руководство по следующим вопросам: 
+Для приложений Microsoft 365 мы предоставляем руководство по следующим вопросам: 
 - Решение проблем, связанных с развертыванием.    
 - Назначение пользователям лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell.    
-- Установка Office 365 профессиональный плюс с использованием портала Office 365 и технологии "нажми и работай".    
-- Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile.   
+- Установка приложений Microsoft 365 с портала Office 365 с помощью функции "нажми и работай".    
+- Установка мобильных приложений Office (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS или Android.   
 - Настройка параметров обновления с помощью средства развертывания Office 365.    
-- Настройка одного внутреннего сервера распространения для Office 365 профессиональный плюс, в том числе помощь по созданию файла configuration.xml для его последующего использования в средстве развертывания Office 365.    
+- Настройка одного сервера распространения на месте для приложений Microsoft 365, в том числе помощь по созданию файла Configuration. XML для использования в средстве развертывания Office 365.    
 - Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.
     
-![Этапы входящей миграции Office профессиональный плюс](media/O365-Onboarding-Enable-OProPlus.png)
+![Этапы входящей миграции Office профессиональный плюс](media/o365-onboarding-enable-m365-apps-2.png)

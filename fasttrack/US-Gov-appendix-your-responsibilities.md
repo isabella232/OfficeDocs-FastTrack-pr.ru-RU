@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: В процессе подключения вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: 26432b8bc6228956012fc7708b6de95d2b8b69da
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 159f38e85340308bd97eaf31eb20f58fec1d0554
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098353"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665815"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Ваши обязанности для Office 365 для государственных организаций США
 
@@ -61,7 +61,7 @@ ms.locfileid: "43098353"
 - Настройка пространства совместной работы Microsoft Teams для входящей миграции и приглашение участников группы FastTrack Center (недоступно в планах GCC High или DoD).   
 - Подключение служб, соответствующих критериям, совместно со специалистами FastTrack.    
 - Участие в стартовом собрании, управление соответствующими сотрудниками в организации и подтверждение временных шкал устранения проблем.    
-- Предоставление описания целей, для достижения которых вы предполагаете использовать службы Office 365 (например, SharePoint Online, Exchange Online, Microsoft Teams и Office 365 профессиональный плюс) и общих целей организации.
+- Предоставьте свои цели для служб Office 365 (например, SharePoint Online, Exchange Online, Microsoft Teams и приложений Microsoft 365) и целей Организации.
     
 ## <a name="assess-phase"></a>Фаза оценки
 
