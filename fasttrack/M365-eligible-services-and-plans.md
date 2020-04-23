@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: 3d91de034609cfe85833327c6d753f6a05525e5f
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 7b27f5c3c2e989e1dbe932346d013bd6e9fb1890
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098117"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666079"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -52,11 +52,11 @@ ms.locfileid: "43098117"
 - Azure Active Directory Premium
 - Azure Information Protection
 - Exchange Online 
+- Приложения Microsoft 365
 - Advanced Threat Protection в Microsoft Defender
 - Microsoft Intune
 - Microsoft Teams
 - Office 365 Advanced Threat Protection
-- Office 365 профессиональный плюс
 - OneDrive для бизнеса
 - Power BI
 - Project Online
@@ -64,7 +64,10 @@ ms.locfileid: "43098117"
 - Skype для бизнеса Online
 - Windows 10
 - Yammer корпоративный 
-  
+
+> [!NOTE]
+> Пакет Office 365 профессиональный плюс переименован в Приложение Microsoft 365. В некоторых случаях используется устаревшее название. Дополнительные сведения о вступлении этого изменения в силу, см. в статье [Изменение названия Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/name-change). 
+
 ## <a name="eligible-microsoft-365-plans"></a>Поддерживаемые планы Microsoft 365
   
  **Microsoft 365 корпоративный**
@@ -72,14 +75,23 @@ ms.locfileid: "43098117"
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
-- Microsoft 365 F1*
+- Microsoft 365 F1\*
 - Microsoft 365 бизнес\*
+- Приложения Microsoft 365 для предприятий\*
+- Приложения Microsoft 365 для предприятий (на устройство)\*
     
+ **Microsoft 365 бизнес**
+
+ - Microsoft 365 бизнес базовый\*
+ - Microsoft 365 бизнес стандарт\*
+ - Приложения Microsoft 365 для бизнеса\*
+ 
  **Microsoft 365 для образования**
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 Security\*
+- Приложения Microsoft 365 для образовательных учреждений (на устройство)\*
  
 ## <a name="eligible-office-365-plans"></a>Поддерживаемые планы Office 365
 
@@ -95,13 +107,6 @@ ms.locfileid: "43098117"
 - Office 365 для государственных учреждений (США) G4\*\*
 - Office 365 для государственных учреждений (США) G5\*\*
 - Office 365 для государственных учреждений (США) F1\*\*
-- Office 365 профессиональный плюс
-    
-**Office 365 бизнес**
-
-- Office 365 бизнес  
-- Office 365 бизнес базовый  
-- Office 365 бизнес премиум
 
 **Office 365 для образования**
   
@@ -206,7 +211,7 @@ ms.locfileid: "43098117"
 Дополнительные сведения см. в статье [Преимущество FastTrack Center для Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661).
 
 > [!NOTE]
-> Для коммерческих независимых поставщиков программного обеспечения (ISV), создающих приложения для Windows 10, отсутствуют минимальные требования лицензирования. Все запросы приложений должны предназначаться для версии Windows 10 или Office 365 профессиональный плюс, которая в текущий момент находится в основном периоде обслуживания.
+> Для независимых коммерческих поставщиков программного обеспечения, создающих приложения для Windows 10, отсутствуют минимальные требования лицензирования. Все запросы приложений должны назначаться для версии приложений Windows 10 или Microsoft 365, которая в текущий момент находится в основном периоде обслуживания.
 
 ## <a name="ineligible-plans"></a>Неподдерживаемые планы
 
