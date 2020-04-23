@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: В процессе миграции на Windows 10 вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097793"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666091"
 ---
 # <a name="your-responsibilities"></a>Ваши обязанности
 
@@ -55,6 +55,6 @@ ms.locfileid: "43097793"
 
 - Предоставление команде FastTrack доступа к вашему экрану, если требуются рекомендации при запуске средств оценки вашей среды или подписок на облачные службы (при вашем согласии).
 - Настройка сетевых элементов в соответствии с указаниями команды FastTrack.
-- Обеспечение готовности каталогов и настройка их синхронизации согласно указаниям команды FastTrack при развертывании Office 365 профессиональный плюс в Windows 10.
+- Обеспечение готовности каталогов и настройка их синхронизации согласно указаниям команды FastTrack при развертывании приложений Microsoft 365 в Windows 10.
 - Настройка метода проверки подлинности (например, управляемая или федеративная проверка подлинности).
 

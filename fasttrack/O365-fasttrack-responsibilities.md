@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098281"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666175"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
@@ -107,6 +107,18 @@ ms.locfileid: "43098281"
     
 Дополнительные сведения об обязанностях при переносе данных см. в статье [Перенос данных](O365-data-migration.md).
   
+## <a name="microsoft-365-apps"></a>Приложения Microsoft 365
+
+Вы можете получить помощь по указанным ниже вопросам.
+- Решение проблем, связанных с развертыванием.
+- Назначение пользователям и устройствам лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell.
+- Установка приложений Microsoft 365 с портала Office 365 с помощью технологии "нажми и работай".
+- Установка приложений Office Mobile (например, Outlook для iOS и Android, Word Mobile, Excel Mobile и PowerPoint Mobile) на iOS или Android. 
+- Настройка параметров обновления с помощью средства развертывания Office 365.
+- Выбор и настройка локальной или облачной установки.
+- Создание XML-файла конфигурации средства развертывания Office с помощью центра развертывания Office или встроенного XML-файла для настройки пакета развертывания.
+- Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Вы можете получить помощь по указанным ниже вопросам.
@@ -141,18 +153,6 @@ ms.locfileid: "43098281"
 - Настройка автоматизации, исследования и ответа.
 - Использование эмулятора атак.
 - Отчеты и анализ угроз.
-
-## <a name="office-365-proplus"></a>Office 365 профессиональный плюс
-
-Вы можете получить помощь по указанным ниже вопросам.
-- Решение проблем, связанных с развертыванием.
-- Назначение пользователям и устройствам лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell.
-- Установка Office 365 профессиональный плюс с использованием портала Office 365 и технологии "нажми и работай".
-- Установка приложений Office Mobile (например, Outlook для iOS и Android, Word Mobile, Excel Mobile, PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile. 
-- Настройка параметров обновления с помощью средства развертывания Office 365.
-- Выбор и настройка локальной или облачной установки.
-- Создание XML-файла конфигурации средства развертывания Office с помощью центра развертывания Office или встроенного XML-файла для настройки пакета развертывания.
-- Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.
     
 ## <a name="onedrive-for-business"></a>OneDrive для бизнеса
 

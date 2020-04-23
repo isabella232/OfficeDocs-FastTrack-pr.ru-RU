@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Подключение к Office 365 предусматривает четыре основных этапа: подготовка, оценка, исправление и включение. За этими этапами может следовать этап переноса данных.'
-ms.openlocfilehash: d4e6447ced77c6a12cda8b6947633b97ba1fb755
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 0a64f10e0a0fe1be6e26801d1722a06fc0ef5e73
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098293"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666163"
 ---
 # <a name="onboarding-and-migration-phases"></a>Фазы подключения и миграции
 
@@ -201,19 +201,19 @@ ms.locfileid: "43098293"
 
 Мы предоставляем руководство по включению службы Yammer Enterprise.
   
-## <a name="office-365-proplus"></a>Office 365 профессиональный плюс
+## <a name="microsoft-365-apps"></a>Приложения Microsoft 365
 
 Мы предоставляем руководство по следующим вопросам:
 - Решение проблем, связанных с развертыванием.   
 - Назначение пользователям и устройствам лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell. 
-- Установка Office 365 профессиональный плюс с использованием портала Office 365 и технологии "нажми и работай".   
-- Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS, Android или Windows Mobile.   
+- Установка приложений Microsoft 365 с портала Office 365 с помощью технологии "нажми и работай".   
+- Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS или Android.   
 - Настройка параметров обновления с помощью средства развертывания Office 365.   
 - Выбор и настройка локальной или облачной установки. 
 - Создание XML-файла конфигурации средства развертывания Office с помощью центра развертывания Office или встроенного XML-файла для настройки пакета развертывания.  
 - Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.
     
-![Этапы входящей миграции Office профессиональный плюс](media/O365-Onboarding-Enable-OProPlus.png)
+![Этапы входящей миграции Office профессиональный плюс](media/o365-onboarding-enable-m365-apps-2.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook для iOS и Android
 

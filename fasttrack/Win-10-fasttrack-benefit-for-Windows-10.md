@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Если вы приобретаете *не менее* 150 лицензий на соответствующую службу или тарифный план, то можете воспользоваться услугами Преимущество FastTrack Center для Windows 10.
-ms.openlocfilehash: aaa143651057586938f829fe41a0ddbe2cdf40c5
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 66b8da97435ef0c89a31bc4d55228fbead88bbb3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098209"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665827"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Преимущество FastTrack Center для Windows 10
 
-Если вы приобретаете не менее 150 лицензий на соответствующую службу или тарифный план, то можете воспользоваться услугами Преимущества FastTrack Center для Windows 10. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки и развернуть Windows 10, новый браузер Microsoft Edge или Advanced Threat Protection в Microsoft Defender, а также координировать преимущества FastTrack Center для Office 365 профессиональный плюс. 
+Если вы приобретаете не менее 150 лицензий на соответствующую службу или тарифный план, то можете воспользоваться услугами Преимущества FastTrack Center для Windows 10. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки и развернуть Windows 10, новый браузер Microsoft Edge или Advanced Threat Protection в Microsoft Defender, а также координировать преимущества FastTrack Center для приложений Microsoft 365. 
 
 Преимущество FastTrack Center для Windows 10 также предоставляет службу App Assure. С помощью этой службы обеспечивается доступность специалиста FastTrack для предоставления рекомендаций и руководства по исправлению в случае возникновения проблем с совместимостью приложений. 
 
-Специалисты FastTrack также предоставляют руководство во время развертывания и обновления Windows 10, Microsoft Edge и Office 365 профессиональный плюс. Эти преимущества службы доступны бесплатно при использовании поддерживаемой подписки, входящей в список [поддерживаемых служб и тарифных планов](M365-eligible-services-and-plans.md) FastTrack.
+Специалисты FastTrack также предоставляют руководство во время развертывания и обновления Windows 10, Microsoft Edge и приложений Microsoft 365. Эти преимущества службы доступны бесплатно при использовании поддерживаемой подписки, входящей в список [поддерживаемых служб и тарифных планов](M365-eligible-services-and-plans.md) FastTrack.
   
 > [!NOTE]
 > В целях настоящего документа под специалистами FastTrack подразумеваются как сотрудники Майкрософт, так и утвержденные Майкрософт поставщики услуг и партнеры. 

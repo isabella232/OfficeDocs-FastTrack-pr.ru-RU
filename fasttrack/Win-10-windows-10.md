@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Специалисты FastTrack предоставляют руководство по развертыванию Windows 10, помогающее обновить Windows 7 Профессиональная и Windows 8.1 Профессиональная до Windows 10 Корпоративная.
-ms.openlocfilehash: d9f2ea820828f91e6eb0ddc22e37c7f98dd8f71d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: d8f8821c1a730a8c42f7ae3755e6c227d53a2b7a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098365"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665839"
 ---
 # <a name="windows-10"></a>Windows 10
 
 Специалисты FastTrack предоставляют руководство по развертыванию Windows 10, помогающее обновить Windows 7 Профессиональная и Windows 8.1 Профессиональная до Windows 10 Корпоративная. Вы работаете со специалистами FastTrack, чтобы:
 
 - Развернуть Windows 10 Корпоративная с помощью Microsoft Endpoint Configuration Manager или Microsoft 365.
-- Развернуть Office 365 профессиональный плюс. 
-- Обновить Windows 10 Корпоративная и Office 365 профессиональный плюс с помощью Microsoft Endpoint Configuration Manager или Microsoft 365.
+- Развернуть приложения Microsoft 365. 
+- Обновить Windows 10 Корпоративная и приложения Microsoft 365 с помощью Microsoft Endpoint Configuration Manager или Microsoft 365.
 - Подключить к облаку диспетчер конфигураций с Microsoft Intune или развернуть Intune в качестве единственного решения для управления облаком.
   
 > [!NOTE]
