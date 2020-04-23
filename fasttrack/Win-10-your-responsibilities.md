@@ -10,51 +10,51 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: В процессе миграции на Windows 10 вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097793"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666091"
 ---
-# <a name="your-responsibilities"></a><span data-ttu-id="cd07b-103">Ваши обязанности</span><span class="sxs-lookup"><span data-stu-id="cd07b-103">Your Responsibilities</span></span>
+# <a name="your-responsibilities"></a><span data-ttu-id="6cf38-103">Ваши обязанности</span><span class="sxs-lookup"><span data-stu-id="6cf38-103">Your Responsibilities</span></span>
 
-<span data-ttu-id="cd07b-104">В процессе подключения вы отвечаете за указанные ниже аспекты.</span><span class="sxs-lookup"><span data-stu-id="cd07b-104">You have the following responsibilities during onboarding.</span></span>
+<span data-ttu-id="6cf38-104">В процессе подключения вы отвечаете за указанные ниже аспекты.</span><span class="sxs-lookup"><span data-stu-id="6cf38-104">You have the following responsibilities during onboarding.</span></span>
 
-## <a name="general"></a><span data-ttu-id="cd07b-105">Общие</span><span class="sxs-lookup"><span data-stu-id="cd07b-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="6cf38-105">Общие</span><span class="sxs-lookup"><span data-stu-id="6cf38-105">General</span></span>
 
-- <span data-ttu-id="cd07b-106">Управление вашими ресурсами в рамках программы и проекта.</span><span class="sxs-lookup"><span data-stu-id="cd07b-106">Provide overall program and project management of your resources.</span></span>
-- <span data-ttu-id="cd07b-107">Обеспечение связи с конечными пользователями, документации, обучения и управления изменениями.</span><span class="sxs-lookup"><span data-stu-id="cd07b-107">Provide end-user communications, documentation, training, and change management.</span></span>
-- <span data-ttu-id="cd07b-108">Предоставление документации и организация обучения персонала службы поддержки.</span><span class="sxs-lookup"><span data-stu-id="cd07b-108">Provide helpdesk documentation and training.</span></span>
-- <span data-ttu-id="cd07b-109">Создание отчетов, презентаций и протоколов переговоров, относящихся к вашей организации.</span><span class="sxs-lookup"><span data-stu-id="cd07b-109">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span>
-- <span data-ttu-id="cd07b-110">Создание архитектуры и технической документации, относящихся к вашей организации.</span><span class="sxs-lookup"><span data-stu-id="cd07b-110">Create architectural and technical documentation specific to your organization.</span></span>
-- <span data-ttu-id="cd07b-111">Разработка, приобретение, установка и настройка оборудования и сетей.</span><span class="sxs-lookup"><span data-stu-id="cd07b-111">Design, procure, install, and configure hardware and networking.</span></span>
-- <span data-ttu-id="cd07b-112">Приобретение, установка и настройка программного обеспечения.</span><span class="sxs-lookup"><span data-stu-id="cd07b-112">Procure, install, and configure software.</span></span>
-- <span data-ttu-id="cd07b-113">Управление процессом утверждения технических изменений и создание документации на основе руководств.</span><span class="sxs-lookup"><span data-stu-id="cd07b-113">Manage a technical change management approval process and creating guidance-based documentation.</span></span>
-- <span data-ttu-id="cd07b-114">Изменение рабочей модели и руководств.</span><span class="sxs-lookup"><span data-stu-id="cd07b-114">Modifying your operational model and operation guides.</span></span>
-- <span data-ttu-id="cd07b-115">Установка необходимых обновлений на серверах инфраструктуры.</span><span class="sxs-lookup"><span data-stu-id="cd07b-115">Install required updates on infrastructure servers.</span></span>
-- <span data-ttu-id="cd07b-116">Установка или обновление Configuration Manager до минимальных требований.</span><span class="sxs-lookup"><span data-stu-id="cd07b-116">Set up or upgrade Configuration Manager to the minimum requirements.</span></span>
+- <span data-ttu-id="6cf38-106">Управление вашими ресурсами в рамках программы и проекта.</span><span class="sxs-lookup"><span data-stu-id="6cf38-106">Provide overall program and project management of your resources.</span></span>
+- <span data-ttu-id="6cf38-107">Обеспечение связи с конечными пользователями, документации, обучения и управления изменениями.</span><span class="sxs-lookup"><span data-stu-id="6cf38-107">Provide end-user communications, documentation, training, and change management.</span></span>
+- <span data-ttu-id="6cf38-108">Предоставление документации и организация обучения персонала службы поддержки.</span><span class="sxs-lookup"><span data-stu-id="6cf38-108">Provide helpdesk documentation and training.</span></span>
+- <span data-ttu-id="6cf38-109">Создание отчетов, презентаций и протоколов переговоров, относящихся к вашей организации.</span><span class="sxs-lookup"><span data-stu-id="6cf38-109">Produce any reports, presentations, or meeting minutes that are specific to your organization.</span></span>
+- <span data-ttu-id="6cf38-110">Создание архитектуры и технической документации, относящихся к вашей организации.</span><span class="sxs-lookup"><span data-stu-id="6cf38-110">Create architectural and technical documentation specific to your organization.</span></span>
+- <span data-ttu-id="6cf38-111">Разработка, приобретение, установка и настройка оборудования и сетей.</span><span class="sxs-lookup"><span data-stu-id="6cf38-111">Design, procure, install, and configure hardware and networking.</span></span>
+- <span data-ttu-id="6cf38-112">Приобретение, установка и настройка программного обеспечения.</span><span class="sxs-lookup"><span data-stu-id="6cf38-112">Procure, install, and configure software.</span></span>
+- <span data-ttu-id="6cf38-113">Управление процессом утверждения технических изменений и создание документации на основе руководств.</span><span class="sxs-lookup"><span data-stu-id="6cf38-113">Manage a technical change management approval process and creating guidance-based documentation.</span></span>
+- <span data-ttu-id="6cf38-114">Изменение рабочей модели и руководств.</span><span class="sxs-lookup"><span data-stu-id="6cf38-114">Modifying your operational model and operation guides.</span></span>
+- <span data-ttu-id="6cf38-115">Установка необходимых обновлений на серверах инфраструктуры.</span><span class="sxs-lookup"><span data-stu-id="6cf38-115">Install required updates on infrastructure servers.</span></span>
+- <span data-ttu-id="6cf38-116">Установка или обновление Configuration Manager до минимальных требований.</span><span class="sxs-lookup"><span data-stu-id="6cf38-116">Set up or upgrade Configuration Manager to the minimum requirements.</span></span>
 
-## <a name="initiate-phase"></a><span data-ttu-id="cd07b-117">Этап инициирования</span><span class="sxs-lookup"><span data-stu-id="cd07b-117">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="6cf38-117">Этап инициирования</span><span class="sxs-lookup"><span data-stu-id="6cf38-117">Initiate phase</span></span>
 
-- <span data-ttu-id="cd07b-118">Подключение служб, соответствующих критериям, совместно с командой FastTrack.</span><span class="sxs-lookup"><span data-stu-id="cd07b-118">Work with the FastTrack team to begin onboarding of eligible services.</span></span>
-- <span data-ttu-id="cd07b-119">Участие в начальном собрании, управление и руководство участниками из вашей организации, подтверждение графиков устранения проблем.</span><span class="sxs-lookup"><span data-stu-id="cd07b-119">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>
+- <span data-ttu-id="6cf38-118">Подключение служб, соответствующих критериям, совместно с командой FastTrack.</span><span class="sxs-lookup"><span data-stu-id="6cf38-118">Work with the FastTrack team to begin onboarding of eligible services.</span></span>
+- <span data-ttu-id="6cf38-119">Участие в начальном собрании, управление и руководство участниками из вашей организации, подтверждение графиков устранения проблем.</span><span class="sxs-lookup"><span data-stu-id="6cf38-119">Participate in the engagement kickoff meeting, manage and lead participants from your organization, and confirm remediation timelines.</span></span>
 
-## <a name="assess-phase"></a><span data-ttu-id="cd07b-120">Этап оценки</span><span class="sxs-lookup"><span data-stu-id="cd07b-120">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="6cf38-120">Этап оценки</span><span class="sxs-lookup"><span data-stu-id="6cf38-120">Assess phase</span></span>
 
-- <span data-ttu-id="cd07b-121">Определение соответствующих заинтересованных лиц (в том числе руководителя проекта) для выполнения необходимых действий по оценке.</span><span class="sxs-lookup"><span data-stu-id="cd07b-121">Identify appropriate stakeholders (including a project manager) to complete the necessary assessment activities.</span></span>
-- <span data-ttu-id="cd07b-122">Предоставление команде FastTrack доступа к вашему экрану, если требуются рекомендации при запуске средств оценки вашей среды или подписок на облачные службы (при вашем согласии).</span><span class="sxs-lookup"><span data-stu-id="cd07b-122">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
-- <span data-ttu-id="cd07b-123">Участие в собраниях для создания контрольного списка устранения проблем и вклада в подготовку общего плана, охватывающего инфраструктуру, сеть, администрирование, подготовку синхронизации каталогов, сетевую безопасность и федеративные удостоверения.</span><span class="sxs-lookup"><span data-stu-id="cd07b-123">Participate in the meetings to create the remediation checklist and to contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>
+- <span data-ttu-id="6cf38-121">Определение соответствующих заинтересованных лиц (в том числе руководителя проекта) для выполнения необходимых действий по оценке.</span><span class="sxs-lookup"><span data-stu-id="6cf38-121">Identify appropriate stakeholders (including a project manager) to complete the necessary assessment activities.</span></span>
+- <span data-ttu-id="6cf38-122">Предоставление команде FastTrack доступа к вашему экрану, если требуются рекомендации при запуске средств оценки вашей среды или подписок на облачные службы (при вашем согласии).</span><span class="sxs-lookup"><span data-stu-id="6cf38-122">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
+- <span data-ttu-id="6cf38-123">Участие в собраниях для создания контрольного списка устранения проблем и вклада в подготовку общего плана, охватывающего инфраструктуру, сеть, администрирование, подготовку синхронизации каталогов, сетевую безопасность и федеративные удостоверения.</span><span class="sxs-lookup"><span data-stu-id="6cf38-123">Participate in the meetings to create the remediation checklist and to contribute to the overall plan, including infrastructure, network, administration, directory synchronization preparation, network security, and federated identity topics.</span></span>
 
-## <a name="remediate-phase"></a><span data-ttu-id="cd07b-124">Фаза устранения ошибок</span><span class="sxs-lookup"><span data-stu-id="cd07b-124">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="6cf38-124">Фаза устранения ошибок</span><span class="sxs-lookup"><span data-stu-id="6cf38-124">Remediate phase</span></span>
 
-- <span data-ttu-id="cd07b-125">Выполнение действий, необходимых для устранения проблем, определенных на этапе оценки.</span><span class="sxs-lookup"><span data-stu-id="cd07b-125">Perform required steps to complete remediation activities identified in the Assess phase.</span></span>
-- <span data-ttu-id="cd07b-126">Участие в собраниях по контрольным точкам.</span><span class="sxs-lookup"><span data-stu-id="cd07b-126">Participate in checkpoint meetings.</span></span>
+- <span data-ttu-id="6cf38-125">Выполнение действий, необходимых для устранения проблем, определенных на этапе оценки.</span><span class="sxs-lookup"><span data-stu-id="6cf38-125">Perform required steps to complete remediation activities identified in the Assess phase.</span></span>
+- <span data-ttu-id="6cf38-126">Участие в собраниях по контрольным точкам.</span><span class="sxs-lookup"><span data-stu-id="6cf38-126">Participate in checkpoint meetings.</span></span>
 
-## <a name="enable-phase"></a><span data-ttu-id="cd07b-127">Этап включения</span><span class="sxs-lookup"><span data-stu-id="cd07b-127">Enable phase</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="6cf38-127">Этап включения</span><span class="sxs-lookup"><span data-stu-id="6cf38-127">Enable phase</span></span>
 
-- <span data-ttu-id="cd07b-128">Предоставление команде FastTrack доступа к вашему экрану, если требуются рекомендации при запуске средств оценки вашей среды или подписок на облачные службы (при вашем согласии).</span><span class="sxs-lookup"><span data-stu-id="cd07b-128">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
-- <span data-ttu-id="cd07b-129">Настройка сетевых элементов в соответствии с указаниями команды FastTrack.</span><span class="sxs-lookup"><span data-stu-id="cd07b-129">Configure network-related items per guidance from the FastTrack team.</span></span>
-- <span data-ttu-id="cd07b-130">Обеспечение готовности каталогов и настройка их синхронизации согласно указаниям команды FastTrack при развертывании Office 365 профессиональный плюс в Windows 10.</span><span class="sxs-lookup"><span data-stu-id="cd07b-130">Perform directory readiness and configure directory synchronization per guidance from the FastTrack team when deploying Office 365 ProPlus with Windows 10.</span></span>
-- <span data-ttu-id="cd07b-131">Настройка метода проверки подлинности (например, управляемая или федеративная проверка подлинности).</span><span class="sxs-lookup"><span data-stu-id="cd07b-131">Configure an authentication method, like managed or federated.</span></span>
+- <span data-ttu-id="6cf38-128">Предоставление команде FastTrack доступа к вашему экрану, если требуются рекомендации при запуске средств оценки вашей среды или подписок на облачные службы (при вашем согласии).</span><span class="sxs-lookup"><span data-stu-id="6cf38-128">Share your screen with the FastTrack team if guidance is needed when running evaluation tools against your environment or cloud service subscriptions (if you choose to).</span></span>
+- <span data-ttu-id="6cf38-129">Настройка сетевых элементов в соответствии с указаниями команды FastTrack.</span><span class="sxs-lookup"><span data-stu-id="6cf38-129">Configure network-related items per guidance from the FastTrack team.</span></span>
+- <span data-ttu-id="6cf38-130">Обеспечение готовности каталогов и настройка их синхронизации согласно указаниям команды FastTrack при развертывании приложений Microsoft 365 в Windows 10.</span><span class="sxs-lookup"><span data-stu-id="6cf38-130">Perform directory readiness and configure directory synchronization per guidance from the FastTrack team when deploying Microsoft 365 Apps with Windows 10.</span></span>
+- <span data-ttu-id="6cf38-131">Настройка метода проверки подлинности (например, управляемая или федеративная проверка подлинности).</span><span class="sxs-lookup"><span data-stu-id="6cf38-131">Configure an authentication method, like managed or federated.</span></span>
 
