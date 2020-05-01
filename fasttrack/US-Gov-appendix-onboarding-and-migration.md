@@ -177,11 +177,11 @@ ms.locfileid: "43665925"
   
 ## <a name="microsoft-365-apps"></a>Приложения Microsoft 365
 
-Для приложений Microsoft 365 мы предоставляем руководство по следующим вопросам: 
+Мы предоставляем руководство по следующим вопросам: 
 - Решение проблем, связанных с развертыванием.    
 - Назначение пользователям лицензий с помощью [Центра администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) и Windows PowerShell.    
-- Установка приложений Microsoft 365 с портала Office 365 с помощью функции "нажми и работай".    
-- Установка мобильных приложений Office (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS или Android.   
+- Установка приложений Microsoft 365 с портала Office 365 с помощью технологии "нажми и работай".    
+- Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS или Android.   
 - Настройка параметров обновления с помощью средства развертывания Office 365.    
 - Настройка одного сервера распространения на месте для приложений Microsoft 365, в том числе помощь по созданию файла Configuration. XML для использования в средстве развертывания Office 365.    
 - Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.
