@@ -3,19 +3,19 @@ title: Новая версия Microsoft Edge
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Преимущество FastTrack для Windows 10 предоставляет инструкции по развертыванию новой версии Microsoft Edge для клиентов Windows 10 Корпоративная, имеющих не менее 150 рабочих мест.
-ms.openlocfilehash: f24fc38dc192ce36a604a2250c3dc2a28bbb7c53
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: c72aab8bbedcacce03de89a47483cf310bf8c808
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999621"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472043"
 ---
 # <a name="the-new-microsoft-edge"></a>Новая версия Microsoft Edge
 

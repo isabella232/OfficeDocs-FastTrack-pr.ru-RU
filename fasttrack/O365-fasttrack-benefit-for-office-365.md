@@ -3,7 +3,7 @@ title: Преимущество FastTrack Center для Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Если вы приобретаете не менее 150 лицензий на соответствующую службу или тарифный план для клиента Office 365, то можете воспользоваться услугами Преимущество FastTrack Center для Office 365. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти же специалисты помогут выполнить миграцию.
-ms.openlocfilehash: 3cda5d2785f89927678cd4fb95464d76910a4177
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: 1b96edf8d0dc5682ffc1cf59060b21e42da17a13
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999859"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472180"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Преимущество FastTrack Center для Office 365
 
@@ -36,6 +36,8 @@ ms.locfileid: "43999859"
 
 - [Exchange Online](O365-fasttrack-responsibilities.md#exchange-online)
 - [Приложения Microsoft 365](O365-fasttrack-responsibilities.md#microsoft-365-apps)
+- [Управление информацией Майкрософт](O365-fasttrack-responsibilities.md#microsoft-information-governance)
+- [Защита информации Майкрософт](O365-fasttrack-responsibilities.md#microsoft-information-protection)
 - [Microsoft Teams](O365-fasttrack-responsibilities.md#microsoft-teams)
 - [Office 365 Advanced Threat Protection](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
 - [OneDrive для бизнеса](O365-fasttrack-responsibilities.md#onedrive-for-business)

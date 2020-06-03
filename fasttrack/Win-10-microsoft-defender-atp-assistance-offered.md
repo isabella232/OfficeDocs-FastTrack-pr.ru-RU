@@ -3,19 +3,19 @@ title: Предлагаемая помощь
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При покупке любой службы Windows 10 или Microsoft 365 специалисты FastTrack помогут выполнить удаленное развертывание для защиты конечных точек. Наша служба адаптирована к среде и потребностям каждого клиента.
-ms.openlocfilehash: be9d4ee5f8b35e7ff48793d25a6116978d45d733
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: 3cbfd8a00ebb829394d617be0d22867828c86c79
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999691"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472012"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
