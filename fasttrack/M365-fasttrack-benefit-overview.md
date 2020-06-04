@@ -3,7 +3,7 @@ title: Преимущество FastTrack Center для Microsoft 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,26 +12,26 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Программа FastTrack для Microsoft 365 предоставляет рекомендации по планированию, развертыванию и внедрению, включая удаленный доступ к специалистам по разработке Майкрософт, советы, средства и ресурсы. Программа FastTrack для Microsoft 365 помогает организациям и их партнерам ускорять развертывание и обеспечивать конечное внедрение Office 365, Windows 10 и Enterprise Mobility + Security.
-ms.openlocfilehash: 66d325ac9b85676cd1b96ceaf2513c8b677af36d
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: b7c7a7f04ee1e2abaa8b7782ab44c2af8faa2615
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999549"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471532"
 ---
-# <a name="fasttrack-center-benefit-for-microsoft-365"></a><span data-ttu-id="b10c0-104">Преимущество FastTrack Center для Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="b10c0-104">FastTrack Center Benefit for Microsoft 365</span></span>
+# <a name="fasttrack-center-benefit-for-microsoft-365"></a><span data-ttu-id="51f3e-104">Преимущество FastTrack Center для Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="51f3e-104">FastTrack Center Benefit for Microsoft 365</span></span>
 
-<span data-ttu-id="b10c0-p102">Преимущество FastTrack Center для Microsoft 365 предоставляет рекомендации по планированию, развертыванию и внедрению, включая удаленный доступ к специалистам по разработке Майкрософт, советы, средства и ресурсы. Программа FastTrack для Microsoft 365 помогает организациям и их партнерам ускорять развертывание и обеспечивать конечное внедрение Office 365, Enterprise Mobility + Security и Windows 10. Входящая в состав соответствующей подписки Microsoft 365 без дополнительной платы, программа FastTrack помогает выполнить миграцию на службы Microsoft 365, перенести данные, защитить организацию от угроз информационной безопасности, обеспечить эффективную командную работу и своевременно обновлять устройства и приложения. Она включает:</span><span class="sxs-lookup"><span data-stu-id="b10c0-p102">The FastTrack Center Benefit for Microsoft 365 provides guidance for planning, deployment, and adoption including remote access to Microsoft engineering expertise, best practices, tools, and resources. FastTrack for Microsoft 365 helps organizations and their partners accelerate deployment and gain end-user adoption of Office 365, Enterprise Mobility + Security, and Windows 10. Included in your eligible Microsoft 365 subscription at no additional cost, FastTrack can help you onboard to Microsoft 365 services, migrate data, protect your organization from cybersecurity threats, enable effective teamwork, and keep your devices and apps up to date. This includes:</span></span>
+<span data-ttu-id="51f3e-p102">Преимущество FastTrack Center для Microsoft 365 предоставляет рекомендации по планированию, развертыванию и внедрению, включая удаленный доступ к специалистам по разработке Майкрософт, советы, средства и ресурсы. Программа FastTrack для Microsoft 365 помогает организациям и их партнерам ускорять развертывание и обеспечивать конечное внедрение Office 365, Enterprise Mobility + Security и Windows 10. Входящая в состав соответствующей подписки Microsoft 365 без дополнительной платы, программа FastTrack помогает выполнить миграцию на службы Microsoft 365, перенести данные, защитить организацию от угроз информационной безопасности, обеспечить эффективную командную работу и своевременно обновлять устройства и приложения. Она включает:</span><span class="sxs-lookup"><span data-stu-id="51f3e-p102">The FastTrack Center Benefit for Microsoft 365 provides guidance for planning, deployment, and adoption including remote access to Microsoft engineering expertise, best practices, tools, and resources. FastTrack for Microsoft 365 helps organizations and their partners accelerate deployment and gain end-user adoption of Office 365, Enterprise Mobility + Security, and Windows 10. Included in your eligible Microsoft 365 subscription at no additional cost, FastTrack can help you onboard to Microsoft 365 services, migrate data, protect your organization from cybersecurity threats, enable effective teamwork, and keep your devices and apps up to date. This includes:</span></span>
 
-- <span data-ttu-id="b10c0-109">постоянные, многократные преимущества, входящие в вашу подписку;</span><span class="sxs-lookup"><span data-stu-id="b10c0-109">Ongoing, repeatable benefits included in your subscription.</span></span>
-- <span data-ttu-id="b10c0-110">предоставление инженерами корпорации Майкрософт или утвержденными партнерами;</span><span class="sxs-lookup"><span data-stu-id="b10c0-110">Delivery by Microsoft engineers or approved partners.</span></span>
-- <span data-ttu-id="b10c0-111">интернет-ресурсы и средства, доступные для всех клиентов.</span><span class="sxs-lookup"><span data-stu-id="b10c0-111">Online resources and tools available to all customers.</span></span>
+- <span data-ttu-id="51f3e-109">постоянные, многократные преимущества, входящие в вашу подписку;</span><span class="sxs-lookup"><span data-stu-id="51f3e-109">Ongoing, repeatable benefits included in your subscription.</span></span>
+- <span data-ttu-id="51f3e-110">предоставление инженерами корпорации Майкрософт или утвержденными партнерами;</span><span class="sxs-lookup"><span data-stu-id="51f3e-110">Delivery by Microsoft engineers or approved partners.</span></span>
+- <span data-ttu-id="51f3e-111">интернет-ресурсы и средства, доступные для всех клиентов.</span><span class="sxs-lookup"><span data-stu-id="51f3e-111">Online resources and tools available to all customers.</span></span>
   
-<span data-ttu-id="b10c0-112">Дополнительные сведения см. в статьях</span><span class="sxs-lookup"><span data-stu-id="b10c0-112">To learn more, see:</span></span>
+<span data-ttu-id="51f3e-112">Дополнительные сведения см. в статьях</span><span class="sxs-lookup"><span data-stu-id="51f3e-112">To learn more, see:</span></span>
 
-- [<span data-ttu-id="b10c0-113">Преимущество FastTrack Center для Office 365</span><span class="sxs-lookup"><span data-stu-id="b10c0-113">FastTrack Center Benefit for Office 365</span></span>](O365-fasttrack-benefit-for-office-365.md) 
-- [<span data-ttu-id="b10c0-114">Преимущество FastTrack Center для Enterprise Mobility + Security</span><span class="sxs-lookup"><span data-stu-id="b10c0-114">FastTrack Center Benefit for Enterprise Mobility + Security</span></span>](EMS-fasttrack-benefit-for-EMS.md)
-- <span data-ttu-id="b10c0-115">[Преимущество FastTrack Center для Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) Вы можете ознакомиться со службами FastTrack и [запросить помощь](https://go.microsoft.com/fwlink/p/?LinkId=2003903) от FastTrack сегодня.</span><span class="sxs-lookup"><span data-stu-id="b10c0-115">[FastTrack Center Benefit for Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) You can also explore FastTrack services and [request assistance](https://go.microsoft.com/fwlink/p/?LinkId=2003903) from FastTrack today.</span></span>
+- [<span data-ttu-id="51f3e-113">Преимущество FastTrack Center для Office 365</span><span class="sxs-lookup"><span data-stu-id="51f3e-113">FastTrack Center Benefit for Office 365</span></span>](O365-fasttrack-benefit-for-office-365.md) 
+- [<span data-ttu-id="51f3e-114">Преимущество FastTrack Center для Enterprise Mobility + Security</span><span class="sxs-lookup"><span data-stu-id="51f3e-114">FastTrack Center Benefit for Enterprise Mobility + Security</span></span>](EMS-fasttrack-benefit-for-EMS.md)
+- <span data-ttu-id="51f3e-115">[Преимущество FastTrack Center для Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) Вы можете ознакомиться со службами FastTrack и [запросить помощь](https://go.microsoft.com/fwlink/p/?LinkId=2003903) от FastTrack сегодня.</span><span class="sxs-lookup"><span data-stu-id="51f3e-115">[FastTrack Center Benefit for Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) You can also explore FastTrack services and [request assistance](https://go.microsoft.com/fwlink/p/?LinkId=2003903) from FastTrack today.</span></span>
 
-<span data-ttu-id="b10c0-116">FastTrack — это ваш партнер для достижения успеха при работе с Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="b10c0-116">FastTrack is your partner for Microsoft 365 success.</span></span>
+<span data-ttu-id="51f3e-116">FastTrack — это ваш партнер для достижения успеха при работе с Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="51f3e-116">FastTrack is your partner for Microsoft 365 success.</span></span>
   
