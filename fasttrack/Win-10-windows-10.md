@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Специалисты FastTrack предоставляют руководство по развертыванию Windows 10, помогающее обновить Windows 7 Профессиональная и Windows 8.1 Профессиональная до Windows 10 Корпоративная.
-ms.openlocfilehash: 472a5efb28a269ecdd262ed9c31cf4cceaa06ddf
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 0aa98b787af20c12f851033b0524d450fd0fcb87
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472096"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011517"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -44,7 +44,7 @@ ms.locfileid: "44472096"
 2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
 3.    Заполните форму **Запросить помощь с Microsoft 365**.
   
-Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Выберите **Мои пользователи**.
 3.    Найдите своего пользователя или выберите его в списке пользователей.

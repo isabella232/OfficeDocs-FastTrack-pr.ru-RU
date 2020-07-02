@@ -3,19 +3,19 @@ title: Предлагаемая помощь
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При покупке любой службы Windows 10 или Microsoft 365 специалисты FastTrack помогут выполнить удаленное развертывание для защиты конечных точек. Наша служба адаптирована к среде и потребностям каждого клиента.
-ms.openlocfilehash: 3cbfd8a00ebb829394d617be0d22867828c86c79
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: ec29f863b01ffb312b7b8b299580e5e38f60fa9d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472012"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011529"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
@@ -37,7 +37,7 @@ ms.locfileid: "44472012"
     - Автоматическое исследование и защита.
     - Оценка безопасности
 - Обзор моделирования и учебных материалов (например, сценариев практических занятий, имитации вредоносных программ и автоматизированных исследований).
-- Глубокое рассмотрение отчетности и аналитики угроз.
+- Общие сведения о функциях отчетов и анализа угроз.
 - Интеграция ATP Office 365 с ATP в Microsoft Defender
 - Пошаговые руководства по поведению на портале Центра безопасности в Microsoft Defender.
 
@@ -51,6 +51,7 @@ ms.locfileid: "44472012"
    - Windows Server
    - macOS
    - Linux
+   - Мобильные устройства (Android и iOS)
 - Конфигурация следующих возможностей сокращения направлений атак:
     - Аппаратная изоляция.
     - Управление приложениями.
@@ -60,3 +61,4 @@ ms.locfileid: "44472012"
 - Конфигурация или учебные курсы с обзором API или информацией о безопасности и подключениях к управлению событиями (SIEM).
 - Развертывание или конфигурация защиты от угроз (Майкрософт).
 - Учебные курсы или руководства по расширенной охоте.
+- Обучающие материалы или рекомендации по использованию или созданию запросов Кусто.

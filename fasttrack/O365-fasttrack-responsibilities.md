@@ -3,19 +3,19 @@ title: Обязанности специалистов FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: f7a519e0f5fd6b5b8d458fd326826e5a16797a67
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472204"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011433"
 ---
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
@@ -82,7 +82,7 @@ ms.locfileid: "44472204"
       - Настройка сквозной проверки подлинности Azure Active Directory (при необходимости).\*\*
       - Настройка эффективного единого входа Azure Active Directory (при необходимости).\*\*\*
     > [!NOTE]
-    > Сквозная проверка подлинности Azure Active Directory поддерживается в средах с несколькими лесами, если между лесами Active Directory существуют отношения доверия, а маршрутизация суффикса имен настроена правильно. Дополнительные агенты можно устанавливать на несколько локальных серверов, чтобы обеспечить высокую доступность для запросов на вход. Дополнительные сведения см. в статье [Краткое руководство по сквозной проверке подлинности Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=860094) и [Простой единый вход в Azure Active Directory  быстрый запуск](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
 - Для одного леса, если целью являются федеративные удостоверения: 
   - Установка и настройка AD FS для проверки подлинности локального домена в Office 365: при отказоустойчивой конфигурации с одним сайтом, если это необходимо.
   - Установка и настройка WAP для публикации инфраструктуры AD FS в Интернете.
@@ -140,6 +140,15 @@ ms.locfileid: "44472204"
   - Создание меток хранения.
   - Публикации меток хранения (вручную и автоматически).
   - Создание заданий импорта.
+- Расширенное обнаружение электронных данных.
+  - Данные, не относящиеся к Office 365.
+  - Установка разрешений.
+  - Создание обращений.
+  - Добавление custodians. 
+  - Юридические удержания.
+  - Выполнять.
+  - Проверка наборов.
+  - Экспорт контента.
 
 ## <a name="microsoft-information-protection"></a>Защита информации Майкрософт
 

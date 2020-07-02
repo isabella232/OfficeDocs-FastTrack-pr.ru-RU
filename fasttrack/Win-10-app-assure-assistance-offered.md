@@ -3,19 +3,19 @@ title: Предлагаемая помощь
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При приобретении любых служб Windows 10 или Microsoft 365 специалисты FastTrack предоставляют советы и рекомендации по устранению проблем при развертывании Windows 10 и приложений Microsoft 365, а также по своевременному обновлению без дополнительной платы (при наличии соответствующей подписки).
-ms.openlocfilehash: 8b006493a46108791031ac1baa9bdd501278414f
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: bebe49e4fe8808192265bc1573ea410b0e63cdc2
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472060"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011037"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
@@ -61,7 +61,7 @@ ms.locfileid: "44472060"
 ## <a name="out-of-scope"></a>Вне области поддержки
 
 Услуги FastTrack не включают следующее:
-- Изучение и тестирование приложения с целью определения того, какие функции поддерживаются и не поддерживаются в Windows 10 и приложениях Microsoft 365. Дополнительные руководства по этому процессу см. на странице [Центр развертывания компьютеров](https://go.microsoft.com/fwlink/?linkid=2080140). Если вас интересует глубокая оценка готовности к обновлению, заполните форму [Запрос клиента на оценку современных компьютеров](https://go.microsoft.com/fwlink/?linkid=2053818).
+- App inventory and testing to determine what does and doesn't work on Windows 10 and Microsoft 365 Apps. For more guidance on this process, visit the [Desktop Deployment Center](https://go.microsoft.com/fwlink/?linkid=2080140). If you're interested in an in-depth upgrade readiness assessment, complete the [Customer Request for Modern Desktop Assessment](https://go.microsoft.com/fwlink/?linkid=2053818) form.
 - Анализ приложений независимых поставщиков программного обеспечения (ISV) на совместимость с Windows 10 и сведений о поддержке. Дополнительные сведения см. в разделе [Аналитика компьютеров](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Услуги по упаковке приложений. Команда App Assure упаковывает приложения, исправленные для Windows 10, чтобы обеспечить возможность их развертывания в среде клиента.
 

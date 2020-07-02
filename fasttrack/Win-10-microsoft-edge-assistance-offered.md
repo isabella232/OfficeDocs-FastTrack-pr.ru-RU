@@ -3,19 +3,19 @@ title: Предлагаемая помощь
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При приобретении любой службы Windows 10 или Microsoft 365 (см. раздел "Поддерживаемые службы и тарифные планы") специалисты FastTrack предоставляют инструкции по удаленному развертыванию и помощь по обеспечению совместимости, если у вас есть веб-приложение или сайт, поддерживающие Internet Explorer или Google Chrome.
-ms.openlocfilehash: b72be35d0f7842aed62c3a60a85d9c7892235f6c
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472034"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011565"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь
 
@@ -36,7 +36,7 @@ ms.locfileid: "44472034"
 2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
 3.    Заполните форму **Запросить помощь с Microsoft 365**.
   
-Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Выберите **Мои пользователи**.
 3.    Найдите своего пользователя или выберите его в списке пользователей.
