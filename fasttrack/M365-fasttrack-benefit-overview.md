@@ -3,7 +3,7 @@ title: Преимущество FastTrack Center для Microsoft 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,17 +11,17 @@ f1_keywords:
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Программа FastTrack для Microsoft 365 предоставляет рекомендации по планированию, развертыванию и внедрению, включая удаленный доступ к специалистам по разработке Майкрософт, советы, средства и ресурсы. Программа FastTrack для Microsoft 365 помогает организациям и их партнерам ускорять развертывание и обеспечивать конечное внедрение Office 365, Windows 10 и Enterprise Mobility + Security.
-ms.openlocfilehash: b7c7a7f04ee1e2abaa8b7782ab44c2af8faa2615
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+description: FastTrack for Microsoft 365 provides guidance for planning, deployment and adoption including remote access to Microsoft engineering expertise, best practices, tools, and resources. FastTrack for Microsoft 365 helps organizations and their partners accelerate deployment and gain end-user adoption of Office 365, Windows 10, and Enterprise Mobility + Security.
+ms.openlocfilehash: bc689044b115318cd62c3e6bc03ac02fa6f26d0b
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471532"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011241"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Преимущество FastTrack Center для Microsoft 365
 
-Преимущество FastTrack Center для Microsoft 365 предоставляет рекомендации по планированию, развертыванию и внедрению, включая удаленный доступ к специалистам по разработке Майкрософт, советы, средства и ресурсы. Программа FastTrack для Microsoft 365 помогает организациям и их партнерам ускорять развертывание и обеспечивать конечное внедрение Office 365, Enterprise Mobility + Security и Windows 10. Входящая в состав соответствующей подписки Microsoft 365 без дополнительной платы, программа FastTrack помогает выполнить миграцию на службы Microsoft 365, перенести данные, защитить организацию от угроз информационной безопасности, обеспечить эффективную командную работу и своевременно обновлять устройства и приложения. Она включает:
+The FastTrack Center Benefit for Microsoft 365 provides guidance for planning, deployment, and adoption including remote access to Microsoft engineering expertise, best practices, tools, and resources. FastTrack for Microsoft 365 helps organizations and their partners accelerate deployment and gain end-user adoption of Office 365, Enterprise Mobility + Security, and Windows 10. Included in your eligible Microsoft 365 subscription at no additional cost, FastTrack can help you onboard to Microsoft 365 services, migrate data, protect your organization from cybersecurity threats, enable effective teamwork, and keep your devices and apps up to date. This includes:
 
 - постоянные, многократные преимущества, входящие в вашу подписку;
 - предоставление инженерами корпорации Майкрософт или утвержденными партнерами;

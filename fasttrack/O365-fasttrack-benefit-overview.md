@@ -3,7 +3,7 @@ title: Обзор Преимущества FastTrack Center
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,17 +11,17 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Если вы используете Преимущество FastTrack Center для Office 365, специалисты FastTrack удаленно подготовят среду Office 365 к использованию, а также спланируют ее развертывание и использование в вашей организации. Дополнительные сведения о требованиях программы см. в статье "Преимущество FastTrack Center для Office 365".
-ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+description: With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see FastTrack Center Benefit for Office 365.
+ms.openlocfilehash: 3537f6effa5bd2c65f542496ea42ab70075621ce
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471714"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011337"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Обзор Преимущества FastTrack Center
 
-Если вы используете Преимущество FastTrack Center для Office 365, специалисты FastTrack удаленно подготовят среду Office 365 к использованию, а также спланируют ее развертывание и использование в вашей организации. Дополнительные сведения о требованиях программы см. в статье [Преимущество FastTrack Center для Office 365](O365-fasttrack-benefit-for-office-365.md).
+With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md).
   
 Мы рассмотрим следующие темы:
 - [Процесс FastTrack](O365-fasttrack-process.md) 
@@ -34,11 +34,11 @@ ms.locfileid: "44471714"
 - [Приложение Б. Соглашение HIPAA-BAA для FastTrack Center](O365-hipaa-business-associate-agreement.md)
 - [Приложение В. Обзор преимущества FastTrack Center для Office 365 для государственных организаций США](US-Gov-appendix-overview.md)
     
-По завершении входящей миграции будет создан клиент Office 365:. Пользователи с лицензиями могут получить доступ к Office 365: с помощью одного из указанных ниже вариантов удостоверений.
+Your Office 365 tenant is created at the completion of onboarding. Licensed users can access Office 365 by using one of the following identity options:
 - Облачные удостоверения с уникальными учетными записями Office 365.
-- Синхронизированные удостоверения с учетными записями Office 365:, синхронизируемыми из локальной службы Active Directory с помощью Azure Active Directory Connect (синхронизация хэшей паролей или сквозная проверка подлинности). Они предназначены для указанных ниже пользователей.
+- Synchronized Identities with Office 365 accounts synchronized from your on-premises Active Directory with Azure Active Directory Connect (Password Hash Sync or Pass-through Authentication). These are for customers with:
   - Среда с одним лесом Active Directory.
-  - Поддерживаемая топология с несколькими лесами Active Directory. Список поддерживаемых топологий см. в статье [Требования к исходной среде](O365-source-environment-expectations.md).
+  - Supported multi-forests Active Directory topology. For supported topologies, see [Source Environment Expectations](O365-source-environment-expectations.md).
 - Федеративные удостоверения с учетными записями Office 365, которые:
   - Синхронизированные из Active Directory с помощью средства Azure Active Directory Connect для пользователей, применяющих указанные ниже конфигурации.
       - в конфигурации с одним лесом Active Directory.

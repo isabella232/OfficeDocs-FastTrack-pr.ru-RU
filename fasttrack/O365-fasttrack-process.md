@@ -3,19 +3,19 @@ title: Процесс FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Процесс FastTrack обеспечивает входящую миграцию и услуги по популяризации продукта среди пользователей. '
-ms.openlocfilehash: 33faf34376c4f427ccf0f706f6de909dfa286820
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
-ms.translationtype: MT
+ms.openlocfilehash: 271a78c8d203c90e2bb49a7569283a748b66f443
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472216"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011373"
 ---
 # <a name="the-fasttrack-process"></a>Процесс FastTrack
 
@@ -23,13 +23,13 @@ ms.locfileid: "44472216"
   
 Входящая миграция состоит из указанных ниже частей.
   
-- *Базовая подключение* — это задачи, необходимые для настройки клиентов и (при необходимости) интеграции с Azure Active Directory. Кроме того, базовое подключение создает основу для подключения других подходящих служб. 
-- *Подключение и миграция служб* — задачи подключения служб позволяют реализовывать сценарии в клиенте. Перенос данных (в том числе электронной почты и файлов) рассматривается в разделе [Перенос данных](O365-data-migration.md). 
+- *Core onboarding* — These are tasks required for tenant configuration and integration with Azure Active Directory (Azure AD) if needed. Core onboarding also provides the baseline for onboarding other eligible services. 
+- *Service onboarding and migration* — Service onboarding tasks enable scenarios in your tenant. Data migration (including email and files) is covered in [Data Migration](O365-data-migration.md). 
     
-Услуги по обеспечению принятия продукта пользователями включают задачи с инструкциями по уведомлению пользователей о доступных им службах и о том, как использовать эти службы для повышения эффективности работы. Такая помощь оказывается одновременно с мероприятиями по входящей миграции.
+User adoption services are comprised of tasks that provide guidance for you to ensure your users are aware of the eligible services and can use them to drive business value. This assistance occurs in parallel to onboarding activities.
   
 > [!NOTE]
-> Специалисты FastTrack предоставляют пользователям рекомендации и советы для достижения быстрых и предсказуемых результатов. Если вы выполните развертывание без учета этих рекомендаций, это может сказаться на эффективности подключения и удобстве использования службы. Руководство включает в себя как устные, так и письменные инструкции. Когда специалисты FastTrack предоставляют руководство, они не могут действовать от вашего имени. Пока ваша подписка активна, вы можете с помощью FastTrack подключить любой продукт, соответствующий критериям, и обеспечить его принятие. 
+> FastTrack provides customers with a recommended approach, guidance, and best practices engineered to deliver quick and predictable outcomes. If you choose to deploy outside of this guidance, your onboarding experience and usage of the service may be impacted. Guidance is defined as a combination of verbal and written assistance. When FastTrack Specialists provide guidance, FastTrack personnel cannot act on your behalf. You can use FastTrack services to onboard and adopt any qualifying product workload as long as your subscription is current. 
   
 ## <a name="the-onboarding-process"></a>Процесс входящей миграции
 
@@ -50,7 +50,7 @@ ms.locfileid: "44472216"
     
  Когда начнется поддержка подключения, мы составим расписание собраний по сети.
     
-Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Выберите **Мои пользователи**.
 3.    Найдите своего пользователя или выберите его в списке пользователей.
