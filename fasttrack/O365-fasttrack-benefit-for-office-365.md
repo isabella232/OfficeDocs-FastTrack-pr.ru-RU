@@ -3,7 +3,7 @@ title: Преимущество FastTrack Center для Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,22 +11,22 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Если вы приобретаете не менее 150 лицензий на соответствующую службу или тарифный план для клиента Office 365, то можете воспользоваться услугами Преимущество FastTrack Center для Office 365. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти же специалисты помогут выполнить миграцию.
-ms.openlocfilehash: 1b96edf8d0dc5682ffc1cf59060b21e42da17a13
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
-ms.translationtype: MT
+description: You use the FastTrack Center Benefit for Office 365 when you purchase at least 150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance.
+ms.openlocfilehash: 0054d89adf0948dafd62748e1653c4e6e6f91a67
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472180"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011349"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Преимущество FastTrack Center для Office 365
 
-Если вы приобретаете *не менее* 150 лицензий на соответствующую службу или тарифный план для клиента Office 365, то можете воспользоваться услугами Преимущество FastTrack Center для Office 365. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти же специалисты помогут выполнить миграцию. 
+You use the FastTrack Center Benefit for Office 365 when you purchase  *at least*  150 licenses for an eligible service or plan for your Office 365 tenant. You then work with FastTrack Specialists to assess, remediate, enable, and drive usage of those services. These specialists also provide migration guidance. 
   
 > [!NOTE]
 > В целях настоящего документа под специалистами FastTrack подразумеваются как сотрудники Майкрософт, так и утвержденные Майкрософт поставщики услуг и партнеры. 
   
-Чтобы воспользоваться услугами FastTrack Center по переносу, у клиента Office 365 должно быть не менее 500 лицензий. Дополнительные сведения см. в статье [Миграция данных](O365-data-migration.md).
+To qualify for FastTrack Center migration services, your Office 365 tenant must have 500 or more licenses. For more information, see [Data Migration](O365-data-migration.md).
   
 Дополнительные сведения о доступных вам службах и планах см. в статье [Поддерживаемые службы и тарифные планы](M365-eligible-services-and-plans.md).
   
@@ -36,8 +36,8 @@ ms.locfileid: "44472180"
 
 - [Exchange Online](O365-fasttrack-responsibilities.md#exchange-online)
 - [Приложения Microsoft 365](O365-fasttrack-responsibilities.md#microsoft-365-apps)
-- [Управление информацией Майкрософт](O365-fasttrack-responsibilities.md#microsoft-information-governance)
-- [Защита информации Майкрософт](O365-fasttrack-responsibilities.md#microsoft-information-protection)
+- [Управление информацией (Майкрософт)](O365-fasttrack-responsibilities.md#microsoft-information-governance)
+- [Защита информации (Майкрософт)](O365-fasttrack-responsibilities.md#microsoft-information-protection)
 - [Microsoft Teams](O365-fasttrack-responsibilities.md#microsoft-teams)
 - [Office 365 Advanced Threat Protection](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
 - [OneDrive для бизнеса](O365-fasttrack-responsibilities.md#onedrive-for-business)
@@ -49,7 +49,7 @@ ms.locfileid: "44472180"
 - [Skype для бизнеса Online](O365-fasttrack-responsibilities.md#skype-for-business-online)
 - [Yammer корпоративный](O365-fasttrack-responsibilities.md#yammer-enterprise)
   
-Ищете сведения о преимуществах [FastTrack Center для Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? В этой статье приведены сведения, касающиеся таких продуктов:
+Are you looking for [FastTrack Center Benefit for Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md)? It includes information about:
   
 - Microsoft Intune
 - Azure Active Directory Premium 

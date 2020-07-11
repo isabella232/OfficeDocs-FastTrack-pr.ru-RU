@@ -1,24 +1,24 @@
 ---
-title: Приложение Б. Дополнительное преимущество FastTrack Center
+title: Приложение А. Дополнительное преимущество FastTrack Center
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-description: Пользователи, которые приобрели не менее 20 000 лицензий на клиент Exchange Online, получают право на дополнительные услуги FastTrack Center. Дополнительные сведения см. в статье "Подходящие службы и планы".
-ms.openlocfilehash: 9b16a13f4bf658d68c43720ecad04f3ec7191cf0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+description: Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See Eligible Services and Plans for more details.
+ms.openlocfilehash: 619ba9bf27116a94a40e74b38a4f4bbdd4d6c99d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999102"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45010989"
 ---
-# <a name="appendix-b---fasttrack-center-additional-benefit"></a>Приложение Б. Дополнительное преимущество FastTrack Center
+# <a name="appendix-a---fasttrack-center-additional-benefit"></a>Приложение А. Дополнительное преимущество FastTrack Center
 
-Пользователи, которые приобрели не менее 20 000 лицензий на клиент Exchange Online, получают право на дополнительные услуги FastTrack Center. Дополнительные сведения см. в статье [Подходящие службы и планы](M365-eligible-services-and-plans.md). 
+Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](M365-eligible-services-and-plans.md) for more details. 
   
 ## <a name="onboarding-and-migration-phases"></a>Фазы подключения и миграции
 
@@ -48,7 +48,7 @@ ms.locfileid: "43999102"
     
 ## <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
-При подключении специалисты FastTrack берут на себя обязанность выполнять указанные ниже действия. Последние могут дополнять или заменять действия, определенные в статье [Обязанности специалистов FastTrack](O365-fasttrack-responsibilities.md).
+FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](O365-fasttrack-responsibilities.md).
   
 ## <a name="general"></a>Общие
 
@@ -64,7 +64,7 @@ ms.locfileid: "43999102"
 
 ### <a name="geo-redundant-ad-fs-guidance"></a>Руководство по геоизбыточным службам федерации Active Directory
 
-- Предоставление для справки макета стандартной архитектуры с геоизбыточной топологией AD FS, включающей два (2) центра обработки данных. Использование стандартной архитектуры предусматривает:
+- Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:
   - федеративную проверку подлинности для служб, на которые распространяется поддержка FastTrack Center; 
   - устойчивость с использованием одного сайта;  
   - высокую доступность и отработку отказа;  
@@ -79,7 +79,7 @@ ms.locfileid: "43999102"
 ### <a name="ad-fs-client-access-policy-guidance"></a>Руководство по политикам клиентского доступа AD FS
 
 - Проверка политик и конфигураций, необходимых для защиты ресурсов Office 365.  
-- Предоставление рекомендаций и помощи в настройке политики клиентского доступа AD FS для идентифицированных сценариев клиентского доступа в рамках поддерживаемых сценариев. Дополнительные сведения см. в статье [Ограничение доступа к службам Office 365 на основе расположения клиента](https://go.microsoft.com/fwlink/?LinkID=525689). 
+- Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689). 
 - Подтверждение функциональности федеративной проверки подлинности с измененными политиками клиентского доступа для установленных сценариев доступа с конфигурацией, включающей до 10 пользователей.
     
 ## <a name="exchange-online"></a>Exchange Online
@@ -96,7 +96,7 @@ ms.locfileid: "43999102"
   - контактов автосекретаря единой системы обмена сообщениями и голосовой почты Outlook для перенаправления пользователей в Exchange Online. 
   - Помощь по созданию записей обнаружения служб (SRV), требуемых для федерации.
 > [!NOTE]
-> Единую систему обмена сообщениями можно настроить с использованием поддерживаемых шлюзов IP этой системы и пограничных контроллеров сеансов (SBC). Дополнительные сведения см. в статье [Интеграция телефонной системы и единой системы обмена сообщениями](https://go.microsoft.com/fwlink/?LinkID=809293). 
+> UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293). 
   
 ### <a name="public-folder-coexistence-guidance"></a>Руководство по сосуществованию общедоступных папок
 
@@ -135,7 +135,7 @@ ms.locfileid: "43999102"
   
 ## <a name="your-responsibilities"></a>Ваши обязанности
 
-При подключения вы берете на себя указанные ниже обязанности. Они дополняют обязанности, определенные в разделе [Ваши обязанности](O365-your-responsibilities.md). 
+You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](O365-your-responsibilities.md) section. 
   
 - Назначение ресурсов и управление ими согласно плану проекта.  
 - Выполнение своевременных действий для снижения рисков и решения проблем, о которых сообщают клиент, руководители проектов партнера и менеджер FastTrack.   
