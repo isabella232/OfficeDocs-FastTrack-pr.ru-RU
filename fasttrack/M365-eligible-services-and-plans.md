@@ -3,19 +3,19 @@ title: Поддерживаемые службы и тарифные планы
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: 9b6c7272d1b8083acd3d5765687ce841e08d086a
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999835"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011229"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -33,7 +33,7 @@ ms.locfileid: "43999835"
 2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
 3.    Заполните форму **Запросить помощь с Microsoft 365**.
   
-Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Выберите **Мои пользователи**.
 3.    Найдите своего пользователя или выберите его в списке пользователей.
@@ -54,6 +54,8 @@ ms.locfileid: "43999835"
 - Exchange Online 
 - Приложения Microsoft 365
 - Advanced Threat Protection в Microsoft Defender
+- Управление информацией (Майкрософт)
+- Защита информации (Майкрософт)
 - Microsoft Intune
 - Microsoft Teams
 - Office 365 Advanced Threat Protection
@@ -75,6 +77,10 @@ ms.locfileid: "43999835"
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
+- Соответствие требованиям Microsoft 365 E5\*
+- Обнаружение электронных данных и аудит в Microsoft 365 E5\*
+- Защита информации и управление данными в Microsoft 365 E5\*
+- Управление внутренними рисками в Microsoft 365 E5\*
 - Microsoft 365 F1\*
 - Microsoft 365 бизнес\*
 - Приложения Microsoft 365 для предприятий\*
@@ -91,6 +97,10 @@ ms.locfileid: "43999835"
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Microsoft 365 A5 Security\*
+- Microsoft 365 A5 Compliance\*
+- Обнаружение электронных данных и аудит в Microsoft 365 A5\*
+- Защита информации и управление данными в Microsoft 365 A5\*
+- Управление внутренними рисками в Microsoft 365 A5\*
 - Приложения Microsoft 365 для образовательных учреждений (на устройство)\*
  
 ## <a name="eligible-office-365-plans"></a>Поддерживаемые планы Office 365
@@ -227,5 +237,5 @@ ms.locfileid: "43999835"
   
 ## <a name="fasttrack-center-additional-benefit-eligibility"></a>Право на получение дополнительного преимущества FastTrack Center
 
-Пользователи, которые приобрели не менее 20 000 лицензий на клиент Office 365, получают право на дополнительные услуги FastTrack Center. Дополнительные сведения см. в статье [Приложение Б. Дополнительное преимущество FastTrack Center](O365-fasttrack-additional-benefits.md).
+Пользователи, которые приобрели не менее 20 000 лицензий на клиент Office 365, получают право на дополнительные услуги Центра FastTrack. Дополнительные сведения см. в статье [Приложение А: Дополнительное преимущество Центра FastTrack](O365-fasttrack-additional-benefits.md).
   
