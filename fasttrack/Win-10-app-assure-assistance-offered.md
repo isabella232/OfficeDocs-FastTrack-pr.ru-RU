@@ -61,7 +61,7 @@ ms.locfileid: "45011037"
 ## <a name="out-of-scope"></a>Вне области поддержки
 
 Услуги FastTrack не включают следующее:
-- App inventory and testing to determine what does and doesn't work on Windows 10 and Microsoft 365 Apps. For more guidance on this process, visit the [Desktop Deployment Center](https://go.microsoft.com/fwlink/?linkid=2080140). If you're interested in an in-depth upgrade readiness assessment, complete the [Customer Request for Modern Desktop Assessment](https://go.microsoft.com/fwlink/?linkid=2053818) form.
+- Изучение и тестирование приложения с целью определения того, какие функции поддерживаются и не поддерживаются в Windows 10 и приложениях Microsoft 365. Дополнительные руководства по этому процессу см. на странице [Центр развертывания компьютеров](https://go.microsoft.com/fwlink/?linkid=2080140). Если вас интересует глубокая оценка готовности к обновлению, заполните форму [Запрос клиента на оценку современных компьютеров](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Анализ приложений независимых поставщиков программного обеспечения (ISV) на совместимость с Windows 10 и сведений о поддержке. Дополнительные сведения см. в разделе [Аналитика компьютеров](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Услуги по упаковке приложений. Команда App Assure упаковывает приложения, исправленные для Windows 10, чтобы обеспечить возможность их развертывания в среде клиента.
 

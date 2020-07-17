@@ -33,7 +33,7 @@ ms.locfileid: "45011229"
 2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
 3.    Заполните форму **Запросить помощь с Microsoft 365**.
   
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Выберите **Мои пользователи**.
 3.    Найдите своего пользователя или выберите его в списке пользователей.

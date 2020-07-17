@@ -9,7 +9,7 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase.
+description: 'Подключение к Office 365 предусматривает четыре основных этапа: подготовка, оценка, исправление и включение. За этими этапами может следовать этап переноса данных.'
 ms.openlocfilehash: 7361a3aa493ae9263076357bf2ce005c3f92a5b4
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -19,7 +19,7 @@ ms.locfileid: "45011601"
 ---
 # <a name="onboarding-and-migration-phases"></a>Фазы подключения и миграции
 
-Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase as shown in the following figure.
+Подключение к Office 365 состоит из четырех основных фаз: начальной, оценки, исправления и включения. За этими фазами может следовать фаза переноса данных, как показано на рисунке ниже.
   
 ![Фазы подключения](media/O365-Onboarding-Phases.png)
   
@@ -41,7 +41,7 @@ Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and
 2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
 3.    Заполните форму **Запросить помощь с Microsoft 365**. 
   
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Выберите **Мои пользователи**.
 3.    Найдите своего пользователя или выберите его в списке пользователей.
@@ -50,17 +50,17 @@ Partners can also get help through the [FastTrack site](https://go.microsoft.com
 
 Вы также можете запросить помощь FastTrack Center на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), открыв список доступных услуг для своего клиента. 
     
-During this phase, we discuss the onboarding process, verify your data, and set up a kickoff meeting. This includes working with you to understand how you intend to use the service and your organization's goals and plans to drive service usage.
+На этом этапе мы обсудим процесс подключения службы, подтвердим ваши данные и настроим начальное собрание. Кроме того, нам необходимо будет выяснить, каким образом и для каких целей вы планируете использовать службу.
   
 ![Этапы подключения во время фазы инициализации](media/O365-Onboarding-Initiate.png)
   
 ## <a name="assess-phase"></a>Фаза оценки
 
-Your FastTrack Manager conducts an interactive success planning call with you and your adoption team. This introduces you to the capabilities of the eligible services you purchased, the key foundations you need for success, the methodology for driving usage of the service, and scenarios you can use to get value from the services. We assist you in success planning and provide feedback on key areas (as needed).
+Закрепленный за вами менеджер FastTrack проведет с вами и вашими сотрудниками, отвечающими за адаптацию пользователей, интерактивную беседу, посвященную планированию. В ходе беседы вы узнаете о возможностях, которые предоставляют доступные вам службы, о ключевых аспектах, необходимых для достижения успеха, о методологии популяризации служб среди пользователей и о сценариях, применяя которые, можно извлечь пользу от использования служб. Мы поможем вам выполнить планирование и при необходимости дадим рекомендации по ключевым аспектам.
   
-FastTrack Specialists work with you to assess your source environment and the requirements. We provide tools for you to gather data about your environment and  guide you through estimating bandwidth requirements and assessing your internet browsers, client operating systems, Domain Name System (DNS), network, infrastructure, and identity system to determine if any changes are required for onboarding. 
+Специалисты FastTrack помогут вам выполнить оценку исходной среды и необходимых требований. Мы предоставим средства для сбора данных о вашей среде и поможем оценить требования к пропускной способности, браузеры для доступа к Интернету, клиентские операционные системы, службу доменных имен (DNS), сеть, инфраструктуру и систему идентификации, чтобы определить, необходимо ли внести какие-либо изменения перед подключением. 
   
-Based on your current setup, we provide a remediation plan that brings your source environment up to the minimum requirements for successful onboarding to Office 365 and, if needed, for successful mailbox and/or data migration. We provide a set of suggested activities to increase end user value and adoption. We also set up appropriate checkpoint calls for the Remediate phase.
+На основе сведений о текущей конфигурации мы составим план устранения ошибок, выполнение которого обеспечит соответствие исходной среды минимальным требованиям для успешной входящей миграции в Office 365 и (при необходимости) успешный перенос почтовых ящиков и данных. Мы предложим ряд мероприятий для популяризации служб среди конечных пользователей. Кроме того, мы запланируем телефонные беседы по ключевым этапам устранения ошибок.
   
 ![Этапы подключения для фазы оценки](media/O365.png)
   
@@ -70,7 +70,7 @@ Based on your current setup, we provide a remediation plan that brings your sour
   
 ![Этапы подключения во время фазы устранения ошибок](media/O365-Onboarding-Remediate.png)
   
-We also provide a set of suggested activities to increase end user value and adoption. Before beginning the Enable phase, we jointly verify the outcomes of the remediation activities to make sure you're ready to proceed. 
+Кроме того, мы предложим ряд мероприятий для популяризации служб среди конечных пользователей. Перед началом этапа включения мы совместно с вами проверим результаты действий по устранению ошибок и убедимся, что вы готовы продолжить работу. 
   
 На этом этапе закрепленный за вами менеджер FastTrack поможет выполнить планирование. Он посоветует необходимые ресурсы и даст рекомендации, ознакомившись с которыми, вы сможете сделать службу доступной для вашей организации и обеспечить ее принятие пользователями.
   
@@ -80,26 +80,26 @@ We also provide a set of suggested activities to increase end user value and ado
   
 ## <a name="core"></a>Базовое подключение
 
-Core onboarding involves service provisioning and tenant and identity integration. It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Skype for Business Online. You and your FastTrack Manager continue to have success planning checkpoint meetings to evaluate progress against your goals and determine what further assistance you need.
+Базовое подключение предусматривает подготовку служб к работе, а также интеграцию клиента и удостоверений. Кроме того, оно предусматривает выполнение действий по созданию базы для подключения служб, например Exchange Online, SharePoint Online и Skype для бизнеса Online. Вы и ваш менеджер FastTrack будете проводить контрольные собрания, чтобы оценить прогресс в достижении поставленных целей и определить, какая дальнейшая помощь нужна.
   
 ![Этапы базового подключения во время фазы активации_1](media/O365-Onboarding-Enable-Core.png)
   
 ![Базовые этапы входящей миграции во время фазы активации_2](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP означает "прокси-служба веб-приложения" (Web Application Proxy). SSL означает Secure Sockets Layer. SDS означает School Data Sync. Дополнительные сведения о Microsoft School Data Sync см. в [этой статье](https://go.microsoft.com/fwlink/?linkid=871480). 
   
 Подключение одной или нескольких поддерживаемых служб можно начать после завершения базового подключения.
   
 ## <a name="exchange-online"></a>Exchange Online
 
-For Exchange Online, we guide you through the process to get your organization ready to use email. The exact steps, depending on your source environment and your email migration plans, can include providing guidance for:
+В случае Exchange Online мы поможем подготовить вашу организацию к использованию электронной почты. В зависимости от того, каковы ваши планы переноса электронной почты и исходная среда, вы можете получить помощь по следующим вопросам:
 - Настройка функций Exchange Online Protection (EOP) для всех доменов, поддерживающих почту и проверенных в Office 365.
     > [!NOTE]
     > Записи обмена электронной почтой (MX) должны указывать на Office 365. 
 - Настройка функции Office 365 Advanced Threat Protection (ATP), если она включена в вашу подписку. Дополнительные сведения см. в статье [Office 365 Advanced Threat Protection](#office-365-advanced-threat-protection).
-- Setting up the data loss prevention (DLP) feature for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.
-- Setting up Office 365 Message Encryption (OME) for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.
+- Настройка функции защиты от потери данных (DLP) для всех доменов с включенной поддержкой почты, проверенных в Office 365 в рамках подписки. Это выполняется, когда записи MX указывают на Office 365.
+- Настройка шифрования сообщений Office 365 (OME) для всех доменов с включенной поддержкой почты, проверенных в Office 365 в рамках подписки. Это выполняется, когда записи MX указывают на Office 365.
 
 > [!NOTE]
 > Служба репликации почтовых ящиков (MRS) попытается перенести сообщения с управляемыми правами на доступ к данным (IRM) из локального почтового ящика в соответствующий почтовый ящик Exchange Online. Возможность чтения защищенных данных после переноса зависит от сопоставления клиентом шаблонов службы Active Directory Rights Managed Services (AD RMS) и их копирования в службу Azure Rights Management Service (Azure RMS).

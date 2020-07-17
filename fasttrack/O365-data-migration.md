@@ -9,7 +9,7 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: FastTrack Specialists provide guidance on steps for data migration to Office 365. This is available for all eligible customers with Office 365 services for Exchange Online, OneDrive for Business, and SharePoint Online.
+description: Специалисты FastTrack предоставляют рекомендации по этапам переноса данных в Office 365. Такие услуги доступны соответствующим требованиям пользователям служб Office 365 для Exchange Online, OneDrive для бизнеса и SharePoint Online.
 ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -25,10 +25,10 @@ ms.locfileid: "45011313"
 
 **Для клиентов Office 365 с 500 лицензиями и более\*:** для Exchange Online, SharePoint Online и OneDrive для бизнеса доступны службы миграции данных. Ваше преимущество FastTrack включает в себя предоставление рекомендаций по интеграции исходной среды и переносу данных.
   
-\*If you purchased or renewed a commercial plan prior to 9/1/2017, 150 seats is the minimum seat requirement throughout your current subscription period in order to receive the migration benefit. For education plans, only paid faculty and staff licenses are eligible for migration services. 
+\* Если вы приобрели или обновили коммерческий план до 1 сентября 2017 г., то сможете воспользоваться преимуществом помощи в миграции при условии, что у вас есть по крайней мере 150 рабочих мест в текущем периоде подписки. В случае планов для образовательных учреждений право на получение услуг, касающихся миграции, есть только у платных лицензий профессорско-преподавательского состава и персонала. 
   
 > [!NOTE]
-> Data migrated through the FastTrack services may be transferred to, stored, and processed anywhere that Microsoft maintains facilities (except as otherwise provided for your particular FastTrack engagement). The FastTrack services aren't designed or intended for data subject to special legal or regulatory requirements. 
+> Данные, перенос которых выполняется совместно со специалистами FastTrack, могут храниться и обрабатываться в любой стране на объектах, принадлежащих корпорации Майкрософт (если обратное не указано в вашем соглашении об использовании FastTrack). Услуги FastTrack не распространяются на данные, подпадающие под действие особых законодательных или нормативных актов. 
   
 > [!NOTE]
 > Непредвиденные проблемы (в том числе наличие в исходной среде недоступных для прочтения или поврежденных элементов) могут помешать переносу некоторых элементов. 
@@ -47,7 +47,7 @@ ms.locfileid: "45011313"
 
 |**Действие**|**Требование к исходной среде**|
 |:-----|:-----|
-|**Миграция Exchange Online**  <br/> | Microsoft migrates any combination of the source environments listed below, each one at a time. We can migrate the onboarded messaging system using the FastTrack Center or if it's passed the FastTrack Center checks. This includes:  <br/>  Один или несколько лесов Active Directory с одной или несколькими организациями Exchange, если в каждой организации реализована гибридная среда на основе Exchange 2010 или более поздней версии, а почтовые системы Exchange имеют версию 2003 или более позднюю.  <br/>  Одна почтовая среда с поддержкой IMAP.  <br/>  Среды G Suite (только Gmail, Контакты и Календарь). <br/> <br/> **Примечание** *Перед переносом необходимо завершить подключение Exchange Online.* <br/> <br/> **Примечание** *FastTrack выполняет миграцию только в активные почтовые ящики Office 365.* <br/> <br/> **Примечание** *Сведения о зависимостях для локального Exchange см. в статье [Предварительные условия для гибридного развертывания](https://go.microsoft.com/fwlink/?LinkId=787528).* <br/><br/> **Примечание** *При миграции нескольких исходных сред обмена сообщениями (например, нескольких организаций Exchange или доменов Domino) они переносятся последовательно.*| 
+|**Миграция Exchange Online**  <br/> | Корпорация Майкрософт по очереди переносит указанные ниже исходные среды в любом сочетании. Мы можем перенести подключенную систему обмена сообщениями с помощью FastTrack Center, если она прошла проверки FastTrack Center.  <br/>  Один или несколько лесов Active Directory с одной или несколькими организациями Exchange, если в каждой организации реализована гибридная среда на основе Exchange 2010 или более поздней версии, а почтовые системы Exchange имеют версию 2003 или более позднюю.  <br/>  Одна почтовая среда с поддержкой IMAP.  <br/>  Среды G Suite (только Gmail, Контакты и Календарь). <br/> <br/> **Примечание** *Перед переносом необходимо завершить подключение Exchange Online.* <br/> <br/> **Примечание** *FastTrack выполняет миграцию только в активные почтовые ящики Office 365.* <br/> <br/> **Примечание** *Сведения о зависимостях для локального Exchange см. в статье [Предварительные условия для гибридного развертывания](https://go.microsoft.com/fwlink/?LinkId=787528).* <br/><br/> **Примечание** *При миграции нескольких исходных сред обмена сообщениями (например, нескольких организаций Exchange или доменов Domino) они переносятся последовательно.*| 
 |**Миграция SharePoint Online**  <br/> | Файловые ресурсы (общие каталоги SMB на устройствах, поддерживающих SMB 2.0 и более поздних версий). <br/> Одна среда G Suite (только Google Drive).<br/>  Box (Starter, Business, Enterprise).  <br/> Dropbox для Teams (стандартная и расширенная).<br/> |
 |**Миграция OneDrive для бизнеса**  <br/> | Файловые ресурсы (общие папки SMB на устройствах, поддерживающих SMB 2.0 и более поздней версии).  <br/>  Одна среда G Suite (только Google Drive).  <br/>  Box (Starter, Business, Enterprise). <br/> Dropbox для Teams (стандартная и расширенная).<br/><br/> **Примечание** *FastTrack выполняет миграцию только в активные диски Office 365.*|
    
@@ -65,11 +65,11 @@ ms.locfileid: "45011313"
 
 #### <a name="commercial-and-uk-government"></a>Коммерческий сектор и государственные организации Соединенного Королевства
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+Миграция выполняется 24 часа в сутки, семь (7) рабочих дней в неделю (24x7) в заранее определенные интервалы. На каждый день проведения миграции приходится три пакета миграции.
 
 #### <a name="us-governmentdod"></a>Государственные организации и Министерство обороны США
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+Миграция выполняется 24 часа в сутки, пять (5) рабочих дней в неделю (24x5) в заранее определенные интервалы. На каждый день проведения миграции приходится три пакета миграции. В неделе существует пять дней миграции с 2:00 (UTC) понедельника до полуночи (UTC) пятницы. Это означает, что последняя запланированная миграция проводится в пятницу в 20:00 (UTC).
     
  ### <a name="end-state"></a>Конечный результат
   
@@ -82,7 +82,7 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 - Тип переносимых данных зависит от исходной среды, как показано в таблице ниже.
     
 > [!NOTE]
-> All source environments need to be on the latest service packs (SP) and rollup (RU)/cumulative update (CU) level for the respective product in the source environment at the end of the Enable phase. Data migration services are subject to external factors beyond Microsoft's control, like changes to third-party application programming interfaces (APIs), which could result in changes to, delays in, or suspension of these services. For the duration of the FastTrack services, data you make available to Microsoft is accessible from and stored anywhere that Microsoft and its suppliers maintain facilities. 
+> В конце этапа включения во всех исходных средах должны быть установлены последние пакеты обновления и накопительные пакеты обновления для соответствующих продуктов. Услуги по переносу данных зависят от внешних факторов, неподвластных Майкрософт, например от изменений сторонних API. Это может привести к изменениям порядка предоставления этих услуг, задержкам в оказании услуг, приостановке их оказания. В течение периода предоставления услуг FastTrack данные, которые вы предоставляете Майкрософт, хранятся на объектах, принадлежащих Майкрософт и ее поставщикам. 
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -94,7 +94,7 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 |**Источник IMAP4 (например, Domino, GroupWise и Zimbra)** |Миграция с помощью собственных средств IMAP4| Сообщения электронной почты | Правила <br/> Делегаты <br/> Списки рассылки <br/> Внешние контакты <br/> Пользователи с включенной поддержкой почты. <br/> Заблокированные или неактивные пользователи <br/> Контакты почтового ящика <br/> Календарь <br/> Подписи <br/> Задачи <br/> Сообщения электронной почты, превышающие предельный размер <br/> Архивные данные <br/> Зашифрованная электронная почта <br/> Поврежденные элементы <br/> Неактивные почтовые ящики |
    
 > [!NOTE]
-> If distribution lists (MailEnabledGroup objects) and external contacts (MailEnabledContact objects) are in the on-premises Active Directory, they can be synchronized using Azure AD Connect. However, they aren't a part of mailbox data migration. For more information, see the **Identity integration** example in [Core](O365-onboarding-and-migration.md#core). 
+> Если списки рассылки (объекты MailEnabledGroup) и внешние контакты (объекты MailEnabledContact) находятся в локальном каталоге Active Directory, их можно синхронизировать с помощью Azure AD Connect. Однако они не переносятся вместе с данными почтовых ящиков. Для получения дополнительных сведений см. пример **объединения удостоверений** в разделе [Базовое подключение](O365-onboarding-and-migration.md#core). 
   
 Во время миграции специалисты FastTrack выполняют следующие действия:
 - Предоставляют стандартный шаблон для планирования переноса почтовых ящиков.
@@ -104,7 +104,7 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 - Переносят из исходных сред Exchange и сред с поддержкой IMAP4 содержимое почтовых ящиков в объеме до 85 % от максимально допустимого размера почтовых ящиков пользователей (например, если максимально допустимый размер почтового ящика — 50 ГБ, корпорация Майкрософт перенесет не более 85 % от 50 ГБ). 
 - Включают сосуществование SMTP-маршрутизации почты между исходной средой обмена сообщениями и Office 365 Exchange Online (если не используется прямая миграция).
 - Предоставляют отчеты после миграций.
-- Provide post-migration assistance for critical issues. The following issues are considered critical:
+- По завершении миграции предоставляют поддержку при возникновении критических проблем, которыми считаются:
   - потеря данных во время миграции;
   - потеря доступа к исходной среде при миграции;
   - возникновение ошибок в исходной среде из-за связанных с миграцией действий.
@@ -127,32 +127,32 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 |\>10000  <br/> |1500  <br/> |
    
    > [!NOTE]
-   > These numbers are based on best practice. However, the number of mailboxes that migrate per day will vary based on environment, readiness, and business constraints. Microsoft can't guarantee the speed of mailbox migration. 
+   > Это рекомендуемые значения. Тем не менее, количество почтовых ящиков, которые удается перенести за день, меняется в зависимости от среды, готовности и бизнес-ограничений. Корпорация Майкрософт не может гарантировать скорость переноса почтовых ящиков. 
   
 - Планируете не менее 35 почтовых ящиков на один пакет миграции. 
 - При необходимости исправляете ошибки перед миграцией.  
 - Предоставляете специалистам FastTrack доступ к исходной среде и соответствующие разрешения для выполнения действий, связанных с миграцией. 
 - Приобретаете или предоставляете лицензированные учетные записи администраторов в Office 365:, необходимые для выполнения действий по миграции (при необходимости). 
 - При необходимости решаете проблемы миграции на стороне клиентов и запускаете операции, выполняемые после миграции. 
-- Migrate client-side data if desired. This includes, but is not limited to, local address books, data in local PST files, Outlook rules, and local Outlook settings.   
+- при желании перенести данные на стороне клиента, в частности локальные адресные книги, данные в локальных PST-файлах, правила Outlook и локальные параметры Outlook;   
 - При необходимости уменьшаете объемы почтовых ящиков, чтобы они не превышали 85 % от максимально допустимых размеров почтовых ящиков Office 365.   
 - Исправляете проблемы, указанные в отчете о миграции, например если почтовые ящики не перемещены.  
 - При необходимости исправляете сбои после миграции и повторно планируете миграцию почтовых ящиков.   
-- Engage in post-migration assistance for critical issues. The following issues are considered critical:
+- По завершении миграции предоставляете поддержку при возникновении критических проблем, которыми считаются:
   - потеря данных во время миграции;
   - потеря доступа к исходной среде при миграции;
   - возникновение ошибок в исходной среде из-за связанных с миграцией действий.
     
-You need to follow the standard migration process and engage with Microsoft appropriately. This includes providing access and permissions to source and Office 365 environments, providing migration schedules, correcting any causes for migration errors, and so on. You also need to engage with end users for communications, mailbox migration schedule, and handling end user migration-related issues.
+Необходимо выполнить стандартный процесс миграции в сотрудничестве со специалистами корпорации Майкрософт. Для этого нужно предоставить доступ к исходной среде, среде Office 365: и соответствующие разрешения, составить расписание миграции, устранять причины ошибок миграции и т. д. Кроме того, необходимо сотрудничать с пользователями при составлении расписания миграции почтовых ящиков и решении проблем, связанных с миграцией.
   
 > [!NOTE]
-> Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+> Используете только учетные записи, которые соответствуют требованиям безопасности, определенным при подключении. В противном случае при миграции могут возникать задержки. 
   
 ## <a name="migration-to-sharepoint-online"></a>Миграция в SharePoint Online
 
 ### <a name="enable-to-migrate"></a>Подготовка к миграции
   
-If you use Microsoft to migrate your data, we provide guidance to enable both SharePoint Online and the source environment for migration. Depending on the source, we may perform various Enable steps. We provide guidance for you by using a combination of tools and documentation and by performing configuration tasks where applicable and feasible.
+Если вы воспользуетесь помощью специалистов Майкрософт для переноса данных, мы предоставим вам указания по подготовке SharePoint Online и исходной среды к миграции. Наши шаги по подготовке могут отличаться в зависимости от источника. Мы предоставим соответствующие инструменты и документацию, а также выполним настройку там, где это необходимо и целесообразно.
   
 Вам необходимо предоставить специалистам Майкрософт соответствующий доступ и разрешения для выполнения некоторых действий.
   
@@ -163,11 +163,11 @@ If you use Microsoft to migrate your data, we provide guidance to enable both Sh
 
 #### <a name="commercial-and-uk-government"></a>Коммерческий сектор и государственные организации Соединенного Королевства
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+Миграция выполняется 24 часа в сутки, семь (7) рабочих дней в неделю (24x7) в заранее определенные интервалы. На каждый день проведения миграции приходится три пакета миграции.
 
 #### <a name="us-governmentdod"></a>Государственные организации и Министерство обороны США
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+Миграция выполняется 24 часа в сутки, пять (5) рабочих дней в неделю (24x5) в заранее определенные интервалы. На каждый день проведения миграции приходится три пакета миграции. В неделе существует пять дней миграции с 2:00 (UTC) понедельника до полуночи (UTC) пятницы. Это означает, что последняя запланированная миграция проводится в пятницу в 20:00 (UTC).
 
 - Каждая миграция выполняется в соответствии с квотами SharePoint Online, описанными в статье [Ограничения и пороговые значения SharePoint Online, связанные с программным обеспечением](https://go.microsoft.com/fwlink/?LinkID=616612).   
 - Все перенесенные данные не должны занимать более 75 % места, которое предусмотрено предоставленной вам квотой хранилища SharePoint Online. Это условие распространяется и на дополнительное пространство в хранилище, которое можно приобрести дополнительно.
@@ -208,14 +208,14 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 - В течение 5 дней после завершения миграции предоставляют помощь во время пользовательского приемочного тестирования.
     
 Во время миграции вы делаете следующее: 
-- Provide project resources recommended for assessment and migration activities. These include: 
+- Предоставляете ресурсы проекта, рекомендованные для оценки и выполнения действий по миграции. К ним относятся: 
   - управление проектами; 
   - пользовательское приемочное тестирование;  
   - администраторы, отвечающие за исходные и целевые платформы контента.  
 - Предоставляете компоненты инфраструктуры, необходимые для выполнения действий по оценке и миграции (при необходимости).  
 - Предоставляете специалистам FastTrack доступ к исходной и целевой средам, а также соответствующие разрешения для выполнения действий, связанных с миграцией (при необходимости).
     > [!NOTE]
-    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+    > Используете только учетные записи, которые соответствуют требованиям безопасности, определенным при подключении. В противном случае при миграции могут возникать задержки. 
 - Предоставляете необходимые компоненты и выполняете действия, необходимые для поддержки оценки и миграции.   
 - Устанавливаете предоставленные FastTrack средства оценки и выполняете действия по сбору данных оценок (если это возможно).   
 - Устанавливаете предоставленное FastTrack программное обеспечение для миграции в локальной среде (если это применимо).   
@@ -234,9 +234,9 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 
  ### <a name="enable-to-migrate"></a>Подготовка к миграции
   
-If you use Microsoft to migrate your data, we provide guidance to enable both OneDrive for Business and the source environment for migration. Depending on the source, we may perform various Enable steps. We help you with some activities by using a combination of tools, documentation, and guidance, and by performing configuration tasks where applicable and feasible.
+Если вы воспользуетесь помощью специалистов Майкрософт для переноса данных, мы предоставим вам указания по подготовке OneDrive для бизнеса и исходной среды к миграции. Наши шаги по подготовке могут отличаться в зависимости от источника. Мы поможем вам с некоторыми действиями, предоставив соответствующие средства, документацию и указания, а также выполнив настройку там, где это необходимо и целесообразно.
   
-You may need to provide appropriate access and permissions to Microsoft to perform some activities. If you don't provide access and/or permissions, you need to perform certain defined tasks yourself with guidance from Microsoft. 
+Вам может потребоваться предоставить специалистам Майкрософт доступ и разрешения, необходимые для выполнения некоторых задач. В противном случае вам нужно будет самостоятельно выполнить определенные задачи под руководством сотрудников Майкрософт. 
   
 ### <a name="migration-policy-and-steps"></a>Политика миграции и основные действия
   
@@ -245,11 +245,11 @@ You may need to provide appropriate access and permissions to Microsoft to perfo
 
 #### <a name="commercial-and-uk-government"></a>Коммерческий сектор и государственные организации Соединенного Королевства
 
-Migrations are done on a standardized prescheduled 24 hours a day, seven (7) business days a week (24x7) basis in predefined migration time slots. There are three migration batches per migration day.
+Миграция выполняется 24 часа в сутки, семь (7) рабочих дней в неделю (24x7) в заранее определенные интервалы. На каждый день проведения миграции приходится три пакета миграции.
 
 #### <a name="us-governmentdod"></a>Государственные организации и Министерство обороны США
 
-Migrations are done on standardized prescheduled 24 hours a day, five (5) business days a week (24x5) basis in predefined migration time slots. There are three migration batches per migration day. There are five migration days in a week from Monday 2:00AM Coordinated Universal Time (UTC) to Friday midnight UTC. This means that the last scheduled migration is Friday 8:00 PM UTC.
+Миграция выполняется 24 часа в сутки, пять (5) рабочих дней в неделю (24x5) в заранее определенные интервалы. На каждый день проведения миграции приходится три пакета миграции. В неделе существует пять дней миграции с 2:00 (UTC) понедельника до полуночи (UTC) пятницы. Это означает, что последняя запланированная миграция проводится в пятницу в 20:00 (UTC).
     
 - При каждой миграции необходимы разрешения и доступ к исходной среде.   
 - Каждая миграция выполняется в соответствии с квотами OneDrive для бизнеса, описанными в статье [Ограничения для программного обеспечения SharePoint Online и OneDrive для бизнеса](https://go.microsoft.com/fwlink/?LinkId=698855).
@@ -290,20 +290,20 @@ Migrations are done on standardized prescheduled 24 hours a day, five (5) busine
 - В течение 5 дней после завершения миграции предоставляют помощь во время пользовательского приемочного тестирования.
    
 Во время миграции вы делаете следующее:
-- Provide project resources recommended for assessment and migration activities. These include:
+- Предоставляете ресурсы проекта, рекомендованные для оценки и выполнения действий по миграции. К ним относятся:
   - управление проектами;
   - пользовательское приемочное тестирование;
   - администраторы, отвечающие за исходные и целевые платформы контента.
 - Предоставляете компоненты инфраструктуры, необходимые для выполнения действий по оценке и миграции (при необходимости).   
 - Предоставляете специалистам FastTrack доступ к исходной и целевой средам, а также соответствующие разрешения для выполнения действий, связанных с миграцией (при необходимости).  
     > [!NOTE]
-    > Migrations only use accounts that adhere to security requirements defined during onboarding. If you don't use such accounts, you may experience migration delays. 
+    > Используете только учетные записи, которые соответствуют требованиям безопасности, определенным при подключении. В противном случае при миграции могут возникать задержки. 
 - Устанавливаете предоставленные FastTrack средства оценки и выполняете действия по сбору данных оценок (если это возможно).
 - Устанавливаете предоставленное FastTrack программное обеспечение для миграции в локальной среде (если это применимо).  
 - Выполняете действия по исправлению, описанные в предоставленном FastTrack отчете об исправлениях (если это возможно).   
 - Предоставляете расписание миграции с использованием шаблонов и рекомендаций FastTrack. 
 - Предоставляете расписание установленным способом и список пользовательских данных, которые необходимо перенести, для каждого события миграции.
-- Drop user data from the schedule until 24 hours in advance of the migration batch. This should correspond to the final migration batch.
+- Удаляют пользовательские данные из расписания по крайней мере за 24 часа до запуска пакета миграции (это должно соответствовать окончательному пакету миграции).
 - Выполняете контроль качества миграции и пользовательское приемочное тестирование.   
 - Выполняете исправления после миграции (если это возможно).  
 - Планируете и выполняете управление изменениями и взаимодействие с пользователями (если это возможно).  

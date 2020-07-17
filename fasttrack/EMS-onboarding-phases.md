@@ -82,7 +82,7 @@ ms.locfileid: "45010965"
 
 ![Этап запуска подключения — базовые возможности](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
+> WAP означает "прокси-служба веб-приложения" (Web Application Proxy). SSL означает Secure Sockets Layer. SDS означает School Data Sync. Дополнительные сведения о Microsoft School Data Sync см. в [этой статье](https://go.microsoft.com/fwlink/?linkid=871480).
 
 > [!NOTE]
 > Управляемый метод проверки подлинности включает, но не ограничивается синхронизацией хэша паролей. Интеграция удостоверений — это однократное действие, не включающее перенос или отключение существующих методов проверки подлинности, например управляемых или федеративных.

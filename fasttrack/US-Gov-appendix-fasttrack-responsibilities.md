@@ -82,10 +82,8 @@ ms.locfileid: "45011625"
       - Настройка сквозной проверки подлинности Azure Active Directory (недоступна в планах GCC High или DoD).
       - Настройка единого входа в Azure Active Directory (SSO), если это необходимо (недоступно в планах GCC High или DoD).
     > [!NOTE]
-    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
-    > [!NOTE]
-    > For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). 
-    > [!NOTE]
+    > Сквозная проверка подлинности Azure Active Directory поддерживается в средах с несколькими лесами, если между лесами Active Directory существуют отношения доверия, а маршрутизация суффикса имен настроена правильно. Дополнительные агенты можно устанавливать на несколько локальных серверов, чтобы обеспечить высокую доступность для запросов на вход. Дополнительные сведения см. в статье [Краткое руководство по сквозной проверке подлинности Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=860094) и [Простой единый вход в Azure Active Directory  быстрый запуск](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
+    > Дополнительные сведения об ограничениях сквозной проверки подлинности см. в статье [Текущие ограничения сквозной проверки подлинности Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
     > Дополнительные сведения о проблемах, связанных с простым единым входом, см. в статье [Устранение неполадок с простым единым входом Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=841926). 
 - Для одного леса, если целью являются федеративные удостоверения: 
   - Установка и настройка AD FS для проверки подлинности локального домена в Office 365: при отказоустойчивой конфигурации с одним сайтом, если это необходимо.  
