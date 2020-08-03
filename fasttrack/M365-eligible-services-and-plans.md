@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bdd1ce3f98a807d6c07002741b5092390463bf86
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011229"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534040"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
 Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
 
 > [!IMPORTANT]
-> Чтобы получить доступ к услугам FastTrack, необходимо приобрести *по крайней мере* 150 лицензий в рамках поддерживаемых планов из указанного списка. Новые возможности в марте 2020 г. Корпорация Майкрософт делает доступными пробные лицензии на [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) и [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) на шесть месяцев для поддержки удаленной работы и обучения в качестве ответной меры на вспышку эпидемии COVID-19. В качестве исключения FastTrack помогает со входящей миграцией на эти бесплатные пробные лицензии, а также на [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) (студенческий) с марта по август 2020 года. Корпорация Майкрософт оставляет за собой право в любое время отменить, изменить или приостановить это предложение без уведомления.   
+> Чтобы получить доступ к услугам FastTrack, необходимо приобрести *по крайней мере* 150 лицензий в рамках поддерживаемых планов из указанного списка.  
   
 Вы можете получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) или [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 

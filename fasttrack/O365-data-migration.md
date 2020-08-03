@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Специалисты FastTrack предоставляют рекомендации по этапам переноса данных в Office 365. Такие услуги доступны соответствующим требованиям пользователям служб Office 365 для Exchange Online, OneDrive для бизнеса и SharePoint Online.
-ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 2befdc8e1eb2464b1c9831528849fb39671cfff2
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011313"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534052"
 ---
 # <a name="data-migration"></a>Перенос данных
 
@@ -38,9 +38,6 @@ ms.locfileid: "45011313"
   
 > [!NOTE]
 > Если требуется интеграция, исходная среда должна быть на минимальном уровне для этого приложения. 
-  
-> [!NOTE]
-> Новые возможности в марте 2020 г. Корпорация Майкрософт делает доступными пробные лицензии на [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) и [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) на шесть месяцев для поддержки удаленной работы и обучения в качестве ответной меры на вспышку эпидемии COVID-19. В качестве исключения FastTrack делает доступными службы миграции данных для клиентов, у которых имеется 500 или более таких пробных версий, а также для версии [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) (студенческий) с марта по август 2020 г. Корпорация Майкрософт оставляет за собой право в любое время отменить, изменить или приостановить это предложение без уведомления.
 
 В приведенной ниже таблице представлены требования к имеющейся исходной среде для миграции.
   
