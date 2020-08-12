@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Когда вы приобретете любую из служб Microsoft 365, специалисты FastTrack проконсультируют вас по подключению Microsoft 365 и тому, как использовать эти службы.
-ms.openlocfilehash: bdd1ce3f98a807d6c07002741b5092390463bf86
-ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
+ms.openlocfilehash: af2b1b5cf45866889e17e8b5616ae98da9ef4173
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46534040"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634197"
 ---
 # <a name="eligible-services-and-plans"></a>Поддерживаемые службы и тарифные планы
 
@@ -30,14 +30,14 @@ ms.locfileid: "46534040"
 
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
+2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы.
 3.    Заполните форму **Запросить помощь с Microsoft 365**.
   
 Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Выберите **Мои пользователи**.
-3.    Найдите своего пользователя или выберите его в списке пользователей.
-4.    Выберите **Сервисы**.
+2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы.
+3.    Найдите своего клиента, указав имя клиента, домен или TPID.
+4.    Выберите клиента в результатах поиска.
 5.    Заполните форму **Запросить помощь с Microsoft 365**.
 
 Вы также можете запросить помощь FastTrack Center на [сайте FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), открыв список доступных услуг для своего клиента. 

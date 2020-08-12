@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Специалисты FastTrack предоставляют руководство по развертыванию Windows 10, помогающее обновить Windows 7 Профессиональная и Windows 8.1 Профессиональная до Windows 10 Корпоративная.
-ms.openlocfilehash: 0aa98b787af20c12f851033b0524d450fd0fcb87
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: da069420434a8087c661f77400edd9239f56c366
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011517"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634173"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -41,14 +41,13 @@ ms.locfileid: "45011517"
 
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
+2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы.
 3.    Заполните форму **Запросить помощь с Microsoft 365**.
   
 Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Выберите **Мои пользователи**.
-3.    Найдите своего пользователя или выберите его в списке пользователей.
-4.    Выберите **Сервисы**.
-5.    Выберите форму **Запросить помощь для Microsoft 365**.
-6.    Выберите продукт Windows 10 и заполните форму.
+2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы.
+3.    Найдите своего клиента, указав имя клиента, домен или TPID.
+4.    Выберите клиента в результатах поиска.
+5.    Заполните форму **Запросить помощь с Microsoft 365**.
  

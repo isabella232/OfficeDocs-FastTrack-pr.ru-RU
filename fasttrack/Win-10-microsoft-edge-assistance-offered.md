@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: При приобретении любой службы Windows 10 или Microsoft 365 (см. раздел "Поддерживаемые службы и тарифные планы") специалисты FastTrack предоставляют инструкции по удаленному развертыванию и помощь по обеспечению совместимости, если у вас есть веб-приложение или сайт, поддерживающие Internet Explorer или Google Chrome.
-ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: 29a38add3ca5787faaf083e96ec858661fe823b0
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011565"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634185"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь
 
@@ -33,16 +33,15 @@ ms.locfileid: "45011565"
 
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы или выберите **Запросить помощь для Microsoft 365** на карточке развертывания.
+2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы.
 3.    Заполните форму **Запросить помощь с Microsoft 365**.
   
 Партнеры могут также получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) от лица клиента. Для этого:
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Выберите **Мои пользователи**.
-3.    Найдите своего пользователя или выберите его в списке пользователей.
-4.    Выберите **Сервисы**.
-5.    Выберите форму **Запросить помощь для Microsoft 365**.
-6.    Выберите продукт **Microsoft Edge** и заполните форму.
+2.    Выберите **Запросить помощь для Microsoft 365** из **быстрых действий** в верхней части начальной страницы.
+3.    Найдите своего клиента, указав имя клиента, домен или TPID.
+4.    Выберите клиента в результатах поиска.
+5.    Заполните форму **Запросить помощь с Microsoft 365**.
  
 Чтобы получить помощь по совместимости приложений, выполните [запрос на обслуживание App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
