@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: В процессе миграции на Windows 10 вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: eca0ba1edac777ce5a3d17c303cc14bcec312781
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: f86a889f1819afa8a8dceefb45ab9dc1ab439535
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800587"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817152"
 ---
 # <a name="your-responsibilities"></a>Ваши обязанности
 > [!CAUTION]
-> Этот контент больше не является текущим и запланирован для удаления. Используйте оглавление в левой области навигации для текущего контента.
+> Это содержимое больше не является текущим и запланировано на удаление. Для текущего содержимого используйте содержание в панели навигации слева.
 
 В процессе подключения вы отвечаете за указанные ниже аспекты.
 

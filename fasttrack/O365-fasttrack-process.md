@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: 'Процесс FastTrack обеспечивает входящую миграцию и услуги по популяризации продукта среди пользователей. '
-ms.openlocfilehash: bf5221e16f3f13b7f746bd4e853e95f27eef870f
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: ee0f8519ed1f6730236e1ba2d139131d91290b0f
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800887"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817536"
 ---
 # <a name="the-fasttrack-process"></a>Процесс FastTrack
 
 > [!CAUTION]
-> Этот контент больше не является текущим и запланирован для удаления. Используйте оглавление в левой области навигации для текущего контента.
+> Это содержимое больше не является текущим и запланировано на удаление. Для текущего содержимого используйте содержание в панели навигации слева.
 
 Процесс FastTrack предоставляет услуги по подключению и популяризации продукта среди пользователей. 
   

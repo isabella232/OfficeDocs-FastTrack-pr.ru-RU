@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Миграция на Windows 10 состоит из четырех основных этапов — инициирование, оценка, устранение ошибок и включение.
-ms.openlocfilehash: 5781c71ee9748579097adc1a0ea103e7dc64945d
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: a7047bbec148fa6bbe49d8bb84f8a73f2a132e0d
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800683"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817560"
 ---
 # <a name="onboarding-phases"></a>Этапы миграции
 
 > [!CAUTION]
-> Этот контент больше не является текущим и запланирован для удаления. Используйте оглавление в левой области навигации для текущего контента.
+> Это содержимое больше не является текущим и запланировано на удаление. Для текущего содержимого используйте содержание в панели навигации слева.
 
 Миграция на Windows 10 состоит из четырех основных этапов — инициирование, оценка, устранение ошибок и включение.
 

@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: При приобретении любых служб Windows 10 или Microsoft 365 специалисты FastTrack предоставляют советы и рекомендации по устранению проблем при развертывании Windows 10 и приложений Microsoft 365, а также по своевременному обновлению без дополнительной платы (при наличии соответствующей подписки).
-ms.openlocfilehash: c291ddb37146b6a2f4151be971570dbba806fe2e
-ms.sourcegitcommit: a293da96a47a7e1d97d09e1665fdb17ea0506944
+ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46795094"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817692"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
-Если вы приобрели любую из служб Windows 10 или Microsoft 365 (как описано в этой [статье),](eligibility.md)специалисты FastTrack предоставляют рекомендации и рекомендации по исправлению, если вы столкнулись с проблемами совместимости приложений при развертывании новых продуктов Майкрософт, как описано в разделе [Supported Products (продукты корпорации Майкрософт](#supported-microsoft-products)).
+При покупке любой службы Windows 10 или Microsoft 365 (см. сведения [о поддержке право),](eligibility.md)специалисты FastTrack предоставляют рекомендации и руководства по исправлению в случае возникновения проблем с совместимостью приложений во время развертывания новых продуктов Майкрософт, указанных в [поддерживаемых продуктах Майкрософт.](#supported-microsoft-products)
 
 Чтобы получить помощь, выполните [запрос на обслуживание App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 

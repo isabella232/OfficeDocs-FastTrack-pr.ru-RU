@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Преимущество FastTrack Center для Windows 10 обеспечивает доступ к службе App Assure, предназначенной для устранения проблем совместимости приложений Microsoft 365 и Windows 10.
-ms.openlocfilehash: 4c7c32769dfe34f231e80f66a51556f23660cff2
-ms.sourcegitcommit: a293da96a47a7e1d97d09e1665fdb17ea0506944
+ms.openlocfilehash: b568b1c2a0a9473318404f50c37bbbc739018b41
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46795093"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817680"
 ---
 # <a name="app-assure"></a>App Assure
 
@@ -26,4 +26,4 @@ ms.locfileid: "46795093"
   > [!NOTE]
 > Эта служба предоставляется специалистами FastTrack и не входит в пакет программного обеспечения.
 
-Более подробную информацию о преимуществах FastTrack можно узнать в [статье FastTrack Center выгоды для Microsoft 365](introduction.md).
+Дополнительные сведения о преимуществах FastTrack см. в статье ["Преимущество FastTrack Center для Microsoft 365".](introduction.md)
