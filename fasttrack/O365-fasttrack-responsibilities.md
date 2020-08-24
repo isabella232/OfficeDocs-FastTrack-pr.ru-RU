@@ -12,7 +12,7 @@ ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
 ms.openlocfilehash: c881976636243b258623c61ca1406a179177a063
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800863"
@@ -20,7 +20,7 @@ ms.locfileid: "46800863"
 # <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
 
 > [!CAUTION]
-> Этот контент больше не является текущим и запланирован для удаления. Используйте оглавление в левой области навигации для текущего контента.
+> Это содержимое неактуально, и поэтому запланировано его удаление. Используйте содержание на левой панели навигации, чтобы получить актуальное содержимое.
 
 При подключении специалисты FastTrack отвечают за указанные ниже аспекты.\*
   

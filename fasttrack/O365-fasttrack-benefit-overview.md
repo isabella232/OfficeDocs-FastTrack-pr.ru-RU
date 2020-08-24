@@ -14,7 +14,7 @@ ms.collection: FastTrack
 description: Если вы используете Преимущество FastTrack Center для Office 365, специалисты FastTrack удаленно подготовят среду Office 365 к использованию, а также спланируют ее развертывание и использование в вашей организации. Дополнительные сведения о требованиях программы см. в статье "Преимущество FastTrack Center для Office 365".
 ms.openlocfilehash: 40d49036d4aba6655a51c950efd0e29384a45f5c
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ru-RU
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800899"
@@ -22,7 +22,7 @@ ms.locfileid: "46800899"
 # <a name="fasttrack-center-benefit-overview"></a>Обзор Преимущества FastTrack Center
 
 > [!CAUTION]
-> Этот контент больше не является текущим и запланирован для удаления. Используйте оглавление в левой области навигации для текущего контента.
+> Это содержимое неактуально, и поэтому запланировано его удаление. Используйте содержание на левой панели навигации, чтобы получить актуальное содержимое.
 
 Если вы используете Преимущество FastTrack Center для Office 365, специалисты FastTrack удаленно подготовят среду Office 365 к использованию, а также спланируют ее развертывание и использование в вашей организации. Дополнительные сведения о требованиях программы см. в статье [Преимущество FastTrack Center для Office 365](O365-fasttrack-benefit-for-office-365.md).
   
