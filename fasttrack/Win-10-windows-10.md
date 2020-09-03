@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Специалисты FastTrack предоставляют руководство по развертыванию Windows 10, помогающее обновить Windows 7 Профессиональная и Windows 8.1 Профессиональная до Windows 10 Корпоративная.
-ms.openlocfilehash: 0b19ada41624d8c8fa8d3ab5e85a14b42edd53f3
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e4cebb463833c71cc9129155e86821c69f180a27
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817140"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338129"
 ---
 # <a name="windows-10"></a>Windows 10
 
 > [!CAUTION]
-> Это содержимое больше не является текущим и запланировано на удаление. Для текущего содержимого используйте содержание в панели навигации слева.
+> Это содержимое неактуально, и поэтому запланировано его удаление. Используйте содержание на левой панели навигации, чтобы получить актуальное содержимое.
 
 Специалисты FastTrack предоставляют руководство по развертыванию Windows 10, помогающее обновить Windows 7 Профессиональная и Windows 8.1 Профессиональная до Windows 10 Корпоративная. Вы работаете со специалистами FastTrack, чтобы:
 

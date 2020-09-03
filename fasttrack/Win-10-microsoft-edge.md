@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Преимущество FastTrack для Windows 10 предоставляет инструкции по развертыванию новой версии Microsoft Edge для клиентов Windows 10 Корпоративная, имеющих не менее 150 рабочих мест.
-ms.openlocfilehash: b0a0523749cfa834d0ade55c72e29ae9b0c2506e
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 521249edbcca687432074792b1cdf86f4298b263
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817620"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338489"
 ---
 # <a name="the-new-microsoft-edge"></a>Новая версия Microsoft Edge
 
@@ -23,4 +23,4 @@ ms.locfileid: "46817620"
 
 Специалист FastTrack поможет вам развернуть Microsoft Edge в Windows 10 Корпоративная с помощью Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager или Microsoft Intune).
 
-
+Более подробную информацию о преимуществах FastTrack можно узнать в [статье FastTrack Center выгоды для Microsoft 365](introduction.md).

@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: При покупке любой службы Windows 10 или Microsoft 365 специалисты FastTrack помогут выполнить удаленное развертывание для защиты конечных точек. Наша служба адаптирована к среде и потребностям каждого клиента.
-ms.openlocfilehash: bf488a2cbe1c61083425171de6942b5db59e58ad
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: a649f5a5959d877b75ad1f08edfbb18a015ba5bb
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817656"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338560"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
 > [!CAUTION]
-> Это содержимое больше не является текущим и запланировано на удаление. Для текущего содержимого используйте содержание в панели навигации слева.
+> Это содержимое неактуально, и поэтому запланировано его удаление. Используйте содержание на левой панели навигации, чтобы получить актуальное содержимое.
 
 При покупке любой службы Windows 10 или Microsoft 365 (как описано в статье [Поддерживаемые службы и тарифные планы](M365-eligible-services-and-plans.md)) специалисты FastTrack помогут выполнить удаленное развертывание для защиты конечных точек. Наша служба адаптирована к среде и потребностям каждого клиента. Специалисты FastTrack предоставляют следующую помощь:
 - Оценка версии ОС и управление устройствами (включая Microsoft Intune, Microsoft Endpoint Configuration Manager, объекты групповой политики (GPO) и сторонние конфигурации).

@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 description: Пользователи, которые приобрели не менее 20 000 лицензий на клиент Exchange Online, получают право на дополнительные услуги FastTrack Center. Дополнительные сведения см. в статье "Подходящие службы и планы".
-ms.openlocfilehash: 48559090e5fe55cf0001a5e11793dec75a12dfaf
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 7b98f341bf645b83a91e11eec1a1f2347380d97a
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817548"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338441"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>Приложение А. Дополнительное преимущество FastTrack Center
 
 > [!CAUTION]
-> Это содержимое больше не является текущим и запланировано на удаление. Для текущего содержимого используйте содержание в панели навигации слева.
+> Это содержимое неактуально, и поэтому запланировано его удаление. Используйте содержание на левой панели навигации, чтобы получить актуальное содержимое.
 
 Пользователи, которые приобрели не менее 20 000 лицензий на клиент Exchange Online, получают право на дополнительные услуги FastTrack Center. Дополнительные сведения см. в разделе [Условия](eligibility.md). 
   

@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Если вы приобретаете *не менее* 150 лицензий на соответствующую службу или тарифный план, то можете воспользоваться услугами Преимущество FastTrack Center для Windows 10.
-ms.openlocfilehash: 6616b967bac16402f732c56d763dc67accf19f70
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 3293ff9212224774cd101171a20e18972e51f8c4
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817668"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338537"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Преимущество FastTrack Center для Windows 10
 
 > [!CAUTION]
-> Это содержимое больше не является текущим и запланировано на удаление. Для текущего содержимого используйте содержание в панели навигации слева.
+> Это содержимое неактуально, и поэтому запланировано его удаление. Используйте содержание на левой панели навигации, чтобы получить актуальное содержимое.
 
 Если вы приобретаете не менее 150 лицензий на соответствующую службу или тарифный план, то можете воспользоваться услугами Преимущества FastTrack Center для Windows 10. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки и развернуть Windows 10, новый браузер Microsoft Edge или Advanced Threat Protection в Microsoft Defender, а также координировать преимущества FastTrack Center для приложений Microsoft 365. 
 

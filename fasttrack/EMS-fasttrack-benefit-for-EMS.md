@@ -9,22 +9,22 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: cd14af0915c7b0b023ae160a9d81d0f7f37ee1ad
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 26956e322088e5886d3ff525455cef8ae7a5d848
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817284"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338417"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>Преимущество FastTrack Center для Enterprise Mobility + Security (EMS)
 
 > [!CAUTION]
-> Это содержимое больше не является текущим и запланировано на удаление. Для текущего содержимого используйте содержание в панели навигации слева.
+> Это содержимое неактуально, и поэтому запланировано его удаление. Используйте содержание на левой панели навигации, чтобы получить актуальное содержимое.
 
 
 Вы можете использовать преимущество FastTrack Center для Enterprise Mobility + Security (EMS) при покупке не менее 150 лицензий продукта EMS или любого из его отдельных облачных служб в поддерживаемом плане. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти специалисты также помогут вам перенести данные. 
