@@ -3,19 +3,19 @@ title: Условия
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.
-ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817572"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320023"
 ---
 # <a name="eligibility"></a>Условия
 
@@ -46,8 +46,8 @@ ms.locfileid: "46817572"
   - Power BI
   - Project Online
   - SharePoint Online
-  - Skype для бизнеса Online
-  - Windows 10
+  - Windows 10
+  - Виртуальный рабочий стол Windows
   - Yammer корпоративный
 
 ## <a name="eligible-plans"></a>Поддерживаемые планы
@@ -65,6 +65,7 @@ ms.locfileid: "46817572"
   - Обнаружение электронных данных и аудит в Microsoft 365 E5\*
   - Защита информации и управление данными в Microsoft 365 E5\*
   - Управление внутренними рисками в Microsoft 365 E5\*
+  - Microsoft 365 F1\*
   - Microsoft 365 F3\*
   - Microsoft 365 бизнес\*
   - Приложения Microsoft 365 для предприятий\*
@@ -115,6 +116,19 @@ ms.locfileid: "46817572"
   - Exchange Online Protection
   - Office 365 Advanced Threat Protection
 
+#### <a name="microsoft-teams"></a>Microsoft Teams
+
+  - Телефонная система
+  - План звонков
+  - Аудиоконференции
+  - Комната Microsoft Teams
+
+#### <a name="onedrive-for-business"></a>OneDrive для бизнеса
+
+  - OneDrive для бизнеса с Office
+  - OneDrive для бизнеса (план 1)
+  - OneDrive для бизнеса (план 2)
+
 #### <a name="project-online"></a>Project Online
 
   - Project Online базовый
@@ -126,32 +140,16 @@ ms.locfileid: "46817572"
   - SharePoint Online (план 1)
   - SharePoint Online (план 2)
 
-#### <a name="onedrive-for-business"></a>OneDrive для бизнеса
-
-  - OneDrive для бизнеса с Office
-  - OneDrive для бизнеса (план 1)
-  - OneDrive для бизнеса (план 2)
-
-#### <a name="skype-for-business-online"></a>Skype для бизнеса Online
-
-  - Телефонная система\*\*\*
-  - План звонков\*\*\*
-  - Аудиоконференции\*\*\*
-  - Skype для бизнеса Online (план 1)
-  - Skype для бизнеса Online (план 2)
-
 #### <a name="yammer"></a>Yammer
 
   - Yammer корпоративный
-
 
 <br>
 
 \*Руководство доступно только для компонентов и облачных служб с поддержкой FastTrack, указанных в этом описании преимуществ.  
       
 \*\*Подробнее о преимуществах FastTrack для государственных организаций США см. на странице [Office 365 для государственных организаций США](https://aka.ms/aboutgovcloud).  
-      
-\*\*\*Можно использовать для лицензированных пользователей Skype для бизнеса Online и Teams. Требует соответствующей покупки Skype для бизнеса или Teams.  
+       
       
 ### <a name="enterprise-mobility--security-plans"></a>Планы Enterprise Mobility + Security  
       

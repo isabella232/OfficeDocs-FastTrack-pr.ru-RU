@@ -3,19 +3,19 @@ title: Перенос данных
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack поможет вам перенести данные почты и файла вашей исходной среды в Office 365 (Exchange Online. SharePoint Online и OneDrive для бизнеса). Тип предоставляемой помощи зависит от количества лицензий Office 365 у вас.
-ms.openlocfilehash: 6b2c9cc3afba415c200b14fe34e65f1c3286e450
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817716"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319951"
 ---
 # <a name="data-migration"></a>Перенос данных
 
@@ -281,6 +281,7 @@ FastTrack поможет вам перенести данные почты и ф
 <li> Содержимое, не принадлежащее переносимой учетной записи Google Drive </li>
 <li> Разрешения и основные метаданные внешних пользователей (<strong>Примечание</strong>: Используйте отчеты администратора Google Drive для идентификации содержимого, совместно используемого с внешними пользователями. Проинструктируйте конечных пользователей о необходимости повторно предоставить общий доступ к содержимому после переноса данных). </li>
 <li> Разрешения на доступ к общему диску (<strong>Note</strong>: Используйте отчеты администратора Google Drive для определения наличия доступа к общему диску. Проинструктируйте конечных пользователей о необходимости настроить параметры их доступа в целевой системе перед переносом данных). </li>
+<li> Файлы, помеченные как ограниченные или недоступные для копирования </li>
 <li> Файлы или папки, для которых превышены текущие  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Ограничения SharePoint Online</span></a> </li>
 </ul></td>
 </tr>
