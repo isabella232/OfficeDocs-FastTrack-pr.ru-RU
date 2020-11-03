@@ -1,21 +1,21 @@
 ---
 title: Продукты и возможности
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этом разделе содержатся сведения о сценариях рабочей нагрузки, которые поддерживаются в FastTrack, а также о предданных, необходимых для работы исходной среды, прежде чем начать. В зависимости от текущей настройки мы будем работать с вами, чтобы создать план исправления, который применяет к исходной среде минимальные требования к успешной адаптации.
-ms.openlocfilehash: a3477be6958dea88874bbc042445bbc693c10ffb
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7071187e2bc2b52930a03b4bf9dabd4f717b88df
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48320035"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827109"
 ---
 # <a name="products-and-capabilities"></a>Продукты и возможности
 
@@ -25,7 +25,7 @@ ms.locfileid: "48320035"
 
 FastTrack предоставляет рекомендации по работе с основными возможностями (общими для всех служб Microsoft Online), а затем применяя входящую поддержку каждой из соответствующих служб:
 
-  - [Общие сведения](#general)
+  - [Общие](#general)
   - [Office 365](#office-365)
   - [Безопасность & Enterprise Mobility](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
@@ -34,7 +34,7 @@ FastTrack предоставляет рекомендации по работе 
   - [Новая версия Microsoft Edge](#the-new-microsoft-edge)
 
 > [!NOTE]
-> Сведения о ожиданиях исходной среды для Office 365 США: [ожидаемые требования к исходной среде для office 365 для государственных организаций США](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
+> Сведения о требованиях к исходной среде для Office 365 для государственных организаций США см. в статье [Требования к исходной среде для Office 365 для государственных организаций США](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
  
 ## <a name="general"></a>Общие
 
@@ -78,7 +78,7 @@ FastTrack предоставляет рекомендации по работе 
 <li>  Топологии с несколькими лесами учетных записей Active Directory и лесом ресурсов (Exchange или Lync 2010, Lync 2013 или Skype для бизнеса).  </li>
 <li>  Несколько лесов учетных записей Active Directory, один из которых является централизованным лесом учетных записей Active Directory, включающим Exchange и/или Lync 2010, Lync 2013 или Skype для бизнеса.  </li>
 <li>  Несколько лесов учетных записей Active Directory, каждый из которых включает свою организацию Exchange.  </li>
-<li>  Задачи, необходимые для настройки клиента и интеграции с Azure Active Directory (при необходимости).   </li>
+<li>  Задачи, необходимые для настройки клиента и интеграции с Azure Active Directory (при необходимости).   </li>
 </ul>
   <strong>Внимание</strong>  <ul>
 <li>  Для сценариев с поддержкой нескольких лесов Active Directory при развертывании Lync 2010, Lync 2013 или Skype для бизнеса он должен быть развернут в том же лесу Active Directory, что и Exchange.  </li>
@@ -101,7 +101,7 @@ FastTrack предоставляет рекомендации по работе 
   Кроме того, если у вас есть макрос или надстройка, которые работали с предыдущими версиями Office, и у вас возникают проблемы совместимости, мы предоставим вам рекомендации по устранению проблем совместимости без дополнительных затрат в программе приложения. Более подробную информацию можно найти в разделе <strong>app</strong> more of <a href="#windows-10">Windows 10</a> . </li>
 </ul></td>
 <td><ul>
-<li>  Программное обеспечение клиента в сети должно быть на минимальном уровне, как указано в разделе <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требования к системе для Microsoft 365 и Office</a>.  </li>
+<li>  Программное обеспечение клиента в сети должно быть на минимальном уровне, как указано в разделе <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требования к системе для Microsoft 365 и Office</a>.  </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -149,7 +149,7 @@ FastTrack предоставляет рекомендации по работе 
 <li>  Настройка почтовых клиентов (Outlook для Windows, Outlook в Интернете, Outlook для iOS и Android).  </li>
 </ul>
   <strong>Миграция данных</strong>  <br>
-Сведения об использовании преимуществ FastTrack для переноса данных в Office 365 приведены в разделе <a href="https://review.docs.microsoft.com/fasttrack/data-migration">Перенос данных</a>.   
+Сведения об использовании преимуществ FastTrack для переноса данных в Office 365 приведены в разделе <a href="https://docs.microsoft.com/fasttrack/data-migration">Перенос данных</a>.   
 <td>  У исходной среды должен быть один из следующих минимальных уровней:
 <ul>
 <li>  Одна или несколько организаций Exchange с Exchange Server 2003 или более поздней версии.  </li>
@@ -157,7 +157,7 @@ FastTrack предоставляет рекомендации по работе 
 <li>  Одна среда G Suite (только Gmail, Контакты и Календарь).  </li>
 <li>  Сведения о функциях с поддержкой нескольких регионов можно найти <a href="https://go.microsoft.com/fwlink/?linkid=872776">в статье поддержка нескольких регионов в Exchange Online</a>.  </li>
 </ul>
-Клиентское программное обеспечение, например Project для Office 365, Outlook для Windows, Outlook для iOS и Android, клиента синхронизации OneDrive для бизнеса, Power BI Desktop и Skype для бизнеса должны быть на минимальном уровне, определенном в <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требованиях к системе для microsoft 365 Office</a>.  </td>
+Клиентское программное обеспечение, например Project для Office 365, Outlook для Windows, Outlook для iOS и Android, клиента синхронизации OneDrive для бизнеса, Power BI Desktop и Skype для бизнеса должны быть на минимальном уровне, определенном в <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требованиях к системе для microsoft 365 Office</a>.  </td>
 </tr>
 <tr class="even">
 <td><strong>Управление информацией (Майкрософт)</strong></td>
@@ -186,6 +186,7 @@ FastTrack предоставляет рекомендации по работе 
 <li>  Знакомство с данными посредством обозревателя содержимого и обозревателя действий.  </li>
 <li>  Публикация меток с помощью политик (вручную и автоматически).  </li>
 <li>  Создание политик защиты от потери данных для чатов и каналов Microsoft Teams.  </li>
+<li>  Создание политик защиты от потери данных для устройств под управлением Microsoft Endpoint Manager.  </li>
 </ul></td>
 <td>Помимо <strong>основной</strong> части входящей миграции, в <a href="#general">общем</a>случае не существует минимальных системных требований.</td>
 </tr>
@@ -211,7 +212,7 @@ FastTrack предоставляет рекомендации по работе 
 <ul>
 <li>  Устройства для помещения в Microsoft teams:  </li>
 <ul>
-<li>  Создание учетных записей, необходимых для поддержки телефонии и устройств конференц-зала, перечисленных в <a href="https://go.microsoft.com/fwlink/?linkid=2066478">каталоге "устройства Teams</a>".  </li>
+<li>  Создание учетных записей интернет-служб, необходимых для поддерживаемых устройств телефонной и конференц-связи. Устройства перечислены в <a href="https://go.microsoft.com/fwlink/?linkid=2066478">каталоге устройств Teams</a>.  </li>
 <li>  Удаленная помощь с настройкой на стороне службы сертифицированных устройств Microsoft Teams.  </li>
 <li>  Включение Аудиоконференций:  </li>
 <li>  Настройка организации с использованием параметров по умолчанию для схемы конференции.  </li>
@@ -249,9 +250,9 @@ FastTrack предоставляет рекомендации по работе 
 <li>  Имеются почтовые ящики Exchange (в сети и локально в гибридной конфигурации Exchange).  </li>
 <li>  Включено для групп Office 365.  </li>
 </ul>
-  <strong>Примечание:</strong>   Если пользователям не назначены и не включены лицензии SharePoint Online, хранилище OneDrive для бизнеса в Office 365 будет недоступно. Общий доступ к файлам продолжает работать в каналах, но пользователи не могут обмениваться файлами в беседах без хранилища OneDrive для бизнеса в Office 365. Teams не поддерживает локальную среду SharePoint.  <br>
-  <strong>Примечание:</strong>   Идеальное состояние — для всех пользователей, почтовые ящики которых размещены в Exchange Online. Удостоверения для пользователей с локальными почтовыми ящиками должны синхронизироваться с каталогом Office 365 через Azure AD Connect. Если почтовый ящик пользователя настроен на локальном сервере Exchange, пользователи не могут добавлять или настраивать соединители.  
-  Установщики для настольных компьютеров с Windows и Mac для настольных компьютеров могут быть загружены с  <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a> .  </td>
+  <strong>Примечание:</strong> Если пользователям не назначены и не включены лицензии SharePoint Online, хранилище OneDrive для бизнеса в Office 365 будет недоступно. Общий доступ к файлам продолжает работать в каналах, но пользователи не могут обмениваться файлами в беседах без хранилища OneDrive для бизнеса в Office 365. Teams не поддерживает локальную среду SharePoint.  <br>
+  <strong>Примечание:</strong> Идеальное состояние — для всех пользователей, почтовые ящики которых размещены в Exchange Online. Удостоверения для пользователей с локальными почтовыми ящиками должны синхронизироваться с каталогом Office 365 через Azure AD Connect. Если почтовый ящик пользователя настроен на локальном сервере Exchange, пользователи не могут добавлять или настраивать соединители.  
+  Установщики клиентов Microsoft Teams для настольных компьютеров Windows и Mac можно скачать на странице <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>.  </td>
 </tr>
 <tr class="odd">
 <td><strong>Office 365 Advanced Threat Protection (ATP)</strong></td>
@@ -284,7 +285,7 @@ FastTrack предоставляет рекомендации по работе 
 <li>  Назначение лицензий на Power BI.  </li>
 <li>  Развертывание приложения Power BI Desktop.  </li>
 </ul></td>
-<td>Оперативное клиентское программное обеспечение, например Power BI Desktop, должно быть на минимальном уровне, как указано в разделе <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требования к системе для Microsoft 365 и Office</a>.</td>
+<td>Оперативное клиентское программное обеспечение, например Power BI Desktop, должно быть на минимальном уровне, как указано в разделе <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требования к системе для Microsoft 365 и Office</a>.</td>
 </tr>
 <tr class="even">
 <td><strong>Project Online</strong></td>
@@ -295,7 +296,7 @@ FastTrack предоставляет рекомендации по работе 
 <li>  Настройка пула корпоративных ресурсов (ERP).  </li>
 <li>  Создание первого проекта.  </li>
 </ul></td>
-<td>Программное обеспечение клиента в Интернете, например Project для Office 365, должно быть на минимальном уровне, определенном в разделе <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требования к системе для Microsoft 365 и Office</a>.</td>
+<td>Программное обеспечение клиента в Интернете, например Project для Office 365, должно быть на минимальном уровне, определенном в разделе <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требования к системе для Microsoft 365 и Office</a>.</td>
 </tr>
 <tr class="odd">
 <td><strong>Project Online профессиональный и расширенный</strong></td>
@@ -308,7 +309,7 @@ FastTrack предоставляет рекомендации по работе 
 <li>  Настройка одного внутреннего сервера распространения для клиента Project Online для настольных ПК, в том числе помощь по созданию файла configuration.xml для его последующего использования в средстве развертывания Office 365.  </li>
 <li>  Подключение клиента Project Online для настольных ПК к Project Online профессиональный или Project Online расширенный.  </li>
 </ul></td>
-<td>Программное обеспечение клиента в Интернете, например Project для Office 365, должно быть на минимальном уровне, определенном в разделе <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требования к системе для Microsoft 365 и Office</a>.</td>
+<td>Программное обеспечение клиента в Интернете, например Project для Office 365, должно быть на минимальном уровне, определенном в разделе <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требования к системе для Microsoft 365 и Office</a>.</td>
 </tr>
 <tr class="even">
 <td><strong>SharePoint Online и OneDrive для бизнеса</strong></td>
@@ -334,7 +335,7 @@ FastTrack предоставляет рекомендации по работе 
 <li>  Развертывание синхронизации клиента OneDrive для бизнеса.  </li>
 </ul>
   <strong>Миграция данных</strong>  <br>
-Сведения об использовании преимуществ FastTrack для переноса данных в Office 365 приведены в разделе <a href="https://review.docs.microsoft.com/fasttrack/data-migration">Перенос данных</a>.
+Сведения об использовании преимуществ FastTrack для переноса данных в Office 365 приведены в разделе <a href="https://docs.microsoft.com/fasttrack/data-migration">Перенос данных</a>.
 </ul></td>
 <td><br><strong>Для гибридной среды SharePoint:</strong>  
 <ul>
@@ -344,15 +345,15 @@ FastTrack предоставляет рекомендации по работе 
 <ul>
 <li>  Чтобы включить гибридную среду SharePoint, необходимо иметь одну из следующих локальных сред SharePoint Server: 2013, 2016 или 2019.  </li>
 </ul>
-  <strong>Примечание:</strong> Обновление локальных сред SharePoint до SharePoint Server не входит в область. Обратитесь за помощью к <a href="https://go.microsoft.com/fwlink/?linkid=2080150">партнеру Майкрософт</a> . Более подробную информацию можно узнать в <a href="https://go.microsoft.com/fwlink/?linkid=853548">статье минимальные уровни общедоступных обновлений для гибридных функций SharePoint</a><em>.</em>  <br>
-  <strong>Примечание:</strong> Сведения о многоязыковых возможностях см <a href="https://go.microsoft.com/fwlink/?linkid=831056">в статье поддержка нескольких регионов в OneDrive и SharePoint Online в Office 365</a><em>.</em>  </td>
+  <strong>Примечание:</strong> Обновление локальных сред SharePoint до SharePoint Server не входит в область. Обратитесь за помощью к <a href="https://go.microsoft.com/fwlink/?linkid=2080150">партнеру Майкрософт</a> . Более подробную информацию можно узнать в <a href="https://go.microsoft.com/fwlink/?linkid=853548">статье минимальные уровни общедоступных обновлений для гибридных функций SharePoint</a><em>.</em>  <br>
+  <strong>Примечание:</strong> Сведения о многоязыковых возможностях см <a href="https://go.microsoft.com/fwlink/?linkid=831056">в статье поддержка нескольких регионов в OneDrive и SharePoint Online в Office 365</a><em>.</em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer корпоративный</strong></td>
 <td><ul>
 Мы предоставляем удаленную информацию о том, как активировать службу Yammer Enterprise.  
 </ul></td>
-<td>Программное обеспечение клиента в сети должно быть на минимальном уровне, как указано в разделе <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требования к системе для Microsoft 365 и Office</a>.</td>
+<td>Программное обеспечение клиента в сети должно быть на минимальном уровне, как указано в разделе <a href="https://go.microsoft.com/fwlink/?LinkID=723597">требования к системе для Microsoft 365 и Office</a>.</td>
 </tr>
 </tbody>
 </table>
@@ -548,7 +549,7 @@ FastTrack предоставляет рекомендации по работе 
 </tbody>
 </table>
 
-## <a name="windows-10"></a>Windows 10
+## <a name="windows-10"></a>Windows 10;
 
 <table>
 <thead>
@@ -597,7 +598,7 @@ FastTrack предоставляет рекомендации по работе 
 Для обновления инфраструктуры должны быть выполнены следующие требования:
 <ul>
 <li>  Диспетчер конфигураций конечных точек Майкрософт.  </li>
-<li>  Версия Configuration Manager должна поддерживаться целевой версией Windows 10. Для получения дополнительных сведений обратитесь к таблице поддержки Configuration Manager на странице <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Поддержка Windows 10 в Configuration Manager</a>.  </li>
+<li>  Версия Configuration Manager должна поддерживаться целевой версией Windows 10. Дополнительные сведения см. в таблице поддержки Configuration Manager в статье <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Поддержка Windows 10 в Configuration Manager</a>.  </li>
 </ul>
 
 <tr class="odd">
@@ -651,7 +652,7 @@ FastTrack предоставляет рекомендации по работе 
   Windows Server 2019 Core Edition.  
   </li>
 <li>  
-  Windows Server половина канала (SAC) версии 1803.  
+  Windows Server Semi-Annual Channel (SAC) версии 1803.  
   </li>
 <li>  
   macOS версии 10,13, 10,14 и 10,15.  
@@ -786,7 +787,7 @@ FastTrack предоставляет рекомендации по работе 
 <li>Сценарии Linux.</li>
 <li>Преобразование профилей пользователей или их миграция.</li>
 </ul>
-Обратитесь к <a href="https://go.microsoft.com/fwlink/?linkid=2080150">партнеру Майкрософт</a>за   помощью в этих службах.</td>
+Обратитесь к <a href="https://go.microsoft.com/fwlink/?linkid=2080150">партнеру Майкрософт</a> за помощью в этих службах.</td>
 <td>У вас уже должны быть следующие компоненты:
 <ul>
 <li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Требования к лицензированию виртуальных рабочих столов Windows</a>.</li>

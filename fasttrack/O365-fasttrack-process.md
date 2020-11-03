@@ -1,7 +1,7 @@
 ---
 title: Процесс FastTrack
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com-msft
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Процесс FastTrack обеспечивает входящую миграцию и услуги по популяризации продукта среди пользователей. '
-ms.openlocfilehash: 48469fb79fd093b1b9a9a299cd807b8dfa440843
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 6d13e6fc9247196c9a2e6cf7692abf3fa75152dc
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338549"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827049"
 ---
 # <a name="the-fasttrack-process"></a>Процесс FastTrack
 
@@ -27,7 +27,7 @@ ms.locfileid: "47338549"
 Входящая миграция состоит из указанных ниже частей.
   
 - *Базовая подключение* — это задачи, необходимые для настройки клиентов и (при необходимости) интеграции с Azure Active Directory. Кроме того, базовое подключение создает основу для подключения других подходящих служб. 
-- *Подключение и миграция служб* — задачи подключения служб позволяют реализовывать сценарии в клиенте. Перенос данных (в том числе электронной почты и файлов) рассматривается в разделе [Перенос данных](O365-data-migration.md). 
+- *Подключение и миграция служб*  — задачи подключения служб позволяют реализовывать сценарии в клиенте. Перенос данных (в том числе электронной почты и файлов) рассматривается в разделе [Перенос данных](O365-data-migration.md). 
     
 Услуги по обеспечению принятия продукта пользователями включают задачи с инструкциями по уведомлению пользователей о доступных им службах и о том, как использовать эти службы для повышения эффективности работы. Такая помощь оказывается одновременно с мероприятиями по входящей миграции.
   
@@ -42,7 +42,7 @@ ms.locfileid: "47338549"
   
 Вы можете получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) или [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 
-Чтобы получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), администратор должен щелкнуть мини-приложение **Нужна помощь?**, войдя в этот центр. 
+Чтобы получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), администратор должен щелкнуть мини-приложение **Нужна помощь?** , войдя в этот центр. 
 
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 

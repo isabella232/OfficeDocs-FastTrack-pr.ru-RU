@@ -1,7 +1,7 @@
 ---
 title: Advanced Threat Protection в Microsoft Defender
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Преимущество FastTrack Center для Windows 10 обеспечивает доступ к новой службе Advanced Threat Protection (ATP) в Microsoft Defender, которая помогает корпоративным сетям предотвращать, обнаруживать и исследовать сложные угрозы, а также предпринимать ответные действия.
-ms.openlocfilehash: b3a5a64204d779f492eb23ac9d9b76aa2708acd3
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 6e587758babcb1e99f4f3623aafa5d2bc54f6924
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338525"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827289"
 ---
 # <a name="microsoft-defender-advanced-threat-protection"></a>Advanced Threat Protection в Microsoft Defender
 

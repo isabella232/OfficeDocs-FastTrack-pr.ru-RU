@@ -1,21 +1,21 @@
 ---
 title: Обязанности FastTrack для Office 365 для государственных учреждений США
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: e11ce3ce5bbfd04a1f821425364ba86964e8690f
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 1f381e6b7ee58316c952362c7b7f85cc2ebcda02
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319975"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827181"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Обязанности FastTrack для Office 365 для государственных учреждений США
 
@@ -80,7 +80,7 @@ ms.locfileid: "48319975"
   - настройке синхронизации паролей (хэша паролей) в Office 365 (Azure Active Directory) с помощью средства Azure Active Directory Connect, если это требуется;  
   - Для сред с одним или несколькими лесами:
       - Настройка сквозной проверки подлинности Azure Active Directory (недоступна в планах GCC High или DoD).
-      - Настройка единого входа в Azure Active Directory (SSO), если это необходимо (недоступно в планах GCC High или DoD).
+      - Настройка одноSign-Onной службы Azure Active Directory (SSO), если это необходимо (недоступно в планах GCC High или DoD).
     > [!NOTE]
     > Сквозная проверка подлинности Azure Active Directory поддерживается в средах с несколькими лесами, если между лесами Active Directory существуют отношения доверия, а маршрутизация суффикса имен настроена правильно. Дополнительные агенты можно устанавливать на несколько локальных серверов, чтобы обеспечить высокую доступность для запросов на вход. Дополнительные сведения см. в статье [Краткое руководство по сквозной проверке подлинности Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=860094) и [Простой единый вход в Azure Active Directory  быстрый запуск](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
     > Дополнительные сведения об ограничениях сквозной проверки подлинности см. в статье [Текущие ограничения сквозной проверки подлинности Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]

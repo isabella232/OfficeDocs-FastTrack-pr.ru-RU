@@ -1,7 +1,7 @@
 ---
 title: Предлагаемая помощь
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,16 +10,16 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: При приобретении любой службы Windows 10 или Microsoft 365 (см. раздел "Поддерживаемые службы и тарифные планы") специалисты FastTrack предоставляют инструкции по удаленному развертыванию и помощь по обеспечению совместимости, если у вас есть веб-приложение или сайт, поддерживающие Internet Explorer или Google Chrome.
-ms.openlocfilehash: 7dbbe81784e208898ee35e8036a7ac7403cfe5c3
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817632"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827325"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь
 
-При приобретении любой из поддерживаемых служб Windows 10 или Microsoft 365 (см. раздел ["Право на](eligibility.md)участие") специалисты FastTrack предоставляют инструкции по удаленному развертыванию и помощь по совместимости, если у вас есть веб-приложение или сайт, которые работают с Internet Explorer или Google Chrome. 
+Если вы приобрели любую из подходящих служб Windows 10 или Microsoft 365 (как описано в этой [статье),](eligibility.md)специалисты FastTrack предоставляют рекомендации по удаленному развертыванию и совместимость, если у вас есть веб-приложение или веб-сайт, работающий с Internet Explorer или Google Chrome. 
 
 ## <a name="assistance"></a>Помощь
 
