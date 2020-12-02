@@ -3,19 +3,19 @@ title: Процесс и ожидания
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этой теме мы рассмотрим, как обратиться к специалистам FastTrack за помощью, а также способы предоставления этой помощи, советы для успешного взаимодействия и ключевые обязанности специалистов FastTrack и вашей организации.
-ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 0cd9d4cb727915357f0dd6460ac46ef862ee9797
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827655"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525354"
 ---
 # <a name="process-and-expectations"></a>Процесс и ожидания
 
@@ -27,7 +27,7 @@ ms.locfileid: "48827655"
   
 Есть два способа запросить помощь специалиста FastTrack:
 
-  - В Центре администрирования Майкрософт. Администратору клиента следует войти в Центр администрирования Майкрософт, а затем нажать на мини-приложение **Нужна помощь?** , с помощью которого выполняется запрос.
+  - В Центре администрирования Майкрософт. Администратору клиента следует войти в Центр администрирования Майкрософт, а затем нажать на мини-приложение **Нужна помощь?**, с помощью которого выполняется запрос.
   - На сайте FastTrack. Вам или вашему партнеру следует запросить помощь для организации на сайте FastTrack.
 
 Чтобы запросить помощь напрямую на сайте FastTrack, выполните указанные действия.

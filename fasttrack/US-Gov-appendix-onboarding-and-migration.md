@@ -3,19 +3,19 @@ title: Этапы входящей миграции и миграции для O
 ms.author: v-bermic@microsoft.com
 author: rberg-steyer@microsoft.com
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Входящая миграция Office 365 для Office 365 США состоит из четырех основных этапов: инициации, оценки, исправления и включения. Вы можете выполнить эти этапы с помощью необязательного этапа миграции данных, как показано на следующем рисунке.'
-ms.openlocfilehash: f7e8545d34b0f9df72e9f518983975d825ffbfb7
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: f53831dfaca68a25ffc9233a5aaf0a461d76e90b
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827541"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525428"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы входящей миграции и миграции для Office 365 для государственных организаций США
 
@@ -31,7 +31,7 @@ ms.locfileid: "48827541"
   
 Вы можете получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) или [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
  
-Чтобы получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), администратор должен щелкнуть мини-приложение **Нужна помощь?** , войдя в этот центр. 
+Чтобы получить помощь через [Центр администрирования Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), администратор должен щелкнуть мини-приложение **Нужна помощь?**, войдя в этот центр. 
 
 Чтобы получить помощь через [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Войдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
