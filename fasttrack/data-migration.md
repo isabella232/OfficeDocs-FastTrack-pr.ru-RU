@@ -3,19 +3,19 @@ title: Перенос данных
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack поможет вам перенести данные почты и файла вашей исходной среды в Office 365 (Exchange Online. SharePoint Online и OneDrive для бизнеса). Тип предоставляемой помощи зависит от количества лицензий Office 365 у вас.
-ms.openlocfilehash: 5a64bcbecffa3fd78f54b9a5e0f3f07e76d0b316
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: ec7bc5cf9c25ef1e386c7fae42a5fd8e1716dee5
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525365"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750046"
 ---
 # <a name="data-migration"></a>Перенос данных
 
@@ -79,7 +79,7 @@ FastTrack поможет вам перенести данные почты и ф
 <tr class="odd">
 <td><strong>Exchange 2010, Exchange 2013, Exchange 2016, Exchange 2019</strong><br />
 <br />
-<strong>Примечание:</strong> Сведения о локальных зависимостях Exchange приведены в статье <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">Предварительные требования к гибридному развертыванию</span></a>.</td>
+<strong>Примечание.</strong> Для зависимостей локальной службы Exchange см. необходимые условия <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">для гибридного развертывания.</span></a></td>
 <td>Миграция с гибридным развертыванием</td>
 <td><ul>
 <li>Сообщения электронной почты</li>
@@ -107,7 +107,7 @@ FastTrack поможет вам перенести данные почты и ф
 <tr class="even">
 <td><strong>Среда G Suite (только Gmail, Контакты и Календарь)</strong><br />
 <br />
-<strong>Примечание:</strong> Среда G Suite должна соответствовать требованиям, описанным в разделе <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">выполнение миграции g Suite</a>.</td>
+<strong>Примечание.</strong> Среда G Suite должна соответствовать предварительным требованиям, описанным в описании миграции <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">G Suite.</a></td>
 <td>Прямая или поэтапная миграция</td>
 <td><ul>
 <li> Сообщения электронной почты </li>
@@ -242,7 +242,7 @@ FastTrack поможет вам перенести данные почты и ф
 <li> Поврежденные и недоступные документы </li>
 <li> Скрытые общие папки </li>
 <li> Общий доступ (например, разрешения, предоставленные на уровне общей папки) </li>
-<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения и ограничения SharePoint Online</span></a> </li>
+<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения SharePoint Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -281,8 +281,8 @@ FastTrack поможет вам перенести данные почты и ф
 <li> Содержимое, не принадлежащее переносимой учетной записи Google Drive </li>
 <li> Разрешения и основные метаданные внешних пользователей (<strong>Примечание</strong>: Используйте отчеты администратора Google Drive для идентификации содержимого, совместно используемого с внешними пользователями. Проинструктируйте конечных пользователей о необходимости повторно предоставить общий доступ к содержимому после переноса данных). </li>
 <li> Разрешения на доступ к общему диску (<strong>Note</strong>: Используйте отчеты администратора Google Drive для определения наличия доступа к общему диску. Проинструктируйте конечных пользователей о необходимости настроить параметры их доступа в целевой системе перед переносом данных). </li>
-<li> Файлы, помеченные как ограниченные или недоступные для копирования </li>
-<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения и ограничения SharePoint Online</span></a> </li>
+<li> Файлы, помеченные как ограниченные или не копируемые </li>
+<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения SharePoint Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -302,7 +302,7 @@ FastTrack поможет вам перенести данные почты и ф
 <li> Автор последнего изменения </li>
 </ul></li>
 <li> Общее содержимое, принадлежащее переносимой учетной записи Box </li>
-<li> Поля Notes (преобразованы в формат документа Word) </li>
+<li> Заметки Box (преобразованные в формат документов Word) </li>
 </ul></td>
 <td><ul>
 <li> Журнал владения, предыдущие версии и комментарии </li>
@@ -318,7 +318,7 @@ FastTrack поможет вам перенести данные почты и ф
 <li> Приложения Box, закладки, избранное и рабочие процессы </li>
 <li> Содержимое, которое не принадлежит пользователю с перенесенной учетной записью Box </li>
 <li> Разрешения и основные метаданные внешних пользователей (<strong>Примечание</strong>: Используйте отчеты Box для идентификации содержимого, совместно используемого с внешними пользователями. Проинструктируйте конечных пользователей о необходимости повторно предоставить общий доступ к содержимому после переноса данных). </li>
-<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения и ограничения SharePoint Online</span></a> </li>
+<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения SharePoint Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -356,7 +356,7 @@ FastTrack поможет вам перенести данные почты и ф
 <li> Приложения и Избранное Dropbox (закрепленные файлы и звезды) </li>
 <li> Содержимое, которое не принадлежит пользователю с перенесенной учетной записью Dropbox </li>
 <li> Разрешения и основные метаданные внешних пользователей (<strong>Примечание</strong>: Используйте отчеты Dropbox для идентификации содержимого, совместно используемого с внешними пользователями. Проинструктируйте конечных пользователей о необходимости повторно предоставить общий доступ к содержимому после переноса данных) </li>
-<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения и ограничения SharePoint Online</span></a> </li>
+<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения SharePoint Online</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
@@ -436,7 +436,7 @@ FastTrack поможет вам перенести данные почты и ф
 <li> Поврежденные и недоступные документы </li>
 <li> Скрытые общие папки </li>
 <li> Общий доступ (например, разрешения, предоставленные на уровне общей папки) </li>
-<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения и ограничения SharePoint Online</span></a> </li>
+<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения SharePoint Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -475,7 +475,7 @@ FastTrack поможет вам перенести данные почты и ф
 <li> Содержимое, не принадлежащее переносимой учетной записи Google Drive </li>
 <li> Разрешения и основные метаданные внешних пользователей (<strong>Примечание</strong>: Используйте отчеты администратора Google Drive для идентификации содержимого, совместно используемого с внешними пользователями. Проинструктируйте конечных пользователей о необходимости повторно предоставить общий доступ к содержимому после переноса данных). </li>
 <li> Разрешения на доступ к общему диску (<strong>Note</strong>: Используйте отчеты администратора Google Drive для определения наличия доступа к общему диску. Проинструктируйте конечных пользователей о необходимости настроить параметры их доступа в целевой системе перед переносом данных). </li>
-<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения и ограничения SharePoint Online</span></a> </li>
+<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения SharePoint Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -510,7 +510,7 @@ FastTrack поможет вам перенести данные почты и ф
 <li> Приложения Box, закладки, избранное и рабочие процессы </li>
 <li> Содержимое, которое не принадлежит пользователю с перенесенной учетной записью Box </li>
 <li> Разрешения и основные метаданные внешних пользователей (<strong>Примечание</strong>: Используйте отчеты Box для идентификации содержимого, совместно используемого с внешними пользователями. Проинструктируйте конечных пользователей о необходимости повторно предоставить общий доступ к содержимому после переноса данных). </li>
-<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения и ограничения SharePoint Online</span></a> </li>
+<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения SharePoint Online</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -548,7 +548,7 @@ FastTrack поможет вам перенести данные почты и ф
 <li> Приложения и Избранное Dropbox (закрепленные файлы и звезды) </li>
 <li> Содержимое, которое не принадлежит пользователю с перенесенной учетной записью Dropbox </li>
 <li> Разрешения и основные метаданные внешних пользователей (<strong>Примечание</strong>: Используйте отчеты Dropbox для идентификации содержимого, совместно используемого с внешними пользователями. Проинструктируйте конечных пользователей о необходимости повторно предоставить общий доступ к содержимому после переноса данных). </li>
-<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения и ограничения SharePoint Online</span></a> </li>
+<li> Файлы и папки, превышающие текущие <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">ограничения SharePoint Online</span></a> </li>
 </ul></td>
 </tr>
 </tbody>

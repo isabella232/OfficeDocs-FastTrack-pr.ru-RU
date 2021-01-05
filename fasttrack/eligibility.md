@@ -3,19 +3,19 @@ title: Условия
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.
-ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525392"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750022"
 ---
 # <a name="eligibility"></a>Условия
 
@@ -35,7 +35,10 @@ ms.locfileid: "49525392"
 > [!NOTE]
 > Пакет Office 365 профессиональный плюс переименован в Приложение Microsoft 365. В некоторых случаях используется устаревшее название. Дополнительные сведения о вступлении этого изменения в силу см. в статье [Изменение названия Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/name-change).
 
+  - Microsoft 365 Defender
+  - Microsoft Cloud App Security
   - Расширенная защита от угроз (ATP) в Microsoft Defender
+  - Microsoft Defender для удостоверений 
   - Microsoft Edge
   - Управление информацией (Майкрософт)
   - Защита информации (Майкрософт)
@@ -46,7 +49,7 @@ ms.locfileid: "49525392"
   - Power BI
   - Project Online
   - SharePoint Online
-  - Windows 10
+  - Windows 10
   - Виртуальный рабочий стол Windows
   - Yammer корпоративный
 

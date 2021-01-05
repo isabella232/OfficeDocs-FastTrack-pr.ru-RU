@@ -1,35 +1,35 @@
 ---
 title: Приложение Б. Обзор преимущества FastTrack Center для Office 365 для государственных организаций США
-ms.author: v-bermic@microsoft.com
-author: rberg-steyer@microsoft.com
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
-description: Благодаря преимуществам FastTrack Center для Office 365 вы работаете с специалистами FastTrack, чтобы подготовить среду Office 365 к использованию и спланировать развертывание и использование в вашей организации.
-ms.openlocfilehash: c1fe2fbff2bd3deaa37f3cce8ea4be5f65003917
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+description: С помощью преимущества FastTrack Center для Office 365 вы удаленно работаете со специалистами FastTrack, чтобы подготовить среду Office 365 к использованию и спланировать ее использование в организации.
+ms.openlocfilehash: 265b8b3f564aa68cb458a7cb27c1e1f08023e8d5
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525404"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750095"
 ---
 # <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Приложение Б. Обзор преимущества FastTrack Center для Office 365 для государственных организаций США
 
-Благодаря преимуществам FastTrack Center для Office 365 вы работаете с специалистами FastTrack, чтобы подготовить среду Office 365 к использованию и спланировать развертывание и использование в вашей организации. 
+С помощью преимущества FastTrack Center для Office 365 вы удаленно работаете со специалистами FastTrack, чтобы получить среду Office 365, готовую к использованию, а также спланировать ее и использовать в организации. 
   
-Несмотря на то, что большинство продуктов и функций одинаковы для Office 365 и Office 365 для государственных учреждений, не все функции доступны в настоящее время во всех планах. Ознакомьтесь с описанием службы [Office 365 US государственных организаций](https://aka.ms/aboutgovcloud) , чтобы получить самый актуальный список функций.
+Несмотря на то, что большинство продуктов и функций одинаковы между набором Office 365 и Office 365 для государственных органов США, в настоящее время не все функции доступны во всех планах. Просмотрите [описание службы Office 365](https://aka.ms/aboutgovcloud) для государственных органов США для самых новых функций.
 
 > [!NOTE]
-> Чтобы получать службы FastTrack, перейдите на [сайт FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) и запросите помощь.  
+> Чтобы получить службы FastTrack, перейдите на сайт [FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) и запросить помощь.  
 
 Мы рассмотрим следующие темы:
 - [Процесс и ожидания](process-and-expectations.md) 
-- [Ожидание в исходной среде для Office 365 для государственных организаций США](US-Gov-appendix-source-environment-expectations.md)   
-- [Этапы входящей миграции и миграции для Office 365 для государственных организаций США](US-Gov-appendix-onboarding-and-migration.md)
+- [Требования к исходным средам для Office 365 для государственных органов США](US-Gov-appendix-source-environment-expectations.md)   
+- [Этапы миграции и миграции Office 365 для государственных органов США](US-Gov-appendix-onboarding-and-migration.md)
 - [Миграция данных](data-migration.md)    
-- [Обязанности FastTrack для Office 365 для государственных учреждений США](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [Ваши обязанности для Office 365 для государственных организаций США](US-Gov-appendix-your-responsibilities.md)    
+- [Обязанности FastTrack для Office 365 для государственных органов США](US-Gov-appendix-fasttrack-responsibilities.md)   
+- [Ваши обязанности по Office 365 для государственных органов США](US-Gov-appendix-your-responsibilities.md)    
 
