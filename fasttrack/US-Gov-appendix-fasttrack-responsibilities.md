@@ -3,19 +3,19 @@ title: Обязанности FastTrack для Office 365 для государ�
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: 42ad4053ef169470abd5de96cd59329704d1b224
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: a7860d56652de3aba80e77b7f9b054e8a80be6f4
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750082"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016679"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Обязанности FastTrack для Office 365 для государственных органов США
 
@@ -93,6 +93,13 @@ ms.locfileid: "49750082"
 - Тестирование функций службы единого входа, если она развернута.   
 - Успешное внедрение и оценка служб.
     
+## <a name="compliance"></a>Соответствие требованиям
+
+Вы можете получить помощь по указанным ниже вопросам.
+- Удаленная помощь по **управлению информацией Майкрософт** (см. ["Безопасность и соответствие требованиям").](products-and-capabilities.md#security-and-compliance)
+- Удаленная помощь с **Microsoft Information Protection** (см. ["Безопасность и соответствие требованиям").](products-and-capabilities.md#security-and-compliance)
+- Удаленная помощь с **Azure Information Protection** (см. ["Безопасность и соответствие требованиям").](products-and-capabilities.md#security-and-compliance)
+
 ## <a name="exchange-online"></a>Exchange Online
 
 Вы можете получить помощь по указанным ниже вопросам. 

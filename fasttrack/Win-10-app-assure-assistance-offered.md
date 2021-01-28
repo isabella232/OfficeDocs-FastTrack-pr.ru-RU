@@ -10,16 +10,16 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: При приобретении любых служб Windows 10 или Microsoft 365 специалисты FastTrack предоставляют советы и рекомендации по устранению проблем при развертывании Windows 10 и приложений Microsoft 365, а также по своевременному обновлению без дополнительной платы (при наличии соответствующей подписки).
-ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4cd513a4e0c1edda3598a6650bdea91d90f5584f
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827421"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016425"
 ---
 # <a name="assistance-offered"></a>Предлагаемая помощь  
 
-Если вы приобрели любую из служб Windows 10 или Microsoft 365 (как описано в этой [статье),](eligibility.md)специалисты FastTrack предоставляют рекомендации и рекомендации по исправлению, если вы столкнулись с проблемами совместимости приложений при развертывании новых продуктов Майкрософт, как описано в разделе [Supported Products (продукты корпорации Майкрософт](#supported-microsoft-products)).
+Когда вы приобретаете какие-либо службы Windows 10 или [](eligibility.md)Microsoft 365 (как описано в требованиях), специалисты FastTrack предоставляют рекомендации и рекомендации по исправлению в случае проблем совместимости приложений при развертывании новых продуктов Майкрософт, как описано в поддерживаемых продуктах [Майкрософт.](#supported-microsoft-products)
 
 Чтобы получить помощь, выполните [запрос на обслуживание App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
@@ -36,23 +36,23 @@ ms.locfileid: "48827421"
 
 - Приложения, работающие в Windows 7, Windows 8,1, Office 2010 и Office 2013, также работают в Windows 10 и приложениях Microsoft 365.
 
-### <a name="windows-10-on-arm"></a>Windows 10 в ARM
+### <a name="windows-10-on-arm"></a>Windows 10 на ARM
 
-- Приложения, работающие под управлением Windows 7, Office 2010 или более поздних версий, работают в приложениях Windows 10 и Microsoft 365 на устройствах ARM64.
+- Приложения, которые работали в Windows 7, Office 2010 или более поздних версиях, работают в Windows 10 и приложениях Microsoft 365 на устройствах ARM64.
 
 > [!NOTE]
-> Windows 10 для исключений и ограничений ARM включают приложения, основанные на драйверах программного обеспечения, которые не совместимы в ARM, используют OpenGL или Опенкл или доступны только в 64-разрядной версии (x64).
+> К исключениям и ограничениям Windows 10 на ARM относятся приложения, которые используют программные драйверы, несовместимые в ARM, используют OpenGL или OpenCL или доступны только в 64-битных версиях (x64).
 
-### <a name="the-new-microsoft-edge"></a>Новая версия Microsoft Edge
+### <a name="microsoft-edge"></a>Microsoft Edge
 
-- Если ваши веб-приложения или сайты работают в Internet Explorer 11, поддерживаемой версии Google Chrome или любой версии Microsoft Edge, они также будут работать в новой версии Microsoft Edge.
+- Если ваши веб-приложения или сайты работают в Internet Explorer 11, поддерживаемых версиях Google Chrome или любой версии Microsoft Edge, они также будут работать с Microsoft Edge.
 
 Инструкции по развертыванию Microsoft Edge см. в статье [Обзор каналов Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). Так как Интернет постоянно развивается, мы публикуем список известных [изменений Microsoft Edge, влияющих на совместимость с сайтами](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
 
 ### <a name="windows-virtual-desktop"></a>Виртуальный рабочий стол Windows
 
 - Виртуализованные приложения, работающие на узле сеансов удаленных рабочих столов в Windows Server, также работают в Windows 10 Корпоративная с поддержкой нескольких сеансов в рамках виртуального рабочего стола Windows.
-- Приложения, работающие в любой среде Windows 7 или Windows 10 с инфраструктурой виртуальных рабочих столов (VDI), также работают в составе виртуального рабочего стола Windows для Windows 7 Корпоративная и Windows 10 Корпоративная.
+- Приложения, работающие в любой среде инфраструктуры виртуальных рабочих стола Windows 7 или Windows 10, также работают в Windows 7 Корпоративная и Windows 10 Корпоративная в составе виртуального рабочего стола Windows.
 - Приложения, работающие на клиентских устройствах Windows 7 или Windows 10, также работают в Windows 7 Корпоративная и Windows 10 Корпоративная в рамках виртуального рабочего стола Windows.
 
 > [!NOTE]

@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Если вы приобретаете не менее 150 лицензий на соответствующую службу или тарифный план для клиента Office 365, то можете воспользоваться услугами Преимущество FastTrack Center для Office 365. В этом случае специалисты FastTrack помогут выполнить оценку служб, устранить ошибки, включить службы, а также обеспечить их принятие пользователями. Эти же специалисты помогут выполнить миграцию.
-ms.openlocfilehash: e55ea3df161fa93aa0a0da978e39d8d0eec42ac4
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 1185b35c74b7a8f8e789004a4e43e74640c5a28e
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827133"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016487"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Преимущество FastTrack Center для Office 365
 
@@ -62,7 +62,7 @@ ms.locfileid: "48827133"
 
 - Windows 10
 - App Assure
-- Новая версия Microsoft Edge
+- Microsoft Edge
 - Advanced Threat Protection в Microsoft Defender
     
 > [!NOTE]

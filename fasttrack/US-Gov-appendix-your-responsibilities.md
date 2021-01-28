@@ -3,19 +3,19 @@ title: Ваши обязанности по Office 365 для государст
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: В процессе подключения вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: 541e26088bac9c13679a78906b9abac23077c36c
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: b2889b0b589c6bdb470dedc81f50e428143edc0c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750118"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016643"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Ваши обязанности по Office 365 для государственных органов США
 
@@ -58,7 +58,7 @@ ms.locfileid: "49750118"
     
 ## <a name="initiate-phase"></a>Начальная фаза
 
-- Настройка пространства Microsoft Teams для совместной работы и приглашение участников группы FastTrack Center (отсутствует в планах GCC High или DoD).   
+- Настройка пространства Microsoft Teams для совместной работы для взаимодействия с участниками группы FastTrack Center (отсутствует в планах GCC High или DoD).   
 - Подключение служб, соответствующих критериям, совместно со специалистами FastTrack.    
 - Участие в начальном собрании, управление и руководство участниками из вашей организации, подтверждение графиков устранения проблем.    
 - Предоставление описания целей, для достижения которых вы предполагаете использовать службы Office 365 (например, SharePoint Online, Exchange Online, Microsoft Teams и приложения Microsoft 365) и общих целей организации.

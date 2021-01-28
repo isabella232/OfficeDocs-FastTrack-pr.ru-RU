@@ -3,19 +3,19 @@ title: Условия
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750022"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016463"
 ---
 # <a name="eligibility"></a>Условия
 
@@ -49,7 +49,7 @@ ms.locfileid: "49750022"
   - Power BI
   - Project Online
   - SharePoint Online
-  - Windows 10
+  - Windows 10
   - Виртуальный рабочий стол Windows
   - Yammer корпоративный
 
@@ -168,7 +168,7 @@ ms.locfileid: "49750022"
 
 #### <a name="azure-information-protection"></a>Azure Information Protection
 
-  - Azure Information Protection (план 2)\*\*\*\*\*
+  - Azure Information Protection
 
 #### <a name="microsoft-intune"></a>Microsoft Intune
 
@@ -184,10 +184,7 @@ ms.locfileid: "49750022"
       
 <br>
 
-\*\*\*\*Доступно для облачных служб, в которых можно использовать преимущества FastTrack. В противном случае выполняется перенаправление к специалисту FastTrack или для получения рекомендации партнера.  
-      
-\*\*\*\*\*Доступно для плана 2 в составе плана E5 или для автономного плана. Доступно для облачных служб, в которых можно использовать преимущества FastTrack. Для облачных служб плана 1 в FastTrack предоставляется руководство по самостоятельному развертыванию.  
-      
+\*\*\*\*Доступно для облачных служб, в которых можно использовать преимущества FastTrack. В противном случае выполняется перенаправление к специалисту FastTrack или для получения рекомендации партнера.    
 
 ### <a name="windows-10-plans"></a>Планы Windows 10
 
