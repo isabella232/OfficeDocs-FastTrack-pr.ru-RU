@@ -3,19 +3,19 @@ title: Процесс и ожидания
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этой теме мы рассмотрим, как обратиться к специалистам FastTrack за помощью, а также способы предоставления этой помощи, советы для успешного взаимодействия и ключевые обязанности специалистов FastTrack и вашей организации.
-ms.openlocfilehash: bfbe95787d598dc229a03ee643f5e37e6b6f224c
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: 99b21f0fa76cf5c392d47dcb53d78710130327bd
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016511"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416592"
 ---
 # <a name="process-and-expectations"></a>Процесс и ожидания
 
@@ -44,7 +44,7 @@ ms.locfileid: "50016511"
 4.  Выберите клиента в результатах поиска.
 5.  Заполните форму **Запросить помощь с Microsoft 365**.
 
-Чтобы запросить помощь для App Assure, выполните запрос на обслуживание [App Assure.](https://go.microsoft.com/fwlink/?linkid=2022721)
+Чтобы запросить помощь для App Assure, выполните [запрос на службу App Assure.](https://go.microsoft.com/fwlink/?linkid=2022721)
 
 ## <a name="fasttrack-expectations"></a>Ожидания FastTrack
 
@@ -55,7 +55,7 @@ FastTrack предоставляет исчерпывающие инструкц
 Вы удаленно работаете вместе со специалистами FastTrack через технические доклады, семинары и собрания по контрольным точкам, в том числе:
 
   - **Технические доклады и семинары.** Они глубоко погружают в тему и обеспечивают рекомендации по ускоренному развертыванию служб Microsoft 365. На таких встречах часто предоставляются общие сведения о доступной документации, программных средствах и консолях администрирования. Стандартная продолжительность: 60 минут.
-  - **Собрания контрольных точек:** Еженедельные или двунедельные сенсорные точки, чтобы убедиться, что развертывание продолжается. Стандартная продолжительность: 30 минут.
+  - **Собрания контрольно-пропускных пунктов:** Еженедельные или две недели сенсорные точки для обеспечения выполнения развертывания. Стандартная продолжительность: 30 минут.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Ожидаемые результаты и ключевые этапы 
 
