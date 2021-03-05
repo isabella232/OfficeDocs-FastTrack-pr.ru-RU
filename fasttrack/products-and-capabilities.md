@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этом разделе содержатся сведения о сценариях рабочей нагрузки, поддерживаемых FastTrack, и ожиданиях исходных сред, необходимых перед началом работы. На основе текущей настройки мы работаем с вами над созданием плана восстановления, который соответствует минимальным требованиям для успешной работы с бортовой установкой.
-ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
+ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416568"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50464211"
 ---
 # <a name="products-and-capabilities"></a>Продукты и возможности
 
@@ -208,7 +208,7 @@ FastTrack предоставляет рекомендации, которые п
 
 <strong>Расширенный аудит</strong> (поддерживается только в E5)
 
-Мы предоставляем удаленные рекомендации по: 
+Мы предоставляем удаленные рекомендации по:  
 <ul>
 <li> Включение усовершенствования аудита.</li>
 <li> Выполнение пользовательского интерфейса журнала аудита поиска и основных команд powerShell аудита.</li>
