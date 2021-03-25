@@ -3,752 +3,770 @@ title: Продукты и возможности
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этом разделе содержатся сведения о сценариях рабочей нагрузки, поддерживаемых FastTrack, и ожиданиях исходных сред, необходимых перед началом работы. На основе текущей настройки мы работаем с вами над созданием плана восстановления, который соответствует минимальным требованиям для успешной работы с бортовой установкой.
-ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
-ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
+ms.openlocfilehash: 2bfca103fd9c58d95d9ba4a750e446a6e93b5719
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50464211"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188108"
 ---
-# <a name="products-and-capabilities"></a><span data-ttu-id="990d9-104">Продукты и возможности</span><span class="sxs-lookup"><span data-stu-id="990d9-104">Products and Capabilities</span></span>
+# <a name="products-and-capabilities"></a><span data-ttu-id="d41a5-104">Продукты и возможности</span><span class="sxs-lookup"><span data-stu-id="d41a5-104">Products and Capabilities</span></span>
 
-## <a name="services-and-scenarios-supported-by-fasttrack"></a><span data-ttu-id="990d9-105">Службы и сценарии, поддерживаемые FastTrack</span><span class="sxs-lookup"><span data-stu-id="990d9-105">Services and scenarios supported by FastTrack</span></span> 
+## <a name="services-and-scenarios-supported-by-fasttrack"></a><span data-ttu-id="d41a5-105">Службы и сценарии, поддерживаемые FastTrack</span><span class="sxs-lookup"><span data-stu-id="d41a5-105">Services and scenarios supported by FastTrack</span></span> 
 
-<span data-ttu-id="990d9-106">В этом разделе содержатся сведения о сценариях рабочей нагрузки, поддерживаемых FastTrack, и ожиданиях исходных сред, необходимых перед началом работы.</span><span class="sxs-lookup"><span data-stu-id="990d9-106">This topic includes details on the workload scenarios supported by FastTrack and the source environment expectations necessary before we can begin.</span></span> <span data-ttu-id="990d9-107">На основе текущей настройки мы работаем с вами над созданием плана восстановления, который соответствует минимальным требованиям для успешной работы с бортовой установкой.</span><span class="sxs-lookup"><span data-stu-id="990d9-107">Based on your current setup, we work with you to create a remediation plan that brings your source environment up to the minimum requirements for successful onboarding.</span></span>
+<span data-ttu-id="d41a5-106">В этом разделе содержатся сведения о сценариях рабочей нагрузки, поддерживаемых FastTrack, и ожиданиях исходных сред, необходимых перед началом работы.</span><span class="sxs-lookup"><span data-stu-id="d41a5-106">This topic includes details on the workload scenarios supported by FastTrack and the source environment expectations necessary before we can begin.</span></span> <span data-ttu-id="d41a5-107">На основе текущей настройки мы работаем с вами над созданием плана восстановления, который соответствует минимальным требованиям для успешной работы с бортовой установкой.</span><span class="sxs-lookup"><span data-stu-id="d41a5-107">Based on your current setup, we work with you to create a remediation plan that brings your source environment up to the minimum requirements for successful onboarding.</span></span>
 
-<span data-ttu-id="990d9-108">FastTrack предоставляет рекомендации, которые помогут вам сначала с основными возможностями (общими для всех Microsoft Online Services), а затем с помощью вовсю каждой подходящих служб:</span><span class="sxs-lookup"><span data-stu-id="990d9-108">FastTrack provides guidance to help you first with core capabilities (common for all Microsoft Online Services) and then with onboarding each eligible service:</span></span>
+<span data-ttu-id="d41a5-108">FastTrack предоставляет рекомендации, которые помогут вам сначала с основными возможностями (общими для всех Microsoft Online Services), а затем с помощью вовсю каждой подходящих служб:</span><span class="sxs-lookup"><span data-stu-id="d41a5-108">FastTrack provides guidance to help you first with core capabilities (common for all Microsoft Online Services) and then with onboarding each eligible service:</span></span>
 
-  - [<span data-ttu-id="990d9-109">Общие</span><span class="sxs-lookup"><span data-stu-id="990d9-109">General</span></span>](#general)
-  - [<span data-ttu-id="990d9-110">Безопасность и соответствие требованиям</span><span class="sxs-lookup"><span data-stu-id="990d9-110">Security and Compliance</span></span>](#security-and-compliance)
-  - [<span data-ttu-id="990d9-111">Office 365</span><span class="sxs-lookup"><span data-stu-id="990d9-111">Office 365</span></span>](#office-365)
-  - [<span data-ttu-id="990d9-112">Enterprise Mobility + Security</span><span class="sxs-lookup"><span data-stu-id="990d9-112">Enterprise Mobility + Security</span></span>](#enterprise-mobility--security)
-  - [<span data-ttu-id="990d9-113">Windows 10</span><span class="sxs-lookup"><span data-stu-id="990d9-113">Windows 10</span></span>](#windows-10)
-  - [<span data-ttu-id="990d9-114">Виртуальный рабочий стол Windows</span><span class="sxs-lookup"><span data-stu-id="990d9-114">Windows Virtual Desktop</span></span>](#windows-virtual-desktop)
-  - [<span data-ttu-id="990d9-115">Служба Assure для приложений</span><span class="sxs-lookup"><span data-stu-id="990d9-115">App Assure</span></span>](#app-assure)
-  - [<span data-ttu-id="990d9-116">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="990d9-116">Microsoft Edge</span></span>](#microsoft-edge)
+  - [<span data-ttu-id="d41a5-109">Общие</span><span class="sxs-lookup"><span data-stu-id="d41a5-109">General</span></span>](#general)
+  - [<span data-ttu-id="d41a5-110">Безопасность и соответствие требованиям</span><span class="sxs-lookup"><span data-stu-id="d41a5-110">Security and Compliance</span></span>](#security-and-compliance)
+  - [<span data-ttu-id="d41a5-111">Office 365</span><span class="sxs-lookup"><span data-stu-id="d41a5-111">Office 365</span></span>](#office-365)
+  - [<span data-ttu-id="d41a5-112">Enterprise Mobility + Security</span><span class="sxs-lookup"><span data-stu-id="d41a5-112">Enterprise Mobility + Security</span></span>](#enterprise-mobility--security)
+  - [<span data-ttu-id="d41a5-113">Windows 10</span><span class="sxs-lookup"><span data-stu-id="d41a5-113">Windows 10</span></span>](#windows-10)
+  - [<span data-ttu-id="d41a5-114">Виртуальный рабочий стол Windows</span><span class="sxs-lookup"><span data-stu-id="d41a5-114">Windows Virtual Desktop</span></span>](#windows-virtual-desktop)
+  - [<span data-ttu-id="d41a5-115">Служба Assure для приложений</span><span class="sxs-lookup"><span data-stu-id="d41a5-115">App Assure</span></span>](#app-assure)
+  - [<span data-ttu-id="d41a5-116">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="d41a5-116">Microsoft Edge</span></span>](#microsoft-edge)
 
 > [!NOTE]
-> <span data-ttu-id="990d9-117">Сведения о требованиях к исходной среде для Office 365 для государственных организаций США см. в статье [Требования к исходной среде для Office 365 для государственных организаций США](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).</span><span class="sxs-lookup"><span data-stu-id="990d9-117">For information on source environment expectations for Office 365 US Government, see [Source Environment Expectations for Office 365 US Government](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).</span></span> 
+> <span data-ttu-id="d41a5-117">Сведения о требованиях к исходной среде для Office 365 для государственных организаций США см. в статье [Требования к исходной среде для Office 365 для государственных организаций США](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).</span><span class="sxs-lookup"><span data-stu-id="d41a5-117">For information on source environment expectations for Office 365 US Government, see [Source Environment Expectations for Office 365 US Government](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).</span></span> 
  
-## <a name="general"></a><span data-ttu-id="990d9-118">Общие</span><span class="sxs-lookup"><span data-stu-id="990d9-118">General</span></span>
+## <a name="general"></a><span data-ttu-id="d41a5-118">Общие</span><span class="sxs-lookup"><span data-stu-id="d41a5-118">General</span></span>
 
 <table>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="990d9-119"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-119"><strong>Service</strong></span></span></th>
-<th><span data-ttu-id="990d9-120"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-120"><strong>FastTrack guidance details</strong></span></span></th>
-<th><span data-ttu-id="990d9-121"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-121"><strong>Source environment expectations</strong></span></span></th>
+<th><span data-ttu-id="d41a5-119"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-119"><strong>Service</strong></span></span></th>
+<th><span data-ttu-id="d41a5-120"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-120"><strong>FastTrack guidance details</strong></span></span></th>
+<th><span data-ttu-id="d41a5-121"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-121"><strong>Source environment expectations</strong></span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><span data-ttu-id="990d9-122"><strong>Базовое подключение</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-122"><strong>Core onboarding</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-123">Мы предоставляем удаленные рекомендации по основной интеграции, которая включает в себя подготовка службы, клиент и интеграцию удостоверений.</span><span class="sxs-lookup"><span data-stu-id="990d9-123">We provide remote guidance on core onboarding, which involves service provisioning, tenant, and identity integration.</span></span> <span data-ttu-id="990d9-124">Она также включает шаги по обеспечению основы для бортовых служб, таких как Exchange Online, SharePoint Online и Microsoft Teams, включая обсуждение вопросов <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">безопасности,</a>подключения к сети и соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-124">It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Microsoft Teams, including a <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">discussion on security, network connectivity, and compliance</a>.</span></span>  
-  <span data-ttu-id="990d9-125">Подключение одной или нескольких поддерживаемых служб можно начать после завершения базового подключения.</span><span class="sxs-lookup"><span data-stu-id="990d9-125">Onboarding for one or more eligible services can begin once core onboarding is finished.</span></span>
-<span data-ttu-id="990d9-126"></li>
+<td><span data-ttu-id="d41a5-122"><strong>Базовое подключение</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-122"><strong>Core onboarding</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-123">Мы предоставляем удаленные рекомендации по основной интеграции, которая включает в себя подготовка службы, клиент и интеграцию удостоверений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-123">We provide remote guidance on core onboarding, which involves service provisioning, tenant, and identity integration.</span></span> <span data-ttu-id="d41a5-124">Она также включает шаги по обеспечению основы для бортовых служб, таких как Exchange Online, SharePoint Online и Microsoft Teams, включая обсуждение вопросов <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">безопасности,</a>подключения к сети и соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-124">It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Microsoft Teams, including a <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">discussion on security, network connectivity, and compliance</a>.</span></span>  
+  <span data-ttu-id="d41a5-125">Подключение одной или нескольких поддерживаемых служб можно начать после завершения базового подключения.</span><span class="sxs-lookup"><span data-stu-id="d41a5-125">Onboarding for one or more eligible services can begin once core onboarding is finished.</span></span>
+<span data-ttu-id="d41a5-126"></li>
 </ul>  
 
-<strong> Интеграция удостоверений </strong></span><span class="sxs-lookup"><span data-stu-id="990d9-126"></li>
+<strong> Интеграция удостоверений </strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-126"></li>
 </ul>  
 
 <strong> Identity Integration </strong></span></span>
 
-<span data-ttu-id="990d9-127">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-127">We provide remote guidance for:</span></span>
+<span data-ttu-id="d41a5-127">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-127">We provide remote guidance for:</span></span>
 <ul>
-<li><span data-ttu-id="990d9-128">Подготовка локального удостоверения Active Directory для синхронизации с Azure Active Directory (Azure AD), включая установку и настройку Azure AD Connect (одно- или нескольких лесов) и лицензирование (включая лицензирование на основе групп).</span><span class="sxs-lookup"><span data-stu-id="990d9-128">Preparing on-premises Active Directory Identities for synchronization to Azure Active Directory (Azure AD) including installing and configuring Azure AD Connect (single- or multi-forest) and licensing (including group-based licensing).</span></span></li>
-<li><span data-ttu-id="990d9-129">Создание облачных удостоверений, включая массовый импорт и лицензирование, включая использование группового лицензирования.</span><span class="sxs-lookup"><span data-stu-id="990d9-129">Creating cloud identities including bulk import and licensing including using group-based licensing.</span></span></li>
-<li><span data-ttu-id="990d9-130">Выбор и включение правильного метода проверки подлинности для облачного путешествия, синхронизация хеш-паролей, сквозная проверка подлинности или службы Федерации Active Directory (AD FS).</span><span class="sxs-lookup"><span data-stu-id="990d9-130">Choosing and enabling the correct authentication method for your cloud journey, Password Hash Sync, Pass-through Authentication, or Active Directory Federation Services (AD FS).</span></span></li>
-<li><span data-ttu-id="990d9-131">Включение AD FS для клиентов с одним лесом Active Directory и удостоверениями, синхронизированными с средством Подключения Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-131">Enabling AD FS for customers with a single Active Directory forest and identities synchronized with the Azure AD Connect tool.</span></span> <span data-ttu-id="990d9-132">Для этого требуется Windows Server 2012 R2 Active Directory Federation Services 2.0 или более.</span><span class="sxs-lookup"><span data-stu-id="990d9-132">This requires Windows Server 2012 R2 Active Directory Federation Services 2.0 or greater.</span></span></li>
-<li><span data-ttu-id="990d9-133">Перенос проверки подлинности из AD FS в Azure AD с помощью синхронизации с использованием хаширования паролей или сквозной проверки подлинности.</span><span class="sxs-lookup"><span data-stu-id="990d9-133">Migrating authentication from AD FS to Azure AD using Password Hash Sync or Pass-through Authentication.</span></span></li>
-<li><span data-ttu-id="990d9-134">Перенос предварительно интегрированных приложений (например, приложений azure AD gallery software-as-a-service (SaaS) из AD FS в Azure AD для единого входного (SSO).</span><span class="sxs-lookup"><span data-stu-id="990d9-134">Migrating pre-integrated apps (like Azure AD gallery software-as-a-service (SaaS) apps) from AD FS to Azure AD for single sign-on (SSO).</span></span></li>
-<li><span data-ttu-id="990d9-135">Включение интеграции приложений SaaS с SSO из галереи Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-135">Enabling SaaS app integrations with SSO from the Azure AD gallery.</span></span></li>
-<li><span data-ttu-id="990d9-136">Включение автоматической подготовки пользователей для предварительно интегрированных приложений <a href="https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list"></a> SaaS, указанных в списке учебников по интеграции приложений (ограниченных приложениями SaaS-галереи Azure AD и только исходящие подготовки).</span><span class="sxs-lookup"><span data-stu-id="990d9-136">Enabling automatic user provisioning for pre-integrated SaaS apps as listed in the <a href="https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list">App integration tutorial list</a> (limited to Azure AD gallery SaaS apps and outbound provisioning only).</span></span>  </li>
+<li><span data-ttu-id="d41a5-128">Подготовка локального удостоверения Active Directory для синхронизации с Azure Active Directory (Azure AD), включая установку и настройку Azure AD Connect (одно- или нескольких лесов) и лицензирование (включая лицензирование на основе групп).</span><span class="sxs-lookup"><span data-stu-id="d41a5-128">Preparing on-premises Active Directory Identities for synchronization to Azure Active Directory (Azure AD) including installing and configuring Azure AD Connect (single- or multi-forest) and licensing (including group-based licensing).</span></span></li>
+<li><span data-ttu-id="d41a5-129">Создание облачных удостоверений, включая массовый импорт и лицензирование, включая использование группового лицензирования.</span><span class="sxs-lookup"><span data-stu-id="d41a5-129">Creating cloud identities including bulk import and licensing including using group-based licensing.</span></span></li>
+<li><span data-ttu-id="d41a5-130">Выбор и включение правильного метода проверки подлинности для облачного путешествия, синхронизация хеш-паролей, сквозная проверка подлинности или службы Федерации Active Directory (AD FS).</span><span class="sxs-lookup"><span data-stu-id="d41a5-130">Choosing and enabling the correct authentication method for your cloud journey, Password Hash Sync, Pass-through Authentication, or Active Directory Federation Services (AD FS).</span></span></li>
+<li> <span data-ttu-id="d41a5-131">Выбор и включение более удобного опыта проверки подлинности для пользователей с помощью проверки подлинности без паролей (Fast Identity Online (FIDO)2 или Microsoft Authenticator App).</span><span class="sxs-lookup"><span data-stu-id="d41a5-131">Choosing and enabling a more convenient authentication experience for your users with passwordless authentication (Fast Identity Online (FIDO)2 or Microsoft Authenticator App).</span></span></li>
+<li><span data-ttu-id="d41a5-132">Включение AD FS для клиентов с одним лесом Active Directory и удостоверениями, синхронизированными с средством Подключения Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-132">Enabling AD FS for customers with a single Active Directory forest and identities synchronized with the Azure AD Connect tool.</span></span> <span data-ttu-id="d41a5-133">Для этого требуется Windows Server 2012 R2 Active Directory Federation Services 2.0 или более.</span><span class="sxs-lookup"><span data-stu-id="d41a5-133">This requires Windows Server 2012 R2 Active Directory Federation Services 2.0 or greater.</span></span></li>
+<li><span data-ttu-id="d41a5-134">Перенос проверки подлинности из AD FS в Azure AD с помощью синхронизации с использованием хаширования паролей или сквозной проверки подлинности.</span><span class="sxs-lookup"><span data-stu-id="d41a5-134">Migrating authentication from AD FS to Azure AD using Password Hash Sync or Pass-through Authentication.</span></span></li>
+<li><span data-ttu-id="d41a5-135">Перенос предварительно интегрированных приложений (например, приложений azure AD gallery software-as-a-service (SaaS) из AD FS в Azure AD для единого входного (SSO).</span><span class="sxs-lookup"><span data-stu-id="d41a5-135">Migrating pre-integrated apps (like Azure AD gallery software-as-a-service (SaaS) apps) from AD FS to Azure AD for single sign-on (SSO).</span></span></li>
+<li><span data-ttu-id="d41a5-136">Включение интеграции приложений SaaS с SSO из галереи Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-136">Enabling SaaS app integrations with SSO from the Azure AD gallery.</span></span></li>
+<li><span data-ttu-id="d41a5-137">Включение автоматической подготовки пользователей для предварительно интегрированных приложений <a href="https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list"></a> SaaS, указанных в списке учебников по интеграции приложений (ограниченных приложениями SaaS-галереи Azure AD и только исходящие подготовки).</span><span class="sxs-lookup"><span data-stu-id="d41a5-137">Enabling automatic user provisioning for pre-integrated SaaS apps as listed in the <a href="https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list">App integration tutorial list</a> (limited to Azure AD gallery SaaS apps and outbound provisioning only).</span></span>  </li>
 </td>
 
-<td>  <span data-ttu-id="990d9-137"><strong>Включить сеть </strong>  
-  </span><span class="sxs-lookup"><span data-stu-id="990d9-137"><strong>Network enablement </strong>  
-  </span></span><br><span data-ttu-id="990d9-138">В рамках преимущества FastTrack мы советуем вам рекомендации по подключению к облачным службам для обеспечения максимальной производительности Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-138">As part of the FastTrack benefit, we advise you as to best practices for connecting to cloud services to ensure the highest levels of performance of Microsoft 365.</span></span>  
+<td>  <span data-ttu-id="d41a5-138"><strong>Включить сеть </strong>  
+  </span><span class="sxs-lookup"><span data-stu-id="d41a5-138"><strong>Network enablement </strong>  
+  </span></span><br><span data-ttu-id="d41a5-139">В рамках преимущества FastTrack мы советуем вам рекомендации по подключению к облачным службам для обеспечения максимальной производительности Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-139">As part of the FastTrack benefit, we advise you as to best practices for connecting to cloud services to ensure the highest levels of performance of Microsoft 365.</span></span>  
   
-<span data-ttu-id="990d9-139"><strong>Леса Active Directory</strong> Они имеют функциональный лесной уровень, установленный для Windows Server 2003 и далее, с следующей конфигурацией леса:</span><span class="sxs-lookup"><span data-stu-id="990d9-139"><strong>Active Directory forests</strong> These have the functional forest level set to Windows Server 2003 onward, with the following forest configuration:</span></span>
+<span data-ttu-id="d41a5-140"><strong>Леса Active Directory</strong> Они имеют функциональный лесной уровень, установленный для Windows Server 2003 и далее, с следующей конфигурацией леса:</span><span class="sxs-lookup"><span data-stu-id="d41a5-140"><strong>Active Directory forests</strong> These have the functional forest level set to Windows Server 2003 onward, with the following forest configuration:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-140">Один лес Active Directory.</span><span class="sxs-lookup"><span data-stu-id="990d9-140">A single Active Directory forest.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-141">Топологии с одним лесом учетных записей Active Directory и лесом ресурсов (Exchange или Lync 2010, Lync 2013 или Skype для бизнеса).</span><span class="sxs-lookup"><span data-stu-id="990d9-141">A single Active Directory account forest and resource forest (Exchange and/or Lync 2010, Lync 2013, or Skype for Business) topologies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-142">Топологии с несколькими лесами учетных записей Active Directory и лесом ресурсов (Exchange или Lync 2010, Lync 2013 или Skype для бизнеса).</span><span class="sxs-lookup"><span data-stu-id="990d9-142">Multiple Active Directory account forests and resource forest (Exchange and/or Lync 2010, Lync 2013, or Skype for Business) topologies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-143">Несколько лесов учетных записей Active Directory, один из которых является централизованным лесом учетных записей Active Directory, включающим Exchange и/или Lync 2010, Lync 2013 или Skype для бизнеса.</span><span class="sxs-lookup"><span data-stu-id="990d9-143">Multiple Active Directory account forests with one of the forests being a centralized Active Directory account forest that includes Exchange and/or Lync 2010, Lync 2013, or Skype for Business.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-144">Несколько лесов учетных записей Active Directory, каждый из которых включает свою организацию Exchange.</span><span class="sxs-lookup"><span data-stu-id="990d9-144">Multiple Active Directory account forests, each with its own Exchange organization.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-145">Задачи, необходимые для конфигурации клиента и интеграции с Azure Active Directory, если это необходимо.</span><span class="sxs-lookup"><span data-stu-id="990d9-145">Tasks required for tenant configuration and integration with Azure Active Directory, if needed.</span></span>   </li>
-</ul><span data-ttu-id="990d9-146">
-  <strong>Важно</strong>  </span><span class="sxs-lookup"><span data-stu-id="990d9-146">
+<li>  <span data-ttu-id="d41a5-141">Один лес Active Directory.</span><span class="sxs-lookup"><span data-stu-id="d41a5-141">A single Active Directory forest.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-142">Топологии с одним лесом учетных записей Active Directory и лесом ресурсов (Exchange или Lync 2010, Lync 2013 или Skype для бизнеса).</span><span class="sxs-lookup"><span data-stu-id="d41a5-142">A single Active Directory account forest and resource forest (Exchange and/or Lync 2010, Lync 2013, or Skype for Business) topologies.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-143">Топологии с несколькими лесами учетных записей Active Directory и лесом ресурсов (Exchange или Lync 2010, Lync 2013 или Skype для бизнеса).</span><span class="sxs-lookup"><span data-stu-id="d41a5-143">Multiple Active Directory account forests and resource forest (Exchange and/or Lync 2010, Lync 2013, or Skype for Business) topologies.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-144">Несколько лесов учетных записей Active Directory, один из которых является централизованным лесом учетных записей Active Directory, включающим Exchange и/или Lync 2010, Lync 2013 или Skype для бизнеса.</span><span class="sxs-lookup"><span data-stu-id="d41a5-144">Multiple Active Directory account forests with one of the forests being a centralized Active Directory account forest that includes Exchange and/or Lync 2010, Lync 2013, or Skype for Business.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-145">Несколько лесов учетных записей Active Directory, каждый из которых включает свою организацию Exchange.</span><span class="sxs-lookup"><span data-stu-id="d41a5-145">Multiple Active Directory account forests, each with its own Exchange organization.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-146">Задачи, необходимые для конфигурации клиента и интеграции с Azure Active Directory, если это необходимо.</span><span class="sxs-lookup"><span data-stu-id="d41a5-146">Tasks required for tenant configuration and integration with Azure Active Directory, if needed.</span></span>   </li>
+</ul><span data-ttu-id="d41a5-147">
+  <strong>Важно</strong>  </span><span class="sxs-lookup"><span data-stu-id="d41a5-147">
   <strong>Important</strong>  </span></span><ul>
-<li>  <span data-ttu-id="990d9-147">Для многолесных сценариев Active Directory, если развернуты Lync 2010, Lync 2013 или Skype для бизнеса, его необходимо развернуть в том же лесу Active Directory, что и Exchange.</span><span class="sxs-lookup"><span data-stu-id="990d9-147">For multi-forest Active Directory scenarios, if Lync 2010, Lync 2013, or Skype for Business is deployed, it must be deployed in the same Active Directory forest as Exchange.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-148">При реализации нескольких лесов Active Directory с несколькими организациями Exchange в гибридной конфигурации Exchange пространства имен общего имени пользователя (UPN) между исходными лесами не поддерживаются.</span><span class="sxs-lookup"><span data-stu-id="990d9-148">When implementing multiple Active Directory forests with multiple Exchange organizations in an Exchange multi-hybrid configuration, shared user principal name (UPN) namespaces between source forests aren't supported.</span></span> <span data-ttu-id="990d9-149">Основные пространства имен SMTP между организациями Exchange также должны быть отдельными.</span><span class="sxs-lookup"><span data-stu-id="990d9-149">Primary SMTP namespaces between Exchange organizations should also be separated.</span></span> <span data-ttu-id="990d9-150">Дополнительные сведения см. в <a href="https://go.microsoft.com/fwlink/?linkid=845444">гибридных развертываниях с несколькими лесами Active Directory.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-150">For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=845444">Hybrid deployments with multiple Active Directory forests</a>.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-151">Для всех конфигураций нескольких лесов развертывание служб Федерации Active Directory (AD FS) выходит за рамки.</span><span class="sxs-lookup"><span data-stu-id="990d9-151">For all multiple forests configurations, Active Directory Federation Services (AD FS) deployment is out of scope.</span></span> <span data-ttu-id="990d9-152">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">за помощью к партнеру</a> Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="990d9-152">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with this.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-148">Для многолесных сценариев Active Directory, если развернуты Lync 2010, Lync 2013 или Skype для бизнеса, его необходимо развернуть в том же лесу Active Directory, что и Exchange.</span><span class="sxs-lookup"><span data-stu-id="d41a5-148">For multi-forest Active Directory scenarios, if Lync 2010, Lync 2013, or Skype for Business is deployed, it must be deployed in the same Active Directory forest as Exchange.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-149">При реализации нескольких лесов Active Directory с несколькими организациями Exchange в гибридной конфигурации Exchange пространства имен общего имени пользователя (UPN) между исходными лесами не поддерживаются.</span><span class="sxs-lookup"><span data-stu-id="d41a5-149">When implementing multiple Active Directory forests with multiple Exchange organizations in an Exchange multi-hybrid configuration, shared user principal name (UPN) namespaces between source forests aren't supported.</span></span> <span data-ttu-id="d41a5-150">Основные пространства имен SMTP между организациями Exchange также должны быть отдельными.</span><span class="sxs-lookup"><span data-stu-id="d41a5-150">Primary SMTP namespaces between Exchange organizations should also be separated.</span></span> <span data-ttu-id="d41a5-151">Дополнительные сведения см. в <a href="https://go.microsoft.com/fwlink/?linkid=845444">гибридных развертываниях с несколькими лесами Active Directory.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-151">For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=845444">Hybrid deployments with multiple Active Directory forests</a>.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-152">Для всех конфигураций нескольких лесов развертывание служб Федерации Active Directory (AD FS) выходит за рамки.</span><span class="sxs-lookup"><span data-stu-id="d41a5-152">For all multiple forests configurations, Active Directory Federation Services (AD FS) deployment is out of scope.</span></span> <span data-ttu-id="d41a5-153">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">за помощью к партнеру</a> Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="d41a5-153">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with this.</span></span>  </li>
 </ul></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="990d9-153"><strong>Приложения Microsoft 365</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-153"><strong>Microsoft 365 Apps</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-154">Мы предоставляем рекомендации по удаленному развертыванию для:</span><span class="sxs-lookup"><span data-stu-id="990d9-154">We provide remote deployment guidance for:</span></span>
+<td><span data-ttu-id="d41a5-154"><strong>Приложения Microsoft 365</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-154"><strong>Microsoft 365 Apps</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-155">Мы предоставляем рекомендации по удаленному развертыванию для:</span><span class="sxs-lookup"><span data-stu-id="d41a5-155">We provide remote deployment guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-155">Решение проблем, связанных с развертыванием.</span><span class="sxs-lookup"><span data-stu-id="990d9-155">Addressing deployment issues.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-156">Назначение пользователям и устройствам лицензий с помощью Центра администрирования Microsoft 365 и Windows PowerShell.</span><span class="sxs-lookup"><span data-stu-id="990d9-156">Assigning end-user and device-based licenses using the Microsoft 365 admin center and Windows PowerShell.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-157">Установка приложений Microsoft 365 с портала Office 365 с помощью технологии "нажми и работай".</span><span class="sxs-lookup"><span data-stu-id="990d9-157">Installing Microsoft 365 Apps from the Office 365 portal using Click-to-Run.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-158">Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS или Android.</span><span class="sxs-lookup"><span data-stu-id="990d9-158">Installing Office Mobile apps (like Outlook Mobile, Word Mobile, Excel Mobile, and PowerPoint Mobile) on your iOS or Android devices.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-159">Настройка параметров обновления с помощью средства развертывания Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-159">Configuring update settings using the Office 365 Deployment Tool.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-160">Выбор и настройка локальной или облачной установки.</span><span class="sxs-lookup"><span data-stu-id="990d9-160">Selection and setup of a local or cloud installation.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-161">Создание XML-файла конфигурации средства развертывания Office с помощью центра развертывания Office или встроенного XML-файла для настройки пакета развертывания.</span><span class="sxs-lookup"><span data-stu-id="990d9-161">Creation of the Office Deployment Tool configuration XML with the Office Customization Tool or native XML to configure the deployment package.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-162">Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="990d9-162">Deployment using Microsoft Endpoint Configuration Manager, including assistance with the creation of Microsoft Endpoint Configuration Manager packaging.</span></span>  
-  <span data-ttu-id="990d9-163">Кроме того, если у вас есть макрос или надстройка, которая работала с предшествующими версиями Office и у вас проблемы с совместимостью, мы предоставляем рекомендации по исправлению проблемы совместимости без дополнительных затрат с помощью программы App Assure.</span><span class="sxs-lookup"><span data-stu-id="990d9-163">Additionally, if you have a macro or add-in that worked with prior versions of Office and you experience compatibility issues, we provide guidance to remediate the compatibility issue at no additional cost through the App Assure program.</span></span> <span data-ttu-id="990d9-164">Дополнительные сведения см. в части App <strong>Assure</strong> в <a href="#windows-10">Windows 10.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-164">See the <strong>App Assure</strong> portion of <a href="#windows-10">Windows 10</a> for more details.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-156">Решение проблем, связанных с развертыванием.</span><span class="sxs-lookup"><span data-stu-id="d41a5-156">Addressing deployment issues.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-157">Назначение пользователям и устройствам лицензий с помощью Центра администрирования Microsoft 365 и Windows PowerShell.</span><span class="sxs-lookup"><span data-stu-id="d41a5-157">Assigning end-user and device-based licenses using the Microsoft 365 admin center and Windows PowerShell.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-158">Установка приложений Microsoft 365 с портала Office 365 с помощью технологии "нажми и работай".</span><span class="sxs-lookup"><span data-stu-id="d41a5-158">Installing Microsoft 365 Apps from the Office 365 portal using Click-to-Run.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-159">Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS или Android.</span><span class="sxs-lookup"><span data-stu-id="d41a5-159">Installing Office Mobile apps (like Outlook Mobile, Word Mobile, Excel Mobile, and PowerPoint Mobile) on your iOS or Android devices.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-160">Настройка параметров обновления с помощью средства развертывания Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-160">Configuring update settings using the Office 365 Deployment Tool.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-161">Выбор и настройка локальной или облачной установки.</span><span class="sxs-lookup"><span data-stu-id="d41a5-161">Selection and setup of a local or cloud installation.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-162">Создание XML-файла конфигурации средства развертывания Office с помощью центра развертывания Office или встроенного XML-файла для настройки пакета развертывания.</span><span class="sxs-lookup"><span data-stu-id="d41a5-162">Creation of the Office Deployment Tool configuration XML with the Office Customization Tool or native XML to configure the deployment package.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-163">Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="d41a5-163">Deployment using Microsoft Endpoint Configuration Manager, including assistance with the creation of Microsoft Endpoint Configuration Manager packaging.</span></span>  
+  <span data-ttu-id="d41a5-164">Кроме того, если у вас есть макрос или надстройка, которая работала с предшествующими версиями Office и у вас проблемы с совместимостью, мы предоставляем рекомендации по исправлению проблемы совместимости без дополнительных затрат с помощью программы App Assure.</span><span class="sxs-lookup"><span data-stu-id="d41a5-164">Additionally, if you have a macro or add-in that worked with prior versions of Office and you experience compatibility issues, we provide guidance to remediate the compatibility issue at no additional cost through the App Assure program.</span></span> <span data-ttu-id="d41a5-165">Дополнительные сведения см. в части App <strong>Assure</strong> в <a href="#windows-10">Windows 10.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-165">See the <strong>App Assure</strong> portion of <a href="#windows-10">Windows 10</a> for more details.</span></span> </li>
 </ul></td>
 <td><ul>
-<li>  <span data-ttu-id="990d9-165">Программное обеспечение клиента в Интернете должно быть на минимальном уровне, как это определено в требованиях системы <a href="https://go.microsoft.com/fwlink/?LinkID=723597">для Microsoft 365 и Office.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-165">Online client software must be at a minimum level as defined in the <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 and Office</a>.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-166">Программное обеспечение клиента в Интернете должно быть на минимальном уровне, как это определено в требованиях системы <a href="https://go.microsoft.com/fwlink/?LinkID=723597">для Microsoft 365 и Office.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-166">Online client software must be at a minimum level as defined in the <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 and Office</a>.</span></span>  </li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="990d9-166"><strong>Сетевое здоровье</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-166"><strong>Network health</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-167">Мы предоставляем удаленные рекомендации по получению и интерпретации данных подключения к ключевым сетям из среды, показывающие соответствие сайтов организации принципам сетевого подключения Корпорации <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">Майкрософт.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-167">We provide remote guidance with obtaining and interpreting key network connectivity data from your environment showing how aligned your organization’s sites are to Microsoft’s <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">principles of network connectivity</a>.</span></span> <span data-ttu-id="990d9-168">Это подчеркивает оценку сети, которая напрямую влияет на скорость миграции, пользовательский опыт, производительность службы и надежность.</span><span class="sxs-lookup"><span data-stu-id="990d9-168">This highlights your network score which directly impacts migration velocity, user experience, service performance, and reliability.</span></span>  
-  <span data-ttu-id="990d9-169">Мы также поможем вам с помощью любых действий по исправлению последствий, которые будут выделены в этих данных, чтобы помочь вам улучшить оценку сети.</span><span class="sxs-lookup"><span data-stu-id="990d9-169">We also guide you through any remediation steps highlighted by this data to help you improve your network score.</span></span>  </td>
+<td><span data-ttu-id="d41a5-167"><strong>Сетевое здоровье</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-167"><strong>Network health</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-168">Мы предоставляем удаленные рекомендации по получению и интерпретации данных подключения к ключевым сетям из среды, показывающие соответствие сайтов организации принципам сетевого подключения Корпорации <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">Майкрософт.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-168">We provide remote guidance with obtaining and interpreting key network connectivity data from your environment showing how aligned your organization’s sites are to Microsoft’s <a href="https://docs.microsoft.com/office365/enterprise/office-365-network-connectivity-principles">principles of network connectivity</a>.</span></span> <span data-ttu-id="d41a5-169">Это подчеркивает оценку сети, которая напрямую влияет на скорость миграции, пользовательский опыт, производительность службы и надежность.</span><span class="sxs-lookup"><span data-stu-id="d41a5-169">This highlights your network score which directly impacts migration velocity, user experience, service performance, and reliability.</span></span>  
+  <span data-ttu-id="d41a5-170">Мы также поможем вам с помощью любых действий по исправлению последствий, которые будут выделены в этих данных, чтобы помочь вам улучшить оценку сети.</span><span class="sxs-lookup"><span data-stu-id="d41a5-170">We also guide you through any remediation steps highlighted by this data to help you improve your network score.</span></span>  </td>
 <td><ul>
-<li>  <span data-ttu-id="990d9-170">Доступ к Центру администрирования Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-170">Microsoft 365 Admin Center access.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-171">Требуются новые версии приложений Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-171">Up-to-date versions of Microsoft 365 apps are required.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-172">Службы расположения, включенные в качестве рекомендаций по производительности Сети в Центре администрирования <a href="https://docs.microsoft.com/Office365/Enterprise/office-365-network-mac-perf-overview">Microsoft 365 (предварительный просмотр).</a></span><span class="sxs-lookup"><span data-stu-id="990d9-172">Location services enabled as per <a href="https://docs.microsoft.com/Office365/Enterprise/office-365-network-mac-perf-overview">Network performance recommendations in the Microsoft 365 Admin Center (preview)</a>.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-171">Доступ к Центру администрирования Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-171">Microsoft 365 Admin Center access.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-172">Требуются новые версии приложений Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-172">Up-to-date versions of Microsoft 365 apps are required.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-173">Службы расположения, включенные в качестве рекомендаций по производительности Сети в Центре администрирования <a href="https://docs.microsoft.com/Office365/Enterprise/office-365-network-mac-perf-overview">Microsoft 365 (предварительный просмотр).</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-173">Location services enabled as per <a href="https://docs.microsoft.com/Office365/Enterprise/office-365-network-mac-perf-overview">Network performance recommendations in the Microsoft 365 Admin Center (preview)</a>.</span></span>  </li>
 </ul>
 <h3 id="section"></h3></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="security-and-compliance"></a><span data-ttu-id="990d9-173">Безопасность и соответствие требованиям</span><span class="sxs-lookup"><span data-stu-id="990d9-173">Security and Compliance</span></span>
+## <a name="security-and-compliance"></a><span data-ttu-id="d41a5-174">Безопасность и соответствие требованиям</span><span class="sxs-lookup"><span data-stu-id="d41a5-174">Security and Compliance</span></span>
 
 <table>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="990d9-174"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-174"><strong>Service</strong></span></span></th>
-<th><span data-ttu-id="990d9-175"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-175"><strong>FastTrack guidance details</strong></span></span></th>
-<th><span data-ttu-id="990d9-176"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-176"><strong>Source environment expectations</strong></span></span></th>
+<th><span data-ttu-id="d41a5-175"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-175"><strong>Service</strong></span></span></th>
+<th><span data-ttu-id="d41a5-176"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-176"><strong>FastTrack guidance details</strong></span></span></th>
+<th><span data-ttu-id="d41a5-177"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-177"><strong>Source environment expectations</strong></span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd"> 
 
-<td><span data-ttu-id="990d9-177"><strong>Azure Active Directory (Azure AD) и Azure AD Premium</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-177"><strong>Azure Active Directory (Azure AD) and Azure AD Premium</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-178">Мы предоставляем удаленные рекомендации по обеспечению безопасности облачных удостоверений для следующих сценариев.</span><span class="sxs-lookup"><span data-stu-id="990d9-178">We provide remote guidance for securing your cloud identities for the following scenarios.</span></span>  
+<td><span data-ttu-id="d41a5-178"><strong>Azure Active Directory (Azure AD) и Azure AD Premium</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-178"><strong>Azure Active Directory (Azure AD) and Azure AD Premium</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-179">Мы предоставляем удаленные рекомендации по обеспечению безопасности облачных удостоверений для следующих сценариев.</span><span class="sxs-lookup"><span data-stu-id="d41a5-179">We provide remote guidance for securing your cloud identities for the following scenarios.</span></span>  
 
- <br/><span data-ttu-id="990d9-179">
+ <br/><span data-ttu-id="d41a5-180">
 
 <strong>Безопасная инфраструктура фундамента</strong>  </ul>
-</span><span class="sxs-lookup"><span data-stu-id="990d9-179">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-180">
 
 <strong>Secure foundation infrastructure</strong>  </ul>
 </span></span><ul>
-<li>  <span data-ttu-id="990d9-180">Настройка и включение сильной проверки подлинности для удостоверений, включая защиту с помощью многофакторной проверки подлинности Azure (только в облаке), приложения Microsoft Authenticator и комбинированной регистрации для azure MFA и сброса паролей самообслуживаемых (SSPR).</span><span class="sxs-lookup"><span data-stu-id="990d9-180">Configuring and enabling strong authentication for your identities, including protecting with Azure Multi-Factor Authentication (MFA) (cloud only), the Microsoft Authenticator app, and combined registration for Azure MFA and self-service password reset (SSPR).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-181">Для клиентов, не использующих Azure AD Premium, предоставляются рекомендации по обеспечению безопасности удостоверений с помощью по умолчанию безопасности.</span><span class="sxs-lookup"><span data-stu-id="990d9-181">For non-Azure AD Premium customers, guidance is provided to secure your identities using security defaults.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-182">Для премиум-клиентов Azure AD предоставляются рекомендации по обеспечению безопасности удостоверений с помощью условного доступа.</span><span class="sxs-lookup"><span data-stu-id="990d9-182">For Azure AD premium customers, guidance is provided to secure your identities with Conditional Access.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-183">Обнаружение и блокировка использования слабых паролей с помощью Azure AD Password Protection.</span><span class="sxs-lookup"><span data-stu-id="990d9-183">Detecting and blocking the use of weak passwords with Azure AD Password Protection.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-184">Обеспечение удаленного доступа к локальному веб-приложениям с помощью прокси-сервера Приложения Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-184">Securing remote access to on-premises web apps with Azure AD Application Proxy.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-185">Включение обнаружения и устранения рисков с помощью Azure Identity Protection.</span><span class="sxs-lookup"><span data-stu-id="990d9-185">Enabling risk-based detection and remediation with Azure Identity Protection.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-186">Включение настраиваемого экрана регистрации, включая логотип, текст и изображения с настраиваемым брендингом.</span><span class="sxs-lookup"><span data-stu-id="990d9-186">Enabling a customized sign-in screen, including logo, text, and images with custom branding.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-187">Безопасное совместное использование приложений и служб с гостевых пользователей с помощью Azure AD B2B.</span><span class="sxs-lookup"><span data-stu-id="990d9-187">Securely sharing apps and services with guest users using Azure AD B2B.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-188">Управление доступом для администраторов Office 365 с помощью встроенных административных ролей управления доступом на основе ролей и уменьшение числа привилегированных учетных записей администратора.</span><span class="sxs-lookup"><span data-stu-id="990d9-188">Managing access for your Office 365 admins using role-based access control (RBAC) built-in administrative roles and to reduce the number of privileged admin accounts.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-189">Настройка гибридного присоединиться Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-189">Configuring hybrid Azure AD join.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-190">Настройка присоединиться к Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-190">Configuring Azure AD join.</span></span>  </li>
-</ul><span data-ttu-id="990d9-191">
+<li>  <span data-ttu-id="d41a5-181">Настройка и включение сильной проверки подлинности для удостоверений, включая защиту с помощью многофакторной проверки подлинности Azure (только в облаке), приложения Microsoft Authenticator и комбинированной регистрации для azure MFA и сброса паролей самообслуживаемых (SSPR).</span><span class="sxs-lookup"><span data-stu-id="d41a5-181">Configuring and enabling strong authentication for your identities, including protecting with Azure Multi-Factor Authentication (MFA) (cloud only), the Microsoft Authenticator app, and combined registration for Azure MFA and self-service password reset (SSPR).</span></span>  </li>
+<li> <span data-ttu-id="d41a5-182">Развертывание приложения FIDO2 или Microsoft Authenticator.</span><span class="sxs-lookup"><span data-stu-id="d41a5-182">Deploying FIDO2 or Microsoft Authenticator App.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-183">Для клиентов, не использующих Azure AD Premium, предоставляются рекомендации по обеспечению безопасности удостоверений с помощью по умолчанию безопасности.</span><span class="sxs-lookup"><span data-stu-id="d41a5-183">For non-Azure AD Premium customers, guidance is provided to secure your identities using security defaults.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-184">Для премиум-клиентов Azure AD предоставляются рекомендации по обеспечению безопасности удостоверений с помощью условного доступа.</span><span class="sxs-lookup"><span data-stu-id="d41a5-184">For Azure AD premium customers, guidance is provided to secure your identities with Conditional Access.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-185">Обнаружение и блокировка использования слабых паролей с помощью Azure AD Password Protection.</span><span class="sxs-lookup"><span data-stu-id="d41a5-185">Detecting and blocking the use of weak passwords with Azure AD Password Protection.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-186">Обеспечение удаленного доступа к локальному веб-приложениям с помощью прокси-сервера Приложения Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-186">Securing remote access to on-premises web apps with Azure AD Application Proxy.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-187">Включение обнаружения и устранения рисков с помощью Azure Identity Protection.</span><span class="sxs-lookup"><span data-stu-id="d41a5-187">Enabling risk-based detection and remediation with Azure Identity Protection.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-188">Включение настраиваемого экрана регистрации, включая логотип, текст и изображения с настраиваемым брендингом.</span><span class="sxs-lookup"><span data-stu-id="d41a5-188">Enabling a customized sign-in screen, including logo, text, and images with custom branding.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-189">Безопасное совместное использование приложений и служб с гостевых пользователей с помощью Azure AD B2B.</span><span class="sxs-lookup"><span data-stu-id="d41a5-189">Securely sharing apps and services with guest users using Azure AD B2B.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-190">Управление доступом для администраторов Office 365 с помощью встроенных административных ролей управления доступом на основе ролей и уменьшение числа привилегированных учетных записей администратора.</span><span class="sxs-lookup"><span data-stu-id="d41a5-190">Managing access for your Office 365 admins using role-based access control (RBAC) built-in administrative roles and to reduce the number of privileged admin accounts.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-191">Настройка гибридного присоединиться Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-191">Configuring hybrid Azure AD join.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-192">Настройка присоединиться к Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-192">Configuring Azure AD join.</span></span>  </li>
+</ul><span data-ttu-id="d41a5-193">
   
 <strong>Мониторинг и отчетность</strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-191">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-193">
   
 <strong>Monitor and reporting</strong>  
 </span></span><ul>
 <li>  
-  <span data-ttu-id="990d9-192">Включение удаленного мониторинга для AD FS, Azure AD Connect и контроллеров домена с помощью Azure AD Connect Health.</span><span class="sxs-lookup"><span data-stu-id="990d9-192">Enabling remote monitoring for AD FS, Azure AD Connect, and domain controllers with Azure AD Connect Health.</span></span>  
+  <span data-ttu-id="d41a5-194">Включение удаленного мониторинга для AD FS, Azure AD Connect и контроллеров домена с помощью Azure AD Connect Health.</span><span class="sxs-lookup"><span data-stu-id="d41a5-194">Enabling remote monitoring for AD FS, Azure AD Connect, and domain controllers with Azure AD Connect Health.</span></span>  
   </li>
-</ul><span data-ttu-id="990d9-193">
+</ul><span data-ttu-id="d41a5-195">
   
 <strong>Управление</strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-193">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-195">
   
 <strong>Governance</strong>  
 </span></span><ul>
 <li>  
-  <span data-ttu-id="990d9-194">Управление удостоверением Azure AD и доступ к жизненному циклу в масштабе с помощью управления правами Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-194">Managing your Azure AD identity and access lifecycle at scale with Azure AD entitlement management.</span></span>
+  <span data-ttu-id="d41a5-196">Управление удостоверением Azure AD и доступ к жизненному циклу в масштабе с помощью управления правами Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-196">Managing your Azure AD identity and access lifecycle at scale with Azure AD entitlement management.</span></span>
   </li>
 <li>  
-  <span data-ttu-id="990d9-195">Управление членством в группах Azure AD, доступом к корпоративным приложениям и назначениями ролей с помощью обзоров доступа к Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-195">Managing Azure AD group memberships, enterprise app access, and role assignments with Azure AD access reviews.</span></span>  
+  <span data-ttu-id="d41a5-197">Управление членством в группах Azure AD, доступом к корпоративным приложениям и назначениями ролей с помощью обзоров доступа к Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-197">Managing Azure AD group memberships, enterprise app access, and role assignments with Azure AD access reviews.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-196">Просмотр терминов использования Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-196">Reviewing Azure AD Terms of Use.</span></span>  
+  <span data-ttu-id="d41a5-198">Просмотр терминов использования Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-198">Reviewing Azure AD Terms of Use.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-197">Управление и управление доступом к привилегированным учетным записям администратора с помощью Azure AD Privileged Identity Management.</span><span class="sxs-lookup"><span data-stu-id="990d9-197">Managing and controlling access to privileged admin accounts with Azure AD Privileged Identity Management.</span></span>  
+  <span data-ttu-id="d41a5-199">Управление и управление доступом к привилегированным учетным записям администратора с помощью Azure AD Privileged Identity Management.</span><span class="sxs-lookup"><span data-stu-id="d41a5-199">Managing and controlling access to privileged admin accounts with Azure AD Privileged Identity Management.</span></span>  
   </li>
-</ul><span data-ttu-id="990d9-198">
+</ul><span data-ttu-id="d41a5-200">
   
 <strong>Автоматизация и эффективность </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-198">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-200">
   
 <strong>Automation and efficiencies </strong>  
 </span></span><ul>
 <li>  
-  <span data-ttu-id="990d9-199">Включение SSPR Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-199">Enabling Azure AD SSPR.</span></span>  
+  <span data-ttu-id="d41a5-201">Включение SSPR Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-201">Enabling Azure AD SSPR.</span></span>  
   </li>
-<li>  <span data-ttu-id="990d9-200">Позволяет пользователям создавать и управлять собственными группами облачной безопасности или Office 365 с помощью управления группами самообслуживки Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-200">Allowing users to create and manage their own cloud security or Office 365 groups with Azure AD self-service group management.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-201">Управление делегированием доступа к корпоративным приложениям с помощью делегирования группы Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-201">Managing delegated access to enterprise apps with Azure AD delegated group management.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-202">Включение динамических групп Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-202">Enabling Azure AD dynamic groups.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-203">Организация приложений на портале Мои приложения с помощью коллекций.</span><span class="sxs-lookup"><span data-stu-id="990d9-203">Organizing apps in the My Apps portal using collections.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-202">Позволяет пользователям создавать и управлять собственными группами облачной безопасности или Office 365 с помощью управления группами самообслуживки Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-202">Allowing users to create and manage their own cloud security or Office 365 groups with Azure AD self-service group management.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-203">Управление делегированием доступа к корпоративным приложениям с помощью делегирования группы Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-203">Managing delegated access to enterprise apps with Azure AD delegated group management.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-204">Включение динамических групп Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-204">Enabling Azure AD dynamic groups.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-205">Организация приложений на портале Мои приложения с помощью коллекций.</span><span class="sxs-lookup"><span data-stu-id="d41a5-205">Organizing apps in the My Apps portal using collections.</span></span>  </li>
 </ul></td>
-<td><span data-ttu-id="990d9-204">Локальное active Directory и его среда были подготовлены для Azure AD Premium, включая устранение выявленных проблем, препятствуя интеграции с функциями Azure AD и Azure AD Premium.</span><span class="sxs-lookup"><span data-stu-id="990d9-204">The on-premises Active Directory and its environment have been prepared for Azure AD Premium, including remediation of identified issues that prevent integration with Azure AD and Azure AD Premium features.</span></span></td>
+<td><span data-ttu-id="d41a5-206">Локальное active Directory и его среда были подготовлены для Azure AD Premium, включая устранение выявленных проблем, препятствуя интеграции с функциями Azure AD и Azure AD Premium.</span><span class="sxs-lookup"><span data-stu-id="d41a5-206">The on-premises Active Directory and its environment have been prepared for Azure AD Premium, including remediation of identified issues that prevent integration with Azure AD and Azure AD Premium features.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="990d9-205"><strong>Защита информации Azure </strong></span><span class="sxs-lookup"><span data-stu-id="990d9-205"><strong>Azure Information Protection </strong></span></span></td>
-<td>  <span data-ttu-id="990d9-206">Дополнительные сведения о azure Information Protection см. в этой <strong>таблице.</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-206">For more information on Azure Information Protection, see <strong>Microsoft Information Protection</strong> further in this table.</span></span>
+<td><span data-ttu-id="d41a5-207"><strong>Защита информации Azure </strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-207"><strong>Azure Information Protection </strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-208">Дополнительные сведения о azure Information Protection см. в этой <strong>таблице.</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-208">For more information on Azure Information Protection, see <strong>Microsoft Information Protection</strong> further in this table.</span></span>
 
   </td>
 <td>  
   <tr class="odd">
-<td><span data-ttu-id="990d9-207"><strong>Ответ & обнаружения</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-207"><strong>Discovery & Response</strong></span></span></td>
+<td><span data-ttu-id="d41a5-209"><strong>Откройте для себя & Respond</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-209"><strong>Discover & Respond</strong></span></span></td>
 <td>  
 
-<span data-ttu-id="990d9-208"><strong>Advanced eDiscovery</strong>
+<span data-ttu-id="d41a5-210"><strong>Advanced eDiscovery</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-210"><strong>Advanced eDiscovery</strong></span></span>
   
-</span><span class="sxs-lookup"><span data-stu-id="990d9-208"><strong>Advanced eDiscovery</strong>
-  
-</span></span><ul>
-<li>  <span data-ttu-id="990d9-209">Включение компонентов "Безопасные ссылки", "Безопасные вложения" и защиты от фишинга.</span><span class="sxs-lookup"><span data-stu-id="990d9-209">Enabling Safe Links, Safe Attachments, and anti-phishing.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-210">Настройка автоматизации, исследований и ответов.</span><span class="sxs-lookup"><span data-stu-id="990d9-210">Configuring automation, investigation, and response.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-211">Использование эмулятора атак.</span><span class="sxs-lookup"><span data-stu-id="990d9-211">Using Attack Simulator.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-212">Отчеты и анализ угроз.</span><span class="sxs-lookup"><span data-stu-id="990d9-212">Reporting and threat analytics.</span></span>  </li>
+<span data-ttu-id="d41a5-211">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-211">We provide remote guidance for:</span></span> 
+<ul>
+<li>  <span data-ttu-id="d41a5-212">Создание нового случая.</span><span class="sxs-lookup"><span data-stu-id="d41a5-212">Creating a new case.</span></span>   </li>
+<li>  <span data-ttu-id="d41a5-213">Удержание хранителей.</span><span class="sxs-lookup"><span data-stu-id="d41a5-213">Putting custodians on hold.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-214">Выполнение поиска.</span><span class="sxs-lookup"><span data-stu-id="d41a5-214">Performing searches.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-215">Добавление результатов поиска в набор отзывов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-215">Adding search results to a review set.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-216">Запуск аналитики в наборе обзоров.</span><span class="sxs-lookup"><span data-stu-id="d41a5-216">Running analytics on a review set.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-217">Проверка и пометка документов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-217">Reviewing and tagging documents.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-218">Экспорт данных из набора обзоров.</span><span class="sxs-lookup"><span data-stu-id="d41a5-218">Exporting data from the review set.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-219">Импорт данных без Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-219">Importing non-Office 365 data.</span></span> </li>
 </ul>
 
-<span data-ttu-id="990d9-213"><strong>Расширенный аудит</strong> (поддерживается только в E5)</span><span class="sxs-lookup"><span data-stu-id="990d9-213"><strong>Advanced Audit</strong> (only supported in E5)</span></span>
+<span data-ttu-id="d41a5-220"><strong>Расширенный аудит</strong> (поддерживается только в E5)</span><span class="sxs-lookup"><span data-stu-id="d41a5-220"><strong>Advanced Audit</strong> (only supported in E5)</span></span>
 
-<span data-ttu-id="990d9-214">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-214">We provide remote guidance for:</span></span>  
+<span data-ttu-id="d41a5-221">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-221">We provide remote guidance for:</span></span>  
 <ul>
-<li> <span data-ttu-id="990d9-215">Включение усовершенствования аудита.</span><span class="sxs-lookup"><span data-stu-id="990d9-215">Enabling advanced auditing.</span></span></li>
-<li> <span data-ttu-id="990d9-216">Выполнение пользовательского интерфейса журнала аудита поиска и основных команд powerShell аудита.</span><span class="sxs-lookup"><span data-stu-id="990d9-216">Performing a search audit log UI and basic audit PowerShell commands.</span></span></li>
-</ul><span data-ttu-id="990d9-217">
+<li> <span data-ttu-id="d41a5-222">Включение усовершенствования аудита.</span><span class="sxs-lookup"><span data-stu-id="d41a5-222">Enabling advanced auditing.</span></span></li>
+<li> <span data-ttu-id="d41a5-223">Выполнение пользовательского интерфейса журнала аудита поиска и основных команд powerShell аудита.</span><span class="sxs-lookup"><span data-stu-id="d41a5-223">Performing a search audit log UI and basic audit PowerShell commands.</span></span></li>
+</ul><span data-ttu-id="d41a5-224">
 
-<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-217">
+<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-224">
 
 <strong> Compliance Manager</strong></span></span>
 
-<span data-ttu-id="990d9-218">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-218">We provide remote guidance for:</span></span>  
+<span data-ttu-id="d41a5-225">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-225">We provide remote guidance for:</span></span>  
 
-<ul> <li><span data-ttu-id="990d9-219">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="990d9-219">Reviewing role types.</span></span>  </li>
-<li> <span data-ttu-id="990d9-220">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="990d9-220">Adding and configuring assessments.</span></span></li>
-<li> <span data-ttu-id="990d9-221">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-221">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
-<li> <span data-ttu-id="990d9-222">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="990d9-222">Reviewing built-in control mapping and assessing controls.</span></span></li>
-<li> <span data-ttu-id="990d9-223">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="990d9-223">Generating a report within an assessment.</span></span></li>
-</ul><span data-ttu-id="990d9-224">
+<ul> <li><span data-ttu-id="d41a5-226">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="d41a5-226">Reviewing role types.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-227">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="d41a5-227">Adding and configuring assessments.</span></span></li>
+<li> <span data-ttu-id="d41a5-228">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-228">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
+<li> <span data-ttu-id="d41a5-229">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="d41a5-229">Reviewing built-in control mapping and assessing controls.</span></span></li>
+<li> <span data-ttu-id="d41a5-230">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="d41a5-230">Generating a report within an assessment.</span></span></li>
+</ul><span data-ttu-id="d41a5-231">
 
 <strong>Ниже приводится неосякаемая область </strong> 
-</span><span class="sxs-lookup"><span data-stu-id="990d9-224">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-231">
 
 <strong>The following is out of scope </strong> 
 </span></span><ul>
-<li> <span data-ttu-id="990d9-225">Настраиваемый сценарий или кодирование.</span><span class="sxs-lookup"><span data-stu-id="990d9-225">Custom scripting or coding.</span></span></li>
-<li> <span data-ttu-id="990d9-226">API eDiscovery.</span><span class="sxs-lookup"><span data-stu-id="990d9-226">eDiscovery API.</span></span> </li>
-<li> <span data-ttu-id="990d9-227">Соединители данных.</span><span class="sxs-lookup"><span data-stu-id="990d9-227">Data connectors.</span></span> </li>
-<li> <span data-ttu-id="990d9-228">Границы соответствия требованиям и фильтры безопасности.</span><span class="sxs-lookup"><span data-stu-id="990d9-228">Compliance boundaries and security filters.</span></span></li>
-<li> <span data-ttu-id="990d9-229">Исследования данных.</span><span class="sxs-lookup"><span data-stu-id="990d9-229">Data investigations.</span></span></li>
-<li> <span data-ttu-id="990d9-230">Запросы субъекта данных.</span><span class="sxs-lookup"><span data-stu-id="990d9-230">Data subject requests.</span></span></li>
-<li> <span data-ttu-id="990d9-231">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="990d9-231">Design, architect, and third-party document review.</span></span></li>
-<li> <span data-ttu-id="990d9-232">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="990d9-232">Compliance with industry and regional regulations and requirements.</span></span></li>
-<li> <span data-ttu-id="990d9-233">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-233">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
+<li> <span data-ttu-id="d41a5-232">Настраиваемый сценарий или кодирование.</span><span class="sxs-lookup"><span data-stu-id="d41a5-232">Custom scripting or coding.</span></span></li>
+<li> <span data-ttu-id="d41a5-233">API eDiscovery.</span><span class="sxs-lookup"><span data-stu-id="d41a5-233">eDiscovery API.</span></span> </li>
+<li> <span data-ttu-id="d41a5-234">Соединители данных.</span><span class="sxs-lookup"><span data-stu-id="d41a5-234">Data connectors.</span></span> </li>
+<li> <span data-ttu-id="d41a5-235">Границы соответствия требованиям и фильтры безопасности.</span><span class="sxs-lookup"><span data-stu-id="d41a5-235">Compliance boundaries and security filters.</span></span></li>
+<li> <span data-ttu-id="d41a5-236">Исследования данных.</span><span class="sxs-lookup"><span data-stu-id="d41a5-236">Data investigations.</span></span></li>
+<li> <span data-ttu-id="d41a5-237">Запросы субъекта данных.</span><span class="sxs-lookup"><span data-stu-id="d41a5-237">Data subject requests.</span></span></li>
+<li> <span data-ttu-id="d41a5-238">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="d41a5-238">Design, architect, and third-party document review.</span></span></li>
+<li> <span data-ttu-id="d41a5-239">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="d41a5-239">Compliance with industry and regional regulations and requirements.</span></span></li>
+<li> <span data-ttu-id="d41a5-240">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-240">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
 </ul>
 </td>
-<td><span data-ttu-id="990d9-234">Помимо основной <strong>части</strong> в <a href="#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="990d9-234">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements.</span></span></td>
+<td><span data-ttu-id="d41a5-241">Помимо основной <strong>части</strong> в <a href="#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="d41a5-241">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements.</span></span></td>
 </tr>
 
 <tr class="odd">
-<td><span data-ttu-id="990d9-235"><strong>Управление инсайдерской угрозой</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-235"><strong>Insider Threat Management</strong></span></span></td>
+<td><span data-ttu-id="d41a5-242"><strong>Управление рисками на инсайдерской стороне</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-242"><strong>Insider Risk Management</strong></span></span></td>
 
-<td>  <span data-ttu-id="990d9-236">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-236">We provide remote guidance for:</span></span>
+<td>  <span data-ttu-id="d41a5-243">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-243">We provide remote guidance for:</span></span>
 <ul>
-<li> <span data-ttu-id="990d9-237">Создание политик и просмотр параметров.</span><span class="sxs-lookup"><span data-stu-id="990d9-237">Creating policies and reviewing settings.</span></span></li>
-<li> <span data-ttu-id="990d9-238">Доступ к отчетам и оповещениям.</span><span class="sxs-lookup"><span data-stu-id="990d9-238">Accessing reports and alerts.</span></span></li>
-<li> <span data-ttu-id="990d9-239">Создание дел.</span><span class="sxs-lookup"><span data-stu-id="990d9-239">Creating cases.</span></span></li>
-<li> <span data-ttu-id="990d9-240">Создание шаблонов уведомлений.</span><span class="sxs-lookup"><span data-stu-id="990d9-240">Creating notice templates.</span></span></li>
-<li> <span data-ttu-id="990d9-241">Руководство по созданию соединиттеля кадровых ресурсов (HR).</span><span class="sxs-lookup"><span data-stu-id="990d9-241">Guidance on creating the human resources (HR) connector.</span></span></li>
-</ul><span data-ttu-id="990d9-242">
+<li> <span data-ttu-id="d41a5-244">Создание политик и просмотр параметров.</span><span class="sxs-lookup"><span data-stu-id="d41a5-244">Creating policies and reviewing settings.</span></span></li>
+<li> <span data-ttu-id="d41a5-245">Доступ к отчетам и оповещениям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-245">Accessing reports and alerts.</span></span></li>
+<li> <span data-ttu-id="d41a5-246">Создание дел.</span><span class="sxs-lookup"><span data-stu-id="d41a5-246">Creating cases.</span></span></li>
+<li> <span data-ttu-id="d41a5-247">Создание шаблонов уведомлений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-247">Creating notice templates.</span></span></li>
+<li> <span data-ttu-id="d41a5-248">Руководство по созданию соединиттеля кадровых ресурсов (HR).</span><span class="sxs-lookup"><span data-stu-id="d41a5-248">Guidance on creating the human resources (HR) connector.</span></span></li>
+</ul><span data-ttu-id="d41a5-249">
 
-<strong> Соответствие требованиям связи </strong></span><span class="sxs-lookup"><span data-stu-id="990d9-242">
+<strong> Соответствие требованиям связи </strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-249">
 
 <strong> Communication Compliance </strong></span></span> 
 
-<span data-ttu-id="990d9-243">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-243">We provide remote guidance for:</span></span> 
+<span data-ttu-id="d41a5-250">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-250">We provide remote guidance for:</span></span> 
 <ul>
-<li> <span data-ttu-id="990d9-244">Создание политик и просмотр параметров.</span><span class="sxs-lookup"><span data-stu-id="990d9-244">Creating policies and reviewing settings.</span></span></li>
-<li> <span data-ttu-id="990d9-245">Доступ к отчетам и оповещениям.</span><span class="sxs-lookup"><span data-stu-id="990d9-245">Accessing reports and alerts.</span></span></li>
-<li> <span data-ttu-id="990d9-246">Создание шаблонов уведомлений.</span><span class="sxs-lookup"><span data-stu-id="990d9-246">Creating notice templates.</span></span></li>
-</ul><span data-ttu-id="990d9-247">
+<li> <span data-ttu-id="d41a5-251">Создание политик и просмотр параметров.</span><span class="sxs-lookup"><span data-stu-id="d41a5-251">Creating policies and reviewing settings.</span></span></li>
+<li> <span data-ttu-id="d41a5-252">Доступ к отчетам и оповещениям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-252">Accessing reports and alerts.</span></span></li>
+<li> <span data-ttu-id="d41a5-253">Создание шаблонов уведомлений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-253">Creating notice templates.</span></span></li>
+</ul><span data-ttu-id="d41a5-254">
 
-<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-247">
+<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-254">
 
 <strong> Compliance Manager</strong></span></span>
 
-<span data-ttu-id="990d9-248">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-248">We provide remote guidance for:</span></span>  
+<span data-ttu-id="d41a5-255">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-255">We provide remote guidance for:</span></span>  
 
-<ul> <li><span data-ttu-id="990d9-249">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="990d9-249">Reviewing role types.</span></span>  </li>
-<li> <span data-ttu-id="990d9-250">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="990d9-250">Adding and configuring assessments.</span></span></li>
-<li> <span data-ttu-id="990d9-251">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-251">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
-<li> <span data-ttu-id="990d9-252">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="990d9-252">Reviewing built-in control mapping and assessing controls.</span></span></li>
-<li> <span data-ttu-id="990d9-253">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="990d9-253">Generating a report within an assessment.</span></span></li>
-</ul><span data-ttu-id="990d9-254">
+<ul> <li><span data-ttu-id="d41a5-256">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="d41a5-256">Reviewing role types.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-257">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="d41a5-257">Adding and configuring assessments.</span></span></li>
+<li> <span data-ttu-id="d41a5-258">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-258">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
+<li> <span data-ttu-id="d41a5-259">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="d41a5-259">Reviewing built-in control mapping and assessing controls.</span></span></li>
+<li> <span data-ttu-id="d41a5-260">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="d41a5-260">Generating a report within an assessment.</span></span></li>
+</ul><span data-ttu-id="d41a5-261">
 
 <strong>Ниже приводится неосякаемая область </strong> 
-</span><span class="sxs-lookup"><span data-stu-id="990d9-254">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-261">
 
 <strong>The following is out of scope </strong> 
 </span></span><ul>
-<li> <span data-ttu-id="990d9-255">Создание и управление потоками Power Automate.</span><span class="sxs-lookup"><span data-stu-id="990d9-255">Creating and managing Power Automate flows.</span></span></li>
-<li> <span data-ttu-id="990d9-256">Соединители данных (за пределами соединитетеля управления персоналом).</span><span class="sxs-lookup"><span data-stu-id="990d9-256">Data connectors (beyond the HR connector).</span></span> </li>
-<li> <span data-ttu-id="990d9-257">Настраиваемые конфигурации регулярного выражения (RegEx).</span><span class="sxs-lookup"><span data-stu-id="990d9-257">Custom regular expression (RegEx) configurations.</span></span></li>
-<li> <span data-ttu-id="990d9-258">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="990d9-258">Design, architect, and third-party document review.</span></span></li>
-<li> <span data-ttu-id="990d9-259">Информационные барьеры.</span><span class="sxs-lookup"><span data-stu-id="990d9-259">Information barriers.</span></span></li>
-<li> <span data-ttu-id="990d9-260">Управление привилегированным доступом.</span><span class="sxs-lookup"><span data-stu-id="990d9-260">Privileged access management.</span></span></li>
-<li> <span data-ttu-id="990d9-261">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="990d9-261">Compliance with industry and regional regulations and requirements.</span></span></li>
-<li> <span data-ttu-id="990d9-262">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-262">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
+<li> <span data-ttu-id="d41a5-262">Создание и управление потоками Power Automate.</span><span class="sxs-lookup"><span data-stu-id="d41a5-262">Creating and managing Power Automate flows.</span></span></li>
+<li> <span data-ttu-id="d41a5-263">Соединители данных (за пределами соединитетеля управления персоналом).</span><span class="sxs-lookup"><span data-stu-id="d41a5-263">Data connectors (beyond the HR connector).</span></span> </li>
+<li> <span data-ttu-id="d41a5-264">Настраиваемые конфигурации регулярного выражения (RegEx).</span><span class="sxs-lookup"><span data-stu-id="d41a5-264">Custom regular expression (RegEx) configurations.</span></span></li>
+<li> <span data-ttu-id="d41a5-265">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="d41a5-265">Design, architect, and third-party document review.</span></span></li>
+<li> <span data-ttu-id="d41a5-266">Информационные барьеры.</span><span class="sxs-lookup"><span data-stu-id="d41a5-266">Information barriers.</span></span></li>
+<li> <span data-ttu-id="d41a5-267">Управление привилегированным доступом.</span><span class="sxs-lookup"><span data-stu-id="d41a5-267">Privileged access management.</span></span></li>
+<li> <span data-ttu-id="d41a5-268">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="d41a5-268">Compliance with industry and regional regulations and requirements.</span></span></li>
+<li> <span data-ttu-id="d41a5-269">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-269">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
 </ul></td>
-<td><span data-ttu-id="990d9-263">Помимо основной <strong>части</strong> в <a href="#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="990d9-263">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements.</span></span></td>
+<td><span data-ttu-id="d41a5-270">Помимо основной <strong>части</strong> в <a href="#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="d41a5-270">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements.</span></span></td>
 </tr>
 </td>
 </tr>
 
 <tr class="even">
-<td><span data-ttu-id="990d9-264"><strong>Microsoft 365 Defender</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-264"><strong>Microsoft 365 Defender</strong></span></span></td>
+<td><span data-ttu-id="d41a5-271"><strong>Microsoft 365 Defender</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-271"><strong>Microsoft 365 Defender</strong></span></span></td>
 
-<td> <p> <span data-ttu-id="990d9-265">Microsoft 365 Defender — это единый пакет защиты предприятия до и после нарушения, который полностью координирует обнаружение, предотвращение, расследование и реагирование между конечными точками, удостоверениями, электронной почтой и приложениями для обеспечения комплексной защиты от сложных атак.</span><span class="sxs-lookup"><span data-stu-id="990d9-265">Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and apps to provide integrated protection against sophisticated attacks.</span></span> <span data-ttu-id="990d9-266">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-266">We provide remote guidance for:</span></span> </p> 
+<td> <p> <span data-ttu-id="d41a5-272">Microsoft 365 Defender — это единый пакет защиты предприятия до и после нарушения, который полностью координирует обнаружение, предотвращение, расследование и реагирование между конечными точками, удостоверениями, электронной почтой и приложениями для обеспечения комплексной защиты от сложных атак.</span><span class="sxs-lookup"><span data-stu-id="d41a5-272">Microsoft 365 Defender is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and apps to provide integrated protection against sophisticated attacks.</span></span> <span data-ttu-id="d41a5-273">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-273">We provide remote guidance for:</span></span> </p> 
 <ul>
-<li>  <span data-ttu-id="990d9-267">Предоставление обзора центра безопасности Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-267">Providing an overview of the Microsoft 365 security center.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-268">Анализ инцидентов с перекрестным продуктом, в том числе сосредоточение внимания на критически важных задачах, обеспечивая полную область атаки, влияние на активы и автоматизированные действия по исправлению, которые сгруппировали вместе.</span><span class="sxs-lookup"><span data-stu-id="990d9-268">Reviewing cross-product incidents, including focusing on what's critical by ensuring the full attack scope, impacted assets, and automated remediation actions that are grouped together.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-269">Демонстрация того, как Microsoft 365 Defender может организовать исследование активов, пользователей, устройств и почтовых ящиков, которые могли быть скомпрометированы с помощью автоматического самовосстановления.</span><span class="sxs-lookup"><span data-stu-id="990d9-269">Demonstrating how Microsoft 365 Defender can orchestrate the investigation of assets, users, devices, and mailboxes that might have been compromised through automated self-healing.</span></span> </li>
-<li>  <span data-ttu-id="990d9-270">Объяснение и предоставление примеров того, как клиенты могут активно охотиться за попытками вторжения и действиями взлома, влияющими на вашу электронную почту, данные, устройства и учетные записи в нескольких наборах данных.</span><span class="sxs-lookup"><span data-stu-id="990d9-270">Explaining and providing examples of how customers can proactively hunt for intrusion attempts and breach activity affecting your email, data, devices, and accounts across multiple data sets.</span></span>   </li>
-<li> <span data-ttu-id="990d9-271">Показывая клиентам, как они могут целостно пересматривать и улучшать свою осанку безопасности с помощью Microsoft Secure Score.</span><span class="sxs-lookup"><span data-stu-id="990d9-271">Showing customers how they can review and improve their security posture holistically using Microsoft Secure Score.</span></span></li>
+<li>  <span data-ttu-id="d41a5-274">Предоставление обзора центра безопасности Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-274">Providing an overview of the Microsoft 365 security center.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-275">Анализ инцидентов с перекрестным продуктом, в том числе сосредоточение внимания на критически важных задачах, обеспечивая полную область атаки, влияние на активы и автоматизированные действия по исправлению, которые сгруппировали вместе.</span><span class="sxs-lookup"><span data-stu-id="d41a5-275">Reviewing cross-product incidents, including focusing on what's critical by ensuring the full attack scope, impacted assets, and automated remediation actions that are grouped together.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-276">Демонстрация того, как Microsoft 365 Defender может организовать исследование активов, пользователей, устройств и почтовых ящиков, которые могли быть скомпрометированы с помощью автоматического самовосстановления.</span><span class="sxs-lookup"><span data-stu-id="d41a5-276">Demonstrating how Microsoft 365 Defender can orchestrate the investigation of assets, users, devices, and mailboxes that might have been compromised through automated self-healing.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-277">Объяснение и предоставление примеров того, как клиенты могут активно охотиться за попытками вторжения и действиями взлома, влияющими на вашу электронную почту, данные, устройства и учетные записи в нескольких наборах данных.</span><span class="sxs-lookup"><span data-stu-id="d41a5-277">Explaining and providing examples of how customers can proactively hunt for intrusion attempts and breach activity affecting your email, data, devices, and accounts across multiple data sets.</span></span>   </li>
+<li> <span data-ttu-id="d41a5-278">Показывая клиентам, как они могут целостно пересматривать и улучшать свою осанку безопасности с помощью Microsoft Secure Score.</span><span class="sxs-lookup"><span data-stu-id="d41a5-278">Showing customers how they can review and improve their security posture holistically using Microsoft Secure Score.</span></span></li>
 </ul>
-<p><span data-ttu-id="990d9-272"><strong>Ниже приводится неосякаемая область</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-272"><strong>The following is out of scope</strong></span></span></p>
+<p><span data-ttu-id="d41a5-279"><strong>Ниже приводится неосякаемая область</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-279"><strong>The following is out of scope</strong></span></span></p>
 <ul>
-<li> <span data-ttu-id="990d9-273">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="990d9-273">Project management of the customer's remediation activities.</span></span> </li>
-<li> <span data-ttu-id="990d9-274">Постоянное управление, реагирование на угрозы и исправление.</span><span class="sxs-lookup"><span data-stu-id="990d9-274">Ongoing management, threat response, and remediation.</span></span> </li>
-<li> <span data-ttu-id="990d9-275">Рекомендации по развертыванию или обучение по:</span><span class="sxs-lookup"><span data-stu-id="990d9-275">Deployment guidance or education on:</span></span>
+<li> <span data-ttu-id="d41a5-280">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-280">Project management of the customer's remediation activities.</span></span> </li>
+<li> <span data-ttu-id="d41a5-281">Постоянное управление, реагирование на угрозы и исправление.</span><span class="sxs-lookup"><span data-stu-id="d41a5-281">Ongoing management, threat response, and remediation.</span></span> </li>
+<li> <span data-ttu-id="d41a5-282">Рекомендации по развертыванию или обучение по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-282">Deployment guidance or education on:</span></span>
 <ul>
-<li> <span data-ttu-id="990d9-276">Исправление или интерпретация различных типов оповещений и отслеживаемой активности.</span><span class="sxs-lookup"><span data-stu-id="990d9-276">How to remediate or interpret the various alert types and monitored activities.</span></span> </li>
-<li> <span data-ttu-id="990d9-277">Изучение пути перемещения пользователя, компьютера, поодаль или объекта.</span><span class="sxs-lookup"><span data-stu-id="990d9-277">How to investigate a user, computer, lateral movement path, or entity.</span></span> </li>
-<li> <span data-ttu-id="990d9-278">Настраиваемая охота на угрозы.</span><span class="sxs-lookup"><span data-stu-id="990d9-278">Custom threat hunting.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-283">Исправление или интерпретация различных типов оповещений и отслеживаемой активности.</span><span class="sxs-lookup"><span data-stu-id="d41a5-283">How to remediate or interpret the various alert types and monitored activities.</span></span> </li>
+<li> <span data-ttu-id="d41a5-284">Изучение пути перемещения пользователя, компьютера, поодаль или объекта.</span><span class="sxs-lookup"><span data-stu-id="d41a5-284">How to investigate a user, computer, lateral movement path, or entity.</span></span> </li>
+<li> <span data-ttu-id="d41a5-285">Настраиваемая охота на угрозы.</span><span class="sxs-lookup"><span data-stu-id="d41a5-285">Custom threat hunting.</span></span>  </li>
 </ul>
 </li>
-<li> <span data-ttu-id="990d9-279">Сведения о безопасности и управление событиями (SIEM) или интеграция API.</span><span class="sxs-lookup"><span data-stu-id="990d9-279">Security information and event management (SIEM) or API integration.</span></span></li>
+<li> <span data-ttu-id="d41a5-286">Сведения о безопасности и управление событиями (SIEM) или интеграция API.</span><span class="sxs-lookup"><span data-stu-id="d41a5-286">Security information and event management (SIEM) or API integration.</span></span></li>
 </td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="990d9-280"><strong>Microsoft Cloud App Security</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-280"><strong>Microsoft Cloud App Security</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-281">Microsoft Cloud App Security — это брокер облачной безопасности доступа (CASB), который обеспечивает богатую видимость, контроль над перемещениями данных и сложную аналитику для выявления и борьбы с киберугрозами во всех облачных службах Майкрософт и сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="990d9-281">Microsoft Cloud App Security is a Cloud Access Security Broker (CASB) that provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyber threats across all your Microsoft and third-party cloud services.</span></span> <span data-ttu-id="990d9-282">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-282">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-287"><strong>Microsoft Cloud App Security</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-287"><strong>Microsoft Cloud App Security</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-288">Microsoft Cloud App Security — это брокер облачной безопасности доступа (CASB), который обеспечивает богатую видимость, контроль над перемещениями данных и сложную аналитику для выявления и борьбы с киберугрозами во всех облачных службах Майкрософт и сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="d41a5-288">Microsoft Cloud App Security is a Cloud Access Security Broker (CASB) that provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyber threats across all your Microsoft and third-party cloud services.</span></span> <span data-ttu-id="d41a5-289">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-289">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-283">Настройка портала, в том числе:</span><span class="sxs-lookup"><span data-stu-id="990d9-283">Configuring the portal, including:</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-290">Настройка портала, в том числе:</span><span class="sxs-lookup"><span data-stu-id="d41a5-290">Configuring the portal, including:</span></span>  </li>
 <ul>
-<li> <span data-ttu-id="990d9-284">Импорт групп пользователей.</span><span class="sxs-lookup"><span data-stu-id="990d9-284">Importing user groups.</span></span></li>
-<li> <span data-ttu-id="990d9-285">Управление доступом и настройками администратора.</span><span class="sxs-lookup"><span data-stu-id="990d9-285">Managing admin access and settings.</span></span>  </li>
-<li> <span data-ttu-id="990d9-286">Scoping your deployment to select certain user groups to monitor or exclude from monitoring.</span><span class="sxs-lookup"><span data-stu-id="990d9-286">Scoping your deployment to select certain user groups to monitor or exclude from monitoring.</span></span></li>
-<li> <span data-ttu-id="990d9-287">Настройка ip-диапазонов и тегов.</span><span class="sxs-lookup"><span data-stu-id="990d9-287">Setting IP ranges and tags.</span></span></li>
-<li> <span data-ttu-id="990d9-288">Персонализация интерфейса для конечных пользователей с помощью логотипа и настраиваемого обмена сообщениями.</span><span class="sxs-lookup"><span data-stu-id="990d9-288">Personalizing the end-user experience with your logo and custom messaging.</span></span></li>
+<li> <span data-ttu-id="d41a5-291">Импорт групп пользователей.</span><span class="sxs-lookup"><span data-stu-id="d41a5-291">Importing user groups.</span></span></li>
+<li> <span data-ttu-id="d41a5-292">Управление доступом и настройками администратора.</span><span class="sxs-lookup"><span data-stu-id="d41a5-292">Managing admin access and settings.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-293">Scoping your deployment to select certain user groups to monitor or exclude from monitoring.</span><span class="sxs-lookup"><span data-stu-id="d41a5-293">Scoping your deployment to select certain user groups to monitor or exclude from monitoring.</span></span></li>
+<li> <span data-ttu-id="d41a5-294">Настройка ip-диапазонов и тегов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-294">Setting IP ranges and tags.</span></span></li>
+<li> <span data-ttu-id="d41a5-295">Персонализация интерфейса для конечных пользователей с помощью логотипа и настраиваемого обмена сообщениями.</span><span class="sxs-lookup"><span data-stu-id="d41a5-295">Personalizing the end-user experience with your logo and custom messaging.</span></span></li>
 </ul>
-<li> <span data-ttu-id="990d9-289">Настройка облачных открытий для предоставления теневых ИТ-данных с помощью:</span><span class="sxs-lookup"><span data-stu-id="990d9-289">Setting up cloud discovery to provide shadow IT using:</span></span></li>
+<li> <span data-ttu-id="d41a5-296">Настройка облачных открытий для предоставления теневых ИТ-данных с помощью:</span><span class="sxs-lookup"><span data-stu-id="d41a5-296">Setting up cloud discovery to provide shadow IT using:</span></span></li>
 <ul>
-<li> <span data-ttu-id="990d9-290">Microsoft Defender для конечных точек.</span><span class="sxs-lookup"><span data-stu-id="990d9-290">Microsoft Defender for Endpoints.</span></span></li>
-<li> <span data-ttu-id="990d9-291">Zscaler.</span><span class="sxs-lookup"><span data-stu-id="990d9-291">Zscaler.</span></span></li>
-<li> <span data-ttu-id="990d9-292">iboss.</span><span class="sxs-lookup"><span data-stu-id="990d9-292">iboss.</span></span></li>
+<li> <span data-ttu-id="d41a5-297">Microsoft Defender для конечных точек.</span><span class="sxs-lookup"><span data-stu-id="d41a5-297">Microsoft Defender for Endpoints.</span></span></li>
+<li> <span data-ttu-id="d41a5-298">Zscaler.</span><span class="sxs-lookup"><span data-stu-id="d41a5-298">Zscaler.</span></span></li>
+<li> <span data-ttu-id="d41a5-299">iboss.</span><span class="sxs-lookup"><span data-stu-id="d41a5-299">iboss.</span></span></li>
 </ul>
-<li> <span data-ttu-id="990d9-293">Подключение <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps">рекомендуемых приложений с</a> помощью соединители приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-293">Connecting <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps">featured apps</a> using app connectors.</span></span></li>
-<li> <span data-ttu-id="990d9-294">Настройка управления приложениями условного доступа на порталах безопасности условного доступа и облачных приложений для применения элементов управления сеансами в режиме реального времени.</span><span class="sxs-lookup"><span data-stu-id="990d9-294">Setting up Conditional Access App Control in the Conditional Access and Cloud App Security portals to apply real time session controls.</span></span></li>
-<li> <span data-ttu-id="990d9-295">Развертывание панелей безопасности облачных приложений и облачных открытий.</span><span class="sxs-lookup"><span data-stu-id="990d9-295">Deploying the Cloud App Security and Cloud Discovery dashboards.</span></span></li>
-<li> <span data-ttu-id="990d9-296">Настройка оценки рисков приложений в зависимости от приоритетов организации.</span><span class="sxs-lookup"><span data-stu-id="990d9-296">Customizing app risk scores based on your organization’s priorities.</span></span></li>
-<li> <span data-ttu-id="990d9-297">Создание тегов и категорий приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-297">Creating app tags and categories.</span></span></li>
-<li> <span data-ttu-id="990d9-298">Санкции и несанкционные приложения.</span><span class="sxs-lookup"><span data-stu-id="990d9-298">Sanctioning and unsanctioning apps.</span></span></li>
-<li> <span data-ttu-id="990d9-299">Использование журналов действий и файлов.</span><span class="sxs-lookup"><span data-stu-id="990d9-299">Using the activity and file logs.</span></span></li>
-<li> <span data-ttu-id="990d9-300">Управление приложениями OAuth.</span><span class="sxs-lookup"><span data-stu-id="990d9-300">Managing OAuth apps.</span></span></li>
-<li> <span data-ttu-id="990d9-301">Понимание корреляции инцидентов на портале Microsoft 365 Defender.</span><span class="sxs-lookup"><span data-stu-id="990d9-301">Understanding incident correlation in the Microsoft 365 Defender portal.</span></span></li>
-<li> <span data-ttu-id="990d9-302">Предоставление помощи в настройке в <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20</a> лучших случаях использования casBs (включая создание или обновление до шести политик) за исключением:</span><span class="sxs-lookup"><span data-stu-id="990d9-302">Providing configuration assistance with the <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">top 20 use cases for CASBs</a> (including the creation or updating of up to six (6) policies) except:</span></span> </li>
+<li> <span data-ttu-id="d41a5-300">Подключение <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps">рекомендуемых приложений с</a> помощью соединители приложений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-300">Connecting <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps">featured apps</a> using app connectors.</span></span></li>
+<li> <span data-ttu-id="d41a5-301">Настройка управления приложениями условного доступа на порталах безопасности условного доступа и облачных приложений для применения элементов управления сеансами в режиме реального времени.</span><span class="sxs-lookup"><span data-stu-id="d41a5-301">Setting up Conditional Access App Control in the Conditional Access and Cloud App Security portals to apply real time session controls.</span></span></li>
+<li> <span data-ttu-id="d41a5-302">Развертывание панелей безопасности облачных приложений и облачных открытий.</span><span class="sxs-lookup"><span data-stu-id="d41a5-302">Deploying the Cloud App Security and Cloud Discovery dashboards.</span></span></li>
+<li> <span data-ttu-id="d41a5-303">Настройка оценки рисков приложений в зависимости от приоритетов организации.</span><span class="sxs-lookup"><span data-stu-id="d41a5-303">Customizing app risk scores based on your organization’s priorities.</span></span></li>
+<li> <span data-ttu-id="d41a5-304">Создание тегов и категорий приложений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-304">Creating app tags and categories.</span></span></li>
+<li> <span data-ttu-id="d41a5-305">Санкции и несанкционные приложения.</span><span class="sxs-lookup"><span data-stu-id="d41a5-305">Sanctioning and unsanctioning apps.</span></span></li>
+<li> <span data-ttu-id="d41a5-306">Использование журналов действий и файлов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-306">Using the activity and file logs.</span></span></li>
+<li> <span data-ttu-id="d41a5-307">Управление приложениями OAuth.</span><span class="sxs-lookup"><span data-stu-id="d41a5-307">Managing OAuth apps.</span></span></li>
+<li> <span data-ttu-id="d41a5-308">Понимание корреляции инцидентов на портале Microsoft 365 Defender.</span><span class="sxs-lookup"><span data-stu-id="d41a5-308">Understanding incident correlation in the Microsoft 365 Defender portal.</span></span></li>
+<li> <span data-ttu-id="d41a5-309">Предоставление помощи в настройке в <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20</a> лучших случаях использования casBs (включая создание или обновление до шести политик) за исключением:</span><span class="sxs-lookup"><span data-stu-id="d41a5-309">Providing configuration assistance with the <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">top 20 use cases for CASBs</a> (including the creation or updating of up to six (6) policies) except:</span></span> </li>
 <ul>
-<li> <span data-ttu-id="990d9-303">Аудит конфигурации среды интернета как среды службы (IaaS) (#18).</span><span class="sxs-lookup"><span data-stu-id="990d9-303">Auditing the configuration of your internet as a service (IaaS) environments (#18).</span></span></li>
-<li> <span data-ttu-id="990d9-304">Мониторинг действий пользователей для защиты от угроз в средах IaaS (#19).</span><span class="sxs-lookup"><span data-stu-id="990d9-304">Monitoring user activities to protect against threats in your IaaS environments (#19).</span></span></li>
+<li> <span data-ttu-id="d41a5-310">Аудит конфигурации среды интернета как среды службы (IaaS) (#18).</span><span class="sxs-lookup"><span data-stu-id="d41a5-310">Auditing the configuration of your internet as a service (IaaS) environments (#18).</span></span></li>
+<li> <span data-ttu-id="d41a5-311">Мониторинг действий пользователей для защиты от угроз в средах IaaS (#19).</span><span class="sxs-lookup"><span data-stu-id="d41a5-311">Monitoring user activities to protect against threats in your IaaS environments (#19).</span></span></li>
 </ul>
 </ul>
-<p><span data-ttu-id="990d9-305"><strong>Ниже приводится неосякаемая область</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-305"><strong>The following is out of scope</strong></span></span></p>
+<p><span data-ttu-id="d41a5-312"><strong>Ниже приводится неосякаемая область</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-312"><strong>The following is out of scope</strong></span></span></p>
 <ul>
-<li> <span data-ttu-id="990d9-306">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="990d9-306">Project management of the customer's remediation activities.</span></span></li>
-<li> <span data-ttu-id="990d9-307">Постоянное управление, реагирование на угрозы и исправление.</span><span class="sxs-lookup"><span data-stu-id="990d9-307">Ongoing management, threat response, and remediation.</span></span> </li>
-<li> <span data-ttu-id="990d9-308">Настройка инфраструктуры, установки или развертывания автоматических загрузок журналов для непрерывных отчетов с помощью Docker или сборщика журналов.</span><span class="sxs-lookup"><span data-stu-id="990d9-308">Setting up the infrastructure, installation, or deployment of automatic log uploads for continuous reports using Docker or a log collector.</span></span> <span data-ttu-id="990d9-309">Дополнительные сведения см. в <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">топ-20 случаев использования casBs.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-309">See <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">Top 20 use cases for CASBs</a> for more details.</span></span></li>
-<li> <span data-ttu-id="990d9-310">Создание отчета об обнаружении облачных данных.</span><span class="sxs-lookup"><span data-stu-id="990d9-310">Creating a Cloud Discovery snapshot report.</span></span></li>
-<li> <span data-ttu-id="990d9-311">Блокировка использования приложений с помощью скриптов блоков.</span><span class="sxs-lookup"><span data-stu-id="990d9-311">Blocking app usage using block scripts.</span></span></li>
-<li> <span data-ttu-id="990d9-312">Подключение настраиваемой программы.</span><span class="sxs-lookup"><span data-stu-id="990d9-312">Connecting custom apps.</span></span></li>
-<li> <span data-ttu-id="990d9-313">Интеграция с сторонними поставщиками удостоверений (isPs) и поставщиками защиты от потери данных (DLP).</span><span class="sxs-lookup"><span data-stu-id="990d9-313">Integrating with third-party identity providers (IsPs) and data loss prevention (DLP) providers.</span></span></li>
-<li> <span data-ttu-id="990d9-314">Учебные курсы или руководства по расширенной охоте.</span><span class="sxs-lookup"><span data-stu-id="990d9-314">Training or guidance covering advanced hunting.</span></span></li>
-<li> <span data-ttu-id="990d9-315">Автоматическое исследование и исправление, включая книги Microsoft Power Automate.</span><span class="sxs-lookup"><span data-stu-id="990d9-315">Automated investigation and remediation including Microsoft Power Automate playbooks.</span></span></li>
-<li> <span data-ttu-id="990d9-316">Сведения о безопасности и управление событиями (SIEM) или интеграция API (включая Azure Sentinel).</span><span class="sxs-lookup"><span data-stu-id="990d9-316">Security information and event management (SIEM) or API integration (including Azure Sentinel).</span></span></li>
-<li> <span data-ttu-id="990d9-317">Развертывание обнаружения облачных приложений в качестве доказательства концепции.</span><span class="sxs-lookup"><span data-stu-id="990d9-317">Deploying Cloud App Discovery as a proof of concept.</span></span></li>
+<li> <span data-ttu-id="d41a5-313">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-313">Project management of the customer's remediation activities.</span></span></li>
+<li> <span data-ttu-id="d41a5-314">Постоянное управление, реагирование на угрозы и исправление.</span><span class="sxs-lookup"><span data-stu-id="d41a5-314">Ongoing management, threat response, and remediation.</span></span> </li>
+<li> <span data-ttu-id="d41a5-315">Настройка инфраструктуры, установки или развертывания автоматических загрузок журналов для непрерывных отчетов с помощью Docker или сборщика журналов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-315">Setting up the infrastructure, installation, or deployment of automatic log uploads for continuous reports using Docker or a log collector.</span></span> <span data-ttu-id="d41a5-316">Дополнительные сведения см. в <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">топ-20 случаев использования casBs.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-316">See <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">Top 20 use cases for CASBs</a> for more details.</span></span></li>
+<li> <span data-ttu-id="d41a5-317">Создание отчета об обнаружении облачных данных.</span><span class="sxs-lookup"><span data-stu-id="d41a5-317">Creating a Cloud Discovery snapshot report.</span></span></li>
+<li> <span data-ttu-id="d41a5-318">Блокировка использования приложений с помощью скриптов блоков.</span><span class="sxs-lookup"><span data-stu-id="d41a5-318">Blocking app usage using block scripts.</span></span></li>
+<li> <span data-ttu-id="d41a5-319">Подключение настраиваемой программы.</span><span class="sxs-lookup"><span data-stu-id="d41a5-319">Connecting custom apps.</span></span></li>
+<li> <span data-ttu-id="d41a5-320">Интеграция с сторонними поставщиками удостоверений (isPs) и поставщиками защиты от потери данных (DLP).</span><span class="sxs-lookup"><span data-stu-id="d41a5-320">Integrating with third-party identity providers (IsPs) and data loss prevention (DLP) providers.</span></span></li>
+<li> <span data-ttu-id="d41a5-321">Учебные курсы или руководства по расширенной охоте.</span><span class="sxs-lookup"><span data-stu-id="d41a5-321">Training or guidance covering advanced hunting.</span></span></li>
+<li> <span data-ttu-id="d41a5-322">Автоматическое исследование и исправление, включая книги Microsoft Power Automate.</span><span class="sxs-lookup"><span data-stu-id="d41a5-322">Automated investigation and remediation including Microsoft Power Automate playbooks.</span></span></li>
+<li> <span data-ttu-id="d41a5-323">Сведения о безопасности и управление событиями (SIEM) или интеграция API (включая Azure Sentinel).</span><span class="sxs-lookup"><span data-stu-id="d41a5-323">Security information and event management (SIEM) or API integration (including Azure Sentinel).</span></span></li>
+<li> <span data-ttu-id="d41a5-324">Развертывание обнаружения облачных приложений в качестве доказательства концепции.</span><span class="sxs-lookup"><span data-stu-id="d41a5-324">Deploying Cloud App Discovery as a proof of concept.</span></span></li>
 </ul></td>
 </tr>
 
 
 
 <tr class="even">
-<td><span data-ttu-id="990d9-318"><strong>Расширенная защита от угроз (ATP) в Microsoft Defender</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-318"><strong>Microsoft Defender Advanced Threat Protection (ATP)</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-319">Расширенная защита от угроз (ATP) в Microsoft Defender — это платформа, разработанная для обнаружения, предотвращения и исследования расширенных угроз в корпоративных сетях, а также для реагирования на них.</span><span class="sxs-lookup"><span data-stu-id="990d9-319">Microsoft Defender Advanced Threat Protection (ATP) is a platform designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats.</span></span>  
-  <span data-ttu-id="990d9-320">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-320">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-325"><strong>Microsoft Defender для конечной точки</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-325"><strong>Microsoft Defender for Endpoint</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-326">Microsoft Defender for Endpoint — это платформа, призванная помочь корпоративным сетям предотвращать, обнаруживать, исследовать и реагировать на расширенные угрозы.</span><span class="sxs-lookup"><span data-stu-id="d41a5-326">Microsoft Defender for Endpoint is a platform designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats.</span></span>  
+  <span data-ttu-id="d41a5-327">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-327">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-321">Развертывание технологий для защиты конечных точек.</span><span class="sxs-lookup"><span data-stu-id="990d9-321">Deploying the technologies to secure your endpoints.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-322">Настройка профилей защиты конечной точки и ограничений устройств.</span><span class="sxs-lookup"><span data-stu-id="990d9-322">Configuring endpoint protection and device restriction profiles.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-323">Оценка управления версиями ОС и устройствами (включая Intune, Microsoft Endpoint Configuration Manager, Объекты групповой политики (GPOs) и сторонние конфигурации), а также состояние служб av Защитник Windows или другого программного обеспечения безопасности конечных точек.</span><span class="sxs-lookup"><span data-stu-id="990d9-323">Assessing the OS version and device management (including Intune, Microsoft Endpoint Configuration Manager, Group Policy Objects (GPOs), and third-party configurations) as well as the status of your Windows Defender AV services or other endpoint security software.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-324">Оценка состояния служб av Windows или другого программного обеспечения безопасности конечной точки.</span><span class="sxs-lookup"><span data-stu-id="990d9-324">Assessing the status of your Windows AV services or other endpoint security software.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-325">Оценка прокси и брандмауэров, ограничивающих сетевой трафик.</span><span class="sxs-lookup"><span data-stu-id="990d9-325">Assessing proxies and firewalls restricting network traffic.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-326">Включение службы ATP Защитника Майкрософт, объясняя, как развернуть профиль агента ATP с помощью конечной точки на борту.</span><span class="sxs-lookup"><span data-stu-id="990d9-326">Enabling the Microsoft Defender ATP service by explaining how to deploy an ATP agent profile using an onboard endpoint.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-327">Рекомендации по развертыванию, помощь в настройке и обучение по:</span><span class="sxs-lookup"><span data-stu-id="990d9-327">Deployment guidance, configuration assistance, and education on:</span></span>
+<li>  <span data-ttu-id="d41a5-328">Развертывание технологий для защиты конечных точек.</span><span class="sxs-lookup"><span data-stu-id="d41a5-328">Deploying the technologies to secure your endpoints.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-329">Настройка профилей защиты конечной точки и ограничений устройств.</span><span class="sxs-lookup"><span data-stu-id="d41a5-329">Configuring endpoint protection and device restriction profiles.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-330">Оценка управления версиями ОС и устройствами (включая Intune, Microsoft Endpoint Configuration Manager, Объекты групповой политики (GPOs) и сторонние конфигурации), а также состояние служб av Защитник Windows или другого программного обеспечения безопасности конечных точек.</span><span class="sxs-lookup"><span data-stu-id="d41a5-330">Assessing the OS version and device management (including Intune, Microsoft Endpoint Configuration Manager, Group Policy Objects (GPOs), and third-party configurations) as well as the status of your Windows Defender AV services or other endpoint security software.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-331">Оценка состояния служб av Windows или другого программного обеспечения безопасности конечной точки.</span><span class="sxs-lookup"><span data-stu-id="d41a5-331">Assessing the status of your Windows AV services or other endpoint security software.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-332">Оценка прокси и брандмауэров, ограничивающих сетевой трафик.</span><span class="sxs-lookup"><span data-stu-id="d41a5-332">Assessing proxies and firewalls restricting network traffic.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-333">Включение службы Microsoft Defender для конечных точек, объясняя, как развернуть профиль агента Defender для конечной точки с помощью конечной точки на борту.</span><span class="sxs-lookup"><span data-stu-id="d41a5-333">Enabling the Microsoft Defender for Endpoint service by explaining how to deploy a Defender for Endpoint agent profile using an onboard endpoint.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-334">Рекомендации по развертыванию, помощь в настройке и обучение по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-334">Deployment guidance, configuration assistance, and education on:</span></span>
 <ul>
 <li>  
-  <span data-ttu-id="990d9-328">Управление угрозами и уязвимостями.</span><span class="sxs-lookup"><span data-stu-id="990d9-328">Threat and vulnerability management.</span></span>  
+  <span data-ttu-id="d41a5-335">Управление угрозами и уязвимостями.</span><span class="sxs-lookup"><span data-stu-id="d41a5-335">Threat and vulnerability management.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-329">Сокращение направлений атак.</span><span class="sxs-lookup"><span data-stu-id="990d9-329">Attack surface reduction.</span></span>  
+  <span data-ttu-id="d41a5-336">Сокращение направлений атак.</span><span class="sxs-lookup"><span data-stu-id="d41a5-336">Attack surface reduction.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-330">Защита нового поколения.</span><span class="sxs-lookup"><span data-stu-id="990d9-330">Next-generation protection.</span></span>  
+  <span data-ttu-id="d41a5-337">Защита нового поколения.</span><span class="sxs-lookup"><span data-stu-id="d41a5-337">Next-generation protection.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-331">Выявление конечных точек и реагирование на них.</span><span class="sxs-lookup"><span data-stu-id="990d9-331">Endpoint detection and response.</span></span>  
+  <span data-ttu-id="d41a5-338">Выявление конечных точек и реагирование на них.</span><span class="sxs-lookup"><span data-stu-id="d41a5-338">Endpoint detection and response.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-332">Автоматическое исследование и защита.</span><span class="sxs-lookup"><span data-stu-id="990d9-332">Automated investigation and remediation.</span></span>  
+  <span data-ttu-id="d41a5-339">Автоматическое исследование и защита.</span><span class="sxs-lookup"><span data-stu-id="d41a5-339">Automated investigation and remediation.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-333">Оценка безопасности</span><span class="sxs-lookup"><span data-stu-id="990d9-333">Secure score.</span></span>  
+  <span data-ttu-id="d41a5-340">Оценка безопасности</span><span class="sxs-lookup"><span data-stu-id="d41a5-340">Secure score.</span></span>  
   </li>
 </ul></li>
-<li>  <span data-ttu-id="990d9-334">Просмотр имитаций и учебных пособий (например, сценариев практики, поддельных вредоносных программ и автоматических расследований).</span><span class="sxs-lookup"><span data-stu-id="990d9-334">Reviewing simulations and tutorials (like practice scenarios, fake malware, and automated investigations).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-335">Общие сведения о функциях создания отчетов и аналитики угроз.</span><span class="sxs-lookup"><span data-stu-id="990d9-335">Overview of reporting and threat analytics features.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-336">Интеграция ATP Office 365 с ATP в Microsoft Defender</span><span class="sxs-lookup"><span data-stu-id="990d9-336">Integrating Office 365 ATP with Microsoft Defender ATP.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-337">Пошаговые руководства по поведению на портале Центра безопасности в Microsoft Defender.</span><span class="sxs-lookup"><span data-stu-id="990d9-337">Conduct walkthroughs of the Microsoft Defender Security Center portal.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-338">Следующие операционные системы:</span><span class="sxs-lookup"><span data-stu-id="990d9-338">The following operating systems:</span></span>
+<li>  <span data-ttu-id="d41a5-341">Просмотр имитаций и учебных пособий (например, сценариев практики, поддельных вредоносных программ и автоматических расследований).</span><span class="sxs-lookup"><span data-stu-id="d41a5-341">Reviewing simulations and tutorials (like practice scenarios, fake malware, and automated investigations).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-342">Общие сведения о функциях создания отчетов и аналитики угроз.</span><span class="sxs-lookup"><span data-stu-id="d41a5-342">Overview of reporting and threat analytics features.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-343">Интеграция Microsoft Defender для Office 365 с Microsoft Defender для конечной точки.</span><span class="sxs-lookup"><span data-stu-id="d41a5-343">Integrating Microsoft Defender for Office 365 with Microsoft Defender for Endpoint.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-344">Пошаговые руководства по поведению на портале Центра безопасности в Microsoft Defender.</span><span class="sxs-lookup"><span data-stu-id="d41a5-344">Conduct walkthroughs of the Microsoft Defender Security Center portal.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-345">Следующие операционные системы:</span><span class="sxs-lookup"><span data-stu-id="d41a5-345">The following operating systems:</span></span>
 <ul>
 <li>  
-  <span data-ttu-id="990d9-339">Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-339">Windows 10.</span></span>  
+  <span data-ttu-id="d41a5-346">Windows 10.</span><span class="sxs-lookup"><span data-stu-id="d41a5-346">Windows 10.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-340">Windows Server 2016.</span><span class="sxs-lookup"><span data-stu-id="990d9-340">Windows Server 2016.</span></span>  
+  <span data-ttu-id="d41a5-347">Windows Server 2016.</span><span class="sxs-lookup"><span data-stu-id="d41a5-347">Windows Server 2016.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-341">Windows Server 2019.</span><span class="sxs-lookup"><span data-stu-id="990d9-341">Windows Server 2019.</span></span>  
+  <span data-ttu-id="d41a5-348">Windows Server 2019.</span><span class="sxs-lookup"><span data-stu-id="d41a5-348">Windows Server 2019.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-342">Windows Server 2019 Core Edition.</span><span class="sxs-lookup"><span data-stu-id="990d9-342">Windows Server 2019 Core Edition.</span></span>  
+  <span data-ttu-id="d41a5-349">Windows Server 2019 Core Edition.</span><span class="sxs-lookup"><span data-stu-id="d41a5-349">Windows Server 2019 Core Edition.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-343">Windows Server Semi-Annual (SAC) версии 1803.</span><span class="sxs-lookup"><span data-stu-id="990d9-343">Windows Server Semi-Annual Channel (SAC) version 1803.</span></span>  
+  <span data-ttu-id="d41a5-350">Windows Server Semi-Annual (SAC) версии 1803.</span><span class="sxs-lookup"><span data-stu-id="d41a5-350">Windows Server Semi-Annual Channel (SAC) version 1803.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-344">версии macOS 10.13, 10.14 и 10.15.</span><span class="sxs-lookup"><span data-stu-id="990d9-344">macOS versions 10.13, 10.14, and 10.15.</span></span>  
+  <span data-ttu-id="d41a5-351">версии macOS 10.13, 10.14 и 10.15.</span><span class="sxs-lookup"><span data-stu-id="d41a5-351">macOS versions 10.13, 10.14, and 10.15.</span></span>  
   </li>
 </ul>
 </li>
-</ul><span data-ttu-id="990d9-345">
-<strong>Примечание:</strong> Все версии Windows Server должны управляться последней версией System Center Configuration Manager 2012 (версии 1012 R2, 1511 или 1602) или Microsoft Endpoint Configuration Manager (версии 2002 или более).</span><span class="sxs-lookup"><span data-stu-id="990d9-345">
+</ul><span data-ttu-id="d41a5-352">
+<strong>Примечание:</strong> Все версии Windows Server должны управляться последней версией System Center Configuration Manager 2012 (версии 1012 R2, 1511 или 1602) или Microsoft Endpoint Configuration Manager (версии 2002 или более).</span><span class="sxs-lookup"><span data-stu-id="d41a5-352">
 <strong>Note:</strong> All Windows Server versions must be managed by the latest version of System Center Configuration Manager 2012 (versions 1012 R2, 1511, or 1602) or Microsoft Endpoint Configuration Manager (version 2002 or greater).</span></span> 
 
-<span data-ttu-id="990d9-346"></li>
+<span data-ttu-id="d41a5-353"></li>
 </ul>
 
 <strong>Ниже приводится неосякаемая область </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-346"></li>
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-353"></li>
 </ul>
 
 <strong>The following is out of scope </strong>  
 </span></span><ul>
-<li>  <span data-ttu-id="990d9-347">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="990d9-347">Project management of the customer's remediation activities.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-348">Поддержка на месте.</span><span class="sxs-lookup"><span data-stu-id="990d9-348">On-site support.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-349">Текущее управление и реагирование на угрозы.</span><span class="sxs-lookup"><span data-stu-id="990d9-349">Ongoing management and threat response.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-350">Подключение и настройка следующих агентов ATP в Microsoft Defender:</span><span class="sxs-lookup"><span data-stu-id="990d9-350">Onboarding or configuration for the following Microsoft Defender ATP agents:</span></span>
+<li>  <span data-ttu-id="d41a5-354">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-354">Project management of the customer's remediation activities.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-355">Поддержка на месте.</span><span class="sxs-lookup"><span data-stu-id="d41a5-355">On-site support.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-356">Текущее управление и реагирование на угрозы.</span><span class="sxs-lookup"><span data-stu-id="d41a5-356">Ongoing management and threat response.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-357">Учет или конфигурация для следующих агентов Microsoft Defender для конечных точек:</span><span class="sxs-lookup"><span data-stu-id="d41a5-357">Onboarding or configuration for the following Microsoft Defender for Endpoint agents:</span></span>
 <ul>
 <li>  
-  <span data-ttu-id="990d9-351">Windows Server 2008.</span><span class="sxs-lookup"><span data-stu-id="990d9-351">Windows Server 2008.</span></span>  
+  <span data-ttu-id="d41a5-358">Windows Server 2008.</span><span class="sxs-lookup"><span data-stu-id="d41a5-358">Windows Server 2008.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-352">Windows Server 2012.</span><span class="sxs-lookup"><span data-stu-id="990d9-352">Windows Server 2012.</span></span>  
+  <span data-ttu-id="d41a5-359">Windows Server 2012.</span><span class="sxs-lookup"><span data-stu-id="d41a5-359">Windows Server 2012.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-353">Linux.</span><span class="sxs-lookup"><span data-stu-id="990d9-353">Linux.</span></span>  
+  <span data-ttu-id="d41a5-360">Linux.</span><span class="sxs-lookup"><span data-stu-id="d41a5-360">Linux.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-354">Мобильные устройства (Android и iOS).</span><span class="sxs-lookup"><span data-stu-id="990d9-354">Mobile devices (Android and iOS).</span></span>  
+  <span data-ttu-id="d41a5-361">Мобильные устройства (Android и iOS).</span><span class="sxs-lookup"><span data-stu-id="d41a5-361">Mobile devices (Android and iOS).</span></span>  
   </li>
-<li> <span data-ttu-id="990d9-355">Виртуальная инфраструктура настольных компьютеров (VDI) (сохраняемая или нестойка).</span><span class="sxs-lookup"><span data-stu-id="990d9-355">Virtual Desktop Infrastructure (VDI) (persistent or non-persistent).</span></span>  </li>
+<li> <span data-ttu-id="d41a5-362">Виртуальная инфраструктура настольных компьютеров (VDI) (сохраняемая или нестойка).</span><span class="sxs-lookup"><span data-stu-id="d41a5-362">Virtual Desktop Infrastructure (VDI) (persistent or non-persistent).</span></span>  </li>
 </ul></li>
-<li>  <span data-ttu-id="990d9-356">Бортовая и конфигурация сервера:</span><span class="sxs-lookup"><span data-stu-id="990d9-356">Server onboarding and configuration:</span></span>
+<li>  <span data-ttu-id="d41a5-363">Бортовая и конфигурация сервера:</span><span class="sxs-lookup"><span data-stu-id="d41a5-363">Server onboarding and configuration:</span></span>
 <ul>
 <li>  
-  <span data-ttu-id="990d9-357">Настройка прокси-сервера для автономной связи.</span><span class="sxs-lookup"><span data-stu-id="990d9-357">Configuring a proxy server for offline communications.</span></span>  
+  <span data-ttu-id="d41a5-364">Настройка прокси-сервера для автономной связи.</span><span class="sxs-lookup"><span data-stu-id="d41a5-364">Configuring a proxy server for offline communications.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-358">Настройка пакетов развертывания Configuration Manager на экземплярах и версиях диспетчера конфигурации на уровне.</span><span class="sxs-lookup"><span data-stu-id="990d9-358">Configuring Configuration Manager deployment packages on down-level Configuration Manager instances and versions.</span></span>  
+  <span data-ttu-id="d41a5-365">Настройка пакетов развертывания Configuration Manager на экземплярах и версиях диспетчера конфигурации на уровне.</span><span class="sxs-lookup"><span data-stu-id="d41a5-365">Configuring Configuration Manager deployment packages on down-level Configuration Manager instances and versions.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-359">На борту серверов в Центр безопасности Azure.</span><span class="sxs-lookup"><span data-stu-id="990d9-359">Onboarding servers to Azure Security Center.</span></span>  
+  <span data-ttu-id="d41a5-366">На борту серверов в Центр безопасности Azure.</span><span class="sxs-lookup"><span data-stu-id="d41a5-366">Onboarding servers to Azure Security Center.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-360">Серверы, не управляемые диспетчером конфигурации.</span><span class="sxs-lookup"><span data-stu-id="990d9-360">Servers not managed by Configuration Manager.</span></span>  
-  </li>
-</ul></li>
-<li>  <span data-ttu-id="990d9-361">бортовая и конфигурация macOS:</span><span class="sxs-lookup"><span data-stu-id="990d9-361">macOS onboarding and configuration:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="990d9-362">Развертывание на основе ручного intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-362">Manual Intune-based deployment.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-363">Развертывание на основе JAMF.</span><span class="sxs-lookup"><span data-stu-id="990d9-363">JAMF-based deployment.</span></span>
-  </li>
-<li>  
-  <span data-ttu-id="990d9-364">Другое развертывание на основе продуктов для управления мобильными устройствами (MDM).</span><span class="sxs-lookup"><span data-stu-id="990d9-364">Other mobile device management (MDM) product-based deployment.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-365">Ручное развертывание.</span><span class="sxs-lookup"><span data-stu-id="990d9-365">Manual deployment.</span></span>  
+  <span data-ttu-id="d41a5-367">Серверы, не управляемые диспетчером конфигурации.</span><span class="sxs-lookup"><span data-stu-id="d41a5-367">Servers not managed by Configuration Manager.</span></span>  
   </li>
 </ul></li>
-<li>  <span data-ttu-id="990d9-366">Конфигурация следующих возможностей сокращения направлений атак:</span><span class="sxs-lookup"><span data-stu-id="990d9-366">Configuration of the following attack surface reduction capabilities:</span></span>
+<li>  <span data-ttu-id="d41a5-368">бортовая и конфигурация macOS:</span><span class="sxs-lookup"><span data-stu-id="d41a5-368">macOS onboarding and configuration:</span></span>
 <ul>
 <li>  
-  <span data-ttu-id="990d9-367">Аппаратная изоляция.</span><span class="sxs-lookup"><span data-stu-id="990d9-367">Hardware-based isolation.</span></span>  
+  <span data-ttu-id="d41a5-369">Развертывание на основе ручного intune.</span><span class="sxs-lookup"><span data-stu-id="d41a5-369">Manual Intune-based deployment.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-368">Управление приложениями.</span><span class="sxs-lookup"><span data-stu-id="990d9-368">App control.</span></span>  
-  </li>
-<li> <span data-ttu-id="990d9-369">Управление устройствами.</span><span class="sxs-lookup"><span data-stu-id="990d9-369">Device control.</span></span></li>
-<li>  
-  <span data-ttu-id="990d9-370">Защита от эксплойтов.</span><span class="sxs-lookup"><span data-stu-id="990d9-370">Exploit protection.</span></span>  
+  <span data-ttu-id="d41a5-370">Развертывание на основе JAMF.</span><span class="sxs-lookup"><span data-stu-id="d41a5-370">JAMF-based deployment.</span></span>
   </li>
 <li>  
-  <span data-ttu-id="990d9-371">Сетевой брандмауэр.</span><span class="sxs-lookup"><span data-stu-id="990d9-371">Network firewall.</span></span>  
+  <span data-ttu-id="d41a5-371">Другое развертывание на основе продуктов для управления мобильными устройствами (MDM).</span><span class="sxs-lookup"><span data-stu-id="d41a5-371">Other mobile device management (MDM) product-based deployment.</span></span>  
+  </li>
+<li>  
+  <span data-ttu-id="d41a5-372">Ручное развертывание.</span><span class="sxs-lookup"><span data-stu-id="d41a5-372">Manual deployment.</span></span>  
+  </li>
+</ul></li>
+<li>  <span data-ttu-id="d41a5-373">Конфигурация следующих возможностей сокращения направлений атак:</span><span class="sxs-lookup"><span data-stu-id="d41a5-373">Configuration of the following attack surface reduction capabilities:</span></span>
+<ul>
+<li>  
+  <span data-ttu-id="d41a5-374">Аппаратная изоляция.</span><span class="sxs-lookup"><span data-stu-id="d41a5-374">Hardware-based isolation.</span></span>  
+  </li>
+<li>  
+  <span data-ttu-id="d41a5-375">Управление приложениями.</span><span class="sxs-lookup"><span data-stu-id="d41a5-375">App control.</span></span>  
+  </li>
+<li> <span data-ttu-id="d41a5-376">Управление устройствами.</span><span class="sxs-lookup"><span data-stu-id="d41a5-376">Device control.</span></span></li>
+<li>  
+  <span data-ttu-id="d41a5-377">Защита от эксплойтов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-377">Exploit protection.</span></span>  
+  </li>
+<li>  
+  <span data-ttu-id="d41a5-378">Сетевой брандмауэр.</span><span class="sxs-lookup"><span data-stu-id="d41a5-378">Network firewall.</span></span>  
   </li>
 
 
 
 </ul></li>
-<li> <span data-ttu-id="990d9-372">Конфигурация или управление функциями защиты учетных записей, например:</span><span class="sxs-lookup"><span data-stu-id="990d9-372">Configuration or management of account protection features like:</span></span> </li>
+<li> <span data-ttu-id="d41a5-379">Конфигурация или управление функциями защиты учетных записей, например:</span><span class="sxs-lookup"><span data-stu-id="d41a5-379">Configuration or management of account protection features like:</span></span> </li>
 <ul>
 
-<li> <span data-ttu-id="990d9-373">Windows Hello</span><span class="sxs-lookup"><span data-stu-id="990d9-373">Windows Hello</span></span></li>
-<li> <span data-ttu-id="990d9-374">Credential Guard</span><span class="sxs-lookup"><span data-stu-id="990d9-374">Credential Guard</span></span></li>
+<li> <span data-ttu-id="d41a5-380">Windows Hello</span><span class="sxs-lookup"><span data-stu-id="d41a5-380">Windows Hello</span></span></li>
+<li> <span data-ttu-id="d41a5-381">Credential Guard</span><span class="sxs-lookup"><span data-stu-id="d41a5-381">Credential Guard</span></span></li>
 </ul>
-<li> <span data-ttu-id="990d9-375">Конфигурация или управление BitLocker.</span><span class="sxs-lookup"><span data-stu-id="990d9-375">Configuration or management of BitLocker.</span></span></li>
-<li>  <span data-ttu-id="990d9-376">Развертывание или конфигурация экспертов Майкрософт по угрозам.</span><span class="sxs-lookup"><span data-stu-id="990d9-376">Enrollment or configuration of Microsoft Threat Experts.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-377">Настройка или обучение, просмотр API или сведений о безопасности и подключений к управлению событиями (SIEM).</span><span class="sxs-lookup"><span data-stu-id="990d9-377">Configuration or training reviewing API or security information and event management (SIEM) connections.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-378">Развертывание или конфигурация защиты от угроз (Майкрософт).</span><span class="sxs-lookup"><span data-stu-id="990d9-378">Enrollment or configuration of Microsoft Threat Protection (MTP).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-379">Учебные курсы или руководства по расширенной охоте.</span><span class="sxs-lookup"><span data-stu-id="990d9-379">Training or guidance covering advanced hunting.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-380">Учебные материалы или руководства по использованию или созданию запросов Kusto.</span><span class="sxs-lookup"><span data-stu-id="990d9-380">Training or guidance covering the use of or creation of Kusto queries.</span></span></li>
+<li> <span data-ttu-id="d41a5-382">Конфигурация или управление BitLocker.</span><span class="sxs-lookup"><span data-stu-id="d41a5-382">Configuration or management of BitLocker.</span></span></li>
+<li>  <span data-ttu-id="d41a5-383">Развертывание или конфигурация экспертов Майкрософт по угрозам.</span><span class="sxs-lookup"><span data-stu-id="d41a5-383">Enrollment or configuration of Microsoft Threat Experts.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-384">Настройка или обучение, просмотр API или сведений о безопасности и подключений к управлению событиями (SIEM).</span><span class="sxs-lookup"><span data-stu-id="d41a5-384">Configuration or training reviewing API or security information and event management (SIEM) connections.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-385">Развертывание или конфигурация защиты от угроз (Майкрософт).</span><span class="sxs-lookup"><span data-stu-id="d41a5-385">Enrollment or configuration of Microsoft Threat Protection (MTP).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-386">Учебные курсы или руководства по расширенной охоте.</span><span class="sxs-lookup"><span data-stu-id="d41a5-386">Training or guidance covering advanced hunting.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-387">Учебные материалы или руководства по использованию или созданию запросов Kusto.</span><span class="sxs-lookup"><span data-stu-id="d41a5-387">Training or guidance covering the use of or creation of Kusto queries.</span></span></li>
 </li>
 </ul>
-<span data-ttu-id="990d9-381">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="990d9-381">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span>  
+<span data-ttu-id="d41a5-388">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="d41a5-388">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span>  
 </ul></td>
 <td></td>
 
 <tr class="odd">
-<td><span data-ttu-id="990d9-382"><strong>Защитник Майкрософт для удостоверения </strong></span><span class="sxs-lookup"><span data-stu-id="990d9-382"><strong>Microsoft Defender for Identity </strong></span></span></td>
-<td>  <span data-ttu-id="990d9-383">Microsoft Defender для удостоверений — это облачное решение для обеспечения безопасности, использующее ваши локальные сигналы Active Directory для выявления, обнаружения и исследования расширенных угроз, скомпрометированных удостоверений и вредоносных внутренних действий, направленных против вашей организации.</span><span class="sxs-lookup"><span data-stu-id="990d9-383">Microsoft Defender for Identity is a cloud-based security solution that leverages your on-premises Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.</span></span> <span data-ttu-id="990d9-384">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-384">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-389"><strong>Защитник Майкрософт для удостоверения </strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-389"><strong>Microsoft Defender for Identity </strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-390">Microsoft Defender для удостоверений — это облачное решение для обеспечения безопасности, использующее ваши локальные сигналы Active Directory для выявления, обнаружения и исследования расширенных угроз, скомпрометированных удостоверений и вредоносных внутренних действий, направленных против вашей организации.</span><span class="sxs-lookup"><span data-stu-id="d41a5-390">Microsoft Defender for Identity is a cloud-based security solution that leverages your on-premises Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.</span></span> <span data-ttu-id="d41a5-391">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-391">We provide remote guidance for:</span></span>
 <ul>
-<li>   <span data-ttu-id="990d9-385">Создание экземпляра Defender for Identity.</span><span class="sxs-lookup"><span data-stu-id="990d9-385">Creating your instance of Defender for Identity.</span></span> </li>
-<li>   <span data-ttu-id="990d9-386">Подключение защитника удостоверений к Active Directory.</span><span class="sxs-lookup"><span data-stu-id="990d9-386">Connecting Defender for Identity to Active Directory.</span></span> </li>
-<li>   <span data-ttu-id="990d9-387">Оценка готовности среды к развертыванию датчика Defender для удостоверений на контроллерах домена, в том числе:</span><span class="sxs-lookup"><span data-stu-id="990d9-387">Assessing the readiness of your environment to deploy the Defender for Identity sensor on your domain controllers, including:</span></span></li>   
+<li>   <span data-ttu-id="d41a5-392">Создание экземпляра Defender for Identity.</span><span class="sxs-lookup"><span data-stu-id="d41a5-392">Creating your instance of Defender for Identity.</span></span> </li>
+<li>   <span data-ttu-id="d41a5-393">Подключение защитника удостоверений к Active Directory.</span><span class="sxs-lookup"><span data-stu-id="d41a5-393">Connecting Defender for Identity to Active Directory.</span></span> </li>
+<li>   <span data-ttu-id="d41a5-394">Оценка готовности среды к развертыванию датчика Defender для удостоверений на контроллерах домена, в том числе:</span><span class="sxs-lookup"><span data-stu-id="d41a5-394">Assessing the readiness of your environment to deploy the Defender for Identity sensor on your domain controllers, including:</span></span></li>   
 <ul> 
-<li>  <span data-ttu-id="990d9-388">Запуск средства размеров для планирования емкости ресурсов.</span><span class="sxs-lookup"><span data-stu-id="990d9-388">Running the sizing tool for resource capacity planning.</span></span> </li>
-<li>  <span data-ttu-id="990d9-389">Запуск средства аудита для оценки совместимости контроллеров домена с датчиком.</span><span class="sxs-lookup"><span data-stu-id="990d9-389">Running the auditing tool to assess the compatibility of your domain controllers with the sensor.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-395">Запуск средства размеров для планирования емкости ресурсов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-395">Running the sizing tool for resource capacity planning.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-396">Запуск средства аудита для оценки совместимости контроллеров домена с датчиком.</span><span class="sxs-lookup"><span data-stu-id="d41a5-396">Running the auditing tool to assess the compatibility of your domain controllers with the sensor.</span></span> </li>
 </ul>
-<li>  <span data-ttu-id="990d9-390">Развертывание датчика для захвата и размыва сетевого трафика и событий Windows непосредственно из контроллеров домена, в том числе:</span><span class="sxs-lookup"><span data-stu-id="990d9-390">Deploying the sensor to capture and parse network traffic and Windows events directly from your domain controllers, including:</span></span> </li>
+<li>  <span data-ttu-id="d41a5-397">Развертывание датчика для захвата и размыва сетевого трафика и событий Windows непосредственно из контроллеров домена, в том числе:</span><span class="sxs-lookup"><span data-stu-id="d41a5-397">Deploying the sensor to capture and parse network traffic and Windows events directly from your domain controllers, including:</span></span> </li>
 <ul> 
-<li>  <span data-ttu-id="990d9-391">Загрузка пакета датчиков.</span><span class="sxs-lookup"><span data-stu-id="990d9-391">Downloading the sensor package.</span></span> </li>
-<li>  <span data-ttu-id="990d9-392">Настройка датчика.</span><span class="sxs-lookup"><span data-stu-id="990d9-392">Configuring the sensor.</span></span> </li>
-<li>  <span data-ttu-id="990d9-393">Установка датчика на контроллере домена безмолвно.</span><span class="sxs-lookup"><span data-stu-id="990d9-393">Installing the sensor on your domain controller silently.</span></span> </li>
-<li>  <span data-ttu-id="990d9-394">Развертывание датчика в многолесной среде.</span><span class="sxs-lookup"><span data-stu-id="990d9-394">Deploying the sensor to your multi-forest environment.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-398">Загрузка пакета датчиков.</span><span class="sxs-lookup"><span data-stu-id="d41a5-398">Downloading the sensor package.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-399">Настройка датчика.</span><span class="sxs-lookup"><span data-stu-id="d41a5-399">Configuring the sensor.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-400">Установка датчика на контроллере домена безмолвно.</span><span class="sxs-lookup"><span data-stu-id="d41a5-400">Installing the sensor on your domain controller silently.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-401">Развертывание датчика в многолесной среде.</span><span class="sxs-lookup"><span data-stu-id="d41a5-401">Deploying the sensor to your multi-forest environment.</span></span> </li>
 </ul>
-<li>  <span data-ttu-id="990d9-395">Интеграция defender for Identity с безопасностью облачных приложений Microsoft (лицензирование безопасности облачных приложений не требуется).</span><span class="sxs-lookup"><span data-stu-id="990d9-395">Integrating  Defender for Identity with Microsoft Cloud App Security (Cloud App Security licensing isn't required).</span></span> </li>
-<li>  <span data-ttu-id="990d9-396">Предоставление рекомендаций по развертыванию, помощь в настройке и обучение по:</span><span class="sxs-lookup"><span data-stu-id="990d9-396">Providing deployment guidance, configuration assistance, and education on:</span></span> </li>
+<li>  <span data-ttu-id="d41a5-402">Интеграция defender for Identity с безопасностью облачных приложений Microsoft (лицензирование безопасности облачных приложений не требуется).</span><span class="sxs-lookup"><span data-stu-id="d41a5-402">Integrating  Defender for Identity with Microsoft Cloud App Security (Cloud App Security licensing isn't required).</span></span> </li>
+<li>  <span data-ttu-id="d41a5-403">Предоставление рекомендаций по развертыванию, помощь в настройке и обучение по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-403">Providing deployment guidance, configuration assistance, and education on:</span></span> </li>
 <ul>
-<li> <span data-ttu-id="990d9-397">Настройка среды для уменьшения "шума".</span><span class="sxs-lookup"><span data-stu-id="990d9-397">Tuning the environment to reduce  “noise.”</span></span>  </li>
-<li>  <span data-ttu-id="990d9-398">Понимание отчета об оценке состояния безопасности удостоверений.</span><span class="sxs-lookup"><span data-stu-id="990d9-398">Understanding the identity security posture assessment report.</span></span> </li>
-<li>  <span data-ttu-id="990d9-399">Понимание оценки приоритетов для исследования пользователей и отчета о рейтинге исследования пользователей.</span><span class="sxs-lookup"><span data-stu-id="990d9-399">Understanding the user Investigation priority score and user Investigation ranking report.</span></span> </li>
-<li> <span data-ttu-id="990d9-400">Понимание неактивного отчета пользователя.</span><span class="sxs-lookup"><span data-stu-id="990d9-400">Understanding the inactive user report.</span></span>  </li>
-<li> <span data-ttu-id="990d9-401">Предоставление параметров исправлений на скомпрометированную учетную запись.</span><span class="sxs-lookup"><span data-stu-id="990d9-401">Providing remediation options on a compromised account.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-404">Настройка среды для уменьшения "шума".</span><span class="sxs-lookup"><span data-stu-id="d41a5-404">Tuning the environment to reduce  “noise.”</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-405">Понимание отчета об оценке состояния безопасности удостоверений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-405">Understanding the identity security posture assessment report.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-406">Понимание оценки приоритетов для исследования пользователей и отчета о рейтинге исследования пользователей.</span><span class="sxs-lookup"><span data-stu-id="d41a5-406">Understanding the user Investigation priority score and user Investigation ranking report.</span></span> </li>
+<li> <span data-ttu-id="d41a5-407">Понимание неактивного отчета пользователя.</span><span class="sxs-lookup"><span data-stu-id="d41a5-407">Understanding the inactive user report.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-408">Предоставление параметров исправлений на скомпрометированную учетную запись.</span><span class="sxs-lookup"><span data-stu-id="d41a5-408">Providing remediation options on a compromised account.</span></span>  </li>
 </ul>
-<li>  <span data-ttu-id="990d9-402">Упрощение переноса из Advanced Threat Analytics (ATA) в Defender for Identity.</span><span class="sxs-lookup"><span data-stu-id="990d9-402">Facilitating the migration from Advanced Threat Analytics (ATA) to Defender for Identity.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-409">Упрощение переноса из Advanced Threat Analytics (ATA) в Defender for Identity.</span><span class="sxs-lookup"><span data-stu-id="d41a5-409">Facilitating the migration from Advanced Threat Analytics (ATA) to Defender for Identity.</span></span> </li>
 </ul>
-<p><span data-ttu-id="990d9-403"><strong>Ниже приводится неосякаемая область</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-403"><strong>The following is out of scope</strong></span></span></p>
+<p><span data-ttu-id="d41a5-410"><strong>Ниже приводится неосякаемая область</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-410"><strong>The following is out of scope</strong></span></span></p>
 <ul>
 
-<li> <span data-ttu-id="990d9-404">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="990d9-404">Project management of the customer's remediation activities.</span></span> </li>
-<li> <span data-ttu-id="990d9-405">Постоянное управление, реагирование на угрозы и исправление.</span><span class="sxs-lookup"><span data-stu-id="990d9-405">Ongoing management, threat response, and remediation.</span></span>  </li>
-<li> <span data-ttu-id="990d9-406">Развертывание датчика Defender для удостоверений, в том числе:</span><span class="sxs-lookup"><span data-stu-id="990d9-406">Deploying the Defender for Identity sensor, including:</span></span> </li>
+<li> <span data-ttu-id="d41a5-411">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-411">Project management of the customer's remediation activities.</span></span> </li>
+<li> <span data-ttu-id="d41a5-412">Постоянное управление, реагирование на угрозы и исправление.</span><span class="sxs-lookup"><span data-stu-id="d41a5-412">Ongoing management, threat response, and remediation.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-413">Развертывание датчика Defender для удостоверений, в том числе:</span><span class="sxs-lookup"><span data-stu-id="d41a5-413">Deploying the Defender for Identity sensor, including:</span></span> </li>
 <ul>
-<li> <span data-ttu-id="990d9-407">Ручное планирование емкости.</span><span class="sxs-lookup"><span data-stu-id="990d9-407">Manual capacity planning.</span></span> </li>
-<li> <span data-ttu-id="990d9-408">Развертывание датчика в автономных емкостях.</span><span class="sxs-lookup"><span data-stu-id="990d9-408">Deploying the sensor in a standalone capacity.</span></span> </li>
-<li> <span data-ttu-id="990d9-409">Развертывание датчика с помощью адаптора сетевого интерфейса (NIC).</span><span class="sxs-lookup"><span data-stu-id="990d9-409">Deploying the sensor using a Network Interface Card (NIC) Teaming adaptor.</span></span> </li>
-<li> <span data-ttu-id="990d9-410">Развертывание датчика через сторонний инструмент.</span><span class="sxs-lookup"><span data-stu-id="990d9-410">Deploying the sensor through a third-party tool.</span></span> </li>
-<li> <span data-ttu-id="990d9-411">Подключение к облачной службе Defender for Identity с помощью подключения веб-прокси.</span><span class="sxs-lookup"><span data-stu-id="990d9-411">Connecting to the Defender for Identity cloud service through a web proxy connection.</span></span> </li>
+<li> <span data-ttu-id="d41a5-414">Ручное планирование емкости.</span><span class="sxs-lookup"><span data-stu-id="d41a5-414">Manual capacity planning.</span></span> </li>
+<li> <span data-ttu-id="d41a5-415">Развертывание датчика в автономных емкостях.</span><span class="sxs-lookup"><span data-stu-id="d41a5-415">Deploying the sensor in a standalone capacity.</span></span> </li>
+<li> <span data-ttu-id="d41a5-416">Развертывание датчика с помощью адаптора сетевого интерфейса (NIC).</span><span class="sxs-lookup"><span data-stu-id="d41a5-416">Deploying the sensor using a Network Interface Card (NIC) Teaming adaptor.</span></span> </li>
+<li> <span data-ttu-id="d41a5-417">Развертывание датчика через сторонний инструмент.</span><span class="sxs-lookup"><span data-stu-id="d41a5-417">Deploying the sensor through a third-party tool.</span></span> </li>
+<li> <span data-ttu-id="d41a5-418">Подключение к облачной службе Defender for Identity с помощью подключения веб-прокси.</span><span class="sxs-lookup"><span data-stu-id="d41a5-418">Connecting to the Defender for Identity cloud service through a web proxy connection.</span></span> </li>
 </ul>
-<li> <span data-ttu-id="990d9-412">Создание и управление медоносами.</span><span class="sxs-lookup"><span data-stu-id="990d9-412">Creation and management of honeytokens.</span></span> </li>
-<li> <span data-ttu-id="990d9-413">Рекомендации по развертыванию или обучение по:</span><span class="sxs-lookup"><span data-stu-id="990d9-413">Deployment guidance or education on:</span></span> </li>
+<li> <span data-ttu-id="d41a5-419">Создание и управление медоносами.</span><span class="sxs-lookup"><span data-stu-id="d41a5-419">Creation and management of honeytokens.</span></span> </li>
+<li> <span data-ttu-id="d41a5-420">Рекомендации по развертыванию или обучение по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-420">Deployment guidance or education on:</span></span> </li>
 <ul>
-<li> <span data-ttu-id="990d9-414">Исправление или интерпретация различных типов оповещений и отслеживаемой деятельности.</span><span class="sxs-lookup"><span data-stu-id="990d9-414">Remediating or interpreting various alert types and monitored activities.</span></span>  </li>
-<li> <span data-ttu-id="990d9-415">Исследование пути перемещения пользователя, компьютера, поодаль или объекта.</span><span class="sxs-lookup"><span data-stu-id="990d9-415">Investigating a user, computer, lateral movement path, or entity.</span></span> </li>
-<li> <span data-ttu-id="990d9-416">Угроза или продвинутая охота.</span><span class="sxs-lookup"><span data-stu-id="990d9-416">Threat or advanced hunting.</span></span> </li>
-<li> <span data-ttu-id="990d9-417">Реагирование на инцидент.</span><span class="sxs-lookup"><span data-stu-id="990d9-417">Incident response.</span></span> </li>
+<li> <span data-ttu-id="d41a5-421">Исправление или интерпретация различных типов оповещений и отслеживаемой деятельности.</span><span class="sxs-lookup"><span data-stu-id="d41a5-421">Remediating or interpreting various alert types and monitored activities.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-422">Исследование пути перемещения пользователя, компьютера, поодаль или объекта.</span><span class="sxs-lookup"><span data-stu-id="d41a5-422">Investigating a user, computer, lateral movement path, or entity.</span></span> </li>
+<li> <span data-ttu-id="d41a5-423">Угроза или продвинутая охота.</span><span class="sxs-lookup"><span data-stu-id="d41a5-423">Threat or advanced hunting.</span></span> </li>
+<li> <span data-ttu-id="d41a5-424">Реагирование на инцидент.</span><span class="sxs-lookup"><span data-stu-id="d41a5-424">Incident response.</span></span> </li>
 </ul>
-<li> <span data-ttu-id="990d9-418">Предоставление лабораторного руководства по оповещению о безопасности для Defender для identity.</span><span class="sxs-lookup"><span data-stu-id="990d9-418">Providing a security alert lab tutorial for Defender for Identity.</span></span> </li>
-<li> <span data-ttu-id="990d9-419">Предоставление уведомлений, когда Defender for Identity обнаруживает подозрительные действия, отправляя оповещения безопасности на сервер syslog с помощью назначенного датчика.</span><span class="sxs-lookup"><span data-stu-id="990d9-419">Providing notification when Defender for Identity detects suspicious activities by sending security alerts to your syslog server through a nominated sensor.</span></span>  </li>
-<li> <span data-ttu-id="990d9-420">Настройка defender for Identity для выполнения запросов с помощью удаленного протокола диспетчера безопасности (SAMR) для идентификации локальных администраторов на определенных машинах.</span><span class="sxs-lookup"><span data-stu-id="990d9-420">Configuring Defender for Identity to perform queries using security account manager remote (SAMR) protocol to identify local admins on specific machines.</span></span> </li>
-<li> <span data-ttu-id="990d9-421">Настройка VPN-решений для добавления сведений из VPN-подключения на страницу профиля пользователя.</span><span class="sxs-lookup"><span data-stu-id="990d9-421">Configuring VPN solutions to add information from the VPN connection to a user’s profile page.</span></span>  </li>
-<li> <span data-ttu-id="990d9-422">Сведения о безопасности и управление событиями (SIEM) или интеграция API (включая Azure Sentinel).</span><span class="sxs-lookup"><span data-stu-id="990d9-422">Security information and event management (SIEM) or API integration (including Azure Sentinel).</span></span> </li>
-<li> <span data-ttu-id="990d9-423">Развертывание датчиков Defender для удостоверений в качестве доказательства концепции.</span><span class="sxs-lookup"><span data-stu-id="990d9-423">Deploying Defender for Identity sensors as a proof of concept.</span></span></li>
+<li> <span data-ttu-id="d41a5-425">Предоставление лабораторного руководства по оповещению о безопасности для Defender для identity.</span><span class="sxs-lookup"><span data-stu-id="d41a5-425">Providing a security alert lab tutorial for Defender for Identity.</span></span> </li>
+<li> <span data-ttu-id="d41a5-426">Предоставление уведомлений, когда Defender for Identity обнаруживает подозрительные действия, отправляя оповещения безопасности на сервер syslog с помощью назначенного датчика.</span><span class="sxs-lookup"><span data-stu-id="d41a5-426">Providing notification when Defender for Identity detects suspicious activities by sending security alerts to your syslog server through a nominated sensor.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-427">Настройка defender for Identity для выполнения запросов с помощью удаленного протокола диспетчера безопасности (SAMR) для идентификации локальных администраторов на определенных машинах.</span><span class="sxs-lookup"><span data-stu-id="d41a5-427">Configuring Defender for Identity to perform queries using security account manager remote (SAMR) protocol to identify local admins on specific machines.</span></span> </li>
+<li> <span data-ttu-id="d41a5-428">Настройка VPN-решений для добавления сведений из VPN-подключения на страницу профиля пользователя.</span><span class="sxs-lookup"><span data-stu-id="d41a5-428">Configuring VPN solutions to add information from the VPN connection to a user’s profile page.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-429">Сведения о безопасности и управление событиями (SIEM) или интеграция API (включая Azure Sentinel).</span><span class="sxs-lookup"><span data-stu-id="d41a5-429">Security information and event management (SIEM) or API integration (including Azure Sentinel).</span></span> </li>
+<li> <span data-ttu-id="d41a5-430">Развертывание датчиков Defender для удостоверений в качестве доказательства концепции.</span><span class="sxs-lookup"><span data-stu-id="d41a5-430">Deploying Defender for Identity sensors as a proof of concept.</span></span></li>
 </ul></td>
 <td><ul>
-<li>  <span data-ttu-id="990d9-424">Развернут Active Directory.</span><span class="sxs-lookup"><span data-stu-id="990d9-424">Active Directory deployed.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-425">Контроллеры домена, которые вы собираетесь установить датчики Defender для удостоверений, подключены к облачной службе Defender для удостоверений.</span><span class="sxs-lookup"><span data-stu-id="990d9-425">The domain controllers you intend to install Defender for Identity sensors on have internet connectivity to the Defender for Identity cloud service.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-431">Развернут Active Directory.</span><span class="sxs-lookup"><span data-stu-id="d41a5-431">Active Directory deployed.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-432">Контроллеры домена, которые вы собираетесь установить датчики Defender для удостоверений, подключены к облачной службе Defender для удостоверений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-432">The domain controllers you intend to install Defender for Identity sensors on have internet connectivity to the Defender for Identity cloud service.</span></span>  </li>
 <ul>
-<li> <span data-ttu-id="990d9-426">Брандмауэр и прокси должны быть открыты для связи с облачной службой Defender for Identity (\*.atp.azure.com порт 443 должен быть открыт).</span><span class="sxs-lookup"><span data-stu-id="990d9-426">Your firewall and proxy must be open to communicate with the Defender for Identity cloud service (\*.atp.azure.com port 443 must be open).</span></span></li>
+<li> <span data-ttu-id="d41a5-433">Брандмауэр и прокси должны быть открыты для связи с облачной службой Defender for Identity (\*.atp.azure.com порт 443 должен быть открыт).</span><span class="sxs-lookup"><span data-stu-id="d41a5-433">Your firewall and proxy must be open to communicate with the Defender for Identity cloud service (\*.atp.azure.com port 443 must be open).</span></span></li>
 </ul>
-<li> <span data-ttu-id="990d9-427">Контроллеры домена, работающие на одном из следующих:</span><span class="sxs-lookup"><span data-stu-id="990d9-427">Domain controllers running on one of the following:</span></span></li>
+<li> <span data-ttu-id="d41a5-434">Контроллеры домена, работающие на одном из следующих:</span><span class="sxs-lookup"><span data-stu-id="d41a5-434">Domain controllers running on one of the following:</span></span></li>
 <ul>
-<li> <span data-ttu-id="990d9-428">Windows Server 2008 R2 SP1.</span><span class="sxs-lookup"><span data-stu-id="990d9-428">Windows Server 2008 R2 SP1.</span></span></li>
-<li> <span data-ttu-id="990d9-429">Windows Server 2012.</span><span class="sxs-lookup"><span data-stu-id="990d9-429">Windows Server 2012.</span></span></li>
-<li> <span data-ttu-id="990d9-430">Windows Server 2012 R2.</span><span class="sxs-lookup"><span data-stu-id="990d9-430">Windows Server 2012 R2.</span></span></li>
-<li> <span data-ttu-id="990d9-431">Windows Server 2016.</span><span class="sxs-lookup"><span data-stu-id="990d9-431">Windows Server 2016.</span></span></li>
-<li> <span data-ttu-id="990d9-432">Windows Server 2019 с KB4487044 (сборка ОС 17763.316).</span><span class="sxs-lookup"><span data-stu-id="990d9-432">Windows Server 2019 with KB4487044 (OS Build 17763.316).</span></span></li>
+<li> <span data-ttu-id="d41a5-435">Windows Server 2008 R2 SP1.</span><span class="sxs-lookup"><span data-stu-id="d41a5-435">Windows Server 2008 R2 SP1.</span></span></li>
+<li> <span data-ttu-id="d41a5-436">Windows Server 2012.</span><span class="sxs-lookup"><span data-stu-id="d41a5-436">Windows Server 2012.</span></span></li>
+<li> <span data-ttu-id="d41a5-437">Windows Server 2012 R2.</span><span class="sxs-lookup"><span data-stu-id="d41a5-437">Windows Server 2012 R2.</span></span></li>
+<li> <span data-ttu-id="d41a5-438">Windows Server 2016.</span><span class="sxs-lookup"><span data-stu-id="d41a5-438">Windows Server 2016.</span></span></li>
+<li> <span data-ttu-id="d41a5-439">Windows Server 2019 с KB4487044 (сборка ОС 17763.316).</span><span class="sxs-lookup"><span data-stu-id="d41a5-439">Windows Server 2019 with KB4487044 (OS Build 17763.316).</span></span></li>
 </ul>
 </ul></td>
 </tr>
 
-<tr class="even">
-<td><span data-ttu-id="990d9-433"><strong>Управление информацией (Майкрософт)</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-433"><strong>Microsoft Information Governance</strong></span></span></td>
-
-<td>  <span data-ttu-id="990d9-434">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-434">We provide remote guidance for:</span></span>
+<tr class="odd">
+<td><span data-ttu-id="d41a5-440"><strong>Microsoft Defender для Office 365</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-440"><strong>Microsoft Defender for Office 365</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-441">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-441">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-435">Создание и публикация меток и политик хранения (поддерживается только в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-435">Creating and publishing retention labels and policies (only supported in E5).</span></span>  
-</li>
-<li>  <span data-ttu-id="990d9-436">Управление записями (поддерживается только в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-436">Records management (only supported in E5).</span></span>  </li>
-<ul><li>  <span data-ttu-id="990d9-437">Проверка создания плана файлов.</span><span class="sxs-lookup"><span data-stu-id="990d9-437">Reviewing file plan creation.</span></span> </li>
-<li>  <span data-ttu-id="990d9-438">Создание и управление записями (включая записи на основе событий).</span><span class="sxs-lookup"><span data-stu-id="990d9-438">Creating and managing records (including event-based records).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-439">Просмотр диспозиции.</span><span class="sxs-lookup"><span data-stu-id="990d9-439">Reviewing disposition.</span></span> </ul> </li>
-</ul><span data-ttu-id="990d9-440">
+<li>  <span data-ttu-id="d41a5-442">Включение компонентов "Безопасные ссылки", "Безопасные вложения" и защиты от фишинга.</span><span class="sxs-lookup"><span data-stu-id="d41a5-442">Enabling Safe Links, Safe Attachments, and anti-phishing.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-443">Настройка автоматизации, исследований и ответов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-443">Configuring automation, investigation, and response.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-444">Использование эмулятора атак.</span><span class="sxs-lookup"><span data-stu-id="d41a5-444">Using Attack Simulator.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-445">Отчеты и анализ угроз.</span><span class="sxs-lookup"><span data-stu-id="d41a5-445">Reporting and threat analytics.</span></span>  </li>
+</ul></td>
+<td><span data-ttu-id="d41a5-446">Помимо основной <strong>части</strong> в <a href="#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="d41a5-446">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements.</span></span></td>
+</tr>
 
-<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-440">
+
+<tr class="even">
+<td><span data-ttu-id="d41a5-447"><strong>Управление информацией (Майкрософт)</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-447"><strong>Microsoft Information Governance</strong></span></span></td>
+
+<td>  <span data-ttu-id="d41a5-448">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-448">We provide remote guidance for:</span></span>
+<ul>
+<li>  <span data-ttu-id="d41a5-449">Создание и публикация меток и политик хранения (поддерживается только в E5).</span><span class="sxs-lookup"><span data-stu-id="d41a5-449">Creating and publishing retention labels and policies (only supported in E5).</span></span>  
+</li>
+<li>  <span data-ttu-id="d41a5-450">Управление записями (поддерживается только в E5).</span><span class="sxs-lookup"><span data-stu-id="d41a5-450">Records management (only supported in E5).</span></span>  </li>
+<ul><li>  <span data-ttu-id="d41a5-451">Проверка создания плана файлов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-451">Reviewing file plan creation.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-452">Создание и управление записями (включая записи на основе событий).</span><span class="sxs-lookup"><span data-stu-id="d41a5-452">Creating and managing records (including event-based records).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-453">Просмотр диспозиции.</span><span class="sxs-lookup"><span data-stu-id="d41a5-453">Reviewing disposition.</span></span> </ul> </li>
+</ul><span data-ttu-id="d41a5-454">
+
+<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-454">
 
 <strong> Compliance Manager</strong></span></span>
 
-<span data-ttu-id="990d9-441">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-441">We provide remote guidance for:</span></span>  
+<span data-ttu-id="d41a5-455">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-455">We provide remote guidance for:</span></span>  
 
-<ul> <li><span data-ttu-id="990d9-442">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="990d9-442">Reviewing role types.</span></span>  </li>
-<li> <span data-ttu-id="990d9-443">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="990d9-443">Adding and configuring assessments.</span></span></li>
-<li> <span data-ttu-id="990d9-444">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-444">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
-<li> <span data-ttu-id="990d9-445">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="990d9-445">Reviewing built-in control mapping and assessing controls.</span></span></li>
-<li> <span data-ttu-id="990d9-446">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="990d9-446">Generating a report within an assessment.</span></span></li>
-</ul><span data-ttu-id="990d9-447">
+<ul> <li><span data-ttu-id="d41a5-456">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="d41a5-456">Reviewing role types.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-457">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="d41a5-457">Adding and configuring assessments.</span></span></li>
+<li> <span data-ttu-id="d41a5-458">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-458">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
+<li> <span data-ttu-id="d41a5-459">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="d41a5-459">Reviewing built-in control mapping and assessing controls.</span></span></li>
+<li> <span data-ttu-id="d41a5-460">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="d41a5-460">Generating a report within an assessment.</span></span></li>
+</ul><span data-ttu-id="d41a5-461">
 
   <strong>Ниже приводится неосякаемая область </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-447">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-461">
 
   <strong>The following is out of scope </strong>  
 </span></span><ul>
-<li> <span data-ttu-id="990d9-448">Разработка плана файлов управления записями.</span><span class="sxs-lookup"><span data-stu-id="990d9-448">Development of a records management file plan.</span></span></li>
-<li> <span data-ttu-id="990d9-449">Соединители данных.</span><span class="sxs-lookup"><span data-stu-id="990d9-449">Data connectors.</span></span></li>
-<li> <span data-ttu-id="990d9-450">Разработка информационной архитектуры в SharePoint.</span><span class="sxs-lookup"><span data-stu-id="990d9-450">Development of information architecture in SharePoint.</span></span></li>
-<li> <span data-ttu-id="990d9-451">Настраиваемый сценарий и кодирование.</span><span class="sxs-lookup"><span data-stu-id="990d9-451">Custom scripting and coding.</span></span></li>
-<li> <span data-ttu-id="990d9-452">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="990d9-452">Design, architect, and third-party document review.</span></span></li>
-<li> <span data-ttu-id="990d9-453">Поддержка E3.</span><span class="sxs-lookup"><span data-stu-id="990d9-453">Support for E3.</span></span></li>
-<li> <span data-ttu-id="990d9-454">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="990d9-454">Compliance with industry and regional regulations and requirements.</span></span></li>
-<li> <span data-ttu-id="990d9-455">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-455">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
+<li> <span data-ttu-id="d41a5-462">Разработка плана файлов управления записями.</span><span class="sxs-lookup"><span data-stu-id="d41a5-462">Development of a records management file plan.</span></span></li>
+<li> <span data-ttu-id="d41a5-463">Соединители данных.</span><span class="sxs-lookup"><span data-stu-id="d41a5-463">Data connectors.</span></span></li>
+<li> <span data-ttu-id="d41a5-464">Разработка информационной архитектуры в SharePoint.</span><span class="sxs-lookup"><span data-stu-id="d41a5-464">Development of information architecture in SharePoint.</span></span></li>
+<li> <span data-ttu-id="d41a5-465">Настраиваемый сценарий и кодирование.</span><span class="sxs-lookup"><span data-stu-id="d41a5-465">Custom scripting and coding.</span></span></li>
+<li> <span data-ttu-id="d41a5-466">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="d41a5-466">Design, architect, and third-party document review.</span></span></li>
+<li> <span data-ttu-id="d41a5-467">Поддержка E3.</span><span class="sxs-lookup"><span data-stu-id="d41a5-467">Support for E3.</span></span></li>
+<li> <span data-ttu-id="d41a5-468">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="d41a5-468">Compliance with industry and regional regulations and requirements.</span></span></li>
+<li> <span data-ttu-id="d41a5-469">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-469">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
 </ul>
 
 </td>
-<td><span data-ttu-id="990d9-456">Помимо основной <strong>части</strong> в <a href="#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="990d9-456">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements.</span></span></td>
+<td><span data-ttu-id="d41a5-470">Помимо основной <strong>части</strong> в <a href="#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="d41a5-470">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="990d9-457"><strong>Защита информации (Майкрософт)</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-457"><strong>Microsoft Information Protection</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-458">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-458">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-471"><strong>Защита информации (Майкрософт)</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-471"><strong>Microsoft Information Protection</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-472">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-472">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-459">Классификация данных (поддерживается в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-459">Data classification (supported in E3 and E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-460">Типы конфиденциальной информации (поддерживаемые в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-460">Sensitive information types (supported in E3 and E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-461">Создание меток конфиденциальности (поддерживаемых в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-461">Creating sensitivity labels (supported in E3 and E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-462">Применение меток чувствительности (поддерживается в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-462">Applying sensitivity labels (supported in E3 and E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-463">Классификаторы, которые можно обучить (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-463">Trainable classifiers (supported in E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-464">Знание данных с помощью обозревателя контента и проводника действий (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-464">Knowing your data with content explorer and activity explorer (supported in E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-465">Публикация меток с использованием политик (ручная и автоматическая) (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-465">Publishing labels using policies (manual and automatic) (supported in E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-466">Создание политик предотвращения потери данных конечной точки (DLP) для устройств Windows 10 (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-466">Creating Endpoint data loss prevention (DLP) policies for Windows 10 devices (supported in E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-467">Создание политик DLP для чатов и каналов Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="990d9-467">Creating DLP policies for Microsoft Teams chats and channels.</span></span>  </li>
-</ul><span data-ttu-id="990d9-468">
+<li>  <span data-ttu-id="d41a5-473">Классификация данных (поддерживается в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="d41a5-473">Data classification (supported in E3 and E5).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-474">Типы конфиденциальной информации (поддерживаемые в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="d41a5-474">Sensitive information types (supported in E3 and E5).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-475">Создание меток конфиденциальности (поддерживаемых в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="d41a5-475">Creating sensitivity labels (supported in E3 and E5).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-476">Применение меток чувствительности (поддерживается в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="d41a5-476">Applying sensitivity labels (supported in E3 and E5).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-477">Классификаторы, которые можно обучить (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="d41a5-477">Trainable classifiers (supported in E5).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-478">Знание данных с помощью обозревателя контента и проводника действий (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="d41a5-478">Knowing your data with content explorer and activity explorer (supported in E5).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-479">Публикация меток с использованием политик (ручная и автоматическая) (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="d41a5-479">Publishing labels using policies (manual and automatic) (supported in E5).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-480">Создание политик предотвращения потери данных конечной точки (DLP) для устройств Windows 10 (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="d41a5-480">Creating Endpoint data loss prevention (DLP) policies for Windows 10 devices (supported in E5).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-481">Создание политик DLP для чатов и каналов Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="d41a5-481">Creating DLP policies for Microsoft Teams chats and channels.</span></span>  </li>
+</ul><span data-ttu-id="d41a5-482">
 
-<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-468">
+<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-482">
 
 <strong> Compliance Manager</strong></span></span>
 
-<span data-ttu-id="990d9-469">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-469">We provide remote guidance for:</span></span>  
+<span data-ttu-id="d41a5-483">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-483">We provide remote guidance for:</span></span>  
 
-<ul> <li><span data-ttu-id="990d9-470">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="990d9-470">Reviewing role types.</span></span>  </li>
-<li> <span data-ttu-id="990d9-471">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="990d9-471">Adding and configuring assessments.</span></span></li>
-<li> <span data-ttu-id="990d9-472">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-472">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
-<li> <span data-ttu-id="990d9-473">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="990d9-473">Reviewing built-in control mapping and assessing controls.</span></span></li>
-<li> <span data-ttu-id="990d9-474">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="990d9-474">Generating a report within an assessment.</span></span></li>
-</ul><span data-ttu-id="990d9-475">
+<ul> <li><span data-ttu-id="d41a5-484">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="d41a5-484">Reviewing role types.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-485">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="d41a5-485">Adding and configuring assessments.</span></span></li>
+<li> <span data-ttu-id="d41a5-486">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-486">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
+<li> <span data-ttu-id="d41a5-487">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="d41a5-487">Reviewing built-in control mapping and assessing controls.</span></span></li>
+<li> <span data-ttu-id="d41a5-488">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="d41a5-488">Generating a report within an assessment.</span></span></li>
+</ul><span data-ttu-id="d41a5-489">
 
-<strong> Защита информации Azure</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-475">
+<strong> Защита информации Azure</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-489">
 
 <strong> Azure Information Protection</strong></span></span>
 
-<span data-ttu-id="990d9-476">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-476">We provide remote guidance for:</span></span>  
+<span data-ttu-id="d41a5-490">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-490">We provide remote guidance for:</span></span>  
 <ul>
-<li>  <span data-ttu-id="990d9-477">Активация и настройка клиента.</span><span class="sxs-lookup"><span data-stu-id="990d9-477">Activating and configuring your tenant.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-478">Создание и настройка меток и политик (поддерживается в P1 и P2).</span><span class="sxs-lookup"><span data-stu-id="990d9-478">Creating and setting up labels and policies (supported in P1 and P2).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-479">Применение защиты информации к документам (поддерживается в P1 и P2).</span><span class="sxs-lookup"><span data-stu-id="990d9-479">Applying information protection to documents (supported in P1 and P2).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-480">Автоматическое классификация и маркировка сведений в приложениях Office (например, Word, PowerPoint, Excel и Outlook), работающих в Windows и использующих клиент Azure Information Protection (поддерживается в P2).</span><span class="sxs-lookup"><span data-stu-id="990d9-480">Automatically classifying and labeling information in Office apps (like Word, PowerPoint, Excel, and Outlook) running on Windows and using the Azure Information Protection client (supported in P2).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-481">Обнаружение и маркировка файлов в покое с помощью сканера защиты информации Azure (поддерживается в P1 и P2).</span><span class="sxs-lookup"><span data-stu-id="990d9-481">Discovering and labeling files at rest using the Azure Information Protection scanner (supported in P1 and P2).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-482">Отслеживание сообщений электронной почты в пути с помощью правил потока обработки почты Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="990d9-482">Monitoring emails in transit using Exchange Online mail flow rules.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-491">Активация и настройка клиента.</span><span class="sxs-lookup"><span data-stu-id="d41a5-491">Activating and configuring your tenant.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-492">Создание и настройка меток и политик (поддерживается в P1 и P2).</span><span class="sxs-lookup"><span data-stu-id="d41a5-492">Creating and setting up labels and policies (supported in P1 and P2).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-493">Применение защиты информации к документам (поддерживается в P1 и P2).</span><span class="sxs-lookup"><span data-stu-id="d41a5-493">Applying information protection to documents (supported in P1 and P2).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-494">Автоматическое классификация и маркировка сведений в приложениях Office (например, Word, PowerPoint, Excel и Outlook), работающих в Windows и использующих клиент Azure Information Protection (поддерживается в P2).</span><span class="sxs-lookup"><span data-stu-id="d41a5-494">Automatically classifying and labeling information in Office apps (like Word, PowerPoint, Excel, and Outlook) running on Windows and using the Azure Information Protection client (supported in P2).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-495">Обнаружение и маркировка файлов в покое с помощью сканера защиты информации Azure (поддерживается в P1 и P2).</span><span class="sxs-lookup"><span data-stu-id="d41a5-495">Discovering and labeling files at rest using the Azure Information Protection scanner (supported in P1 and P2).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-496">Отслеживание сообщений электронной почты в пути с помощью правил потока обработки почты Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="d41a5-496">Monitoring emails in transit using Exchange Online mail flow rules.</span></span>  </li>
 </ul>
 
-  <span data-ttu-id="990d9-483">Мы также предоставляем рекомендации, если вы хотите применить защиту с помощью служб управления правами Microsoft Azure (Azure RMS), шифрования сообщений Office 365 (OME) и предотвращения потери данных (DLP).</span><span class="sxs-lookup"><span data-stu-id="990d9-483">We also provide guidance if you want to apply protection using Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME), and data loss prevention (DLP).</span></span>
+  <span data-ttu-id="d41a5-497">Мы также предоставляем рекомендации, если вы хотите применить защиту с помощью служб управления правами Microsoft Azure (Azure RMS), шифрования сообщений Office 365 (OME) и предотвращения потери данных (DLP).</span><span class="sxs-lookup"><span data-stu-id="d41a5-497">We also provide guidance if you want to apply protection using Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME), and data loss prevention (DLP).</span></span>
 
-<span data-ttu-id="990d9-484"><strong>Ниже приводится неосякаемая область </strong></span><span class="sxs-lookup"><span data-stu-id="990d9-484"><strong>The following is out of scope </strong></span></span>  
+<span data-ttu-id="d41a5-498"><strong>Ниже приводится неосякаемая область </strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-498"><strong>The following is out of scope </strong></span></span>  
 <ul>
-<li><span data-ttu-id="990d9-485">Ключ клиента.</span><span class="sxs-lookup"><span data-stu-id="990d9-485">Customer key.</span></span></li>
-<li><span data-ttu-id="990d9-486">Настраиваемая разработка регулярных выражений (RegEx) для типов конфиденциальной информации.</span><span class="sxs-lookup"><span data-stu-id="990d9-486">Custom regular expressions (RegEx) development for sensitive information types.</span></span></li>
-<li><span data-ttu-id="990d9-487">Создание или изменение словарей ключевых слов.</span><span class="sxs-lookup"><span data-stu-id="990d9-487">Creation or modification of keyword dictionaries.</span></span></li>
-<li><span data-ttu-id="990d9-488">Настраиваемый сценарий и кодирование.</span><span class="sxs-lookup"><span data-stu-id="990d9-488">Custom scripting and coding.</span></span></li>
-<li> <span data-ttu-id="990d9-489">Azure Purview.</span><span class="sxs-lookup"><span data-stu-id="990d9-489">Azure Purview.</span></span></li>
-<li> <span data-ttu-id="990d9-490">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="990d9-490">Design, architect, and third-party document review.</span></span></li>
-<li> <span data-ttu-id="990d9-491">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="990d9-491">Compliance with industry and regional regulations and requirements.</span></span></li>
-<li> <span data-ttu-id="990d9-492">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-492">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
+<li><span data-ttu-id="d41a5-499">Ключ клиента.</span><span class="sxs-lookup"><span data-stu-id="d41a5-499">Customer key.</span></span></li>
+<li><span data-ttu-id="d41a5-500">Настраиваемая разработка регулярных выражений (RegEx) для типов конфиденциальной информации.</span><span class="sxs-lookup"><span data-stu-id="d41a5-500">Custom regular expressions (RegEx) development for sensitive information types.</span></span></li>
+<li><span data-ttu-id="d41a5-501">Создание или изменение словарей ключевых слов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-501">Creation or modification of keyword dictionaries.</span></span></li>
+<li><span data-ttu-id="d41a5-502">Настраиваемый сценарий и кодирование.</span><span class="sxs-lookup"><span data-stu-id="d41a5-502">Custom scripting and coding.</span></span></li>
+<li> <span data-ttu-id="d41a5-503">Azure Purview.</span><span class="sxs-lookup"><span data-stu-id="d41a5-503">Azure Purview.</span></span></li>
+<li> <span data-ttu-id="d41a5-504">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="d41a5-504">Design, architect, and third-party document review.</span></span></li>
+<li> <span data-ttu-id="d41a5-505">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="d41a5-505">Compliance with industry and regional regulations and requirements.</span></span></li>
+<li> <span data-ttu-id="d41a5-506">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-506">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
 </ul>
 
 <ul>
 
 </td>
-<td><span data-ttu-id="990d9-493">Помимо основной <strong></strong> части в <a href="#general">целом,</a>минимальные требования к системе, за исключением Azure Information Protection, не существуют.</span><span class="sxs-lookup"><span data-stu-id="990d9-493">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements with the exception of Azure Information Protection.</span></span>
+<td><span data-ttu-id="d41a5-507">Помимо основной <strong></strong> части в <a href="#general">целом,</a>минимальные требования к системе, за исключением Azure Information Protection, не существуют.</span><span class="sxs-lookup"><span data-stu-id="d41a5-507">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements with the exception of Azure Information Protection.</span></span>
 
-<span data-ttu-id="990d9-494"><strong>Azure Information Protection</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-494"><strong>Azure Information Protection</strong></span></span>
+<span data-ttu-id="d41a5-508"><strong>Azure Information Protection</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-508"><strong>Azure Information Protection</strong></span></span>
 
-<span data-ttu-id="990d9-495">Обязанности, необходимые для клиента, включают:</span><span class="sxs-lookup"><span data-stu-id="990d9-495">Customer prerequisite responsibilities include:</span></span>  
+<span data-ttu-id="d41a5-509">Обязанности, необходимые для клиента, включают:</span><span class="sxs-lookup"><span data-stu-id="d41a5-509">Customer prerequisite responsibilities include:</span></span>  
 <ul>
-<li>  <span data-ttu-id="990d9-496">Список местоположений для совместной работы с файлами, которые необходимо отсканировать.</span><span class="sxs-lookup"><span data-stu-id="990d9-496">A list of file share locations to be scanned.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-497">Утвержденная таксономия классификации.</span><span class="sxs-lookup"><span data-stu-id="990d9-497">An approved classification taxonomy.</span></span> </li>
-<li> <span data-ttu-id="990d9-498">Понимание любых нормативных ограничений или требований в отношении управления ключами.</span><span class="sxs-lookup"><span data-stu-id="990d9-498">Understanding of any regulatory restriction or requirements regarding key management.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-499">Учетная запись службы, созданная для локального Active Directory, синхронизированного с Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-499">A service account created for your on-premises Active Directory that has been synchronized with Azure AD.</span></span> </li>
-<li>  <span data-ttu-id="990d9-500">Метки, настроенные для классификации и защиты.</span><span class="sxs-lookup"><span data-stu-id="990d9-500">Labels configured for classification and protection.</span></span> </li>
-<li> <span data-ttu-id="990d9-501">Все необходимые условия для сканера защиты информации Azure на месте.</span><span class="sxs-lookup"><span data-stu-id="990d9-501">All prerequisites for the Azure Information Protection scanner are in place.</span></span> <span data-ttu-id="990d9-502">Дополнительные сведения см. в дополнительных сведениях, необходимых для установки и развертывания сканера единой маркировки <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Azure Information Protection.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-502">For more information, see <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Prerequisites for installing and deploying the Azure Information Protection unified labeling scanner</a>.</span></span> </li>
-<li>  <span data-ttu-id="990d9-503">Убедитесь, что на устройствах пользователей запущена поддерживаемая операционная система и установлены необходимые условия.</span><span class="sxs-lookup"><span data-stu-id="990d9-503">Ensure user devices are running a supported operating system and have the necessary prerequisites installed.</span></span> <span data-ttu-id="990d9-504">Дополнительные сведения см. в следующих сведениях.</span><span class="sxs-lookup"><span data-stu-id="990d9-504">See the following for more details.</span></span></li>
+<li>  <span data-ttu-id="d41a5-510">Список местоположений для совместной работы с файлами, которые необходимо отсканировать.</span><span class="sxs-lookup"><span data-stu-id="d41a5-510">A list of file share locations to be scanned.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-511">Утвержденная таксономия классификации.</span><span class="sxs-lookup"><span data-stu-id="d41a5-511">An approved classification taxonomy.</span></span> </li>
+<li> <span data-ttu-id="d41a5-512">Понимание любых нормативных ограничений или требований в отношении управления ключами.</span><span class="sxs-lookup"><span data-stu-id="d41a5-512">Understanding of any regulatory restriction or requirements regarding key management.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-513">Учетная запись службы, созданная для локального Active Directory, синхронизированного с Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-513">A service account created for your on-premises Active Directory that has been synchronized with Azure AD.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-514">Метки, настроенные для классификации и защиты.</span><span class="sxs-lookup"><span data-stu-id="d41a5-514">Labels configured for classification and protection.</span></span> </li>
+<li> <span data-ttu-id="d41a5-515">Все необходимые условия для сканера защиты информации Azure на месте.</span><span class="sxs-lookup"><span data-stu-id="d41a5-515">All prerequisites for the Azure Information Protection scanner are in place.</span></span> <span data-ttu-id="d41a5-516">Дополнительные сведения см. в дополнительных сведениях, необходимых для установки и развертывания сканера единой маркировки <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Azure Information Protection.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-516">For more information, see <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Prerequisites for installing and deploying the Azure Information Protection unified labeling scanner</a>.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-517">Убедитесь, что на устройствах пользователей запущена поддерживаемая операционная система и установлены необходимые условия.</span><span class="sxs-lookup"><span data-stu-id="d41a5-517">Ensure user devices are running a supported operating system and have the necessary prerequisites installed.</span></span> <span data-ttu-id="d41a5-518">Дополнительные сведения см. в следующих сведениях.</span><span class="sxs-lookup"><span data-stu-id="d41a5-518">See the following for more details.</span></span></li>
 <ul>
-<li> <span data-ttu-id="990d9-505"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Руководство по администрированию: Установите клиент единой маркировки Azure Information Protection для пользователей</a>   </span><span class="sxs-lookup"><span data-stu-id="990d9-505"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Admin Guide: Install the Azure Information Protection unified labeling client for users</a>   </span></span></li>
-<li>  <span data-ttu-id="990d9-506"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Что такое приложение Azure Information Protection для iOS или Android?</a>  </span><span class="sxs-lookup"><span data-stu-id="990d9-506"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">What is the Azure Information Protection app for iOS or Android?</a>  </span></span></li>
+<li> <span data-ttu-id="d41a5-519"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Руководство по администрированию: Установите клиент единой маркировки Azure Information Protection для пользователей</a>   </span><span class="sxs-lookup"><span data-stu-id="d41a5-519"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Admin Guide: Install the Azure Information Protection unified labeling client for users</a>   </span></span></li>
+<li>  <span data-ttu-id="d41a5-520"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Что такое приложение Azure Information Protection для iOS или Android?</a>  </span><span class="sxs-lookup"><span data-stu-id="d41a5-520"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">What is the Azure Information Protection app for iOS or Android?</a>  </span></span></li>
 </ul>
-<li> <span data-ttu-id="990d9-507">Установка и конфигурация соединителя Azure RMS и серверов, включая соединителя Active Directory RMS (AD RMS) для гибридной поддержки.</span><span class="sxs-lookup"><span data-stu-id="990d9-507">Installation and configuration of the Azure RMS connector and servers including the Active Directory RMS (AD RMS) connector for hybrid support.</span></span>  </li>
-<li> <span data-ttu-id="990d9-508">Настройка и конфигурация Bring Your Own Key (BYOK), Double Key Encryption (DKE) (только для клиента единой маркировки) или Hold Your Own Key (HYOK) (только для классического клиента) если вам потребуется один из этих вариантов развертывания.</span><span class="sxs-lookup"><span data-stu-id="990d9-508">Setup and configuration of Bring Your Own Key (BYOK), Double Key Encryption (DKE) (unified labeling client only), or Hold Your Own Key (HYOK) (classic client only) should you require one of these options for your deployment.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-521">Установка и конфигурация соединителя Azure RMS и серверов, включая соединителя Active Directory RMS (AD RMS) для гибридной поддержки.</span><span class="sxs-lookup"><span data-stu-id="d41a5-521">Installation and configuration of the Azure RMS connector and servers including the Active Directory RMS (AD RMS) connector for hybrid support.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-522">Настройка и конфигурация Bring Your Own Key (BYOK), Double Key Encryption (DKE) (только для клиента единой маркировки) или Hold Your Own Key (HYOK) (только для классического клиента) если вам потребуется один из этих вариантов развертывания.</span><span class="sxs-lookup"><span data-stu-id="d41a5-522">Setup and configuration of Bring Your Own Key (BYOK), Double Key Encryption (DKE) (unified labeling client only), or Hold Your Own Key (HYOK) (classic client only) should you require one of these options for your deployment.</span></span>  </li>
   </ul>
 </ul>
 </td>
@@ -757,910 +775,498 @@ ms.locfileid: "50464211"
 </td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="990d9-509"><strong>Microsoft Intune</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-509"><strong>Microsoft Intune</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-510">Мы предоставляем удаленные рекомендации по готовности использовать Intune в качестве облачного поставщика управления мобильными устройствами (MDM) и поставщика управления мобильными приложениями (MAM) для ваших приложений и устройств.</span><span class="sxs-lookup"><span data-stu-id="990d9-510">We provide remote guidance on getting ready to use Intune as the cloud-based mobile device management (MDM) and mobile app management (MAM) provider for your apps and devices.</span></span> <span data-ttu-id="990d9-511">Конкретные действия зависят от исходной среды и основаны на мобильном устройстве и требованиях к управлению мобильными приложениями.</span><span class="sxs-lookup"><span data-stu-id="990d9-511">The exact steps depend on your source environment and are based on your mobile device and mobile app management needs.</span></span> <span data-ttu-id="990d9-512">Возможные действия:</span><span class="sxs-lookup"><span data-stu-id="990d9-512">The steps can include:</span></span>
+<td><span data-ttu-id="d41a5-523"><strong>Microsoft Intune</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-523"><strong>Microsoft Intune</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-524">Мы предоставляем удаленные рекомендации по готовности использовать Intune в качестве облачного поставщика управления мобильными устройствами (MDM) и поставщика управления мобильными приложениями (MAM) для ваших приложений и устройств.</span><span class="sxs-lookup"><span data-stu-id="d41a5-524">We provide remote guidance on getting ready to use Intune as the cloud-based mobile device management (MDM) and mobile app management (MAM) provider for your apps and devices.</span></span> <span data-ttu-id="d41a5-525">Конкретные действия зависят от исходной среды и основаны на мобильном устройстве и требованиях к управлению мобильными приложениями.</span><span class="sxs-lookup"><span data-stu-id="d41a5-525">The exact steps depend on your source environment and are based on your mobile device and mobile app management needs.</span></span> <span data-ttu-id="d41a5-526">Возможные действия:</span><span class="sxs-lookup"><span data-stu-id="d41a5-526">The steps can include:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-513">Лицензирование конечных пользователей.</span><span class="sxs-lookup"><span data-stu-id="990d9-513">Licensing your end users.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-514">Настройка удостоверений, которые будут использоваться Intune, используя локальное active Directory или облачные идентификаторы (Azure AD).</span><span class="sxs-lookup"><span data-stu-id="990d9-514">Configuring identities to be used by Intune by leveraging either your on-premises Active Directory or cloud identities (Azure AD).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-515">Добавление пользователей в подписку Intune, определение ролей ИТ-администраторов, а также создание групп пользователей и устройств.</span><span class="sxs-lookup"><span data-stu-id="990d9-515">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-516">Настройка полномочий MDM на основе потребностей управления, в том числе:</span><span class="sxs-lookup"><span data-stu-id="990d9-516">Configuring your MDM authority, based on your management needs, including:</span></span>
+<li>  <span data-ttu-id="d41a5-527">Лицензирование конечных пользователей.</span><span class="sxs-lookup"><span data-stu-id="d41a5-527">Licensing your end users.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-528">Настройка удостоверений, которые будут использоваться Intune, используя локальное active Directory или облачные идентификаторы (Azure AD).</span><span class="sxs-lookup"><span data-stu-id="d41a5-528">Configuring identities to be used by Intune by leveraging either your on-premises Active Directory or cloud identities (Azure AD).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-529">Добавление пользователей в подписку Intune, определение ролей ИТ-администраторов, а также создание групп пользователей и устройств.</span><span class="sxs-lookup"><span data-stu-id="d41a5-529">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-530">Настройка полномочий MDM на основе потребностей управления, в том числе:</span><span class="sxs-lookup"><span data-stu-id="d41a5-530">Configuring your MDM authority, based on your management needs, including:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-517">Настройка Intune в качестве центра MDM, когда Intune является единственным решением MDM.</span><span class="sxs-lookup"><span data-stu-id="990d9-517">Setting Intune as your MDM authority when Intune is your only MDM solution.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-531">Настройка Intune в качестве центра MDM, когда Intune является единственным решением MDM.</span><span class="sxs-lookup"><span data-stu-id="d41a5-531">Setting Intune as your MDM authority when Intune is your only MDM solution.</span></span>  </li>
 </ul></li>
-<li>  <span data-ttu-id="990d9-518">Предоставление рекомендаций по MDM для следующих действий:</span><span class="sxs-lookup"><span data-stu-id="990d9-518">Providing MDM guidance for:</span></span>
+<li>  <span data-ttu-id="d41a5-532">Предоставление рекомендаций по MDM для следующих действий:</span><span class="sxs-lookup"><span data-stu-id="d41a5-532">Providing MDM guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-519">Настройка тестовых групп, используемых для проверки политик управления MDM.</span><span class="sxs-lookup"><span data-stu-id="990d9-519">Configuring tests groups to be used to validate MDM management policies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-520">Настройка политик управления MDM и таких служб, как:</span><span class="sxs-lookup"><span data-stu-id="990d9-520">Configuring MDM management policies and services like:</span></span>
+<li>  <span data-ttu-id="d41a5-533">Настройка тестовых групп, используемых для проверки политик управления MDM.</span><span class="sxs-lookup"><span data-stu-id="d41a5-533">Configuring tests groups to be used to validate MDM management policies.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-534">Настройка политик управления MDM и таких служб, как:</span><span class="sxs-lookup"><span data-stu-id="d41a5-534">Configuring MDM management policies and services like:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-521">Развертывание приложений для каждой поддерживаемой платформы с помощью веб-ссылок или глубоких ссылок.</span><span class="sxs-lookup"><span data-stu-id="990d9-521">App deployment for each supported platform through web links or deep links.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-522">Политики условного доступа.</span><span class="sxs-lookup"><span data-stu-id="990d9-522">Conditional Access policies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-523">Развертывание профилей электронной почты, беспроводных сетей и VPN, если у вас есть существующие полномочия сертификата, беспроводная сеть или инфраструктура VPN в организации.</span><span class="sxs-lookup"><span data-stu-id="990d9-523">Deployment of email, wireless networks, and VPN profiles if you have an existing certificate authority, wireless network, or VPN infrastructure in your organization.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-524">Подключение к складу данных Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-524">Connecting to the Intune Data Warehouse.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-525">Интеграция Intune со следующими компонентами:</span><span class="sxs-lookup"><span data-stu-id="990d9-525">Integrating Intune with:</span></span>
+<li>  <span data-ttu-id="d41a5-535">Развертывание приложений для каждой поддерживаемой платформы с помощью веб-ссылок или глубоких ссылок.</span><span class="sxs-lookup"><span data-stu-id="d41a5-535">App deployment for each supported platform through web links or deep links.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-536">Политики условного доступа.</span><span class="sxs-lookup"><span data-stu-id="d41a5-536">Conditional Access policies.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-537">Развертывание профилей электронной почты, беспроводных сетей и VPN, если у вас есть существующие полномочия сертификата, беспроводная сеть или инфраструктура VPN в организации.</span><span class="sxs-lookup"><span data-stu-id="d41a5-537">Deployment of email, wireless networks, and VPN profiles if you have an existing certificate authority, wireless network, or VPN infrastructure in your organization.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-538">Подключение к складу данных Intune.</span><span class="sxs-lookup"><span data-stu-id="d41a5-538">Connecting to the Intune Data Warehouse.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-539">Интеграция Intune со следующими компонентами:</span><span class="sxs-lookup"><span data-stu-id="d41a5-539">Integrating Intune with:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-526">Просмотр группы для удаленной помощи (требуется подписка на просмотр группы).</span><span class="sxs-lookup"><span data-stu-id="990d9-526">Team Viewer for remote assistance (a Team Viewer subscription is required).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-527">Решения партнеров Mobile Threat Defense (MTD) (требуется подписка на MTD).</span><span class="sxs-lookup"><span data-stu-id="990d9-527">Mobile Threat Defense (MTD) partner solutions (an MTD subscription is required).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-528">Решение по управлению расходами телекома (требуется подписка на решение по управлению расходами на телеком).</span><span class="sxs-lookup"><span data-stu-id="990d9-528">A telecom expense management solution (a telecom expense management solution subscription is required).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-540">Просмотр группы для удаленной помощи (требуется подписка на просмотр группы).</span><span class="sxs-lookup"><span data-stu-id="d41a5-540">Team Viewer for remote assistance (a Team Viewer subscription is required).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-541">Решения партнеров Mobile Threat Defense (MTD) (требуется подписка на MTD).</span><span class="sxs-lookup"><span data-stu-id="d41a5-541">Mobile Threat Defense (MTD) partner solutions (an MTD subscription is required).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-542">Решение по управлению расходами телекома (требуется подписка на решение по управлению расходами на телеком).</span><span class="sxs-lookup"><span data-stu-id="d41a5-542">A telecom expense management solution (a telecom expense management solution subscription is required).</span></span>  </li>
 
 </ul></li>
-<li>  <span data-ttu-id="990d9-529">Регистрация устройств всех поддерживаемых платформ в Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-529">Enrolling devices of each supported platform to Intune.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-543">Регистрация устройств всех поддерживаемых платформ в Intune.</span><span class="sxs-lookup"><span data-stu-id="d41a5-543">Enrolling devices of each supported platform to Intune.</span></span>  </li>
 </ul></li>
 </ul></li>
-<li>  <span data-ttu-id="990d9-530">Предоставление рекомендаций по защите приложений по:</span><span class="sxs-lookup"><span data-stu-id="990d9-530">Providing app protection guidance on:</span></span>
+<li>  <span data-ttu-id="d41a5-544">Предоставление рекомендаций по защите приложений по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-544">Providing app protection guidance on:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-531">Настройка политик защиты приложений для каждой поддерживаемой платформы.</span><span class="sxs-lookup"><span data-stu-id="990d9-531">Configuring app protection policies for each supported platform.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-532">Настройка политик условного доступа для управляемых приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-532">Configuring Conditional Access policies for managed apps.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-533">Ориентация соответствующих групп пользователей с помощью ранее упомянутых политик MAM.</span><span class="sxs-lookup"><span data-stu-id="990d9-533">Targeting the appropriate user groups with the previously mentioned MAM policies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-534">Использование отчетов об использовании управляемых приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-534">Using managed-apps usage reports.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-545">Настройка политик защиты приложений для каждой поддерживаемой платформы.</span><span class="sxs-lookup"><span data-stu-id="d41a5-545">Configuring app protection policies for each supported platform.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-546">Настройка политик условного доступа для управляемых приложений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-546">Configuring Conditional Access policies for managed apps.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-547">Ориентация соответствующих групп пользователей с помощью ранее упомянутых политик MAM.</span><span class="sxs-lookup"><span data-stu-id="d41a5-547">Targeting the appropriate user groups with the previously mentioned MAM policies.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-548">Использование отчетов об использовании управляемых приложений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-548">Using managed-apps usage reports.</span></span>  </li>
 </ul></li>
-<li>  <span data-ttu-id="990d9-535">Предоставление руководства по миграции из устаревшего управления ПК в intune MDM.</span><span class="sxs-lookup"><span data-stu-id="990d9-535">Providing migration guidance from legacy PC management to Intune MDM.</span></span>  </li>
-</ul><span data-ttu-id="990d9-536">
+<li>  <span data-ttu-id="d41a5-549">Предоставление руководства по миграции из устаревшего управления ПК в intune MDM.</span><span class="sxs-lookup"><span data-stu-id="d41a5-549">Providing migration guidance from legacy PC management to Intune MDM.</span></span>  </li>
+</ul><span data-ttu-id="d41a5-550">
  
 </li>
 </ul>
   
-<strong>Подключение к облаку</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-536">
+<strong>Подключение к облаку</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-550">
  
 </li>
 </ul>
   
 <strong>Cloud-attach</strong></span></span>  
 
-  <span data-ttu-id="990d9-537">Мы повествуем о готовности к подключению к существующим средам Configuration Manager с помощью Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-537">We guide you through getting ready to cloud-attach existing Configuration Manager environments with Intune.</span></span> <span data-ttu-id="990d9-538">Конкретные действия зависят от исходной среды.</span><span class="sxs-lookup"><span data-stu-id="990d9-538">The exact steps depend on your source environment.</span></span> <span data-ttu-id="990d9-539">Возможные действия:</span><span class="sxs-lookup"><span data-stu-id="990d9-539">These steps can include:</span></span>  
+  <span data-ttu-id="d41a5-551">Мы повествуем о готовности к подключению к существующим средам Configuration Manager с помощью Intune.</span><span class="sxs-lookup"><span data-stu-id="d41a5-551">We guide you through getting ready to cloud-attach existing Configuration Manager environments with Intune.</span></span> <span data-ttu-id="d41a5-552">Конкретные действия зависят от исходной среды.</span><span class="sxs-lookup"><span data-stu-id="d41a5-552">The exact steps depend on your source environment.</span></span> <span data-ttu-id="d41a5-553">Возможные действия:</span><span class="sxs-lookup"><span data-stu-id="d41a5-553">These steps can include:</span></span>  
 <ul>
-<li>  <span data-ttu-id="990d9-540">Лицензирование конечных пользователей.</span><span class="sxs-lookup"><span data-stu-id="990d9-540">Licensing your end users.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-541">Настройка удостоверений, применяемых в Intune с помощью локальной службы Active Directory и облачных удостоверений.</span><span class="sxs-lookup"><span data-stu-id="990d9-541">Configuring identities to be used by Intune by leveraging your on-premises Active Directory and cloud identities.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-542">Добавление пользователей в подписку Intune, определение ролей ИТ-администраторов, а также создание групп пользователей и устройств.</span><span class="sxs-lookup"><span data-stu-id="990d9-542">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-543">Предоставление рекомендаций по настройке гибридного присоединиться к Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-543">Providing guidance setting up hybrid Azure AD join.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-544">Предоставление рекомендаций по настройке автоматической регистрации Azure AD для автозарегистрации MDM.</span><span class="sxs-lookup"><span data-stu-id="990d9-544">Providing guidance on setting up Azure AD for MDM auto-enrollment.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-545">Предоставление рекомендаций по настройкам шлюза управления облачными ресурсами при их совместном управлении удаленным управлением устройствами в Интернете.</span><span class="sxs-lookup"><span data-stu-id="990d9-545">Providing guidance on how to set up cloud management gateway when used as a solution for co-management of remote internet-based device management.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-546">Настройка поддерживаемых рабочих нагрузок, которые нужно перевести в Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-546">Configuring supported workloads that you want to switch to Intune.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-547">Установка клиента диспетчера конфигураций на устройствах, зарегистрированных в Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-547">Installing the Configuration Manager client on Intune-enrolled devices.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-554">Лицензирование конечных пользователей.</span><span class="sxs-lookup"><span data-stu-id="d41a5-554">Licensing your end users.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-555">Настройка удостоверений, применяемых в Intune с помощью локальной службы Active Directory и облачных удостоверений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-555">Configuring identities to be used by Intune by leveraging your on-premises Active Directory and cloud identities.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-556">Добавление пользователей в подписку Intune, определение ролей ИТ-администраторов, а также создание групп пользователей и устройств.</span><span class="sxs-lookup"><span data-stu-id="d41a5-556">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-557">Предоставление рекомендаций по настройке гибридного присоединиться к Azure AD.</span><span class="sxs-lookup"><span data-stu-id="d41a5-557">Providing guidance setting up hybrid Azure AD join.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-558">Предоставление рекомендаций по настройке автоматической регистрации Azure AD для автозарегистрации MDM.</span><span class="sxs-lookup"><span data-stu-id="d41a5-558">Providing guidance on setting up Azure AD for MDM auto-enrollment.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-559">Предоставление рекомендаций по настройкам шлюза управления облачными ресурсами при их совместном управлении удаленным управлением устройствами в Интернете.</span><span class="sxs-lookup"><span data-stu-id="d41a5-559">Providing guidance on how to set up cloud management gateway when used as a solution for co-management of remote internet-based device management.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-560">Настройка поддерживаемых рабочих нагрузок, которые нужно перевести в Intune.</span><span class="sxs-lookup"><span data-stu-id="d41a5-560">Configuring supported workloads that you want to switch to Intune.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-561">Установка клиента диспетчера конфигураций на устройствах, зарегистрированных в Intune.</span><span class="sxs-lookup"><span data-stu-id="d41a5-561">Installing the Configuration Manager client on Intune-enrolled devices.</span></span>  </li>
 </ul> 
 
-<span data-ttu-id="990d9-548"><strong>Безопасно развертывание мобильных устройств Outlook для iOS и Android</strong> Мы можем предоставить рекомендации по безопасному развертыванию мобильных устройств Outlook для iOS и Android в организации, чтобы убедиться, что у пользователей установлены все необходимые приложения.</span><span class="sxs-lookup"><span data-stu-id="990d9-548"><strong>Deploy Outlook mobile for iOS and Android securely</strong> We can provide guidance to help you deploy Outlook mobile for iOS and Android securely in your organization to ensure your users have all the required apps installed.</span></span>  
-  <span data-ttu-id="990d9-549">Действия по безопасному развертыванию мобильных устройств Outlook для iOS и Android с помощью Intune зависят от исходных сред.</span><span class="sxs-lookup"><span data-stu-id="990d9-549">The steps to securely deploy Outlook mobile for iOS and Android with Intune depends on your source environment.</span></span> <span data-ttu-id="990d9-550">Он может включать в себя:</span><span class="sxs-lookup"><span data-stu-id="990d9-550">It can include:</span></span>
+<span data-ttu-id="d41a5-562"><strong>Безопасно развертывание мобильных устройств Outlook для iOS и Android</strong> Мы можем предоставить рекомендации по безопасному развертыванию мобильных устройств Outlook для iOS и Android в организации, чтобы убедиться, что у пользователей установлены все необходимые приложения.</span><span class="sxs-lookup"><span data-stu-id="d41a5-562"><strong>Deploy Outlook mobile for iOS and Android securely</strong> We can provide guidance to help you deploy Outlook mobile for iOS and Android securely in your organization to ensure your users have all the required apps installed.</span></span>  
+  <span data-ttu-id="d41a5-563">Действия по безопасному развертыванию мобильных устройств Outlook для iOS и Android с помощью Intune зависят от исходных сред.</span><span class="sxs-lookup"><span data-stu-id="d41a5-563">The steps to securely deploy Outlook mobile for iOS and Android with Intune depends on your source environment.</span></span> <span data-ttu-id="d41a5-564">Он может включать в себя:</span><span class="sxs-lookup"><span data-stu-id="d41a5-564">It can include:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-551">Загрузка приложений Outlook для iOS и Android, Microsoft Authenticator и Портала компании Intune через Магазин приложений Apple или Магазин Google Play.</span><span class="sxs-lookup"><span data-stu-id="990d9-551">Downloading the Outlook for iOS and Android, Microsoft Authenticator, and Intune Company Portal apps through the Apple App Store or Google Play Store.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-552">Предоставление рекомендаций по настройке:</span><span class="sxs-lookup"><span data-stu-id="990d9-552">Providing guidance on setting up:</span></span>
+<li>  <span data-ttu-id="d41a5-565">Загрузка приложений Outlook для iOS и Android, Microsoft Authenticator и Портала компании Intune через Магазин приложений Apple или Магазин Google Play.</span><span class="sxs-lookup"><span data-stu-id="d41a5-565">Downloading the Outlook for iOS and Android, Microsoft Authenticator, and Intune Company Portal apps through the Apple App Store or Google Play Store.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-566">Предоставление рекомендаций по настройке:</span><span class="sxs-lookup"><span data-stu-id="d41a5-566">Providing guidance on setting up:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-553">Развертывание приложений Outlook для iOS и Android, Microsoft Authenticator и портала компании Intune с помощью Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-553">The Outlook for iOS and Android, Microsoft Authenticator, and Intune Company Portal apps deployment with Intune.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-554">Политики защиты приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-554">App protection policies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-555">Политики условного доступа.</span><span class="sxs-lookup"><span data-stu-id="990d9-555">Conditional Access policies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-556">Политики конфигурации приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-556">App configuration policies.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-567">Развертывание приложений Outlook для iOS и Android, Microsoft Authenticator и портала компании Intune с помощью Intune.</span><span class="sxs-lookup"><span data-stu-id="d41a5-567">The Outlook for iOS and Android, Microsoft Authenticator, and Intune Company Portal apps deployment with Intune.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-568">Политики защиты приложений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-568">App protection policies.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-569">Политики условного доступа.</span><span class="sxs-lookup"><span data-stu-id="d41a5-569">Conditional Access policies.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-570">Политики конфигурации приложений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-570">App configuration policies.</span></span>  </li>
 </ul></li>
 </ul>  
   </td>
-<td>  <span data-ttu-id="990d9-557">ИТ-администраторы должны иметь существующие инфраструктуры сертификатов, беспроводной сети и VPN, которые уже работают в рабочей среде при планировании развертывания профилей беспроводной сети и VPN с помощью Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-557">IT admins need to have existing Certificate Authority, wireless network, and VPN infrastructures already working in their production environments when planning on deploying wireless network and VPN profiles with Intune.</span></span>  
-  <span data-ttu-id="990d9-558"><strong>Примечание.</strong>Преимущество службы FastTrack не включает помощь в настройке или настройке органов сертификации, беспроводных сетей, инфраструктур VPN или push-сертификатов Apple MDM для Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-558"><strong>Note</strong>: The FastTrack service benefit doesn't include assistance for setting up or configuring Certificate Authorities, wireless networks, VPN infrastructures, or Apple MDM push certificates for Intune.</span></span>  
+<td>  <span data-ttu-id="d41a5-571">ИТ-администраторы должны иметь существующие инфраструктуры сертификатов, беспроводной сети и VPN, которые уже работают в рабочей среде при планировании развертывания профилей беспроводной сети и VPN с помощью Intune.</span><span class="sxs-lookup"><span data-stu-id="d41a5-571">IT admins need to have existing Certificate Authority, wireless network, and VPN infrastructures already working in their production environments when planning on deploying wireless network and VPN profiles with Intune.</span></span>  
+  <span data-ttu-id="d41a5-572"><strong>Примечание.</strong>Преимущество службы FastTrack не включает помощь в настройке или настройке органов сертификации, беспроводных сетей, инфраструктур VPN или push-сертификатов Apple MDM для Intune.</span><span class="sxs-lookup"><span data-stu-id="d41a5-572"><strong>Note</strong>: The FastTrack service benefit doesn't include assistance for setting up or configuring Certificate Authorities, wireless networks, VPN infrastructures, or Apple MDM push certificates for Intune.</span></span>  
  
-  <span data-ttu-id="990d9-559"><strong>Примечание</strong>. Преимущество службы FastTrack не включает помощь по настройке или обновлению сервера сайта диспетчера конфигураций или клиента диспетчера конфигураций до минимальных требований, необходимых для поддержки подключения к облаку.</span><span class="sxs-lookup"><span data-stu-id="990d9-559"><strong>Note</strong>: The FastTrack service benefit doesn't include assistance for setting up or upgrading either the Configuration Manager site server or Configuration Manager client to the minimum requirements needed to support cloud-attach.</span></span> <span data-ttu-id="990d9-560">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">за помощью к партнеру</a> Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="990d9-560">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with this.</span></span>
+  <span data-ttu-id="d41a5-573"><strong>Примечание</strong>. Преимущество службы FastTrack не включает помощь по настройке или обновлению сервера сайта диспетчера конфигураций или клиента диспетчера конфигураций до минимальных требований, необходимых для поддержки подключения к облаку.</span><span class="sxs-lookup"><span data-stu-id="d41a5-573"><strong>Note</strong>: The FastTrack service benefit doesn't include assistance for setting up or upgrading either the Configuration Manager site server or Configuration Manager client to the minimum requirements needed to support cloud-attach.</span></span> <span data-ttu-id="d41a5-574">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">за помощью к партнеру</a> Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="d41a5-574">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with this.</span></span>
 
-  <span data-ttu-id="990d9-561"><strong>Интеграция Intune с Advanced Threat Protection (ATP) в Microsoft Defender</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-561"><strong>Intune integrated with Microsoft Defender Advanced Threat Protection (ATP)</strong></span></span> 
+  <span data-ttu-id="d41a5-575"><strong>Intune, интегрированный с Microsoft Defender для конечной точки</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-575"><strong>Intune integrated with Microsoft Defender for Endpoint</strong></span></span> 
  
-  <span data-ttu-id="990d9-562"><strong>Примечание.</strong>Мы предоставляем помощь в интеграции Intune с ATP Microsoft Defender и создании политик соответствия требованиям устройств на основе оценки уровня риска Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-562"><strong>Note</strong>: We provide assistance on integrating Intune with Microsoft Defender ATP and creating device compliance policies based on its Windows 10 risk level assessment.</span></span> <span data-ttu-id="990d9-563">Мы не предоставляем помощь в приобретении, лицензировании или активации.</span><span class="sxs-lookup"><span data-stu-id="990d9-563">We don't provide assistance on purchasing, licensing, or activation.</span></span> <span data-ttu-id="990d9-564">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">за помощью к партнеру</a> Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="990d9-564">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with this.</span></span>  
+  <span data-ttu-id="d41a5-576"><strong>Примечание.</strong>Мы предоставляем помощь в интеграции Intune с Microsoft Defender для конечной точки и создании политик соответствия требованиям устройств на основе оценки уровня риска Windows 10.</span><span class="sxs-lookup"><span data-stu-id="d41a5-576"><strong>Note</strong>: We provide assistance on integrating Intune with Microsoft Defender for Endpoint and creating device compliance policies based on its Windows 10 risk level assessment.</span></span> <span data-ttu-id="d41a5-577">Мы не предоставляем помощь в приобретении, лицензировании или активации.</span><span class="sxs-lookup"><span data-stu-id="d41a5-577">We don't provide assistance on purchasing, licensing, or activation.</span></span> <span data-ttu-id="d41a5-578">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">за помощью к партнеру</a> Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="d41a5-578">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with this.</span></span>  
   
-<span data-ttu-id="990d9-565"><strong>Windows Autopilot</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-565"><strong>Windows Autopilot</strong></span></span> 
+<span data-ttu-id="d41a5-579"><strong>Windows Autopilot</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-579"><strong>Windows Autopilot</strong></span></span> 
  
-  <span data-ttu-id="990d9-566">ИТ-администраторы отвечают за регистрацию устройств в организации путем отправки поставщиком оборудования идентификаторов оборудования от имени администраторов или с помощью самостоятельной их отправки в службу Windows Autopilot.</span><span class="sxs-lookup"><span data-stu-id="990d9-566">IT admins are responsible for registering their devices to their organization by either having the hardware vendor upload their hardware IDs on their behalf or by uploading it themselves into the Windows Autopilot service.</span></span>  
+  <span data-ttu-id="d41a5-580">ИТ-администраторы отвечают за регистрацию устройств в организации путем отправки поставщиком оборудования идентификаторов оборудования от имени администраторов или с помощью самостоятельной их отправки в службу Windows Autopilot.</span><span class="sxs-lookup"><span data-stu-id="d41a5-580">IT admins are responsible for registering their devices to their organization by either having the hardware vendor upload their hardware IDs on their behalf or by uploading it themselves into the Windows Autopilot service.</span></span>  
   
 </td>
 </tr>
 
-<tr class="odd">
-<td><span data-ttu-id="990d9-567"><strong>Office 365 Advanced Threat Protection (ATP)</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-567"><strong>Office 365 Advanced Threat Protection (ATP)</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-568">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-568">We provide remote guidance for:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-569">Включение компонентов "Безопасные ссылки", "Безопасные вложения" и защиты от фишинга.</span><span class="sxs-lookup"><span data-stu-id="990d9-569">Enabling Safe Links, Safe Attachments, and anti-phishing.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-570">Настройка автоматизации, исследований и ответов.</span><span class="sxs-lookup"><span data-stu-id="990d9-570">Configuring automation, investigation, and response.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-571">Использование эмулятора атак.</span><span class="sxs-lookup"><span data-stu-id="990d9-571">Using Attack Simulator.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-572">Отчеты и анализ угроз.</span><span class="sxs-lookup"><span data-stu-id="990d9-572">Reporting and threat analytics.</span></span>  </li>
-</ul></td>
-<td><span data-ttu-id="990d9-573">Помимо основной <strong>части</strong> в <a href="#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="990d9-573">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements.</span></span></td>
-</tr>
+
 </tbody>
 </table>
 
-## <a name="office-365"></a><span data-ttu-id="990d9-574">Office 365</span><span class="sxs-lookup"><span data-stu-id="990d9-574">Office 365</span></span>
+## <a name="office-365"></a><span data-ttu-id="d41a5-581">Office 365</span><span class="sxs-lookup"><span data-stu-id="d41a5-581">Office 365</span></span>
 
 <table>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="990d9-575"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-575"><strong>Service</strong></span></span></th>
-<th><span data-ttu-id="990d9-576"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-576"><strong>FastTrack guidance details</strong></span></span></th>
-<th><span data-ttu-id="990d9-577"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-577"><strong>Source environment expectations</strong></span></span></th>
+<th><span data-ttu-id="d41a5-582"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-582"><strong>Service</strong></span></span></th>
+<th><span data-ttu-id="d41a5-583"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-583"><strong>FastTrack guidance details</strong></span></span></th>
+<th><span data-ttu-id="d41a5-584"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-584"><strong>Source environment expectations</strong></span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><span data-ttu-id="990d9-578"><strong>Exchange Online</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-578"><strong>Exchange Online</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-579">Для Exchange Online мы повеяем процесс, чтобы ваша организация была готова к использованию электронной почты.</span><span class="sxs-lookup"><span data-stu-id="990d9-579">For Exchange Online, we guide you through the process to get your organization ready to use email.</span></span> <span data-ttu-id="990d9-580">Точные действия зависят от исходных сред и планов миграции электронной почты.</span><span class="sxs-lookup"><span data-stu-id="990d9-580">The exact steps depend on your source environment and your email migration plans.</span></span>  
-  <span data-ttu-id="990d9-581">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-581">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-585"><strong>Exchange Online</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-585"><strong>Exchange Online</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-586">Для Exchange Online мы повеяем процесс, чтобы ваша организация была готова к использованию электронной почты.</span><span class="sxs-lookup"><span data-stu-id="d41a5-586">For Exchange Online, we guide you through the process to get your organization ready to use email.</span></span> <span data-ttu-id="d41a5-587">Точные действия зависят от исходных сред и планов миграции электронной почты.</span><span class="sxs-lookup"><span data-stu-id="d41a5-587">The exact steps depend on your source environment and your email migration plans.</span></span>  
+  <span data-ttu-id="d41a5-588">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-588">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-582">Настройка функций Exchange Online Protection (EOP) для всех доменов, поддерживающих почту и проверенных в Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-582">Setting up Exchange Online Protection (EOP) features for all mail-enabled domains validated in Office 365.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-583">Указать записи обмена почтой (MX) в Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-583">Pointing your mail exchange (MX) records to Office 365.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-584">Настройка функции ATP Office 365, если она является частью службы подписки.</span><span class="sxs-lookup"><span data-stu-id="990d9-584">Setting up the Office 365 ATP feature if it’s a part of your subscription service.</span></span> <span data-ttu-id="990d9-585">Дополнительные сведения см. в части <strong>Office 365 Advanced Threat Protection</strong> в этой таблице.</span><span class="sxs-lookup"><span data-stu-id="990d9-585">For more information, see the <strong>Office 365 Advanced Threat Protection</strong> portion of this table.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-p127">Настройка функции защиты от потери данных (DLP) для всех доменов с включенной поддержкой почты, проверенных в Office 365 в рамках подписки. Это выполняется, когда записи MX указывают на Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-p127">Setting up the data loss prevention (DLP) feature for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.  </span></span></li>
-<li>  <span data-ttu-id="990d9-p128">Настройка шифрования сообщений Office 365 (OME) для всех доменов с включенной поддержкой почты, проверенных в Office 365 в рамках подписки. Это выполняется, когда записи MX указывают на Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-p128">Setting up Office 365 Message Encryption (OME) for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.  </span></span></li>
-</ul><span data-ttu-id="990d9-590">
-  <strong>Примечание:</strong> Служба репликации почтовых ящиков (MRS) пытается перенести электронные письма управляемых прав на информацию (IRM) из локального почтового ящика в соответствующий почтовый ящик Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="990d9-590">
-  <strong>Note:</strong> The Mailbox Replication service (MRS) attempts to migrate Information Rights Managed (IRM) emails from your on-premises mailbox to the corresponding Exchange Online mailbox.</span></span> <span data-ttu-id="990d9-591">Возможность чтения защищенных данных после переноса зависит от сопоставления клиентом шаблонов службы Active Directory Rights Managed Services (AD RMS) и их копирования в службу Azure Rights Management Service (Azure RMS).</span><span class="sxs-lookup"><span data-stu-id="990d9-591">Ability to read the protected content post-migration depends on the customer mapping and copying Active Directory Rights Managed Services (AD RMS) templates to the Azure Rights Management Service (Azure RMS).</span></span>  
+<li>  <span data-ttu-id="d41a5-589">Настройка функций Exchange Online Protection (EOP) для всех доменов, поддерживающих почту и проверенных в Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-589">Setting up Exchange Online Protection (EOP) features for all mail-enabled domains validated in Office 365.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-590">Указать записи обмена почтой (MX) в Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-590">Pointing your mail exchange (MX) records to Office 365.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-591">Настройка функции Microsoft Defender для Office 365, если она является частью службы подписки.</span><span class="sxs-lookup"><span data-stu-id="d41a5-591">Setting up the Microsoft Defender for Office 365 feature if it’s a part of your subscription service.</span></span> <span data-ttu-id="d41a5-592">Дополнительные сведения см. в <strong>этой таблице в microsoft Defender for Office 365.</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-592">For more information, see the <strong>Microsoft Defender for Office 365</strong> portion of this table.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-p127">Настройка функции защиты от потери данных (DLP) для всех доменов с включенной поддержкой почты, проверенных в Office 365 в рамках подписки. Это выполняется, когда записи MX указывают на Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-p127">Setting up the data loss prevention (DLP) feature for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.  </span></span></li>
+<li>  <span data-ttu-id="d41a5-p128">Настройка шифрования сообщений Office 365 (OME) для всех доменов с включенной поддержкой почты, проверенных в Office 365 в рамках подписки. Это выполняется, когда записи MX указывают на Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-p128">Setting up Office 365 Message Encryption (OME) for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.  </span></span></li>
+</ul><span data-ttu-id="d41a5-597">
+  <strong>Примечание:</strong> Служба репликации почтовых ящиков (MRS) пытается перенести электронные письма управляемых прав на информацию (IRM) из локального почтового ящика в соответствующий почтовый ящик Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="d41a5-597">
+  <strong>Note:</strong> The Mailbox Replication service (MRS) attempts to migrate Information Rights Managed (IRM) emails from your on-premises mailbox to the corresponding Exchange Online mailbox.</span></span> <span data-ttu-id="d41a5-598">Возможность чтения защищенных данных после переноса зависит от сопоставления клиентом шаблонов службы Active Directory Rights Managed Services (AD RMS) и их копирования в службу Azure Rights Management Service (Azure RMS).</span><span class="sxs-lookup"><span data-stu-id="d41a5-598">Ability to read the protected content post-migration depends on the customer mapping and copying Active Directory Rights Managed Services (AD RMS) templates to the Azure Rights Management Service (Azure RMS).</span></span>  
 <ul>
-<li>  <span data-ttu-id="990d9-592">Настройка портов брандмауэра.</span><span class="sxs-lookup"><span data-stu-id="990d9-592">Configuring firewall ports.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-593">Настройка DNS, включая необходимые рамки политики автообнаружения, политик отправитель (SPF), DomainKeys Identified Mail (DKIM), проверку подлинности сообщений на основе домена, отчетность и соответствие (DMARC) и записи MX (по мере необходимости).</span><span class="sxs-lookup"><span data-stu-id="990d9-593">Setting up DNS, including the required Autodiscover, sender policy framework (SPF), DomainKeys Identified Mail (DKIM), Domain-based Message Authentication, Reporting and Conformance (DMARC) and MX records (as needed).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-594">Настройка потока обработки почты между исходной средой обмена сообщениями и Exchange Online (при необходимости).</span><span class="sxs-lookup"><span data-stu-id="990d9-594">Setting up email flow between your source messaging environment and Exchange Online (as needed).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-595">Перенос почты из исходной среды обмена сообщениями в Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-595">Undertaking mail migration from your source messaging environment to Office 365.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-596">Настройка почтовых клиентов (Outlook для Windows, Outlook в Интернете, Outlook для iOS и Android).</span><span class="sxs-lookup"><span data-stu-id="990d9-596">Configuring mailbox clients (Outlook for Windows, Outlook on the web, and Outlook for iOS and Android).</span></span>  </li>
-</ul><span data-ttu-id="990d9-597">
-  <strong>Миграция данных</strong>  </span><span class="sxs-lookup"><span data-stu-id="990d9-597">
+<li>  <span data-ttu-id="d41a5-599">Настройка портов брандмауэра.</span><span class="sxs-lookup"><span data-stu-id="d41a5-599">Configuring firewall ports.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-600">Настройка DNS, включая необходимые рамки политики автообнаружения, политик отправитель (SPF), DomainKeys Identified Mail (DKIM), проверку подлинности сообщений на основе домена, отчетность и соответствие (DMARC) и записи MX (по мере необходимости).</span><span class="sxs-lookup"><span data-stu-id="d41a5-600">Setting up DNS, including the required Autodiscover, sender policy framework (SPF), DomainKeys Identified Mail (DKIM), Domain-based Message Authentication, Reporting and Conformance (DMARC) and MX records (as needed).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-601">Настройка потока обработки почты между исходной средой обмена сообщениями и Exchange Online (при необходимости).</span><span class="sxs-lookup"><span data-stu-id="d41a5-601">Setting up email flow between your source messaging environment and Exchange Online (as needed).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-602">Перенос почты из исходной среды обмена сообщениями в Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-602">Undertaking mail migration from your source messaging environment to Office 365.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-603">Настройка почтовых клиентов (Outlook для Windows, Outlook в Интернете, Outlook для iOS и Android).</span><span class="sxs-lookup"><span data-stu-id="d41a5-603">Configuring mailbox clients (Outlook for Windows, Outlook on the web, and Outlook for iOS and Android).</span></span>  </li>
+</ul><span data-ttu-id="d41a5-604">
+  <strong>Миграция данных</strong>  </span><span class="sxs-lookup"><span data-stu-id="d41a5-604">
   <strong>Data migration</strong>  </span></span><br>
-<span data-ttu-id="990d9-598">Сведения об использовании преимущества FastTrack для переноса данных в Office 365 см. <a href="https://docs.microsoft.com/fasttrack/data-migration">в этой информации.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-598">For information on using the FastTrack benefit for data migration to Office 365, see <a href="https://docs.microsoft.com/fasttrack/data-migration">Data Migration</a>.</span></span>   
-<td>  <span data-ttu-id="990d9-599">В исходных средах должен быть один из следующих минимальных уровней:</span><span class="sxs-lookup"><span data-stu-id="990d9-599">Your source environment must have one of the following minimum levels:</span></span>
+<span data-ttu-id="d41a5-605">Сведения об использовании преимущества FastTrack для переноса данных в Office 365 см. <a href="https://docs.microsoft.com/fasttrack/data-migration">в этой информации.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-605">For information on using the FastTrack benefit for data migration to Office 365, see <a href="https://docs.microsoft.com/fasttrack/data-migration">Data Migration</a>.</span></span>   
+<td>  <span data-ttu-id="d41a5-606">В исходных средах должен быть один из следующих минимальных уровней:</span><span class="sxs-lookup"><span data-stu-id="d41a5-606">Your source environment must have one of the following minimum levels:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-600">Одна или несколько организаций Exchange с Exchange Server 2003 или более поздней версии.</span><span class="sxs-lookup"><span data-stu-id="990d9-600">Single or multiple Exchange organizations with Exchange Server 2003 onward.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-601">Одна почтовая среда, поддерживающая протокол IMAP.</span><span class="sxs-lookup"><span data-stu-id="990d9-601">A single Internet Message Access Protocol (IMAP)-capable email environment.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-602">Одна среда G Suite (только Gmail, Контакты и Календарь).</span><span class="sxs-lookup"><span data-stu-id="990d9-602">A single G Suite environment (Gmail, Contacts, and Calendar only).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-603">Сведения о возможностях multi-Geo см. в <a href="https://go.microsoft.com/fwlink/?linkid=872776">сайте Multi-Geo Capabilities in Exchange Online.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-603">For information on Multi-Geo Capabilities, see <a href="https://go.microsoft.com/fwlink/?linkid=872776">Multi-Geo Capabilities in Exchange Online</a>.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-607">Одна или несколько организаций Exchange с Exchange Server 2003 или более поздней версии.</span><span class="sxs-lookup"><span data-stu-id="d41a5-607">Single or multiple Exchange organizations with Exchange Server 2003 onward.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-608">Одна почтовая среда, поддерживающая протокол IMAP.</span><span class="sxs-lookup"><span data-stu-id="d41a5-608">A single Internet Message Access Protocol (IMAP)-capable email environment.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-609">Одна среда G Suite (только Gmail, Контакты и Календарь).</span><span class="sxs-lookup"><span data-stu-id="d41a5-609">A single G Suite environment (Gmail, Contacts, and Calendar only).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-610">Сведения о возможностях multi-Geo см. в <a href="https://go.microsoft.com/fwlink/?linkid=872776">сайте Multi-Geo Capabilities in Exchange Online.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-610">For information on Multi-Geo Capabilities, see <a href="https://go.microsoft.com/fwlink/?linkid=872776">Multi-Geo Capabilities in Exchange Online</a>.</span></span>  </li>
 </ul>
-<span data-ttu-id="990d9-604">Клиентские программы в Интернете, такие как Project for Office 365, Outlook for Windows, Outlook для iOS и Android, клиент синхронизации OneDrive для бизнеса, Power BI Desktop и Skype для бизнеса должны быть на минимальном уровне, как это определено в требованиях системы для <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-604">Online client software like Project for Office 365, Outlook for Windows, Outlook for iOS and Android, OneDrive for Business sync client, Power BI Desktop, and Skype for Business must be at a minimum level as defined in <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 Office</a>.</span></span>  </td>
+<span data-ttu-id="d41a5-611">Клиентские программы в Интернете, такие как Project for Office 365, Outlook for Windows, Outlook для iOS и Android, клиент синхронизации OneDrive для бизнеса, Power BI Desktop и Skype для бизнеса должны быть на минимальном уровне, как это определено в требованиях системы для <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 Office.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-611">Online client software like Project for Office 365, Outlook for Windows, Outlook for iOS and Android, OneDrive for Business sync client, Power BI Desktop, and Skype for Business must be at a minimum level as defined in <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 Office</a>.</span></span>  </td>
 </tr>
+
+<td><span data-ttu-id="d41a5-612"><strong>Microsoft Defender для Office 365</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-612"><strong>Microsoft Defender for Office 365</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-613">Дополнительные сведения см. <strong>в веб-сайте Microsoft Defender для Office 365</strong> в <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">области безопасности и соответствия</a>требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-613">For more information, see <strong>Microsoft Defender for Office 365</strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance</a>.</span></span>  
+</td>
+<td></td>
+</tr>
+
+
 <tr class="even">
-<td><span data-ttu-id="990d9-605"><strong>Управление информацией (Майкрософт)</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-605"><strong>Microsoft Information Governance</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-606">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-606">We provide remote guidance for:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-607">Создание и публикация меток и политик хранения (поддерживается только в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-607">Creating and publishing retention labels and policies (only supported in E5).</span></span>  
-</li>
-<li>  <span data-ttu-id="990d9-608">Управление записями (поддерживается только в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-608">Records management (only supported in E5).</span></span>  </li>
-<ul><li>  <span data-ttu-id="990d9-609">Проверка создания плана файлов.</span><span class="sxs-lookup"><span data-stu-id="990d9-609">Reviewing file plan creation.</span></span> </li>
-<li>  <span data-ttu-id="990d9-610">Создание и управление записями (включая записи на основе событий).</span><span class="sxs-lookup"><span data-stu-id="990d9-610">Creating and managing records (including event-based records).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-611">Просмотр диспозиции.</span><span class="sxs-lookup"><span data-stu-id="990d9-611">Reviewing disposition.</span></span> </ul> </li>
-</ul><span data-ttu-id="990d9-612">
-
-<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-612">
-
-<strong> Compliance Manager</strong></span></span>
-
-<span data-ttu-id="990d9-613">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-613">We provide remote guidance for:</span></span>  
-
-<ul> <li><span data-ttu-id="990d9-614">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="990d9-614">Reviewing role types.</span></span>  </li>
-<li> <span data-ttu-id="990d9-615">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="990d9-615">Adding and configuring assessments.</span></span></li>
-<li> <span data-ttu-id="990d9-616">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-616">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
-<li> <span data-ttu-id="990d9-617">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="990d9-617">Reviewing built-in control mapping and assessing controls.</span></span></li>
-<li> <span data-ttu-id="990d9-618">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="990d9-618">Generating a report within an assessment.</span></span></li>
-</ul><span data-ttu-id="990d9-619">
-
-  <strong>Ниже приводится неосякаемая область </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-619">
-
-  <strong>The following is out of scope </strong>  
-</span></span><ul>
-<li> <span data-ttu-id="990d9-620">Разработка плана файлов управления записями.</span><span class="sxs-lookup"><span data-stu-id="990d9-620">Development of a records management file plan.</span></span></li>
-<li> <span data-ttu-id="990d9-621">Соединители данных.</span><span class="sxs-lookup"><span data-stu-id="990d9-621">Data connectors.</span></span></li>
-<li> <span data-ttu-id="990d9-622">Разработка информационной архитектуры в SharePoint.</span><span class="sxs-lookup"><span data-stu-id="990d9-622">Development of information architecture in SharePoint.</span></span></li>
-<li> <span data-ttu-id="990d9-623">Настраиваемый сценарий и кодирование.</span><span class="sxs-lookup"><span data-stu-id="990d9-623">Custom scripting and coding.</span></span></li>
-<li> <span data-ttu-id="990d9-624">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="990d9-624">Design, architect, and third-party document review.</span></span></li>
-<li> <span data-ttu-id="990d9-625">Поддержка E3.</span><span class="sxs-lookup"><span data-stu-id="990d9-625">Support for E3.</span></span></li>
-<li> <span data-ttu-id="990d9-626">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="990d9-626">Compliance with industry and regional regulations and requirements.</span></span></li>
-<li> <span data-ttu-id="990d9-627">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-627">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
-</ul>
-
+<td><span data-ttu-id="d41a5-614"><strong>Управление информацией (Майкрософт)</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-614"><strong>Microsoft Information Governance</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-615">Дополнительные сведения см. в <strong>сайте Microsoft Information Governance</strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-615">For more information, see <strong> Microsoft Information Governance</strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance</a>.</span></span> 
 
 </td>
-<td><span data-ttu-id="990d9-628">Помимо основной <strong>части</strong> в <a href="#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="990d9-628">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements.</span></span></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="990d9-629"><strong>Защита информации (Майкрософт)</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-629"><strong>Microsoft Information Protection</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-630">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-630">We provide remote guidance for:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-631">Классификация данных (поддерживается в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-631">Data classification (supported in E3 and E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-632">Типы конфиденциальной информации (поддерживаемые в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-632">Sensitive information types (supported in E3 and E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-633">Создание меток конфиденциальности (поддерживаемых в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-633">Creating sensitivity labels (supported in E3 and E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-634">Применение меток чувствительности (поддерживается в E3 и E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-634">Applying sensitivity labels (supported in E3 and E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-635">Классификаторы, которые можно обучить (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-635">Trainable classifiers (supported in E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-636">Знание данных с помощью обозревателя контента и проводника действий (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-636">Knowing your data with content explorer and activity explorer (supported in E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-637">Публикация меток с использованием политик (ручная и автоматическая) (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-637">Publishing labels using policies (manual and automatic) (supported in E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-638">Создание политик предотвращения потери данных конечной точки (DLP) для устройств Windows 10 (поддерживается в E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-638">Creating Endpoint data loss prevention (DLP) policies for Windows 10 devices (supported in E5).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-639">Создание политик DLP для чатов и каналов Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="990d9-639">Creating DLP policies for Microsoft Teams chats and channels.</span></span>  </li>
-</ul><span data-ttu-id="990d9-640">
-
-<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-640">
-
-<strong> Compliance Manager</strong></span></span>
-
-<span data-ttu-id="990d9-641">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-641">We provide remote guidance for:</span></span>  
-
-<ul> <li><span data-ttu-id="990d9-642">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="990d9-642">Reviewing role types.</span></span>  </li>
-<li> <span data-ttu-id="990d9-643">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="990d9-643">Adding and configuring assessments.</span></span></li>
-<li> <span data-ttu-id="990d9-644">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-644">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
-<li> <span data-ttu-id="990d9-645">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="990d9-645">Reviewing built-in control mapping and assessing controls.</span></span></li>
-<li> <span data-ttu-id="990d9-646">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="990d9-646">Generating a report within an assessment.</span></span></li>
-</ul><span data-ttu-id="990d9-647">
-
-<strong> Защита информации Azure</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-647">
-
-<strong> Azure Information Protection</strong></span></span>
-
-<span data-ttu-id="990d9-648">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-648">We provide remote guidance for:</span></span>  
-<ul>
-<li>  <span data-ttu-id="990d9-649">Активация и настройка клиента.</span><span class="sxs-lookup"><span data-stu-id="990d9-649">Activating and configuring your tenant.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-650">Создание и настройка меток и политик (поддерживается в P1 и P2).</span><span class="sxs-lookup"><span data-stu-id="990d9-650">Creating and setting up labels and policies (supported in P1 and P2).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-651">Применение защиты информации к документам (поддерживается в P1 и P2).</span><span class="sxs-lookup"><span data-stu-id="990d9-651">Applying information protection to documents (supported in P1 and P2).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-652">Автоматическое классификация и маркировка сведений в приложениях Office (например, Word, PowerPoint, Excel и Outlook), работающих в Windows и использующих клиент Azure Information Protection (поддерживается в P2).</span><span class="sxs-lookup"><span data-stu-id="990d9-652">Automatically classifying and labeling information in Office apps (like Word, PowerPoint, Excel, and Outlook) running on Windows and using the Azure Information Protection client (supported in P2).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-653">Обнаружение и маркировка файлов в покое с помощью сканера защиты информации Azure (поддерживается в P1 и P2).</span><span class="sxs-lookup"><span data-stu-id="990d9-653">Discovering and labeling files at rest using the Azure Information Protection scanner (supported in P1 and P2).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-654">Отслеживание сообщений электронной почты в пути с помощью правил потока обработки почты Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="990d9-654">Monitoring emails in transit using Exchange Online mail flow rules.</span></span>  </li>
-</ul>
-  
-<span data-ttu-id="990d9-655">Мы также предоставляем рекомендации, если вы хотите применить защиту с помощью служб управления правами Microsoft Azure (Azure RMS), шифрования сообщений Office 365 (OME) и предотвращения потери данных (DLP).</span><span class="sxs-lookup"><span data-stu-id="990d9-655">We also provide guidance if you want to apply protection using Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME), and data loss prevention (DLP).</span></span>
-
-<span data-ttu-id="990d9-656"><strong>Ниже приводится неосякаемая область </strong></span><span class="sxs-lookup"><span data-stu-id="990d9-656"><strong>The following is out of scope </strong></span></span>  
-<ul>
-<li><span data-ttu-id="990d9-657">Ключ клиента.</span><span class="sxs-lookup"><span data-stu-id="990d9-657">Customer key.</span></span></li>
-<li><span data-ttu-id="990d9-658">Настраиваемая разработка регулярных выражений (RegEx) для типов конфиденциальной информации.</span><span class="sxs-lookup"><span data-stu-id="990d9-658">Custom regular expressions (RegEx) development for sensitive information types.</span></span></li>
-<li><span data-ttu-id="990d9-659">Создание или изменение словарей ключевых слов.</span><span class="sxs-lookup"><span data-stu-id="990d9-659">Creation or modification of keyword dictionaries.</span></span></li>
-<li><span data-ttu-id="990d9-660">Настраиваемый сценарий и кодирование.</span><span class="sxs-lookup"><span data-stu-id="990d9-660">Custom scripting and coding.</span></span></li>
-<li> <span data-ttu-id="990d9-661">Azure Purview.</span><span class="sxs-lookup"><span data-stu-id="990d9-661">Azure Purview.</span></span></li>
-<li> <span data-ttu-id="990d9-662">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="990d9-662">Design, architect, and third-party document review.</span></span></li>
-<li> <span data-ttu-id="990d9-663">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="990d9-663">Compliance with industry and regional regulations and requirements.</span></span></li>
-<li> <span data-ttu-id="990d9-664">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="990d9-664">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
-</ul>
+<td><span data-ttu-id="d41a5-616"><strong>Защита информации (Майкрософт)</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-616"><strong>Microsoft Information Protection</strong></span></span></td>
+<td>  
+<span data-ttu-id="d41a5-617">Дополнительные сведения см. <strong>в веб-сайте Microsoft Information Protection</strong> in Security and <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Compliance.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-617">For more information, see <strong>Microsoft Information Protection </strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance</a>.</span></span>
 
 </td>
-<td><span data-ttu-id="990d9-665">Помимо основной <strong></strong> части в <a href="#general">целом,</a>минимальные требования к системе, за исключением Azure Information Protection, не существуют.</span><span class="sxs-lookup"><span data-stu-id="990d9-665">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements with the exception of Azure Information Protection.</span></span>
-
-<span data-ttu-id="990d9-666"><strong>Azure Information Protection</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-666"><strong>Azure Information Protection</strong></span></span>
-
-<span data-ttu-id="990d9-667">Обязанности, необходимые для клиента, включают:</span><span class="sxs-lookup"><span data-stu-id="990d9-667">Customer prerequisite responsibilities include:</span></span>  
-<ul>
-<li>  <span data-ttu-id="990d9-668">Список местоположений для совместной работы с файлами, которые необходимо отсканировать.</span><span class="sxs-lookup"><span data-stu-id="990d9-668">A list of file share locations to be scanned.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-669">Утвержденная таксономия классификации.</span><span class="sxs-lookup"><span data-stu-id="990d9-669">An approved classification taxonomy.</span></span> </li>
-<li> <span data-ttu-id="990d9-670">Понимание любых нормативных ограничений или требований в отношении управления ключами.</span><span class="sxs-lookup"><span data-stu-id="990d9-670">Understanding of any regulatory restriction or requirements regarding key management.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-671">Учетная запись службы, созданная для локального Active Directory, синхронизированного с Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-671">A service account created for your on-premises Active Directory that has been synchronized with Azure AD.</span></span> </li>
-<li>  <span data-ttu-id="990d9-672">Метки, настроенные для классификации и защиты.</span><span class="sxs-lookup"><span data-stu-id="990d9-672">Labels configured for classification and protection.</span></span> </li>
-<li> <span data-ttu-id="990d9-673">Все необходимые условия для сканера защиты информации Azure на месте.</span><span class="sxs-lookup"><span data-stu-id="990d9-673">All prerequisites for the Azure Information Protection scanner are in place.</span></span> <span data-ttu-id="990d9-674">Дополнительные сведения см. в дополнительных сведениях, необходимых для установки и развертывания сканера единой маркировки <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Azure Information Protection.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-674">For more information, see <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Prerequisites for installing and deploying the Azure Information Protection unified labeling scanner</a>.</span></span> </li>
-<li>  <span data-ttu-id="990d9-675">Убедитесь, что на устройствах пользователей запущена поддерживаемая операционная система и установлены необходимые условия.</span><span class="sxs-lookup"><span data-stu-id="990d9-675">Ensure user devices are running a supported operating system and have the necessary prerequisites installed.</span></span> <span data-ttu-id="990d9-676">Дополнительные сведения см. в следующих сведениях.</span><span class="sxs-lookup"><span data-stu-id="990d9-676">See the following for more details.</span></span></li>
-<ul>
-<li> <span data-ttu-id="990d9-677"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Руководство по администрированию: Установите клиент единой маркировки Azure Information Protection для пользователей</a>   </span><span class="sxs-lookup"><span data-stu-id="990d9-677"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Admin Guide: Install the Azure Information Protection unified labeling client for users</a>   </span></span></li>
-<li>  <span data-ttu-id="990d9-678"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">Что такое приложение Azure Information Protection для iOS или Android?</a>  </span><span class="sxs-lookup"><span data-stu-id="990d9-678"><a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">What is the Azure Information Protection app for iOS or Android?</a>  </span></span></li>
-</ul>
-<li> <span data-ttu-id="990d9-679">Установка и конфигурация соединителя Azure RMS и серверов, включая соединителя Active Directory RMS (AD RMS) для гибридной поддержки.</span><span class="sxs-lookup"><span data-stu-id="990d9-679">Installation and configuration of the Azure RMS connector and servers including the Active Directory RMS (AD RMS) connector for hybrid support.</span></span>  </li>
-<li> <span data-ttu-id="990d9-680">Настройка и конфигурация Bring Your Own Key (BYOK), Double Key Encryption (DKE) (только для клиента единой маркировки) или Hold Your Own Key (HYOK) (только для классического клиента) если вам потребуется один из этих вариантов развертывания.</span><span class="sxs-lookup"><span data-stu-id="990d9-680">Setup and configuration of Bring Your Own Key (BYOK), Double Key Encryption (DKE) (unified labeling client only), or Hold Your Own Key (HYOK) (classic client only) should you require one of these options for your deployment.</span></span>  </li>
-  </ul>
-</ul>.
+<td>
 
 </td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="990d9-681"><strong>Microsoft Teams</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-681"><strong>Microsoft Teams</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-682">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-682">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-618"><strong>Microsoft Teams</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-618"><strong>Microsoft Teams</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-619">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-619">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-683">Подтверждение минимальных требований в Exchange Online, SharePoint Online, Office 365 Groups и Azure AD для поддержки Teams.</span><span class="sxs-lookup"><span data-stu-id="990d9-683">Confirming minimum requirements in Exchange Online, SharePoint Online, Office 365 Groups, and Azure AD to support Teams.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-684">Настройка портов брандмауэра.</span><span class="sxs-lookup"><span data-stu-id="990d9-684">Configuring firewall ports.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-685">Настройка DNS.</span><span class="sxs-lookup"><span data-stu-id="990d9-685">Setting up DNS.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-686">Подтверждение того, что рабочее пространство Teams включено в клиенте Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-686">Confirming Teams is enabled on your Office 365 tenant.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-687">Включение или отключение пользовательских лицензий.</span><span class="sxs-lookup"><span data-stu-id="990d9-687">Enabling or disabling user licenses.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-688">Оценка сети для Teams:</span><span class="sxs-lookup"><span data-stu-id="990d9-688">Network assessment for Teams:</span></span>
+<li>  <span data-ttu-id="d41a5-620">Подтверждение минимальных требований в Exchange Online, SharePoint Online, Office 365 Groups и Azure AD для поддержки Teams.</span><span class="sxs-lookup"><span data-stu-id="d41a5-620">Confirming minimum requirements in Exchange Online, SharePoint Online, Office 365 Groups, and Azure AD to support Teams.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-621">Настройка портов брандмауэра.</span><span class="sxs-lookup"><span data-stu-id="d41a5-621">Configuring firewall ports.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-622">Настройка DNS.</span><span class="sxs-lookup"><span data-stu-id="d41a5-622">Setting up DNS.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-623">Подтверждение того, что рабочее пространство Teams включено в клиенте Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-623">Confirming Teams is enabled on your Office 365 tenant.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-624">Включение или отключение пользовательских лицензий.</span><span class="sxs-lookup"><span data-stu-id="d41a5-624">Enabling or disabling user licenses.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-625">Оценка сети для Teams:</span><span class="sxs-lookup"><span data-stu-id="d41a5-625">Network assessment for Teams:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-689">Проверка портов и конечных точек.</span><span class="sxs-lookup"><span data-stu-id="990d9-689">Port and endpoint checks.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-690">Проверка качества подключения.</span><span class="sxs-lookup"><span data-stu-id="990d9-690">Connection quality checks.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-691">Оценка пропускной способности.</span><span class="sxs-lookup"><span data-stu-id="990d9-691">Bandwidth estimates.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-626">Проверка портов и конечных точек.</span><span class="sxs-lookup"><span data-stu-id="d41a5-626">Port and endpoint checks.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-627">Проверка качества подключения.</span><span class="sxs-lookup"><span data-stu-id="d41a5-627">Connection quality checks.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-628">Оценка пропускной способности.</span><span class="sxs-lookup"><span data-stu-id="d41a5-628">Bandwidth estimates.</span></span>  </li>
 </ul>
 <ul>
-<li>  <span data-ttu-id="990d9-692">Настройка политики приложений Teams (веб-приложение Teams, приложение Teams Desktop и Teams для приложений для iOS и Android).</span><span class="sxs-lookup"><span data-stu-id="990d9-692">Configuring Teams app policy (Teams web app, Teams Desktop app, and Teams for iOS and Android app).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-629">Настройка политики приложений Teams (веб-приложение Teams, приложение Teams Desktop и Teams для приложений для iOS и Android).</span><span class="sxs-lookup"><span data-stu-id="d41a5-629">Configuring Teams app policy (Teams web app, Teams Desktop app, and Teams for iOS and Android app).</span></span>  </li>
 </ul>
-<span data-ttu-id="990d9-693">Если применимо, мы также предоставляем рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-693">If applicable, we also provide guidance for:</span></span>
+<span data-ttu-id="d41a5-630">Если применимо, мы также предоставляем рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-630">If applicable, we also provide guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-694">Устройства комнат Microsoft Teams:</span><span class="sxs-lookup"><span data-stu-id="990d9-694">Microsoft Teams Room Devices:</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-631">Устройства комнат Microsoft Teams:</span><span class="sxs-lookup"><span data-stu-id="d41a5-631">Microsoft Teams Room Devices:</span></span>  </li>
 <ul>
-<li>  <span data-ttu-id="990d9-695">Создание учетных записей интернет-служб, необходимых для поддерживаемых устройств телефонной и конференц-связи. Устройства перечислены в <a href="https://go.microsoft.com/fwlink/?linkid=2066478">каталоге устройств Teams</a>.</span><span class="sxs-lookup"><span data-stu-id="990d9-695">Creation of online accounts needed for supported telephony and conference room devices listed in the <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams devices catalog</a>.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-696">Удаленная помощь с конфигурацией на стороне служб сертифицированных устройств Microsoft Teams Rooms.</span><span class="sxs-lookup"><span data-stu-id="990d9-696">Remote assistance with service-side configuration of certified Microsoft Teams Rooms devices.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-697">Включение Аудиоконференций:</span><span class="sxs-lookup"><span data-stu-id="990d9-697">Enabling Audio Conferencing:</span></span>  </li>
-<li>  <span data-ttu-id="990d9-698">Настройка организации с использованием параметров по умолчанию для схемы конференции.</span><span class="sxs-lookup"><span data-stu-id="990d9-698">Organization setup for conference bridge default settings.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-699">Назначение моста конференции лицензированным пользователям.</span><span class="sxs-lookup"><span data-stu-id="990d9-699">Assignment of conference bridge to licensed users.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-632">Создание учетных записей интернет-служб, необходимых для поддерживаемых устройств телефонной и конференц-связи. Устройства перечислены в <a href="https://go.microsoft.com/fwlink/?linkid=2066478">каталоге устройств Teams</a>.</span><span class="sxs-lookup"><span data-stu-id="d41a5-632">Creation of online accounts needed for supported telephony and conference room devices listed in the <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Teams devices catalog</a>.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-633">Удаленная помощь с конфигурацией на стороне служб сертифицированных устройств Microsoft Teams Rooms.</span><span class="sxs-lookup"><span data-stu-id="d41a5-633">Remote assistance with service-side configuration of certified Microsoft Teams Rooms devices.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-634">Включение Аудиоконференций:</span><span class="sxs-lookup"><span data-stu-id="d41a5-634">Enabling Audio Conferencing:</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-635">Настройка организации с использованием параметров по умолчанию для схемы конференции.</span><span class="sxs-lookup"><span data-stu-id="d41a5-635">Organization setup for conference bridge default settings.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-636">Назначение моста конференции лицензированным пользователям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-636">Assignment of conference bridge to licensed users.</span></span>  </li>
 </ul>
-<li>  <span data-ttu-id="990d9-700">Телефонная система:</span><span class="sxs-lookup"><span data-stu-id="990d9-700">Phone System:</span></span>
+<li>  <span data-ttu-id="d41a5-637">Телефонная система:</span><span class="sxs-lookup"><span data-stu-id="d41a5-637">Phone System:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-701">Настройка облачных голосовых функций для организации.</span><span class="sxs-lookup"><span data-stu-id="990d9-701">Organization setup for Cloud Voice default settings.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-702">Руководство по планам вызова<a href="https://go.microsoft.com/fwlink/?linkid=2066478">(доступные рынки):</a></span><span class="sxs-lookup"><span data-stu-id="990d9-702">Calling Plans guidance (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">available markets</a>):</span></span>
+<li>  <span data-ttu-id="d41a5-638">Настройка облачных голосовых функций для организации.</span><span class="sxs-lookup"><span data-stu-id="d41a5-638">Organization setup for Cloud Voice default settings.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-639">Руководство по планам вызова<a href="https://go.microsoft.com/fwlink/?linkid=2066478">(доступные рынки):</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-639">Calling Plans guidance (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">available markets</a>):</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-703">Назначение номеров лицензированным пользователям.</span><span class="sxs-lookup"><span data-stu-id="990d9-703">Assignment of numbers to licensed users.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-704">Рекомендации по портированию локальных номеров до 999 в пользовательском интерфейсе.</span><span class="sxs-lookup"><span data-stu-id="990d9-704">Local number porting guidance through user interface (UI) up to 999.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-705">Поддержка запросов на обслуживание для портирования локальных номеров выше 999.</span><span class="sxs-lookup"><span data-stu-id="990d9-705">Local number porting service request (SR) support over 999.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-640">Назначение номеров лицензированным пользователям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-640">Assignment of numbers to licensed users.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-641">Рекомендации по портированию локальных номеров до 999 в пользовательском интерфейсе.</span><span class="sxs-lookup"><span data-stu-id="d41a5-641">Local number porting guidance through user interface (UI) up to 999.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-642">Поддержка запросов на обслуживание для портирования локальных номеров выше 999.</span><span class="sxs-lookup"><span data-stu-id="d41a5-642">Local number porting service request (SR) support over 999.</span></span>  </li>
 </ul></li>
-<li>  <span data-ttu-id="990d9-706">Руководство по прямой маршрутике:</span><span class="sxs-lookup"><span data-stu-id="990d9-706">Direct Routing guidance:</span></span>
+<li>  <span data-ttu-id="d41a5-643">Руководство по прямой маршрутике:</span><span class="sxs-lookup"><span data-stu-id="d41a5-643">Direct Routing guidance:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-707">Руководство по настройке организации для разработки сценариев с размещением партнеров или сценариев, развернутых клиентами, для 10 сайтов.</span><span class="sxs-lookup"><span data-stu-id="990d9-707">Organization setup guidance for Direct Routing design of partner-hosted scenarios, or customer-deployed scenarios for up to 10 sites.</span></span>  </li>
-<li> <span data-ttu-id="990d9-708">Обзор конфигурации пограничного контроллера сеанса (SBC).</span><span class="sxs-lookup"><span data-stu-id="990d9-708">Session Border Controller (SBC) configuration review.</span></span> </li>
+<li>  <span data-ttu-id="d41a5-644">Руководство по настройке организации для разработки сценариев с размещением партнеров или сценариев, развернутых клиентами, для 10 сайтов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-644">Organization setup guidance for Direct Routing design of partner-hosted scenarios, or customer-deployed scenarios for up to 10 sites.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-645">Обзор конфигурации пограничного контроллера сеанса (SBC).</span><span class="sxs-lookup"><span data-stu-id="d41a5-645">Session Border Controller (SBC) configuration review.</span></span> </li>
 
-<li> <span data-ttu-id="990d9-709">Удаленная помощь с конфигурацией плана набора номеров.</span><span class="sxs-lookup"><span data-stu-id="990d9-709">Remote assistance with dial plan configuration.</span></span> </li>
+<li> <span data-ttu-id="d41a5-646">Удаленная помощь с конфигурацией плана набора номеров.</span><span class="sxs-lookup"><span data-stu-id="d41a5-646">Remote assistance with dial plan configuration.</span></span> </li>
 
-<li> <span data-ttu-id="990d9-710">Конфигурация голосового маршрута.</span><span class="sxs-lookup"><span data-stu-id="990d9-710">Voice route configuration.</span></span></li>
+<li> <span data-ttu-id="d41a5-647">Конфигурация голосового маршрута.</span><span class="sxs-lookup"><span data-stu-id="d41a5-647">Voice route configuration.</span></span></li>
 
-<li> <span data-ttu-id="990d9-711">Обход мультимедиа и оптимизация локальных средств массовой информации.</span><span class="sxs-lookup"><span data-stu-id="990d9-711">Media bypass and local media optimization.</span></span> </li>
+<li> <span data-ttu-id="d41a5-648">Обход мультимедиа и оптимизация локальных средств массовой информации.</span><span class="sxs-lookup"><span data-stu-id="d41a5-648">Media bypass and local media optimization.</span></span> </li>
 
 </ul></li>
 </ul></li>
-<li>  <span data-ttu-id="990d9-712">Включение прямых трансляций Teams.</span><span class="sxs-lookup"><span data-stu-id="990d9-712">Enabling Teams live events.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-713">Настройка организации и интеграция в Microsoft Stream.</span><span class="sxs-lookup"><span data-stu-id="990d9-713">Organization setup and integration into Microsoft Stream.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-714">Руководство по переходу Skype для бизнеса на teams.</span><span class="sxs-lookup"><span data-stu-id="990d9-714">Guidance for Skype for Business to Teams transition.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-649">Включение прямых трансляций Teams.</span><span class="sxs-lookup"><span data-stu-id="d41a5-649">Enabling Teams live events.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-650">Настройка организации и интеграция в Microsoft Stream.</span><span class="sxs-lookup"><span data-stu-id="d41a5-650">Organization setup and integration into Microsoft Stream.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-651">Руководство по переходу Skype для бизнеса на teams.</span><span class="sxs-lookup"><span data-stu-id="d41a5-651">Guidance for Skype for Business to Teams transition.</span></span>  </li>
 </ul></td>
 <td><ul>
-<li>  <span data-ttu-id="990d9-715">Удостоверения, включенные в Azure AD для Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-715">Identities enabled in Azure AD for Office 365.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-716">Пользователи, для которых включен SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="990d9-716">Users enabled for SharePoint Online.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-717">Почтовые ящики Exchange присутствуют (онлайн и локально в гибридной конфигурации Exchange).</span><span class="sxs-lookup"><span data-stu-id="990d9-717">Exchange mailboxes are present (online and on-premises in an Exchange hybrid configuration).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-718">Включено для групп Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-718">Enabled for Office 365 Groups.</span></span>  </li>
-</ul><span data-ttu-id="990d9-719">
-  <strong>Примечание:</strong> Если пользователям не назначены и не включены лицензии SharePoint Online, у них не будет хранилища OneDrive для бизнеса в Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-719">
-  <strong>Note:</strong> If users aren't assigned and enabled with SharePoint Online licenses, they won't have OneDrive for Business storage in Office 365.</span></span> <span data-ttu-id="990d9-720">Общий доступ к файлам продолжает работать в Channels, но пользователи не могут обмениваться файлами в чатах без хранения OneDrive для бизнеса в Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-720">File sharing continues to work in Channels, but users can't share files in Chats without OneDrive for Business storage in Office 365.</span></span> <span data-ttu-id="990d9-721">Команды не поддерживают локальное участие в SharePoint.</span><span class="sxs-lookup"><span data-stu-id="990d9-721">Teams doesn't support SharePoint on-premises.</span></span>  <br><span data-ttu-id="990d9-722">
-  <strong>Примечание:</strong> Идеальное состояние для всех пользователей, чтобы их почтовые ящики были дома в Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="990d9-722">
-  <strong>Note:</strong> The ideal state is for all users to have their mailboxes homed on Exchange Online.</span></span> <span data-ttu-id="990d9-723">Пользователи с почтовыми ящиками, в которые есть локальное помещение, должны синхронизировать свои удостоверения с каталогом Office 365 через Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="990d9-723">Users with mailboxes homed on-premises must have their identities synchronized to the Office 365 directory through Azure AD Connect.</span></span> <span data-ttu-id="990d9-724">Для этих гибридных клиентов Exchange, если почтовый ящик пользователя является локальной, пользователь не может добавлять или настраивать соединители.</span><span class="sxs-lookup"><span data-stu-id="990d9-724">For these Exchange hybrid customers, if the user's mailbox is on-premises, the user cannot add or configure Connectors.</span></span>  
-  <span data-ttu-id="990d9-725">Установщики клиентов Microsoft Teams для настольных компьютеров Windows и Mac можно скачать на странице <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>.</span><span class="sxs-lookup"><span data-stu-id="990d9-725">The installers for the Microsoft Teams Windows and Mac desktop clients can be downloaded from <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>.</span></span>  </td>
+<li>  <span data-ttu-id="d41a5-652">Удостоверения, включенные в Azure AD для Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-652">Identities enabled in Azure AD for Office 365.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-653">Пользователи, для которых включен SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="d41a5-653">Users enabled for SharePoint Online.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-654">Почтовые ящики Exchange присутствуют (онлайн и локально в гибридной конфигурации Exchange).</span><span class="sxs-lookup"><span data-stu-id="d41a5-654">Exchange mailboxes are present (online and on-premises in an Exchange hybrid configuration).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-655">Включено для групп Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-655">Enabled for Office 365 Groups.</span></span>  </li>
+</ul><span data-ttu-id="d41a5-656">
+  <strong>Примечание:</strong> Если пользователям не назначены и не включены лицензии SharePoint Online, у них не будет хранилища OneDrive для бизнеса в Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-656">
+  <strong>Note:</strong> If users aren't assigned and enabled with SharePoint Online licenses, they won't have OneDrive for Business storage in Office 365.</span></span> <span data-ttu-id="d41a5-657">Общий доступ к файлам продолжает работать в Channels, но пользователи не могут обмениваться файлами в чатах без хранения OneDrive для бизнеса в Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-657">File sharing continues to work in Channels, but users can't share files in Chats without OneDrive for Business storage in Office 365.</span></span> <span data-ttu-id="d41a5-658">Команды не поддерживают локальное участие в SharePoint.</span><span class="sxs-lookup"><span data-stu-id="d41a5-658">Teams doesn't support SharePoint on-premises.</span></span>  <br><span data-ttu-id="d41a5-659">
+  <strong>Примечание:</strong> Идеальное состояние для всех пользователей, чтобы их почтовые ящики были дома в Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="d41a5-659">
+  <strong>Note:</strong> The ideal state is for all users to have their mailboxes homed on Exchange Online.</span></span> <span data-ttu-id="d41a5-660">Пользователи с почтовыми ящиками, в которые есть локальное помещение, должны синхронизировать свои удостоверения с каталогом Office 365 через Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="d41a5-660">Users with mailboxes homed on-premises must have their identities synchronized to the Office 365 directory through Azure AD Connect.</span></span> <span data-ttu-id="d41a5-661">Для этих гибридных клиентов Exchange, если почтовый ящик пользователя является локальной, пользователь не может добавлять или настраивать соединители.</span><span class="sxs-lookup"><span data-stu-id="d41a5-661">For these Exchange hybrid customers, if the user's mailbox is on-premises, the user cannot add or configure Connectors.</span></span>  
+  <span data-ttu-id="d41a5-662">Установщики клиентов Microsoft Teams для настольных компьютеров Windows и Mac можно скачать на странице <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>.</span><span class="sxs-lookup"><span data-stu-id="d41a5-662">The installers for the Microsoft Teams Windows and Mac desktop clients can be downloaded from <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>.</span></span>  </td>
 </tr>
-<tr class="odd">
-<td><span data-ttu-id="990d9-726"><strong>Office 365 Advanced Threat Protection (ATP)</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-726"><strong>Office 365 Advanced Threat Protection (ATP)</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-727">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-727">We provide remote guidance for:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-728">Включение компонентов "Безопасные ссылки", "Безопасные вложения" и защиты от фишинга.</span><span class="sxs-lookup"><span data-stu-id="990d9-728">Enabling Safe Links, Safe Attachments, and anti-phishing.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-729">Настройка автоматизации, исследований и ответов.</span><span class="sxs-lookup"><span data-stu-id="990d9-729">Configuring automation, investigation, and response.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-730">Использование эмулятора атак.</span><span class="sxs-lookup"><span data-stu-id="990d9-730">Using Attack Simulator.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-731">Отчеты и анализ угроз.</span><span class="sxs-lookup"><span data-stu-id="990d9-731">Reporting and threat analytics.</span></span>  </li>
-</ul></td>
-<td><span data-ttu-id="990d9-732">Помимо основной <strong>части</strong> в <a href="#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="990d9-732">Aside from the <strong>Core onboarding</strong> portion in <a href="#general">General</a>, there are no minimum system requirements.</span></span></td>
-</tr>
+
 <tr class="even">
-<td><span data-ttu-id="990d9-733"><strong>Outlook для iOS и Android</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-733"><strong>Outlook for iOS and Android</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-734">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-734">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-663"><strong>Outlook для iOS и Android</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-663"><strong>Outlook for iOS and Android</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-664">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-664">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-735">Скачивание Outlook для iOS и Android через Apple App Store или Google Play.</span><span class="sxs-lookup"><span data-stu-id="990d9-735">Downloading Outlook for iOS and Android from the Apple App Store and Google Play.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-736">Настройка учетных записей и оценка почтового ящика Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="990d9-736">Configuring accounts and accessing the Exchange Online mailbox.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-737">Защита мобильных устройств Outlook (дополнительные сведения см. <a href="https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">в рублях Securing Outlook для iOS</a> и Android в Exchange Online).</span><span class="sxs-lookup"><span data-stu-id="990d9-737">Securing Outlook mobile (see <a href="https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">Securing Outlook for iOS and Android in Exchange Online</a> for more information).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-665">Скачивание Outlook для iOS и Android через Apple App Store или Google Play.</span><span class="sxs-lookup"><span data-stu-id="d41a5-665">Downloading Outlook for iOS and Android from the Apple App Store and Google Play.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-666">Настройка учетных записей и оценка почтового ящика Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="d41a5-666">Configuring accounts and accessing the Exchange Online mailbox.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-667">Защита мобильных устройств Outlook (дополнительные сведения см. <a href="https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">в рублях Securing Outlook для iOS</a> и Android в Exchange Online).</span><span class="sxs-lookup"><span data-stu-id="d41a5-667">Securing Outlook mobile (see <a href="https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">Securing Outlook for iOS and Android in Exchange Online</a> for more information).</span></span>  </li>
 </ul></td>
 <td><ul>
-<li>  <span data-ttu-id="990d9-738">Удостоверения, включенные в Azure AD для Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-738">Identities enabled in Azure AD for Office 365.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-739">Выполнена настройка Exchange Online, назначены соответствующие лицензии.</span><span class="sxs-lookup"><span data-stu-id="990d9-739">Exchange Online configured and licenses assigned.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-668">Удостоверения, включенные в Azure AD для Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-668">Identities enabled in Azure AD for Office 365.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-669">Выполнена настройка Exchange Online, назначены соответствующие лицензии.</span><span class="sxs-lookup"><span data-stu-id="d41a5-669">Exchange Online configured and licenses assigned.</span></span>  </li>
 </ul></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="990d9-740"><strong>Power BI</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-740"><strong>Power BI</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-741">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-741">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-670"><strong>Power BI</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-670"><strong>Power BI</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-671">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-671">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-742">Назначение лицензий на Power BI.</span><span class="sxs-lookup"><span data-stu-id="990d9-742">Assigning Power BI licenses.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-743">Развертывание приложения Power BI Desktop.</span><span class="sxs-lookup"><span data-stu-id="990d9-743">Deploying the Power BI Desktop app.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-672">Назначение лицензий на Power BI.</span><span class="sxs-lookup"><span data-stu-id="d41a5-672">Assigning Power BI licenses.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-673">Развертывание приложения Power BI Desktop.</span><span class="sxs-lookup"><span data-stu-id="d41a5-673">Deploying the Power BI Desktop app.</span></span>  </li>
 </ul></td>
-<td><span data-ttu-id="990d9-744">Программное обеспечение клиента в Интернете, например Power BI Desktop, должно быть на минимальном уровне, определенном в требованиях системы для <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 и Office.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-744">Online client software like Power BI Desktop must be at a minimum level as defined in the <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 and Office</a>.</span></span></td>
+<td><span data-ttu-id="d41a5-674">Программное обеспечение клиента в Интернете, например Power BI Desktop, должно быть на минимальном уровне, определенном в требованиях системы для <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 и Office.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-674">Online client software like Power BI Desktop must be at a minimum level as defined in the <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 and Office</a>.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="990d9-745"><strong>Project Online</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-745"><strong>Project Online</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-746">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-746">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-675"><strong>Project Online</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-675"><strong>Project Online</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-676">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-676">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-747">Проверка основных функций SharePoint, необходимых для работы Project Online.</span><span class="sxs-lookup"><span data-stu-id="990d9-747">Verifying basic SharePoint functionality that Project Online relies on.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-748">Добавление службы Project Online в клиент (в том числе добавление подписок для пользователей).</span><span class="sxs-lookup"><span data-stu-id="990d9-748">Adding the Project Online service to your tenant (including adding subscriptions to users).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-749">Настройка пула корпоративных ресурсов (ERP).</span><span class="sxs-lookup"><span data-stu-id="990d9-749">Setting up the Enterprise Resource Pool (ERP).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-750">Создание первого проекта.</span><span class="sxs-lookup"><span data-stu-id="990d9-750">Creating your first project.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-677">Проверка основных функций SharePoint, необходимых для работы Project Online.</span><span class="sxs-lookup"><span data-stu-id="d41a5-677">Verifying basic SharePoint functionality that Project Online relies on.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-678">Добавление службы Project Online в клиент (в том числе добавление подписок для пользователей).</span><span class="sxs-lookup"><span data-stu-id="d41a5-678">Adding the Project Online service to your tenant (including adding subscriptions to users).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-679">Настройка пула корпоративных ресурсов (ERP).</span><span class="sxs-lookup"><span data-stu-id="d41a5-679">Setting up the Enterprise Resource Pool (ERP).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-680">Создание первого проекта.</span><span class="sxs-lookup"><span data-stu-id="d41a5-680">Creating your first project.</span></span>  </li>
 </ul></td>
-<td><span data-ttu-id="990d9-751">Программное обеспечение клиента в Интернете, например Project for Office 365, должно быть на минимальном уровне, как это определено в требованиях системы для <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 и Office.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-751">Online client software like Project for Office 365 must be at a minimum level as defined in the <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 and Office</a>.</span></span></td>
+<td><span data-ttu-id="d41a5-681">Программное обеспечение клиента в Интернете, например Project for Office 365, должно быть на минимальном уровне, как это определено в требованиях системы для <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 и Office.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-681">Online client software like Project for Office 365 must be at a minimum level as defined in the <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 and Office</a>.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="990d9-752"><strong>Project Online Professional и Premium</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-752"><strong>Project Online Professional and Premium</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-753">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-753">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-682"><strong>Project Online Professional и Premium</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-682"><strong>Project Online Professional and Premium</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-683">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-683">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-754">Решение проблем, связанных с развертыванием.</span><span class="sxs-lookup"><span data-stu-id="990d9-754">Addressing deployment issues.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-755">Назначение пользователям лицензий с помощью Центра администрирования Microsoft 365 и Windows PowerShell.</span><span class="sxs-lookup"><span data-stu-id="990d9-755">Assigning end-user licenses using the Microsoft 365 admin center and Windows PowerShell.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-756">Установка клиента Project Online для настольных ПК с использованием портала Office 365 и технологии "нажми и работай".</span><span class="sxs-lookup"><span data-stu-id="990d9-756">Installing Project Online Desktop Client from the Office 365 portal using Click-to-Run.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-757">Настройка параметров обновления с помощью средства развертывания Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-757">Configuring update settings using the Office 365 Deployment Tool.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-758">Настройка одного внутреннего сервера распространения для клиента Project Online для настольных ПК, в том числе помощь по созданию файла configuration.xml для его последующего использования в средстве развертывания Office 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-758">Setting up a single on-site distribution server for Project Online Desktop Client, including assistance with the creation of a configuration.xml file for use with the Office 365 Deployment Tool.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-759">Подключение клиента Project Online для настольных ПК к Project Online профессиональный или Project Online расширенный.</span><span class="sxs-lookup"><span data-stu-id="990d9-759">Connecting Project Online Desktop Client to Project Online Professional or Project Online Premium.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-684">Решение проблем, связанных с развертыванием.</span><span class="sxs-lookup"><span data-stu-id="d41a5-684">Addressing deployment issues.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-685">Назначение пользователям лицензий с помощью Центра администрирования Microsoft 365 и Windows PowerShell.</span><span class="sxs-lookup"><span data-stu-id="d41a5-685">Assigning end-user licenses using the Microsoft 365 admin center and Windows PowerShell.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-686">Установка клиента Project Online для настольных ПК с использованием портала Office 365 и технологии "нажми и работай".</span><span class="sxs-lookup"><span data-stu-id="d41a5-686">Installing Project Online Desktop Client from the Office 365 portal using Click-to-Run.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-687">Настройка параметров обновления с помощью средства развертывания Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-687">Configuring update settings using the Office 365 Deployment Tool.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-688">Настройка одного внутреннего сервера распространения для клиента Project Online для настольных ПК, в том числе помощь по созданию файла configuration.xml для его последующего использования в средстве развертывания Office 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-688">Setting up a single on-site distribution server for Project Online Desktop Client, including assistance with the creation of a configuration.xml file for use with the Office 365 Deployment Tool.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-689">Подключение клиента Project Online для настольных ПК к Project Online профессиональный или Project Online расширенный.</span><span class="sxs-lookup"><span data-stu-id="d41a5-689">Connecting Project Online Desktop Client to Project Online Professional or Project Online Premium.</span></span>  </li>
 </ul></td>
-<td><span data-ttu-id="990d9-760">Программное обеспечение клиента в Интернете, например Project for Office 365, должно быть на минимальном уровне, как это определено в требованиях системы для <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 и Office.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-760">Online client software like Project for Office 365 must be at a minimum level as defined in the <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 and Office</a>.</span></span></td>
+<td><span data-ttu-id="d41a5-690">Программное обеспечение клиента в Интернете, например Project for Office 365, должно быть на минимальном уровне, как это определено в требованиях системы для <a href="https://go.microsoft.com/fwlink/?LinkID=723597">Microsoft 365 и Office.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-690">Online client software like Project for Office 365 must be at a minimum level as defined in the <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 and Office</a>.</span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="990d9-761"><strong>SharePoint Online и OneDrive для бизнеса</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-761"><strong>SharePoint Online and OneDrive for Business</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-762">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-762">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-691"><strong>SharePoint Online и OneDrive для бизнеса</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-691"><strong>SharePoint Online and OneDrive for Business</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-692">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-692">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-763">Настройка DNS.</span><span class="sxs-lookup"><span data-stu-id="990d9-763">Setting up DNS.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-764">Настройка портов брандмауэра.</span><span class="sxs-lookup"><span data-stu-id="990d9-764">Configuring firewall ports.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-765">Подготовка пользователей и лицензий.</span><span class="sxs-lookup"><span data-stu-id="990d9-765">Provisioning users and licenses.</span></span>  </li>
-<li><span data-ttu-id="990d9-766">Создание сайтов для администратора SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="990d9-766">Enabling site creation for your SharePoint Online admin.</span></span></li>
-<li><span data-ttu-id="990d9-767">Планирование семейств веб-сайтов.</span><span class="sxs-lookup"><span data-stu-id="990d9-767">Planning site collections.</span></span></li>
-<li><span data-ttu-id="990d9-768">Защита контента и управление разрешениями.</span><span class="sxs-lookup"><span data-stu-id="990d9-768">Securing content and managing permissions.</span></span></li>
-<li><span data-ttu-id="990d9-769">Настройка функций SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="990d9-769">Configuring SharePoint Online features.</span></span></li>
-<li>  <span data-ttu-id="990d9-770">Настройка функций гибридной среды SharePoint, таких как гибридный поиск, гибридные сайты, гибридная таксономия, типы контента, гибридная функция самостоятельного создания сайтов (только для SharePoint Server 2013), расширенное средство запуска приложений, гибридная служба OneDrive для бизнеса и сайты экстрасети.</span><span class="sxs-lookup"><span data-stu-id="990d9-770">Configuring SharePoint hybrid features, like hybrid search, hybrid sites, hybrid taxonomy, content types, hybrid self-service site creation (SharePoint Server 2013 only), extended app launcher, hybrid OneDrive for Business, and extranet sites.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-771">Подход к миграции.</span><span class="sxs-lookup"><span data-stu-id="990d9-771">Your migration approach.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-693">Настройка DNS.</span><span class="sxs-lookup"><span data-stu-id="d41a5-693">Setting up DNS.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-694">Настройка портов брандмауэра.</span><span class="sxs-lookup"><span data-stu-id="d41a5-694">Configuring firewall ports.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-695">Подготовка пользователей и лицензий.</span><span class="sxs-lookup"><span data-stu-id="d41a5-695">Provisioning users and licenses.</span></span>  </li>
+<li><span data-ttu-id="d41a5-696">Создание сайтов для администратора SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="d41a5-696">Enabling site creation for your SharePoint Online admin.</span></span></li>
+<li><span data-ttu-id="d41a5-697">Планирование семейств веб-сайтов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-697">Planning site collections.</span></span></li>
+<li><span data-ttu-id="d41a5-698">Защита контента и управление разрешениями.</span><span class="sxs-lookup"><span data-stu-id="d41a5-698">Securing content and managing permissions.</span></span></li>
+<li><span data-ttu-id="d41a5-699">Настройка функций SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="d41a5-699">Configuring SharePoint Online features.</span></span></li>
+<li>  <span data-ttu-id="d41a5-700">Настройка функций гибридной среды SharePoint, таких как гибридный поиск, гибридные сайты, гибридная таксономия, типы контента, гибридная функция самостоятельного создания сайтов (только для SharePoint Server 2013), расширенное средство запуска приложений, гибридная служба OneDrive для бизнеса и сайты экстрасети.</span><span class="sxs-lookup"><span data-stu-id="d41a5-700">Configuring SharePoint hybrid features, like hybrid search, hybrid sites, hybrid taxonomy, content types, hybrid self-service site creation (SharePoint Server 2013 only), extended app launcher, hybrid OneDrive for Business, and extranet sites.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-701">Подход к миграции.</span><span class="sxs-lookup"><span data-stu-id="d41a5-701">Your migration approach.</span></span>  </li>
 </ul>
-<span data-ttu-id="990d9-772">Дополнительные рекомендации предоставляются для OneDrive для бизнеса в зависимости от версии SharePoint, например:</span><span class="sxs-lookup"><span data-stu-id="990d9-772">Additional guidance is provided for OneDrive for Business depending on your SharePoint version, like:</span></span>
+<span data-ttu-id="d41a5-702">Дополнительные рекомендации предоставляются для OneDrive для бизнеса в зависимости от версии SharePoint, например:</span><span class="sxs-lookup"><span data-stu-id="d41a5-702">Additional guidance is provided for OneDrive for Business depending on your SharePoint version, like:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-773">Определение параметров интеграции и проверка локальной и сетевой инфраструктуры и пропускной способности сети.</span><span class="sxs-lookup"><span data-stu-id="990d9-773">Identifying integration options and reviewing on-premises and online network infrastructure and bandwidth.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-774">Установка SharePoint Online 2013 SP1 (если применимо), планирование и реализация требований синхронизации и удостоверений, а также определение клиента синхронизации OneDrive для бизнеса.</span><span class="sxs-lookup"><span data-stu-id="990d9-774">Installing SharePoint Online 2013 SP1 (if applicable), planning and implementing sync and identity requirements, and identifying your OneDrive for Business sync client.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-775">Планирование и реализация единого внедрения для всех пользователей (или поэтапного внедрения).</span><span class="sxs-lookup"><span data-stu-id="990d9-775">Planning and implementing a single rollout for all users (or a phased rollout).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-776">Назначение лицензий, перенаправление сайтов и библиотек персональных документов в Office 365 (применимо к SharePoint Online 2013), настройка аудиторий для управления доступом к OneDrive (применимо к SharePoint Online 2013).</span><span class="sxs-lookup"><span data-stu-id="990d9-776">Assigning licenses, redirecting My Sites and personal document libraries to Office 365 (applicable to SharePoint Online 2013), setting up audiences to control access to OneDrive (applicable to SharePoint Online 2013).</span></span>  </li>
-<li><span data-ttu-id="990d9-777">Перенаправление или перемещение известных папок в OneDrive.</span><span class="sxs-lookup"><span data-stu-id="990d9-777">Redirecting or moving known folders to OneDrive.</span></span></li>
-<li>  <span data-ttu-id="990d9-778">Развертывание клиентской синхронизации OneDrive для бизнеса.</span><span class="sxs-lookup"><span data-stu-id="990d9-778">Deploying the OneDrive for Business client sync.</span></span>  </li>
-</ul><span data-ttu-id="990d9-779">
-  <strong>Миграция данных</strong>  </span><span class="sxs-lookup"><span data-stu-id="990d9-779">
+<li>  <span data-ttu-id="d41a5-703">Определение параметров интеграции и проверка локальной и сетевой инфраструктуры и пропускной способности сети.</span><span class="sxs-lookup"><span data-stu-id="d41a5-703">Identifying integration options and reviewing on-premises and online network infrastructure and bandwidth.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-704">Установка SharePoint Online 2013 SP1 (если применимо), планирование и реализация требований синхронизации и удостоверений, а также определение клиента синхронизации OneDrive для бизнеса.</span><span class="sxs-lookup"><span data-stu-id="d41a5-704">Installing SharePoint Online 2013 SP1 (if applicable), planning and implementing sync and identity requirements, and identifying your OneDrive for Business sync client.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-705">Планирование и реализация единого внедрения для всех пользователей (или поэтапного внедрения).</span><span class="sxs-lookup"><span data-stu-id="d41a5-705">Planning and implementing a single rollout for all users (or a phased rollout).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-706">Назначение лицензий, перенаправление сайтов и библиотек персональных документов в Office 365 (применимо к SharePoint Online 2013), настройка аудиторий для управления доступом к OneDrive (применимо к SharePoint Online 2013).</span><span class="sxs-lookup"><span data-stu-id="d41a5-706">Assigning licenses, redirecting My Sites and personal document libraries to Office 365 (applicable to SharePoint Online 2013), setting up audiences to control access to OneDrive (applicable to SharePoint Online 2013).</span></span>  </li>
+<li><span data-ttu-id="d41a5-707">Перенаправление или перемещение известных папок в OneDrive.</span><span class="sxs-lookup"><span data-stu-id="d41a5-707">Redirecting or moving known folders to OneDrive.</span></span></li>
+<li>  <span data-ttu-id="d41a5-708">Развертывание клиентской синхронизации OneDrive для бизнеса.</span><span class="sxs-lookup"><span data-stu-id="d41a5-708">Deploying the OneDrive for Business client sync.</span></span>  </li>
+</ul><span data-ttu-id="d41a5-709">
+  <strong>Миграция данных</strong>  </span><span class="sxs-lookup"><span data-stu-id="d41a5-709">
   <strong>Data migration</strong>  </span></span><br>
-<span data-ttu-id="990d9-780">Сведения об использовании преимущества FastTrack для переноса данных в Office 365 см. <a href="https://docs.microsoft.com/fasttrack/data-migration">в этой информации.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-780">For information on using the FastTrack benefit for data migration to Office 365, see <a href="https://docs.microsoft.com/fasttrack/data-migration">Data Migration</a>.</span></span>
+<span data-ttu-id="d41a5-710">Сведения об использовании преимущества FastTrack для переноса данных в Office 365 см. <a href="https://docs.microsoft.com/fasttrack/data-migration">в этой информации.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-710">For information on using the FastTrack benefit for data migration to Office 365, see <a href="https://docs.microsoft.com/fasttrack/data-migration">Data Migration</a>.</span></span>
 </ul></td>
-<td><br><span data-ttu-id="990d9-781"><strong>Гибрид SharePoint:</strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-781"><strong>For SharePoint hybrid:</strong>  
+<td><br><span data-ttu-id="d41a5-711"><strong>Гибрид SharePoint:</strong>  
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-711"><strong>For SharePoint hybrid:</strong>  
 </span></span><ul>
-<li>  <span data-ttu-id="990d9-782">Гибридная конфигурация SharePoint включает настройку гибридного поиска, сайтов, таксономии, типов контента, OneDrive для бизнеса, расширенной пусковой системы приложений, сайтов экстрасетей и создания сайтов самообслуживания, подключенных из локальной среды в единую целевую среду SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="990d9-782">SharePoint hybrid configuration includes configuring hybrid search, sites, taxonomy, content types, OneDrive for Business, an extended app launcher, extranet sites, and self-service site creation connected from on-premises to a single target SharePoint Online environment.</span></span>  </li>
-</ul><span data-ttu-id="990d9-783">
-  <strong>Примечание:</strong> Создание сайтов самообслуживания не имеет возможности для локального сервера под управлением SharePoint 2013.</span><span class="sxs-lookup"><span data-stu-id="990d9-783">
+<li>  <span data-ttu-id="d41a5-712">Гибридная конфигурация SharePoint включает настройку гибридного поиска, сайтов, таксономии, типов контента, OneDrive для бизнеса, расширенной пусковой системы приложений, сайтов экстрасетей и создания сайтов самообслуживания, подключенных из локальной среды в единую целевую среду SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="d41a5-712">SharePoint hybrid configuration includes configuring hybrid search, sites, taxonomy, content types, OneDrive for Business, an extended app launcher, extranet sites, and self-service site creation connected from on-premises to a single target SharePoint Online environment.</span></span>  </li>
+</ul><span data-ttu-id="d41a5-713">
+  <strong>Примечание:</strong> Создание сайтов самообслуживания не имеет возможности для локального сервера под управлением SharePoint 2013.</span><span class="sxs-lookup"><span data-stu-id="d41a5-713">
   <strong>Note:</strong> Self-service site creation is not in scope with on-premises servers running SharePoint 2013.</span></span>  
 <ul>
-<li>  <span data-ttu-id="990d9-784">Чтобы включить гибрид SharePoint, необходимо иметь одну из следующих локальной сред SharePoint Server: 2013, 2016 или 2019.</span><span class="sxs-lookup"><span data-stu-id="990d9-784">To enable SharePoint hybrid, you must have one of the following on-premises SharePoint Server environments: 2013, 2016, or 2019.</span></span>  </li>
-</ul><span data-ttu-id="990d9-785">
-  <strong>Примечание:</strong> Обновление локальной среды SharePoint до SharePoint Server не является областью действия.</span><span class="sxs-lookup"><span data-stu-id="990d9-785">
-  <strong>Note:</strong> Upgrade of on-premises SharePoint environments to SharePoint Server is not in scope.</span></span> <span data-ttu-id="990d9-786">Обратитесь за <a href="https://go.microsoft.com/fwlink/?linkid=2080150">помощью к партнеру</a> Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="990d9-786">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance.</span></span> <span data-ttu-id="990d9-787">Дополнительные сведения см. в раздел <a href="https://go.microsoft.com/fwlink/?linkid=853548">Минимальные уровни общедоступных обновлений для гибридных функций SharePoint.</a><em></em>  </span><span class="sxs-lookup"><span data-stu-id="990d9-787">For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=853548">Minimum public update levels for SharePoint hybrid features</a><em>.</em>  </span></span><br><span data-ttu-id="990d9-788">
-  <strong>Примечание:</strong> Сведения о возможностях multi-Geo см. в <a href="https://go.microsoft.com/fwlink/?linkid=831056">разделе Multi-Geo Capabilities in OneDrive и SharePoint Online в Office 365.</a><em></em>  </span><span class="sxs-lookup"><span data-stu-id="990d9-788">
+<li>  <span data-ttu-id="d41a5-714">Чтобы включить гибрид SharePoint, необходимо иметь одну из следующих локальной сред SharePoint Server: 2013, 2016 или 2019.</span><span class="sxs-lookup"><span data-stu-id="d41a5-714">To enable SharePoint hybrid, you must have one of the following on-premises SharePoint Server environments: 2013, 2016, or 2019.</span></span>  </li>
+</ul><span data-ttu-id="d41a5-715">
+  <strong>Примечание:</strong> Обновление локальной среды SharePoint до SharePoint Server не является областью действия.</span><span class="sxs-lookup"><span data-stu-id="d41a5-715">
+  <strong>Note:</strong> Upgrade of on-premises SharePoint environments to SharePoint Server is not in scope.</span></span> <span data-ttu-id="d41a5-716">Обратитесь за <a href="https://go.microsoft.com/fwlink/?linkid=2080150">помощью к партнеру</a> Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="d41a5-716">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance.</span></span> <span data-ttu-id="d41a5-717">Дополнительные сведения см. в раздел <a href="https://go.microsoft.com/fwlink/?linkid=853548">Минимальные уровни общедоступных обновлений для гибридных функций SharePoint.</a><em></em>  </span><span class="sxs-lookup"><span data-stu-id="d41a5-717">For more information, see <a href="https://go.microsoft.com/fwlink/?linkid=853548">Minimum public update levels for SharePoint hybrid features</a><em>.</em>  </span></span><br><span data-ttu-id="d41a5-718">
+  <strong>Примечание:</strong> Сведения о возможностях multi-Geo см. в <a href="https://go.microsoft.com/fwlink/?linkid=831056">разделе Multi-Geo Capabilities in OneDrive и SharePoint Online в Office 365.</a><em></em>  </span><span class="sxs-lookup"><span data-stu-id="d41a5-718">
   <strong>Note:</strong> For information on Multi-Geo Capabilities, see <a href="https://go.microsoft.com/fwlink/?linkid=831056">Multi-Geo Capabilities in OneDrive and SharePoint Online in Office 365</a><em>.</em>  </span></span></td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="990d9-789"><strong>Yammer корпоративный</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-789"><strong>Yammer Enterprise</strong></span></span></td>
-<td><ul>
-<span data-ttu-id="990d9-790">Мы предоставляем удаленные рекомендации для включения службы Yammer Enterprise.</span><span class="sxs-lookup"><span data-stu-id="990d9-790">We provide remote guidance for enabling the Yammer Enterprise service.</span></span>  
-</ul></td>
-<td><span data-ttu-id="990d9-791">Программное обеспечение клиента в Интернете должно быть на минимальном уровне, как это определено в требованиях системы <a href="https://go.microsoft.com/fwlink/?LinkID=723597">для Microsoft 365 и Office.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-791">Online client software must be at a minimum level as defined in the <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 and Office</a>.</span></span></td>
+<td><span data-ttu-id="d41a5-719"><strong>Yammer корпоративный</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-719"><strong>Yammer Enterprise</strong></span></span></td>
+<td>
+<span data-ttu-id="d41a5-720">Мы предоставляем удаленные рекомендации для включения службы Yammer Enterprise.</span><span class="sxs-lookup"><span data-stu-id="d41a5-720">We provide remote guidance for enabling the Yammer Enterprise service.</span></span>  
+</td>
+<td><span data-ttu-id="d41a5-721">Программное обеспечение клиента в Интернете должно быть на минимальном уровне, как это определено в требованиях системы <a href="https://go.microsoft.com/fwlink/?LinkID=723597">для Microsoft 365 и Office.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-721">Online client software must be at a minimum level as defined in the <a href="https://go.microsoft.com/fwlink/?LinkID=723597">System requirements for Microsoft 365 and Office</a>.</span></span></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="enterprise-mobility--security"></a><span data-ttu-id="990d9-792">Enterprise Mobility + Security</span><span class="sxs-lookup"><span data-stu-id="990d9-792">Enterprise Mobility + Security</span></span>
+## <a name="enterprise-mobility--security"></a><span data-ttu-id="d41a5-722">Enterprise Mobility + Security</span><span class="sxs-lookup"><span data-stu-id="d41a5-722">Enterprise Mobility + Security</span></span> 
 
 <table>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="990d9-793"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-793"><strong>Service</strong></span></span></th>
-<th><span data-ttu-id="990d9-794"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-794"><strong>FastTrack guidance details</strong></span></span></th>
-<th><span data-ttu-id="990d9-795"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-795"><strong>Source environment expectations</strong></span></span></th>
+<th><span data-ttu-id="d41a5-723"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-723"><strong>Service</strong></span></span></th>
+<th><span data-ttu-id="d41a5-724"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-724"><strong>FastTrack guidance details</strong></span></span></th>
+<th><span data-ttu-id="d41a5-725"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-725"><strong>Source environment expectations</strong></span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="even">
-<td><span data-ttu-id="990d9-796"><strong>Azure Active Directory (Azure AD) и Azure AD Premium</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-796"><strong>Azure Active Directory (Azure AD) and Azure AD Premium</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-797">Мы предоставляем удаленные рекомендации по обеспечению безопасности облачных удостоверений для следующих сценариев.</span><span class="sxs-lookup"><span data-stu-id="990d9-797">We provide remote guidance for securing your cloud identities for the following scenarios.</span></span>  
-
- <br/><span data-ttu-id="990d9-798">
-
-<strong>Безопасная инфраструктура фундамента</strong>  </ul>
-</span><span class="sxs-lookup"><span data-stu-id="990d9-798">
-
-<strong>Secure foundation infrastructure</strong>  </ul>
-</span></span><ul>
-<li>  <span data-ttu-id="990d9-799">Настройка и включение сильной проверки подлинности для удостоверений, включая защиту с помощью многофакторной проверки подлинности Azure (только в облаке), приложения Microsoft Authenticator и комбинированной регистрации для azure MFA и сброса паролей самообслуживаемых (SSPR).</span><span class="sxs-lookup"><span data-stu-id="990d9-799">Configuring and enabling strong authentication for your identities, including protecting with Azure Multi-Factor Authentication (MFA) (cloud only), the Microsoft Authenticator app, and combined registration for Azure MFA and self-service password reset (SSPR).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-800">Для клиентов, не использующих Azure AD Premium, предоставляются рекомендации по обеспечению безопасности удостоверений с помощью по умолчанию безопасности.</span><span class="sxs-lookup"><span data-stu-id="990d9-800">For non-Azure AD Premium customers, guidance is provided to secure your identities using security defaults.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-801">Для премиум-клиентов Azure AD предоставляются рекомендации по обеспечению безопасности удостоверений с помощью условного доступа.</span><span class="sxs-lookup"><span data-stu-id="990d9-801">For Azure AD premium customers, guidance is provided to secure your identities with Conditional Access.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-802">Обнаружение и блокировка использования слабых паролей с помощью Azure AD Password Protection.</span><span class="sxs-lookup"><span data-stu-id="990d9-802">Detecting and blocking the use of weak passwords with Azure AD Password Protection.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-803">Обеспечение удаленного доступа к локальному веб-приложениям с помощью прокси-сервера Приложения Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-803">Securing remote access to on-premises web apps with Azure AD Application Proxy.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-804">Включение обнаружения и устранения рисков с помощью Azure Identity Protection.</span><span class="sxs-lookup"><span data-stu-id="990d9-804">Enabling risk-based detection and remediation with Azure Identity Protection.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-805">Включение настраиваемого экрана регистрации, включая логотип, текст и изображения с настраиваемым брендингом.</span><span class="sxs-lookup"><span data-stu-id="990d9-805">Enabling a customized sign-in screen, including logo, text, and images with custom branding.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-806">Безопасное совместное использование приложений и служб с гостевых пользователей с помощью Azure AD B2B.</span><span class="sxs-lookup"><span data-stu-id="990d9-806">Securely sharing apps and services with guest users using Azure AD B2B.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-807">Управление доступом для администраторов Office 365 с помощью встроенных административных ролей управления доступом на основе ролей и уменьшение числа привилегированных учетных записей администратора.</span><span class="sxs-lookup"><span data-stu-id="990d9-807">Managing access for your Office 365 admins using role-based access control (RBAC) built-in administrative roles and to reduce the number of privileged admin accounts.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-808">Настройка гибридного присоединиться Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-808">Configuring hybrid Azure AD join.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-809">Настройка присоединиться к Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-809">Configuring Azure AD join.</span></span>  </li>
-</ul><span data-ttu-id="990d9-810">
-  
-<strong>Мониторинг и отчетность</strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-810">
-  
-<strong>Monitor and reporting</strong>  
-</span></span><ul>
-<li>  
-  <span data-ttu-id="990d9-811">Включение удаленного мониторинга для AD FS, Azure AD Connect и контроллеров домена с помощью Azure AD Connect Health.</span><span class="sxs-lookup"><span data-stu-id="990d9-811">Enabling remote monitoring for AD FS, Azure AD Connect, and domain controllers with Azure AD Connect Health.</span></span>  
-  </li>
-</ul><span data-ttu-id="990d9-812">
-  
-<strong>Управление</strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-812">
-  
-<strong>Governance</strong>  
-</span></span><ul>
-<li>  
-  <span data-ttu-id="990d9-813">Управление удостоверением Azure AD и доступ к жизненному циклу в масштабе с помощью управления правами Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-813">Managing your Azure AD identity and access lifecycle at scale with Azure AD entitlement management.</span></span>
-  </li>
-<li>  
-  <span data-ttu-id="990d9-814">Управление членством в группах Azure AD, доступом к корпоративным приложениям и назначениями ролей с помощью обзоров доступа к Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-814">Managing Azure AD group memberships, enterprise app access, and role assignments with Azure AD access reviews.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-815">Просмотр терминов использования Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-815">Reviewing Azure AD Terms of Use.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-816">Управление и управление доступом к привилегированным учетным записям администратора с помощью Azure AD Privileged Identity Management.</span><span class="sxs-lookup"><span data-stu-id="990d9-816">Managing and controlling access to privileged admin accounts with Azure AD Privileged Identity Management.</span></span>  
-  </li>
-</ul><span data-ttu-id="990d9-817">
-  
-<strong>Автоматизация и эффективность </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-817">
-  
-<strong>Automation and efficiencies </strong>  
-</span></span><ul>
-<li>  
-  <span data-ttu-id="990d9-818">Включение SSPR Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-818">Enabling Azure AD SSPR.</span></span>  
-  </li>
-<li>  <span data-ttu-id="990d9-819">Позволяет пользователям создавать и управлять собственными группами облачной безопасности или Office 365 с помощью управления группами самообслуживки Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-819">Allowing users to create and manage their own cloud security or Office 365 groups with Azure AD self-service group management.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-820">Управление делегированием доступа к корпоративным приложениям с помощью делегирования группы Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-820">Managing delegated access to enterprise apps with Azure AD delegated group management.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-821">Включение динамических групп Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-821">Enabling Azure AD dynamic groups.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-822">Организация приложений на портале Мои приложения с помощью коллекций.</span><span class="sxs-lookup"><span data-stu-id="990d9-822">Organizing apps in the My Apps portal using collections.</span></span>  </li>
-</ul></td>
-<td><span data-ttu-id="990d9-823">Локальное active Directory и его среда были подготовлены для Azure AD Premium, включая устранение выявленных проблем, препятствуя интеграции с функциями Azure AD и Azure AD Premium.</span><span class="sxs-lookup"><span data-stu-id="990d9-823">The on-premises Active Directory and its environment have been prepared for Azure AD Premium, including remediation of identified issues that prevent integration with Azure AD and Azure AD Premium features.</span></span></td>
+<td><span data-ttu-id="d41a5-726"><strong>Azure Active Directory (Azure AD) и Azure AD Premium</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-726"><strong>Azure Active Directory (Azure AD) and Azure AD Premium</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-727">Дополнительные сведения см. в <strong>видеороликах Azure Active Directory (Azure AD)</strong> и Azure AD Premium в <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">области безопасности и соответствия требованиям.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-727">For more information, see <strong> Azure Active Directory (Azure AD) and Azure AD Premium</strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance</a>.</span></span></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="990d9-824"><strong>Защита информации Azure </strong></span><span class="sxs-lookup"><span data-stu-id="990d9-824"><strong>Azure Information Protection </strong></span></span></td>
-<td>  <span data-ttu-id="990d9-825">Дополнительные сведения о защите информации Azure см. в <strong>веб-сайте Microsoft Information Protection</strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance"> Security and Compliance.</span><span class="sxs-lookup"><span data-stu-id="990d9-825">For more information on Azure Information Protection, see <strong>Microsoft Information Protection</strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance.</span></span>  </td>
+<td><span data-ttu-id="d41a5-728"><strong>Защита информации Azure </strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-728"><strong>Azure Information Protection </strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-729">Дополнительные сведения о защите информации Azure см. в <strong>веб-сайте Microsoft Information Protection</strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance"> Security and Compliance.</span><span class="sxs-lookup"><span data-stu-id="d41a5-729">For more information on Azure Information Protection, see <strong>Microsoft Information Protection</strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance.</span></span>  </td>
 <td>  
   
 </td>
 </tr>
 <tr class="even">
-<td><span data-ttu-id="990d9-826"><strong>Microsoft Intune</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-826"><strong>Microsoft Intune</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-827">Мы предоставляем удаленные рекомендации по готовности использовать Intune в качестве облачного поставщика управления мобильными устройствами (MDM) и поставщика управления мобильными приложениями (MAM) для ваших приложений и устройств.</span><span class="sxs-lookup"><span data-stu-id="990d9-827">We provide remote guidance on getting ready to use Intune as the cloud-based mobile device management (MDM) and mobile app management (MAM) provider for your apps and devices.</span></span> <span data-ttu-id="990d9-828">Конкретные действия зависят от исходной среды и основаны на мобильном устройстве и требованиях к управлению мобильными приложениями.</span><span class="sxs-lookup"><span data-stu-id="990d9-828">The exact steps depend on your source environment and are based on your mobile device and mobile app management needs.</span></span> <span data-ttu-id="990d9-829">Возможные действия:</span><span class="sxs-lookup"><span data-stu-id="990d9-829">The steps can include:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-830">Лицензирование конечных пользователей.</span><span class="sxs-lookup"><span data-stu-id="990d9-830">Licensing your end users.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-831">Настройка удостоверений, которые будут использоваться Intune, используя локальное active Directory или облачные идентификаторы (Azure AD).</span><span class="sxs-lookup"><span data-stu-id="990d9-831">Configuring identities to be used by Intune by leveraging either your on-premises Active Directory or cloud identities (Azure AD).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-832">Добавление пользователей в подписку Intune, определение ролей ИТ-администраторов, а также создание групп пользователей и устройств.</span><span class="sxs-lookup"><span data-stu-id="990d9-832">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-833">Настройка полномочий MDM на основе потребностей управления, в том числе:</span><span class="sxs-lookup"><span data-stu-id="990d9-833">Configuring your MDM authority, based on your management needs, including:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-834">Настройка Intune в качестве центра MDM, когда Intune является единственным решением MDM.</span><span class="sxs-lookup"><span data-stu-id="990d9-834">Setting Intune as your MDM authority when Intune is your only MDM solution.</span></span>  </li>
-</ul></li>
-<li>  <span data-ttu-id="990d9-835">Предоставление рекомендаций по MDM для следующих действий:</span><span class="sxs-lookup"><span data-stu-id="990d9-835">Providing MDM guidance for:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-836">Настройка тестовых групп, используемых для проверки политик управления MDM.</span><span class="sxs-lookup"><span data-stu-id="990d9-836">Configuring tests groups to be used to validate MDM management policies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-837">Настройка политик управления MDM и таких служб, как:</span><span class="sxs-lookup"><span data-stu-id="990d9-837">Configuring MDM management policies and services like:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-838">Развертывание приложений для каждой поддерживаемой платформы с помощью веб-ссылок или глубоких ссылок.</span><span class="sxs-lookup"><span data-stu-id="990d9-838">App deployment for each supported platform through web links or deep links.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-839">Политики условного доступа.</span><span class="sxs-lookup"><span data-stu-id="990d9-839">Conditional Access policies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-840">Развертывание профилей электронной почты, беспроводных сетей и VPN, если у вас есть существующие полномочия сертификата, беспроводная сеть или инфраструктура VPN в организации.</span><span class="sxs-lookup"><span data-stu-id="990d9-840">Deployment of email, wireless networks, and VPN profiles if you have an existing certificate authority, wireless network, or VPN infrastructure in your organization.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-841">Подключение к складу данных Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-841">Connecting to the Intune Data Warehouse.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-842">Интеграция Intune со следующими компонентами:</span><span class="sxs-lookup"><span data-stu-id="990d9-842">Integrating Intune with:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-843">Просмотр группы для удаленной помощи (требуется подписка на просмотр группы).</span><span class="sxs-lookup"><span data-stu-id="990d9-843">Team Viewer for remote assistance (a Team Viewer subscription is required).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-844">Решения партнеров Mobile Threat Defense (MTD) (требуется подписка на MTD).</span><span class="sxs-lookup"><span data-stu-id="990d9-844">Mobile Threat Defense (MTD) partner solutions (an MTD subscription is required).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-845">Решение по управлению расходами телекома (требуется подписка на решение по управлению расходами на телеком).</span><span class="sxs-lookup"><span data-stu-id="990d9-845">A telecom expense management solution (a telecom expense management solution subscription is required).</span></span>  </li>
-</ul></li>
-<li>  <span data-ttu-id="990d9-846">Регистрация устройств всех поддерживаемых платформ в Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-846">Enrolling devices of each supported platform to Intune.</span></span>  </li>
-</ul></li>
-</ul></li>
-<li>  <span data-ttu-id="990d9-847">Предоставление рекомендаций по защите приложений по:</span><span class="sxs-lookup"><span data-stu-id="990d9-847">Providing app protection guidance on:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-848">Настройка политик защиты приложений для каждой поддерживаемой платформы.</span><span class="sxs-lookup"><span data-stu-id="990d9-848">Configuring app protection policies for each supported platform.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-849">Настройка политик условного доступа для управляемых приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-849">Configuring Conditional Access policies for managed apps.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-850">Ориентация соответствующих групп пользователей с помощью ранее упомянутых политик MAM.</span><span class="sxs-lookup"><span data-stu-id="990d9-850">Targeting the appropriate user groups with the previously mentioned MAM policies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-851">Использование отчетов об использовании управляемых приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-851">Using managed-apps usage reports.</span></span>  </li>
-</ul></li>
-<li>  <span data-ttu-id="990d9-852">Предоставление руководства по миграции из устаревшего управления ПК в intune MDM.</span><span class="sxs-lookup"><span data-stu-id="990d9-852">Providing migration guidance from legacy PC management to Intune MDM.</span></span>  </li>
-</ul><span data-ttu-id="990d9-853">
-  
-</li>
-</ul>
-  
-<strong>Подключение к облаку</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-853">
-  
-</li>
-</ul>
-  
-<strong>Cloud-attach</strong></span></span>  
-
-  <span data-ttu-id="990d9-854">Мы повествуем о готовности к подключению к существующим средам Configuration Manager с помощью Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-854">We guide you through getting ready to cloud-attach existing Configuration Manager environments with Intune.</span></span> <span data-ttu-id="990d9-855">Конкретные действия зависят от исходной среды.</span><span class="sxs-lookup"><span data-stu-id="990d9-855">The exact steps depend on your source environment.</span></span> <span data-ttu-id="990d9-856">Возможные действия:</span><span class="sxs-lookup"><span data-stu-id="990d9-856">These steps can include:</span></span>  
-<ul>
-<li>  <span data-ttu-id="990d9-857">Лицензирование конечных пользователей.</span><span class="sxs-lookup"><span data-stu-id="990d9-857">Licensing your end users.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-858">Настройка удостоверений, применяемых в Intune с помощью локальной службы Active Directory и облачных удостоверений.</span><span class="sxs-lookup"><span data-stu-id="990d9-858">Configuring identities to be used by Intune by leveraging your on-premises Active Directory and cloud identities.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-859">Добавление пользователей в подписку Intune, определение ролей ИТ-администраторов, а также создание групп пользователей и устройств.</span><span class="sxs-lookup"><span data-stu-id="990d9-859">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-860">Предоставление рекомендаций по настройке гибридного присоединиться к Azure AD.</span><span class="sxs-lookup"><span data-stu-id="990d9-860">Providing guidance setting up hybrid Azure AD join.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-861">Предоставление рекомендаций по настройке автоматической регистрации Azure AD для автозарегистрации MDM.</span><span class="sxs-lookup"><span data-stu-id="990d9-861">Providing guidance on setting up Azure AD for MDM auto-enrollment.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-862">Предоставление рекомендаций по настройкам шлюза управления облачными ресурсами при их совместном управлении удаленным управлением устройствами в Интернете.</span><span class="sxs-lookup"><span data-stu-id="990d9-862">Providing guidance on how to set up cloud management gateway when used as a solution for co-management of remote internet-based device management.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-863">Настройка поддерживаемых рабочих нагрузок, которые нужно перевести в Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-863">Configuring supported workloads that you want to switch to Intune.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-864">Установка клиента диспетчера конфигураций на устройствах, зарегистрированных в Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-864">Installing the Configuration Manager client on Intune-enrolled devices.</span></span>  </li>
-</ul> 
-
-<span data-ttu-id="990d9-865"><strong>Безопасно развертывание мобильных устройств Outlook для iOS и Android</strong> Мы можем предоставить рекомендации по безопасному развертыванию мобильных устройств Outlook для iOS и Android в организации, чтобы убедиться, что у пользователей установлены все необходимые приложения.</span><span class="sxs-lookup"><span data-stu-id="990d9-865"><strong>Deploy Outlook mobile for iOS and Android securely</strong> We can provide guidance to help you deploy Outlook mobile for iOS and Android securely in your organization to ensure your users have all the required apps installed.</span></span>  
-  <span data-ttu-id="990d9-866">Действия по безопасному развертыванию мобильных устройств Outlook для iOS и Android с помощью Intune зависят от исходных сред.</span><span class="sxs-lookup"><span data-stu-id="990d9-866">The steps to securely deploy Outlook mobile for iOS and Android with Intune depends on your source environment.</span></span> <span data-ttu-id="990d9-867">Он может включать в себя:</span><span class="sxs-lookup"><span data-stu-id="990d9-867">It can include:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-868">Загрузка приложений Outlook для iOS и Android, Microsoft Authenticator и Портала компании Intune через Магазин приложений Apple или Магазин Google Play.</span><span class="sxs-lookup"><span data-stu-id="990d9-868">Downloading the Outlook for iOS and Android, Microsoft Authenticator, and Intune Company Portal apps through the Apple App Store or Google Play Store.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-869">Предоставление рекомендаций по настройке:</span><span class="sxs-lookup"><span data-stu-id="990d9-869">Providing guidance on setting up:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-870">Развертывание приложений Outlook для iOS и Android, Microsoft Authenticator и портала компании Intune с помощью Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-870">The Outlook for iOS and Android, Microsoft Authenticator, and Intune Company Portal apps deployment with Intune.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-871">Политики защиты приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-871">App protection policies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-872">Политики условного доступа.</span><span class="sxs-lookup"><span data-stu-id="990d9-872">Conditional Access policies.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-873">Политики конфигурации приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-873">App configuration policies.</span></span>  </li>
-</ul></li>
-</ul>  
+<td><span data-ttu-id="d41a5-730"><strong>Microsoft Intune</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-730"><strong>Microsoft Intune</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-731">Дополнительные сведения см. <strong> в веб-сайте Microsoft Intune</strong> в <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">области безопасности и соответствия</a>требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-731">For more information, see <strong> Microsoft Intune</strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance</a>.</span></span>
   </td>
-<td>  <span data-ttu-id="990d9-874">ИТ-администраторы должны иметь существующие инфраструктуры сертификатов, беспроводной сети и VPN, которые уже работают в рабочей среде при планировании развертывания профилей беспроводной сети и VPN с помощью Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-874">IT admins need to have existing Certificate Authority, wireless network, and VPN infrastructures already working in their production environments when planning on deploying wireless network and VPN profiles with Intune.</span></span>  
-  <span data-ttu-id="990d9-875"><strong>Примечание.</strong>Преимущество службы FastTrack не включает помощь в настройке или настройке органов сертификации, беспроводных сетей, инфраструктур VPN или push-сертификатов Apple MDM для Intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-875"><strong>Note</strong>: The FastTrack service benefit doesn't include assistance for setting up or configuring Certificate Authorities, wireless networks, VPN infrastructures, or Apple MDM push certificates for Intune.</span></span>  
- 
-  <span data-ttu-id="990d9-876"><strong>Примечание</strong>. Преимущество службы FastTrack не включает помощь по настройке или обновлению сервера сайта диспетчера конфигураций или клиента диспетчера конфигураций до минимальных требований, необходимых для поддержки подключения к облаку.</span><span class="sxs-lookup"><span data-stu-id="990d9-876"><strong>Note</strong>: The FastTrack service benefit doesn't include assistance for setting up or upgrading either the Configuration Manager site server or Configuration Manager client to the minimum requirements needed to support cloud-attach.</span></span> <span data-ttu-id="990d9-877">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">за помощью к партнеру</a> Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="990d9-877">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with this.</span></span>
-
-  <span data-ttu-id="990d9-878"><strong>Интеграция Intune с Advanced Threat Protection (ATP) в Microsoft Defender</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-878"><strong>Intune integrated with Microsoft Defender Advanced Threat Protection (ATP)</strong></span></span> 
- 
-  <span data-ttu-id="990d9-879"><strong>Примечание.</strong>Мы предоставляем помощь в интеграции Intune с ATP Microsoft Defender и создании политик соответствия требованиям устройств на основе оценки уровня риска Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-879"><strong>Note</strong>: We provide assistance on integrating Intune with Microsoft Defender ATP and creating device compliance policies based on its Windows 10 risk level assessment.</span></span> <span data-ttu-id="990d9-880">Мы не предоставляем помощь в приобретении, лицензировании или активации.</span><span class="sxs-lookup"><span data-stu-id="990d9-880">We don't provide assistance on purchasing, licensing, or activation.</span></span> <span data-ttu-id="990d9-881">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">за помощью к партнеру</a> Майкрософт.</span><span class="sxs-lookup"><span data-stu-id="990d9-881">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with this.</span></span>  
-  
-<span data-ttu-id="990d9-882"><strong>Windows Autopilot</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-882"><strong>Windows Autopilot</strong></span></span> 
- 
-  <span data-ttu-id="990d9-883">ИТ-администраторы отвечают за регистрацию устройств в организации путем отправки поставщиком оборудования идентификаторов оборудования от имени администраторов или с помощью самостоятельной их отправки в службу Windows Autopilot.</span><span class="sxs-lookup"><span data-stu-id="990d9-883">IT admins are responsible for registering their devices to their organization by either having the hardware vendor upload their hardware IDs on their behalf or by uploading it themselves into the Windows Autopilot service.</span></span>  
+<td>  
   
 </td>
 </tr>
 </tbody>
 </table>
 
-## <a name="windows-10"></a><span data-ttu-id="990d9-884">Windows 10</span><span class="sxs-lookup"><span data-stu-id="990d9-884">Windows 10</span></span>
+## <a name="windows-10"></a><span data-ttu-id="d41a5-732">Windows 10</span><span class="sxs-lookup"><span data-stu-id="d41a5-732">Windows 10</span></span>
 
 <table>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="990d9-885"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-885"><strong>Service</strong></span></span></th>
-<th><span data-ttu-id="990d9-886"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-886"><strong>FastTrack guidance details</strong></span></span></th>
-<th><span data-ttu-id="990d9-887"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-887"><strong>Source environment expectations</strong></span></span></th>
+<th><span data-ttu-id="d41a5-733"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-733"><strong>Service</strong></span></span></th>
+<th><span data-ttu-id="d41a5-734"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-734"><strong>FastTrack guidance details</strong></span></span></th>
+<th><span data-ttu-id="d41a5-735"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-735"><strong>Source environment expectations</strong></span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><span data-ttu-id="990d9-888"><strong>Windows 10</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-888"><strong>Windows 10</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-889">Мы предоставляем рекомендации по обновлению с Windows 7 Профессиональная и Windows 8.1 Professional до Windows 10 Enterprise.</span><span class="sxs-lookup"><span data-stu-id="990d9-889">We provide guidance for upgrading from Windows 7 Professional and Windows 8.1 Professional to Windows 10 Enterprise.</span></span>  
-  <span data-ttu-id="990d9-890">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-890">We provide remote guidance for:</span></span>
+<td><span data-ttu-id="d41a5-736"><strong>Windows 10</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-736"><strong>Windows 10</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-737">Мы предоставляем рекомендации по обновлению с Windows 7 Профессиональная и Windows 8.1 Professional до Windows 10 Enterprise.</span><span class="sxs-lookup"><span data-stu-id="d41a5-737">We provide guidance for upgrading from Windows 7 Professional and Windows 8.1 Professional to Windows 10 Enterprise.</span></span>  
+  <span data-ttu-id="d41a5-738">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-738">We provide remote guidance for:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-891">Понимание намерения Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-891">Understanding your Windows 10 intention.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-892">Оценка исходных сред и требований (убедитесь, что Microsoft Endpoint Configuration Manager обновляется до необходимого уровня для поддержки развертывания Windows 10).</span><span class="sxs-lookup"><span data-stu-id="990d9-892">Assessing your source environment and the requirements (ensure that Microsoft Endpoint Configuration Manager is upgraded to the required level to support the Windows 10 deployment).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-893">Развертывание приложений Windows 10 Enterprise и Microsoft 365 с помощью Microsoft Endpoint Configuration Manager или Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-893">Deploying Windows 10 Enterprise and Microsoft 365 Apps using Microsoft Endpoint Configuration Manager or Microsoft 365.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-894">Рекомендации по оценке приложений с Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-894">Recommending options for you to assess your Windows 10 apps.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-895">Включение использования desktop Analytics и руководства путем создания плана развертывания Desktop Analytics.</span><span class="sxs-lookup"><span data-stu-id="990d9-895">Enabling use of Desktop Analytics and guidance through creation of a Desktop Analytics deployment plan.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-896">Оценка совместимости Приложений Microsoft 365 с помощью панели мониторинга готовности Office 365 в Configuration Manager или с автономным набор средств для Office плюс помощь в развертывании приложений Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-896">Microsoft 365 Apps compatibility assessment by leveraging the Office 365 readiness dashboard in Configuration Manager or with the stand-alone Readiness Toolkit for Office plus assistance deploying Microsoft 365 Apps.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-897">Создание контрольного списка исправлений для того, что необходимо сделать, чтобы привести исходные среды к минимальным требованиям для успешного развертывания.</span><span class="sxs-lookup"><span data-stu-id="990d9-897">Creating a remediation checklist on what you need to do to bring your source environment up to the minimum requirements for a successful deployment.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-898">Предоставление рекомендаций по обновлению существующих устройств в Windows 10 Enterprise, если они соответствуют необходимым требованиям оборудования устройств.</span><span class="sxs-lookup"><span data-stu-id="990d9-898">Providing upgrade guidance for your existing devices to Windows 10 Enterprise if they meet the needed device hardware requirements.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-899">Предоставление рекомендаций по обновлению для поддержки существующего развертывания.</span><span class="sxs-lookup"><span data-stu-id="990d9-899">Providing upgrade guidance to support your existing deployment motion.</span></span> <span data-ttu-id="990d9-900">FastTrack предоставляет рекомендации и инструкции по обновлению до Windows 10 на месте.</span><span class="sxs-lookup"><span data-stu-id="990d9-900">FastTrack recommends and provides guidance for an in-place upgrade to Windows 10.</span></span> <span data-ttu-id="990d9-901">Кроме того, предоставляются инструкции по установке чистых образов Windows и для сценариев развертывания Windows Autopilot.</span><span class="sxs-lookup"><span data-stu-id="990d9-901">Guidance is also available for Windows clean image installation and Windows Autopilot deployment scenarios.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-902">Развертывание приложений Microsoft 365 с помощью configuration Manager в рамках развертывания Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-902">Deploying Microsoft 365 Apps using Configuration Manager as part of the Windows 10 deployment.</span></span>   </li>
-<li>  <span data-ttu-id="990d9-903">Предоставление рекомендаций, которые помогут вашей организации оставаться в курсе windows 10 Enterprise и Microsoft 365 Apps с помощью существующей среды Configuration Manager или Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-903">Providing guidance to help your organization stay up to date with Windows 10 Enterprise and Microsoft 365 Apps using your existing Configuration Manager environment or Microsoft 365.</span></span>  </li>
-</ul><span data-ttu-id="990d9-904">
-  <strong>Ниже приводится неосякаемая область </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-904">
-  <strong>The following is out of scope </strong>  
+<li>  <span data-ttu-id="d41a5-739">Понимание намерения Windows 10.</span><span class="sxs-lookup"><span data-stu-id="d41a5-739">Understanding your Windows 10 intention.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-740">Оценка исходных сред и требований (убедитесь, что Microsoft Endpoint Configuration Manager обновляется до необходимого уровня для поддержки развертывания Windows 10).</span><span class="sxs-lookup"><span data-stu-id="d41a5-740">Assessing your source environment and the requirements (ensure that Microsoft Endpoint Configuration Manager is upgraded to the required level to support the Windows 10 deployment).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-741">Развертывание приложений Windows 10 Enterprise и Microsoft 365 с помощью Microsoft Endpoint Configuration Manager или Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-741">Deploying Windows 10 Enterprise and Microsoft 365 Apps using Microsoft Endpoint Configuration Manager or Microsoft 365.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-742">Рекомендации по оценке приложений с Windows 10.</span><span class="sxs-lookup"><span data-stu-id="d41a5-742">Recommending options for you to assess your Windows 10 apps.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-743">Включение использования desktop Analytics и руководства путем создания плана развертывания Desktop Analytics.</span><span class="sxs-lookup"><span data-stu-id="d41a5-743">Enabling use of Desktop Analytics and guidance through creation of a Desktop Analytics deployment plan.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-744">Оценка совместимости Приложений Microsoft 365 с помощью панели мониторинга готовности Office 365 в Configuration Manager или с автономным набор средств для Office плюс помощь в развертывании приложений Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-744">Microsoft 365 Apps compatibility assessment by leveraging the Office 365 readiness dashboard in Configuration Manager or with the stand-alone Readiness Toolkit for Office plus assistance deploying Microsoft 365 Apps.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-745">Создание контрольного списка исправлений для того, что необходимо сделать, чтобы привести исходные среды к минимальным требованиям для успешного развертывания.</span><span class="sxs-lookup"><span data-stu-id="d41a5-745">Creating a remediation checklist on what you need to do to bring your source environment up to the minimum requirements for a successful deployment.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-746">Предоставление рекомендаций по обновлению существующих устройств в Windows 10 Enterprise, если они соответствуют необходимым требованиям оборудования устройств.</span><span class="sxs-lookup"><span data-stu-id="d41a5-746">Providing upgrade guidance for your existing devices to Windows 10 Enterprise if they meet the needed device hardware requirements.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-747">Предоставление рекомендаций по обновлению для поддержки существующего развертывания.</span><span class="sxs-lookup"><span data-stu-id="d41a5-747">Providing upgrade guidance to support your existing deployment motion.</span></span> <span data-ttu-id="d41a5-748">FastTrack предоставляет рекомендации и инструкции по обновлению до Windows 10 на месте.</span><span class="sxs-lookup"><span data-stu-id="d41a5-748">FastTrack recommends and provides guidance for an in-place upgrade to Windows 10.</span></span> <span data-ttu-id="d41a5-749">Кроме того, предоставляются инструкции по установке чистых образов Windows и для сценариев развертывания Windows Autopilot.</span><span class="sxs-lookup"><span data-stu-id="d41a5-749">Guidance is also available for Windows clean image installation and Windows Autopilot deployment scenarios.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-750">Развертывание приложений Microsoft 365 с помощью configuration Manager в рамках развертывания Windows 10.</span><span class="sxs-lookup"><span data-stu-id="d41a5-750">Deploying Microsoft 365 Apps using Configuration Manager as part of the Windows 10 deployment.</span></span>   </li>
+<li>  <span data-ttu-id="d41a5-751">Предоставление рекомендаций, которые помогут вашей организации оставаться в курсе windows 10 Enterprise и Microsoft 365 Apps с помощью существующей среды Configuration Manager или Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-751">Providing guidance to help your organization stay up to date with Windows 10 Enterprise and Microsoft 365 Apps using your existing Configuration Manager environment or Microsoft 365.</span></span>  </li>
+</ul><span data-ttu-id="d41a5-752">
+  
+<strong>Ниже приводится неосякаемая область </strong>  
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-752">
+  
+<strong>The following is out of scope </strong>  
 </span></span><ul>
-<li>  <span data-ttu-id="990d9-905">Обновление Configuration Manager до Current Branch.</span><span class="sxs-lookup"><span data-stu-id="990d9-905">Upgrading Configuration Manager to Current Branch.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-906">Создание настраиваемых образов для развертывания Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-906">Creating custom images for Windows 10 deployment.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-907">Создание и поддержка сценариев для развертывания Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-907">Creating and supporting deployment scripts for Windows 10 deployment.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-908">Переход с BIOS на UEFI в системах с Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-908">Converting a Windows 10 system from BIOS to Unified Extensible Firmware Interface (UEFI).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-909">Включение функций безопасности Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-909">Enabling Windows 10 security features.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-910">Настройка служб развертывания Windows (WDS) для загрузки с помощью протокола удаленной загрузки (PXE).</span><span class="sxs-lookup"><span data-stu-id="990d9-910">Configuring Windows Deployment Services (WDS) for Preboot Execution Environment (PXE) booting.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-911">Запись и развертывание образов Windows 10 с помощью набора средств Microsoft Deployment Toolkit (MDT).</span><span class="sxs-lookup"><span data-stu-id="990d9-911">Using the Microsoft Deployment Toolkit (MDT) to capture and deploy Windows 10 images.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-912">Использование средства миграции пользовательской среды (USMT).</span><span class="sxs-lookup"><span data-stu-id="990d9-912">Using the User State Migration Tool (USMT).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-753">Обновление Configuration Manager до Current Branch.</span><span class="sxs-lookup"><span data-stu-id="d41a5-753">Upgrading Configuration Manager to Current Branch.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-754">Создание настраиваемых образов для развертывания Windows 10.</span><span class="sxs-lookup"><span data-stu-id="d41a5-754">Creating custom images for Windows 10 deployment.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-755">Создание и поддержка сценариев для развертывания Windows 10.</span><span class="sxs-lookup"><span data-stu-id="d41a5-755">Creating and supporting deployment scripts for Windows 10 deployment.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-756">Переход с BIOS на UEFI в системах с Windows 10.</span><span class="sxs-lookup"><span data-stu-id="d41a5-756">Converting a Windows 10 system from BIOS to Unified Extensible Firmware Interface (UEFI).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-757">Включение функций безопасности Windows 10.</span><span class="sxs-lookup"><span data-stu-id="d41a5-757">Enabling Windows 10 security features.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-758">Настройка служб развертывания Windows (WDS) для загрузки с помощью протокола удаленной загрузки (PXE).</span><span class="sxs-lookup"><span data-stu-id="d41a5-758">Configuring Windows Deployment Services (WDS) for Preboot Execution Environment (PXE) booting.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-759">Запись и развертывание образов Windows 10 с помощью набора средств Microsoft Deployment Toolkit (MDT).</span><span class="sxs-lookup"><span data-stu-id="d41a5-759">Using the Microsoft Deployment Toolkit (MDT) to capture and deploy Windows 10 images.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-760">Использование средства миграции пользовательской среды (USMT).</span><span class="sxs-lookup"><span data-stu-id="d41a5-760">Using the User State Migration Tool (USMT).</span></span>  </li>
 </ul>
-<span data-ttu-id="990d9-913">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="990d9-913">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span>  </td>
-<td>  <span data-ttu-id="990d9-914">Для обновления ПК должны быть выполнены следующие требования:</span><span class="sxs-lookup"><span data-stu-id="990d9-914">For PC upgrade, you must meet these requirements:</span></span>
+<span data-ttu-id="d41a5-761">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="d41a5-761">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span>  </td>
+<td>  <span data-ttu-id="d41a5-762">Для обновления ПК должны быть выполнены следующие требования:</span><span class="sxs-lookup"><span data-stu-id="d41a5-762">For PC upgrade, you must meet these requirements:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-915">Ос-код источника: Windows 7 Корпоративная или Профессиональный, Windows 8.1 Корпоративная или Профессиональная.</span><span class="sxs-lookup"><span data-stu-id="990d9-915">Source OS: Windows 7 Enterprise or Professional, Windows 8.1 Enterprise or Professional.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-916">Устройства: рабочий стол, записная книжка или форм-фактор планшета.</span><span class="sxs-lookup"><span data-stu-id="990d9-916">Devices: Desktop, notebook, or tablet form factor.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-917">Целевая ОС: Окно 10 Корпоративная.</span><span class="sxs-lookup"><span data-stu-id="990d9-917">Target OS: Window 10 Enterprise.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-763">Ос-код источника: Windows 7 Корпоративная или Профессиональный, Windows 8.1 Корпоративная или Профессиональная.</span><span class="sxs-lookup"><span data-stu-id="d41a5-763">Source OS: Windows 7 Enterprise or Professional, Windows 8.1 Enterprise or Professional.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-764">Устройства: рабочий стол, записная книжка или форм-фактор планшета.</span><span class="sxs-lookup"><span data-stu-id="d41a5-764">Devices: Desktop, notebook, or tablet form factor.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-765">Целевая ОС: Окно 10 Корпоративная.</span><span class="sxs-lookup"><span data-stu-id="d41a5-765">Target OS: Window 10 Enterprise.</span></span>  </li>
 </ul>
-<span data-ttu-id="990d9-918">Для обновления инфраструктуры должны быть выполнены следующие требования:</span><span class="sxs-lookup"><span data-stu-id="990d9-918">For infrastructure upgrade, you must meet these requirements:</span></span>
+<span data-ttu-id="d41a5-766">Для обновления инфраструктуры должны быть выполнены следующие требования:</span><span class="sxs-lookup"><span data-stu-id="d41a5-766">For infrastructure upgrade, you must meet these requirements:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-919">Microsoft Endpoint Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="990d9-919">Microsoft Endpoint Configuration Manager.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-920">Версия Configuration Manager должна поддерживаться целевой версией Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-920">The Configuration Manager version must be supported by the Windows 10 target version.</span></span> <span data-ttu-id="990d9-921">Дополнительные сведения см. в таблице поддержки Configuration Manager в статье <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Поддержка Windows 10 в Configuration Manager</a>.</span><span class="sxs-lookup"><span data-stu-id="990d9-921">For more information, see the Configuration Manager support table at <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Support for Windows 10 in Configuration Manager</a>.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-767">Microsoft Endpoint Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="d41a5-767">Microsoft Endpoint Configuration Manager.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-768">Версия Configuration Manager должна поддерживаться целевой версией Windows 10.</span><span class="sxs-lookup"><span data-stu-id="d41a5-768">The Configuration Manager version must be supported by the Windows 10 target version.</span></span> <span data-ttu-id="d41a5-769">Дополнительные сведения см. в таблице поддержки Configuration Manager в статье <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Поддержка Windows 10 в Configuration Manager</a>.</span><span class="sxs-lookup"><span data-stu-id="d41a5-769">For more information, see the Configuration Manager support table at <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Support for Windows 10 in Configuration Manager</a>.</span></span>  </li>
 </ul>
 
 <tr class="odd">
-<td><span data-ttu-id="990d9-922"><strong>Расширенная защита от угроз (ATP) в Microsoft Defender</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-922"><strong>Microsoft Defender Advanced Threat Protection (ATP)</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-923">Расширенная защита от угроз (ATP) в Microsoft Defender — это платформа, разработанная для обнаружения, предотвращения и исследования расширенных угроз в корпоративных сетях, а также для реагирования на них.</span><span class="sxs-lookup"><span data-stu-id="990d9-923">Microsoft Defender Advanced Threat Protection (ATP) is a platform designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats.</span></span>  
-  <span data-ttu-id="990d9-924">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-924">We provide remote guidance for:</span></span>
-<ul>
-<li>  <span data-ttu-id="990d9-925">Развертывание технологий для защиты конечных точек.</span><span class="sxs-lookup"><span data-stu-id="990d9-925">Deploying the technologies to secure your endpoints.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-926">Настройка профилей защиты конечной точки и ограничений устройств.</span><span class="sxs-lookup"><span data-stu-id="990d9-926">Configuring endpoint protection and device restriction profiles.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-927">Оценка управления версиями ОС и устройствами (включая Intune, Microsoft Endpoint Configuration Manager, Объекты групповой политики (GPOs) и сторонние конфигурации), а также состояние служб av Защитник Windows или другого программного обеспечения безопасности конечных точек.</span><span class="sxs-lookup"><span data-stu-id="990d9-927">Assessing the OS version and device management (including Intune, Microsoft Endpoint Configuration Manager, Group Policy Objects (GPOs), and third-party configurations) as well as the status of your Windows Defender AV services or other endpoint security software.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-928">Оценка состояния служб av Windows или другого программного обеспечения безопасности конечной точки.</span><span class="sxs-lookup"><span data-stu-id="990d9-928">Assessing the status of your Windows AV services or other endpoint security software.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-929">Оценка прокси и брандмауэров, ограничивающих сетевой трафик.</span><span class="sxs-lookup"><span data-stu-id="990d9-929">Assessing proxies and firewalls restricting network traffic.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-930">Включение службы ATP Защитника Майкрософт, объясняя, как развернуть профиль агента ATP с помощью конечной точки на борту.</span><span class="sxs-lookup"><span data-stu-id="990d9-930">Enabling the Microsoft Defender ATP service by explaining how to deploy an ATP agent profile using an onboard endpoint.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-931">Рекомендации по развертыванию, помощь в настройке и обучение по:</span><span class="sxs-lookup"><span data-stu-id="990d9-931">Deployment guidance, configuration assistance, and education on:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="990d9-932">Управление угрозами и уязвимостями.</span><span class="sxs-lookup"><span data-stu-id="990d9-932">Threat and vulnerability management.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-933">Сокращение направлений атак.</span><span class="sxs-lookup"><span data-stu-id="990d9-933">Attack surface reduction.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-934">Защита нового поколения.</span><span class="sxs-lookup"><span data-stu-id="990d9-934">Next-generation protection.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-935">Выявление конечных точек и реагирование на них.</span><span class="sxs-lookup"><span data-stu-id="990d9-935">Endpoint detection and response.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-936">Автоматическое исследование и защита.</span><span class="sxs-lookup"><span data-stu-id="990d9-936">Automated investigation and remediation.</span></span>  
-  </li>
-<li> <span data-ttu-id="990d9-937">AtP Защитника Microsoft (требуется лицензии Windows E5 или Microsoft 365 E5).</span><span class="sxs-lookup"><span data-stu-id="990d9-937">Microsoft Defender ATP (Windows E5 or Microsoft 365 E5 licenses are required).</span></span>  </li>
-<li>  
-  <span data-ttu-id="990d9-938">Оценка безопасности</span><span class="sxs-lookup"><span data-stu-id="990d9-938">Secure score.</span></span>  
-  </li>
-</ul></li>
-<li>  <span data-ttu-id="990d9-939">Просмотр имитаций и учебных пособий (например, сценариев практики, поддельных вредоносных программ и автоматических расследований).</span><span class="sxs-lookup"><span data-stu-id="990d9-939">Reviewing simulations and tutorials (like practice scenarios, fake malware, and automated investigations).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-940">Общие сведения о функциях создания отчетов и аналитики угроз.</span><span class="sxs-lookup"><span data-stu-id="990d9-940">Overview of reporting and threat analytics features.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-941">Интеграция ATP Office 365 с ATP в Microsoft Defender</span><span class="sxs-lookup"><span data-stu-id="990d9-941">Integrating Office 365 ATP with Microsoft Defender ATP.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-942">Пошаговые руководства по поведению на портале Центра безопасности в Microsoft Defender.</span><span class="sxs-lookup"><span data-stu-id="990d9-942">Conduct walkthroughs of the Microsoft Defender Security Center portal.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-943">Следующие операционные системы:</span><span class="sxs-lookup"><span data-stu-id="990d9-943">The following operating systems:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="990d9-944">Windows 10.</span><span class="sxs-lookup"><span data-stu-id="990d9-944">Windows 10.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-945">Windows Server 2016.</span><span class="sxs-lookup"><span data-stu-id="990d9-945">Windows Server 2016.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-946">Windows Server 2019.</span><span class="sxs-lookup"><span data-stu-id="990d9-946">Windows Server 2019.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-947">Windows Server 2019 Core Edition.</span><span class="sxs-lookup"><span data-stu-id="990d9-947">Windows Server 2019 Core Edition.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-948">Windows Server Semi-Annual (SAC) версии 1803.</span><span class="sxs-lookup"><span data-stu-id="990d9-948">Windows Server Semi-Annual Channel (SAC) version 1803.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-949">версии macOS 10.13, 10.14 и 10.15.</span><span class="sxs-lookup"><span data-stu-id="990d9-949">macOS versions 10.13, 10.14, and 10.15.</span></span>  
-  </li>
-</ul>
-</li>
-</ul><span data-ttu-id="990d9-950">
-<strong>Примечание:</strong> Все версии Windows Server должны управляться последней версией System Center Configuration Manager 2012 (версии 1012 R2, 1511 или 1602) или Microsoft Endpoint Configuration Manager (версии 2002 или более).</span><span class="sxs-lookup"><span data-stu-id="990d9-950">
-<strong>Note:</strong> All Windows Server versions must be managed by the latest version of System Center Configuration Manager 2012 (versions 1012 R2, 1511, or 1602) or Microsoft Endpoint Configuration Manager (version 2002 or greater).</span></span> 
-
-<span data-ttu-id="990d9-951"></li>
-</ul>
-
-<strong>Ниже приводится неосякаемая область </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-951"></li>
-</ul>
-
-<strong>The following is out of scope </strong>  
-</span></span><ul>
-<li>  <span data-ttu-id="990d9-952">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="990d9-952">Project management of the customer's remediation activities.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-953">Поддержка на месте.</span><span class="sxs-lookup"><span data-stu-id="990d9-953">On-site support.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-954">Текущее управление и реагирование на угрозы.</span><span class="sxs-lookup"><span data-stu-id="990d9-954">Ongoing management and threat response.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-955">Подключение и настройка следующих агентов ATP в Microsoft Defender:</span><span class="sxs-lookup"><span data-stu-id="990d9-955">Onboarding or configuration for the following Microsoft Defender ATP agents:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="990d9-956">Windows Server 2008.</span><span class="sxs-lookup"><span data-stu-id="990d9-956">Windows Server 2008.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-957">Windows Server 2012.</span><span class="sxs-lookup"><span data-stu-id="990d9-957">Windows Server 2012.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-958">Linux.</span><span class="sxs-lookup"><span data-stu-id="990d9-958">Linux.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-959">Мобильные устройства (Android и iOS).</span><span class="sxs-lookup"><span data-stu-id="990d9-959">Mobile devices (Android and iOS).</span></span>  
-  </li>
-<li> <span data-ttu-id="990d9-960">Виртуальная инфраструктура настольных компьютеров (VDI) (сохраняемая или нестойка).</span><span class="sxs-lookup"><span data-stu-id="990d9-960">Virtual Desktop Infrastructure (VDI) (persistent or non-persistent).</span></span>  </li>
-</ul></li>
-<li>  <span data-ttu-id="990d9-961">Бортовая и конфигурация сервера:</span><span class="sxs-lookup"><span data-stu-id="990d9-961">Server onboarding and configuration:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="990d9-962">Настройка прокси-сервера для автономной связи.</span><span class="sxs-lookup"><span data-stu-id="990d9-962">Configuring a proxy server for offline communications.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-963">Настройка пакетов развертывания Configuration Manager на экземплярах и версиях диспетчера конфигурации на уровне.</span><span class="sxs-lookup"><span data-stu-id="990d9-963">Configuring Configuration Manager deployment packages on down-level Configuration Manager instances and versions.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-964">На борту серверов в Центр безопасности Azure.</span><span class="sxs-lookup"><span data-stu-id="990d9-964">Onboarding servers to Azure Security Center.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-965">Серверы, не управляемые диспетчером конфигурации.</span><span class="sxs-lookup"><span data-stu-id="990d9-965">Servers not managed by Configuration Manager.</span></span>  
-  </li>
-</ul></li>
-<li>  <span data-ttu-id="990d9-966">бортовая и конфигурация macOS:</span><span class="sxs-lookup"><span data-stu-id="990d9-966">macOS onboarding and configuration:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="990d9-967">Развертывание на основе ручного intune.</span><span class="sxs-lookup"><span data-stu-id="990d9-967">Manual Intune-based deployment.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-968">Развертывание на основе JAMF.</span><span class="sxs-lookup"><span data-stu-id="990d9-968">JAMF-based deployment.</span></span>
-  </li>
-<li>  
-  <span data-ttu-id="990d9-969">Другое развертывание на основе продуктов для управления мобильными устройствами (MDM).</span><span class="sxs-lookup"><span data-stu-id="990d9-969">Other mobile device management (MDM) product-based deployment.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-970">Ручное развертывание.</span><span class="sxs-lookup"><span data-stu-id="990d9-970">Manual deployment.</span></span>  
-  </li>
-</ul></li>
-<li>  <span data-ttu-id="990d9-971">Конфигурация следующих возможностей сокращения направлений атак:</span><span class="sxs-lookup"><span data-stu-id="990d9-971">Configuration of the following attack surface reduction capabilities:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="990d9-972">Аппаратная изоляция.</span><span class="sxs-lookup"><span data-stu-id="990d9-972">Hardware-based isolation.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-973">Управление приложениями.</span><span class="sxs-lookup"><span data-stu-id="990d9-973">App control.</span></span>  
-  </li>
-<li> <span data-ttu-id="990d9-974">Управление устройствами.</span><span class="sxs-lookup"><span data-stu-id="990d9-974">Device control.</span></span></li>
-<li>  
-  <span data-ttu-id="990d9-975">Защита от эксплойтов.</span><span class="sxs-lookup"><span data-stu-id="990d9-975">Exploit protection.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="990d9-976">Сетевой брандмауэр.</span><span class="sxs-lookup"><span data-stu-id="990d9-976">Network firewall.</span></span>  
-  </li>
-
-<ul>
-<li> <span data-ttu-id="990d9-977">Windows Hello</span><span class="sxs-lookup"><span data-stu-id="990d9-977">Windows Hello</span></span></li>
-<li> <span data-ttu-id="990d9-978">Credential Guard</span><span class="sxs-lookup"><span data-stu-id="990d9-978">Credential Guard</span></span></li>
-</ul>
-
-</ul></li>
-<li> <span data-ttu-id="990d9-979">Конфигурация или управление BitLocker.</span><span class="sxs-lookup"><span data-stu-id="990d9-979">Configuration or management of BitLocker.</span></span></li>
-<li>  <span data-ttu-id="990d9-980">Развертывание или конфигурация экспертов Майкрософт по угрозам.</span><span class="sxs-lookup"><span data-stu-id="990d9-980">Enrollment or configuration of Microsoft Threat Experts.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-981">Настройка или обучение, просмотр API или сведений о безопасности и подключений к управлению событиями (SIEM).</span><span class="sxs-lookup"><span data-stu-id="990d9-981">Configuration or training reviewing API or security information and event management (SIEM) connections.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-982">Развертывание или конфигурация защиты от угроз (Майкрософт).</span><span class="sxs-lookup"><span data-stu-id="990d9-982">Enrollment or configuration of Microsoft Threat Protection (MTP).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-983">Учебные курсы или руководства по расширенной охоте.</span><span class="sxs-lookup"><span data-stu-id="990d9-983">Training or guidance covering advanced hunting.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-984">Учебные материалы или руководства по использованию или созданию запросов Kusto.</span><span class="sxs-lookup"><span data-stu-id="990d9-984">Training or guidance covering the use of or creation of Kusto queries.</span></span></li>
-</li>
-</ul>
-<span data-ttu-id="990d9-985">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="990d9-985">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span>  
-</ul></td>
+<td><span data-ttu-id="d41a5-770"><strong>Microsoft Defender для конечной точки</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-770"><strong>Microsoft Defender for Endpoint</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-771">Дополнительные сведения см. в <strong> веб-сайте Microsoft Defender для конечной точки</strong> в <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">области безопасности и соответствия</a>требованиям.</span><span class="sxs-lookup"><span data-stu-id="d41a5-771">For more information, see <strong> Microsoft Defender for Endpoint</strong> in <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance</a>.</span></span></td>
 <td></td>
 
 </tbody>
 </table>
 
-## <a name="windows-virtual-desktop"></a><span data-ttu-id="990d9-986">Виртуальный рабочий стол Windows</span><span class="sxs-lookup"><span data-stu-id="990d9-986">Windows Virtual Desktop</span></span>
+## <a name="windows-virtual-desktop"></a><span data-ttu-id="d41a5-772">Виртуальный рабочий стол Windows</span><span class="sxs-lookup"><span data-stu-id="d41a5-772">Windows Virtual Desktop</span></span>
 
 <table>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="990d9-987"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-987"><strong>Service</strong></span></span></th>
-<th><span data-ttu-id="990d9-988"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-988"><strong>FastTrack guidance details</strong></span></span></th>
-<th><span data-ttu-id="990d9-989"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-989"><strong>Source environment expectations</strong></span></span></th>
+<th><span data-ttu-id="d41a5-773"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-773"><strong>Service</strong></span></span></th>
+<th><span data-ttu-id="d41a5-774"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-774"><strong>FastTrack guidance details</strong></span></span></th>
+<th><span data-ttu-id="d41a5-775"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-775"><strong>Source environment expectations</strong></span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><span data-ttu-id="990d9-990"><strong>Виртуальный рабочий стол Windows</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-990"><strong>Windows Virtual Desktop</strong></span></span></td>
-<td><p><span data-ttu-id="990d9-991">Мы предоставляем рекомендации по развертыванию для внедрения в Windows Virtual Desktop (служба виртуализации настольных компьютеров и приложений).</span><span class="sxs-lookup"><span data-stu-id="990d9-991">We provide deployment guidance for onboarding to Windows Virtual Desktop (a desktop and app virtualization service).</span></span> <span data-ttu-id="990d9-992">Виртуальный рабочий стол Windows 10 с несколькими сеансами и оптимизирован для Microsoft 365 Apps для предприятия с интегрированной безопасностью и управлением для Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-992">Windows Virtual Desktop takes advantage of Windows 10 multi-session experience and is optimized for Microsoft 365 Apps for Enterprise with integrated security and management for Microsoft 365.</span></span></p>
-<p><span data-ttu-id="990d9-993">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="990d9-993">We provide remote guidance for:</span></span></p>
+<td><span data-ttu-id="d41a5-776"><strong>Виртуальный рабочий стол Windows</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-776"><strong>Windows Virtual Desktop</strong></span></span></td>
+<td><p><span data-ttu-id="d41a5-777">Мы предоставляем рекомендации по развертыванию для внедрения в Windows Virtual Desktop (служба виртуализации настольных компьютеров и приложений).</span><span class="sxs-lookup"><span data-stu-id="d41a5-777">We provide deployment guidance for onboarding to Windows Virtual Desktop (a desktop and app virtualization service).</span></span> <span data-ttu-id="d41a5-778">Виртуальный рабочий стол Windows 10 с несколькими сеансами и оптимизирован для Microsoft 365 Apps для предприятия с интегрированной безопасностью и управлением для Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-778">Windows Virtual Desktop takes advantage of Windows 10 multi-session experience and is optimized for Microsoft 365 Apps for Enterprise with integrated security and management for Microsoft 365.</span></span></p>
+<p><span data-ttu-id="d41a5-779">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d41a5-779">We provide remote guidance for:</span></span></p>
 <ul>
-<li><span data-ttu-id="990d9-994">Развертывание среды виртуальных настольных компьютеров Windows с несколькими сеансами Windows 10 Корпоративный и Microsoft 365 Apps для предприятия с помощью следующих ниже.</span><span class="sxs-lookup"><span data-stu-id="990d9-994">Deploying your Windows Virtual Desktop environment with Windows 10 Enterprise multi-session and Microsoft 365 Apps for Enterprise using the following:</span></span>
+<li><span data-ttu-id="d41a5-780">Развертывание среды виртуальных настольных компьютеров Windows с несколькими сеансами Windows 10 Корпоративный и Microsoft 365 Apps для предприятия с помощью следующих ниже.</span><span class="sxs-lookup"><span data-stu-id="d41a5-780">Deploying your Windows Virtual Desktop environment with Windows 10 Enterprise multi-session and Microsoft 365 Apps for Enterprise using the following:</span></span>
 <ul>
-<li><span data-ttu-id="990d9-995">Azure Marketplace Image.</span><span class="sxs-lookup"><span data-stu-id="990d9-995">Azure Marketplace Image.</span></span></li>
-<li><span data-ttu-id="990d9-996">Общий образ.</span><span class="sxs-lookup"><span data-stu-id="990d9-996">Shared image.</span></span></li>
-<li><span data-ttu-id="990d9-997">Развертывание office набор средств (ODT).</span><span class="sxs-lookup"><span data-stu-id="990d9-997">Office Deployment Toolkit (ODT).</span></span></li>
+<li><span data-ttu-id="d41a5-781">Azure Marketplace Image.</span><span class="sxs-lookup"><span data-stu-id="d41a5-781">Azure Marketplace Image.</span></span></li>
+<li><span data-ttu-id="d41a5-782">Общий образ.</span><span class="sxs-lookup"><span data-stu-id="d41a5-782">Shared image.</span></span></li>
+<li><span data-ttu-id="d41a5-783">Развертывание office набор средств (ODT).</span><span class="sxs-lookup"><span data-stu-id="d41a5-783">Office Deployment Toolkit (ODT).</span></span></li>
 </ul></li>
-<li><span data-ttu-id="990d9-998">Настройка FSLogix:</span><span class="sxs-lookup"><span data-stu-id="990d9-998">Configuring FSLogix:</span></span>
+<li><span data-ttu-id="d41a5-784">Настройка FSLogix:</span><span class="sxs-lookup"><span data-stu-id="d41a5-784">Configuring FSLogix:</span></span>
 <ul>
-<li><span data-ttu-id="990d9-999">Развертывание агента FSLogix с контейнером профилей.</span><span class="sxs-lookup"><span data-stu-id="990d9-999">Deploying FSLogix Agent with Profile Container.</span></span></li>
-<li><span data-ttu-id="990d9-1000">Развертывание агента FSLogix с контейнером Office.</span><span class="sxs-lookup"><span data-stu-id="990d9-1000">Deploying FSLogix Agent with Office Container.</span></span></li>
-<li><span data-ttu-id="990d9-1001">Настройка папки FSLogix с исключениями контента.</span><span class="sxs-lookup"><span data-stu-id="990d9-1001">Configuring FSLogix folder with content exclusions.</span></span></li>
+<li><span data-ttu-id="d41a5-785">Развертывание агента FSLogix с контейнером профилей.</span><span class="sxs-lookup"><span data-stu-id="d41a5-785">Deploying FSLogix Agent with Profile Container.</span></span></li>
+<li><span data-ttu-id="d41a5-786">Развертывание агента FSLogix с контейнером Office.</span><span class="sxs-lookup"><span data-stu-id="d41a5-786">Deploying FSLogix Agent with Office Container.</span></span></li>
+<li><span data-ttu-id="d41a5-787">Настройка папки FSLogix с исключениями контента.</span><span class="sxs-lookup"><span data-stu-id="d41a5-787">Configuring FSLogix folder with content exclusions.</span></span></li>
 </ul></li>
-<li><span data-ttu-id="990d9-1002">Развертывание Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="990d9-1002">Deploying Microsoft Edge.</span></span></li>
-<li><span data-ttu-id="990d9-1003">Развертывание Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="990d9-1003">Deploying Microsoft Teams.</span></span></li>
-<li><span data-ttu-id="990d9-1004">Подключение с помощью клиентов Виртуального рабочего стола Windows.</span><span class="sxs-lookup"><span data-stu-id="990d9-1004">Connecting using Windows Virtual Desktop clients.</span></span></li>
-</ul><span data-ttu-id="990d9-1005">
+<li><span data-ttu-id="d41a5-788">Развертывание Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="d41a5-788">Deploying Microsoft Edge.</span></span></li>
+<li><span data-ttu-id="d41a5-789">Развертывание Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="d41a5-789">Deploying Microsoft Teams.</span></span></li>
+<li><span data-ttu-id="d41a5-790">Подключение с помощью клиентов Виртуального рабочего стола Windows.</span><span class="sxs-lookup"><span data-stu-id="d41a5-790">Connecting using Windows Virtual Desktop clients.</span></span></li>
+</ul><span data-ttu-id="d41a5-791">
 
 <strong>Ниже приводится неосякаемая область</strong>
-</span><span class="sxs-lookup"><span data-stu-id="990d9-1005">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-791">
 
 <strong>The following is out of scope</strong>
 </span></span><ul>
-<li><span data-ttu-id="990d9-1006">Управление проектами развертывания виртуального рабочего стола клиента с Windows.</span><span class="sxs-lookup"><span data-stu-id="990d9-1006">Project management of the customer's Windows Virtual Desktop deployment.</span></span></li>
-<li><span data-ttu-id="990d9-1007">Виртуализация и развертывание сторонних приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-1007">Third-party app virtualization and deployment.</span></span></li>
-<li><span data-ttu-id="990d9-1008">Настраиваемые изображения.</span><span class="sxs-lookup"><span data-stu-id="990d9-1008">Custom images.</span></span></li>
-<li><span data-ttu-id="990d9-1009">Миграции и сценарии с участием VMware и Citrix.</span><span class="sxs-lookup"><span data-stu-id="990d9-1009">Migrations and scenarios involving VMware and Citrix.</span></span></li>
-<li><span data-ttu-id="990d9-1010">Сценарии Linux.</span><span class="sxs-lookup"><span data-stu-id="990d9-1010">Linux scenarios.</span></span></li>
-<li><span data-ttu-id="990d9-1011">Преобразование или миграция профилей пользователей.</span><span class="sxs-lookup"><span data-stu-id="990d9-1011">Conversion or migrations of user profiles.</span></span></li>
+<li><span data-ttu-id="d41a5-792">Управление проектами развертывания виртуального рабочего стола клиента с Windows.</span><span class="sxs-lookup"><span data-stu-id="d41a5-792">Project management of the customer's Windows Virtual Desktop deployment.</span></span></li>
+<li><span data-ttu-id="d41a5-793">Виртуализация и развертывание сторонних приложений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-793">Third-party app virtualization and deployment.</span></span></li>
+<li><span data-ttu-id="d41a5-794">Настраиваемые изображения.</span><span class="sxs-lookup"><span data-stu-id="d41a5-794">Custom images.</span></span></li>
+<li><span data-ttu-id="d41a5-795">Миграции и сценарии с участием VMware и Citrix.</span><span class="sxs-lookup"><span data-stu-id="d41a5-795">Migrations and scenarios involving VMware and Citrix.</span></span></li>
+<li><span data-ttu-id="d41a5-796">Сценарии Linux.</span><span class="sxs-lookup"><span data-stu-id="d41a5-796">Linux scenarios.</span></span></li>
+<li><span data-ttu-id="d41a5-797">Преобразование или миграция профилей пользователей.</span><span class="sxs-lookup"><span data-stu-id="d41a5-797">Conversion or migrations of user profiles.</span></span></li>
 </ul>
-<span data-ttu-id="990d9-1012">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="990d9-1012">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span></td>
-<td><span data-ttu-id="990d9-1013">У вас уже должно быть следующее:</span><span class="sxs-lookup"><span data-stu-id="990d9-1013">You should already have the following:</span></span>
+<span data-ttu-id="d41a5-798">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="d41a5-798">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span></td>
+<td><span data-ttu-id="d41a5-799">У вас уже должно быть следующее:</span><span class="sxs-lookup"><span data-stu-id="d41a5-799">You should already have the following:</span></span>
 <ul>
-<li><span data-ttu-id="990d9-1014"><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Требования к лицензированию виртуальных настольных компьютеров</a>Windows.</span><span class="sxs-lookup"><span data-stu-id="990d9-1014"><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Windows Virtual Desktop licensing requirements</a>.</span></span></li>
-<li><span data-ttu-id="990d9-1015">Сеть Azure:</span><span class="sxs-lookup"><span data-stu-id="990d9-1015">Azure networking:</span></span>
+<li><span data-ttu-id="d41a5-800"><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Требования к лицензированию виртуальных настольных компьютеров</a>Windows.</span><span class="sxs-lookup"><span data-stu-id="d41a5-800"><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Windows Virtual Desktop licensing requirements</a>.</span></span></li>
+<li><span data-ttu-id="d41a5-801">Сеть Azure:</span><span class="sxs-lookup"><span data-stu-id="d41a5-801">Azure networking:</span></span>
 <ul>
-<li><span data-ttu-id="990d9-1016">Создание и подсети виртуальной сети (VNET).</span><span class="sxs-lookup"><span data-stu-id="990d9-1016">Virtual network (VNET) creation and subnetting.</span></span></li>
-<li><span data-ttu-id="990d9-1017">Брандмауэр и группы сетевой безопасности.</span><span class="sxs-lookup"><span data-stu-id="990d9-1017">Firewall and network security groups.</span></span></li>
-<li><span data-ttu-id="990d9-1018">VPN и ExpressRoute.</span><span class="sxs-lookup"><span data-stu-id="990d9-1018">VPN and ExpressRoute.</span></span></li>
-<li><span data-ttu-id="990d9-1019">Маршрутная маршрутивка в Azure из локального помещения.</span><span class="sxs-lookup"><span data-stu-id="990d9-1019">Routing to Azure from on-premises.</span></span></li>
-<li><span data-ttu-id="990d9-1020">Правила брандмауэра, позволяющие подключаться к Виртуальному рабочему столу Windows.</span><span class="sxs-lookup"><span data-stu-id="990d9-1020">Firewall rules to allow connectivity to Windows Virtual Desktop.</span></span>
+<li><span data-ttu-id="d41a5-802">Создание и подсети виртуальной сети (VNET).</span><span class="sxs-lookup"><span data-stu-id="d41a5-802">Virtual network (VNET) creation and subnetting.</span></span></li>
+<li><span data-ttu-id="d41a5-803">Брандмауэр и группы сетевой безопасности.</span><span class="sxs-lookup"><span data-stu-id="d41a5-803">Firewall and network security groups.</span></span></li>
+<li><span data-ttu-id="d41a5-804">VPN и ExpressRoute.</span><span class="sxs-lookup"><span data-stu-id="d41a5-804">VPN and ExpressRoute.</span></span></li>
+<li><span data-ttu-id="d41a5-805">Маршрутная маршрутивка в Azure из локального помещения.</span><span class="sxs-lookup"><span data-stu-id="d41a5-805">Routing to Azure from on-premises.</span></span></li>
+<li><span data-ttu-id="d41a5-806">Правила брандмауэра, позволяющие подключаться к Виртуальному рабочему столу Windows.</span><span class="sxs-lookup"><span data-stu-id="d41a5-806">Firewall rules to allow connectivity to Windows Virtual Desktop.</span></span>
 </ul>
-<span data-ttu-id="990d9-1021">Дополнительные сведения см. в <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients">веб-версии Поддерживаемые клиенты удаленного рабочего стола.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-1021">For more information, see <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients"> Supported Remote Desktop clients</a>.</span></span>
+<span data-ttu-id="d41a5-807">Дополнительные сведения см. в <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients">веб-версии Поддерживаемые клиенты удаленного рабочего стола.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-807">For more information, see <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients"> Supported Remote Desktop clients</a>.</span></span>
 </ul>
-<ul><li><span data-ttu-id="990d9-1022">Общая настройка Azure AD:</span><span class="sxs-lookup"><span data-stu-id="990d9-1022">Azure AD general setup:</span></span>
+<ul><li><span data-ttu-id="d41a5-808">Общая настройка Azure AD:</span><span class="sxs-lookup"><span data-stu-id="d41a5-808">Azure AD general setup:</span></span>
 <ul>
-<li><span data-ttu-id="990d9-1023">Стратегия <i>удостоверения (можно использовать только один из следующих трех вариантов):</i>
-</span><span class="sxs-lookup"><span data-stu-id="990d9-1023">Identity strategy <i>(you can use only one of the following three options):</i>
+<li><span data-ttu-id="d41a5-809">Стратегия <i>удостоверения (можно использовать только один из следующих трех вариантов):</i>
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-809">Identity strategy <i>(you can use only one of the following three options):</i>
 </span></span><ul>
-<li><span data-ttu-id="990d9-1024">Active Directory с Azure AD Connect в Azure.</span><span class="sxs-lookup"><span data-stu-id="990d9-1024">Active Directory with Azure AD Connect in Azure.</span></span></li>
-<li><span data-ttu-id="990d9-1025">Active Directory с локальной сетью Azure AD Connect через VPN или ExpressRoute.</span><span class="sxs-lookup"><span data-stu-id="990d9-1025">Active Directory with Azure AD Connect on-premises over VPN or ExpressRoute.</span></span></li>
-<li><span data-ttu-id="990d9-1026">Службы домена Active Directory (AD DS).</span><span class="sxs-lookup"><span data-stu-id="990d9-1026">Active Directory Domain Services (AD DS).</span></span></li>
+<li><span data-ttu-id="d41a5-810">Active Directory с Azure AD Connect в Azure.</span><span class="sxs-lookup"><span data-stu-id="d41a5-810">Active Directory with Azure AD Connect in Azure.</span></span></li>
+<li><span data-ttu-id="d41a5-811">Active Directory с локальной сетью Azure AD Connect через VPN или ExpressRoute.</span><span class="sxs-lookup"><span data-stu-id="d41a5-811">Active Directory with Azure AD Connect on-premises over VPN or ExpressRoute.</span></span></li>
+<li><span data-ttu-id="d41a5-812">Службы домена Active Directory (AD DS).</span><span class="sxs-lookup"><span data-stu-id="d41a5-812">Active Directory Domain Services (AD DS).</span></span></li>
 </ul></li>
 </ul></li>
 </ul></td>
@@ -1668,151 +1274,151 @@ ms.locfileid: "50464211"
 </tbody>
 </table>
 
-## <a name="app-assure"></a><span data-ttu-id="990d9-1027">App Assure</span><span class="sxs-lookup"><span data-stu-id="990d9-1027">App Assure</span></span>
+## <a name="app-assure"></a><span data-ttu-id="d41a5-813">App Assure</span><span class="sxs-lookup"><span data-stu-id="d41a5-813">App Assure</span></span>
 
 
 <table>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="990d9-1028"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-1028"><strong>Service</strong></span></span></th>
-<th><span data-ttu-id="990d9-1029"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-1029"><strong>FastTrack guidance details</strong></span></span></th>
-<th><span data-ttu-id="990d9-1030"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-1030"><strong>Source environment expectations</strong></span></span></th>
+<th><span data-ttu-id="d41a5-814"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-814"><strong>Service</strong></span></span></th>
+<th><span data-ttu-id="d41a5-815"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-815"><strong>FastTrack guidance details</strong></span></span></th>
+<th><span data-ttu-id="d41a5-816"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-816"><strong>Source environment expectations</strong></span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="even">
-<td><span data-ttu-id="990d9-1031"><strong>App Assure</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-1031"><strong>App Assure</strong></span></span></td>
-<td>  <span data-ttu-id="990d9-1032">App Assure — это служба, предназначенная для решения проблем с совместимостью приложений Windows 10 и Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="990d9-1032">App Assure is a service designed to address issues with Windows 10 and Microsoft 365 Apps app compatibility.</span></span> <span data-ttu-id="990d9-1033">При запросе службы App Assure мы работаем с вами для решения проблем с допустимым приложением без каких-либо дополнительных затрат для вас с помощью доступной подписки.</span><span class="sxs-lookup"><span data-stu-id="990d9-1033">When you request the App Assure service, we work with you to address valid app issues at no additional cost to you with an eligible subscription.</span></span> <span data-ttu-id="990d9-1034">Мы также предоставляем рекомендации для клиентов, сталкивающихся с вопросами совместимости при развертывании Windows Virtual Desktop и Microsoft Edge, и прилоя все разумные усилия для решения проблем совместимости.</span><span class="sxs-lookup"><span data-stu-id="990d9-1034">We also provide guidance to customers who face compatibility issues when deploying Windows Virtual Desktop and Microsoft Edge and make every reasonable effort to resolve compatibility issues.</span></span> <span data-ttu-id="990d9-1035">Мы предоставляем помощь в исправлении приложений, развернутых в следующих продуктах Майкрософт:</span><span class="sxs-lookup"><span data-stu-id="990d9-1035">We provide remediation assistance for apps deployed on the following Microsoft products:</span></span>
+<td><span data-ttu-id="d41a5-817"><strong>App Assure</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-817"><strong>App Assure</strong></span></span></td>
+<td>  <span data-ttu-id="d41a5-818">App Assure — это служба, предназначенная для решения проблем с совместимостью приложений Windows 10 и Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="d41a5-818">App Assure is a service designed to address issues with Windows 10 and Microsoft 365 Apps app compatibility.</span></span> <span data-ttu-id="d41a5-819">При запросе службы App Assure мы работаем с вами для решения проблем с допустимым приложением без каких-либо дополнительных затрат для вас с помощью доступной подписки.</span><span class="sxs-lookup"><span data-stu-id="d41a5-819">When you request the App Assure service, we work with you to address valid app issues at no additional cost to you with an eligible subscription.</span></span> <span data-ttu-id="d41a5-820">Мы также предоставляем рекомендации для клиентов, сталкивающихся с вопросами совместимости при развертывании Windows Virtual Desktop и Microsoft Edge, и прилоя все разумные усилия для решения проблем совместимости.</span><span class="sxs-lookup"><span data-stu-id="d41a5-820">We also provide guidance to customers who face compatibility issues when deploying Windows Virtual Desktop and Microsoft Edge and make every reasonable effort to resolve compatibility issues.</span></span> <span data-ttu-id="d41a5-821">Мы предоставляем помощь в исправлении приложений, развернутых в следующих продуктах Майкрософт:</span><span class="sxs-lookup"><span data-stu-id="d41a5-821">We provide remediation assistance for apps deployed on the following Microsoft products:</span></span>
 <ul>
-<li>  <span data-ttu-id="990d9-1036"><strong>Windows 10 </strong> (включая устройства ARM64)</span><span class="sxs-lookup"><span data-stu-id="990d9-1036"><strong>Windows 10 </strong> (including ARM64 devices)</span></span></li>
-<li> <span data-ttu-id="990d9-1037"><strong>Приложения Microsoft 365</strong>  </span><span class="sxs-lookup"><span data-stu-id="990d9-1037"><strong>Microsoft 365 Apps</strong>  </span></span></li>
-<li>  <span data-ttu-id="990d9-1038"><strong>Microsoft Edge —</strong> Сведения о развертывании <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">см. в обзоре каналов Microsoft Edge.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-1038"><strong>Microsoft Edge -</strong> For deployment guidance, see <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">Overview of the Microsoft Edge channels</a>.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-1039"><strong>Виртуальный рабочий стол Windows</strong> - Дополнительные сведения см. в дополнительных сведениях о том, что такое <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">виртуальный настольный компьютер Windows?</a> и много сеансов <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">для Windows 10 Enterprise.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-1039"><strong>Windows Virtual Desktop</strong> - For more information, see <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">What is Windows Virtual Desktop?</a> and <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">Windows 10 Enterprise multi-session FAQ</a>.</span></span>  </li>
-</ul><span data-ttu-id="990d9-1040">
+<li>  <span data-ttu-id="d41a5-822"><strong>Windows 10 </strong> (включая устройства ARM64)</span><span class="sxs-lookup"><span data-stu-id="d41a5-822"><strong>Windows 10 </strong> (including ARM64 devices)</span></span></li>
+<li> <span data-ttu-id="d41a5-823"><strong>Приложения Microsoft 365</strong>  </span><span class="sxs-lookup"><span data-stu-id="d41a5-823"><strong>Microsoft 365 Apps</strong>  </span></span></li>
+<li>  <span data-ttu-id="d41a5-824"><strong>Microsoft Edge —</strong> Сведения о развертывании <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">см. в обзоре каналов Microsoft Edge.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-824"><strong>Microsoft Edge -</strong> For deployment guidance, see <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">Overview of the Microsoft Edge channels</a>.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-825"><strong>Виртуальный рабочий стол Windows</strong> - Дополнительные сведения см. в дополнительных сведениях о том, что такое <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">виртуальный настольный компьютер Windows?</a> и много сеансов <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">для Windows 10 Enterprise.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-825"><strong>Windows Virtual Desktop</strong> - For more information, see <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">What is Windows Virtual Desktop?</a> and <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">Windows 10 Enterprise multi-session FAQ</a>.</span></span>  </li>
+</ul><span data-ttu-id="d41a5-826">
 
 <strong>Ниже приводится неосякаемая область </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-1040">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-826">
 
 <strong>The following is out of scope </strong>  
 </span></span><ul>
-<li>  <span data-ttu-id="990d9-p147">Изучение и тестирование приложения с целью определения того, какие функции поддерживаются и не поддерживаются в Windows 10 и приложениях Microsoft 365. Дополнительные руководства по этому процессу см. на странице <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Центр развертывания компьютеров</a>. Если вас интересует глубокая оценка готовности к обновлению, заполните форму <a href="https://go.microsoft.com/fwlink/?linkid=2053818">Запрос клиента на оценку современных компьютеров</a>.</span><span class="sxs-lookup"><span data-stu-id="990d9-p147">App inventory and testing to determine what does and doesn't work on Windows 10 and Microsoft 365 Apps. For more guidance on this process, visit the <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Desktop Deployment Center</a>. If you're interested in an in-depth upgrade readiness assessment, complete the <a href="https://go.microsoft.com/fwlink/?linkid=2053818">Customer Request for Modern Desktop Assessment</a> form.</span></span></li>
-<li>  <span data-ttu-id="990d9-1044">Анализ приложений независимых поставщиков программного обеспечения (ISV) на совместимость с Windows 10 и сведений о поддержке.</span><span class="sxs-lookup"><span data-stu-id="990d9-1044">Researching third-party ISV apps for Windows 10 compatibility and support statements.</span></span> <span data-ttu-id="990d9-1045">Дополнительные сведения см. в разделе <a href="https://docs.microsoft.com/sccm/desktop-analytics/overview">Аналитика компьютеров</a>.</span><span class="sxs-lookup"><span data-stu-id="990d9-1045">For more information, see <a href="https://docs.microsoft.com/sccm/desktop-analytics/overview">Desktop Analytics</a>.</span></span></li>
-<li><span data-ttu-id="990d9-1046">Услуги по упаковке приложений.</span><span class="sxs-lookup"><span data-stu-id="990d9-1046">App packaging-only services.</span></span> <span data-ttu-id="990d9-1047">Команда App Assure упаковывает приложения, исправленные для Windows 10, чтобы обеспечить возможность их развертывания в среде клиента.</span><span class="sxs-lookup"><span data-stu-id="990d9-1047">However, the App Assure team packages apps that we have remediated for Windows 10 to ensure they can be deployed in the customer's environment.</span></span></li>
-</ul><span data-ttu-id="990d9-1048">
+<li>  <span data-ttu-id="d41a5-p137">Изучение и тестирование приложения с целью определения того, какие функции поддерживаются и не поддерживаются в Windows 10 и приложениях Microsoft 365. Дополнительные руководства по этому процессу см. на странице <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Центр развертывания компьютеров</a>. Если вас интересует глубокая оценка готовности к обновлению, заполните форму <a href="https://go.microsoft.com/fwlink/?linkid=2053818">Запрос клиента на оценку современных компьютеров</a>.</span><span class="sxs-lookup"><span data-stu-id="d41a5-p137">App inventory and testing to determine what does and doesn't work on Windows 10 and Microsoft 365 Apps. For more guidance on this process, visit the <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Desktop Deployment Center</a>. If you're interested in an in-depth upgrade readiness assessment, complete the <a href="https://go.microsoft.com/fwlink/?linkid=2053818">Customer Request for Modern Desktop Assessment</a> form.</span></span></li>
+<li>  <span data-ttu-id="d41a5-830">Анализ приложений независимых поставщиков программного обеспечения (ISV) на совместимость с Windows 10 и сведений о поддержке.</span><span class="sxs-lookup"><span data-stu-id="d41a5-830">Researching third-party ISV apps for Windows 10 compatibility and support statements.</span></span> <span data-ttu-id="d41a5-831">Дополнительные сведения см. в разделе <a href="https://docs.microsoft.com/sccm/desktop-analytics/overview">Аналитика компьютеров</a>.</span><span class="sxs-lookup"><span data-stu-id="d41a5-831">For more information, see <a href="https://docs.microsoft.com/sccm/desktop-analytics/overview">Desktop Analytics</a>.</span></span></li>
+<li><span data-ttu-id="d41a5-832">Услуги по упаковке приложений.</span><span class="sxs-lookup"><span data-stu-id="d41a5-832">App packaging-only services.</span></span> <span data-ttu-id="d41a5-833">Команда App Assure упаковывает приложения, исправленные для Windows 10, чтобы обеспечить возможность их развертывания в среде клиента.</span><span class="sxs-lookup"><span data-stu-id="d41a5-833">However, the App Assure team packages apps that we have remediated for Windows 10 to ensure they can be deployed in the customer's environment.</span></span></li>
+</ul><span data-ttu-id="d41a5-834">
 
 <strong>Обязанности клиента включают в себя</strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-1048">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-834">
 
 <strong>Customer responsibilities include</strong>  
 </span></span><ul>
-<li>  <span data-ttu-id="990d9-1049">Создание ведомости приложения</span><span class="sxs-lookup"><span data-stu-id="990d9-1049">Creating an app inventory.</span></span></li>
-<li>  <span data-ttu-id="990d9-1050">Проверки работы данных приложений в Windows 10 и приложениях Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-1050">Validating those apps on Windows 10 and Microsoft 365 Apps.</span></span></li>
-</ul><span data-ttu-id="990d9-1051">
-<strong>Примечание:</strong>  Корпорация Майкрософт не может вносить изменения в исходный код.</span><span class="sxs-lookup"><span data-stu-id="990d9-1051">
-<strong>Note:</strong>  Microsoft can't make changes to your source code.</span></span> <span data-ttu-id="990d9-1052">Однако команда App Assure предоставляет руководство для разработчиков приложений, если для приложений доступен исходный код.</span><span class="sxs-lookup"><span data-stu-id="990d9-1052">However, the App Assure team can provide guidance to app developers if the source code is available for your apps.</span></span> 
+<li>  <span data-ttu-id="d41a5-835">Создание ведомости приложения</span><span class="sxs-lookup"><span data-stu-id="d41a5-835">Creating an app inventory.</span></span></li>
+<li>  <span data-ttu-id="d41a5-836">Проверки работы данных приложений в Windows 10 и приложениях Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-836">Validating those apps on Windows 10 and Microsoft 365 Apps.</span></span></li>
+</ul><span data-ttu-id="d41a5-837">
+<strong>Примечание:</strong>  Корпорация Майкрософт не может вносить изменения в исходный код.</span><span class="sxs-lookup"><span data-stu-id="d41a5-837">
+<strong>Note:</strong>  Microsoft can't make changes to your source code.</span></span> <span data-ttu-id="d41a5-838">Однако команда App Assure предоставляет руководство для разработчиков приложений, если для приложений доступен исходный код.</span><span class="sxs-lookup"><span data-stu-id="d41a5-838">However, the App Assure team can provide guidance to app developers if the source code is available for your apps.</span></span> 
 
 
-  <span data-ttu-id="990d9-1053">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="990d9-1053">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span>  </td>
+  <span data-ttu-id="d41a5-839">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="d41a5-839">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span>  </td>
 
 </td>
-<td><span data-ttu-id="990d9-1054"><strong>Windows 10 и Microsoft 365 Apps</strong>
-</span><span class="sxs-lookup"><span data-stu-id="990d9-1054"><strong>Windows 10 and Microsoft 365 Apps</strong>
+<td><span data-ttu-id="d41a5-840"><strong>Windows 10 и Microsoft 365 Apps</strong>
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-840"><strong>Windows 10 and Microsoft 365 Apps</strong>
 </span></span><ul>
 <li>  
-  <span data-ttu-id="990d9-1055">Приложения, работающие в Windows 7, Windows 8,1, Office 2010 и Office 2013, также работают в Windows 10 и приложениях Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="990d9-1055">Apps that worked on Windows 7, Windows 8.1, Office 2010, and Office 2013 also work on Windows 10 and Microsoft 365 Apps.</span></span>  
+  <span data-ttu-id="d41a5-841">Приложения, работающие в Windows 7, Windows 8,1, Office 2010 и Office 2013, также работают в Windows 10 и приложениях Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="d41a5-841">Apps that worked on Windows 7, Windows 8.1, Office 2010, and Office 2013 also work on Windows 10 and Microsoft 365 Apps.</span></span>  
   </li>
-</ul><span data-ttu-id="990d9-1056">
+</ul><span data-ttu-id="d41a5-842">
 <strong>Windows 10 на ARM</strong>
-</span><span class="sxs-lookup"><span data-stu-id="990d9-1056">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-842">
 <strong>Windows 10 on ARM</strong>
 </span></span><ul>
 <li>  
-<span data-ttu-id="990d9-1057">Приложения, которые работали в Windows 7, Office 2010 или более поздних версиях, также работают на устройствах с Windows 10 и Microsoft 365 Apps на устройствах ARM64.</span><span class="sxs-lookup"><span data-stu-id="990d9-1057">Apps that worked on Windows 7, Office 2010, or later versions also work on Windows 10 and Microsoft 365 Apps on ARM64 devices.</span></span> 
+<span data-ttu-id="d41a5-843">Приложения, которые работали в Windows 7, Office 2010 или более поздних версиях, также работают на устройствах с Windows 10 и Microsoft 365 Apps на устройствах ARM64.</span><span class="sxs-lookup"><span data-stu-id="d41a5-843">Apps that worked on Windows 7, Office 2010, or later versions also work on Windows 10 and Microsoft 365 Apps on ARM64 devices.</span></span> 
   </li>
-</ul><span data-ttu-id="990d9-1058">
+</ul><span data-ttu-id="d41a5-844">
   <strong>Примечание:</strong> 
-</span><span class="sxs-lookup"><span data-stu-id="990d9-1058">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-844">
   <strong>Note:</strong> 
 </span></span><ul>
-<li> <span data-ttu-id="990d9-1059">Эмуляция x64 (64-bit) доступна в предварительном режиме для клиентов, участвующих в <a href="https://insider.windows.com/">программе предварительного просмотра Windows.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-1059">x64 (64-bit) emulation is available in preview for customers participating in the <a href="https://insider.windows.com/">Windows Insider Program</a>.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-845">Эмуляция x64 (64-bit) доступна в предварительном режиме для клиентов, участвующих в <a href="https://insider.windows.com/">программе предварительного просмотра Windows.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-845">x64 (64-bit) emulation is available in preview for customers participating in the <a href="https://insider.windows.com/">Windows Insider Program</a>.</span></span>  </li>
 <li>  
- <span data-ttu-id="990d9-1060">Для пользователей, не использующих Windows Insider в Windows 10 версии 2004 (или более поздней версии), photoshop ARM64 поддерживается с помощью <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">пакета совместимости OpenCL и OpenGL.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-1060">For non-Windows Insider customers on Windows 10 version 2004 (or later), ARM64 Photoshop is supported using the <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenCL and OpenGL Compatibility Pack</a>.</span></span> 
+ <span data-ttu-id="d41a5-846">Для пользователей, не использующих Windows Insider в Windows 10 версии 2004 (или более поздней версии), photoshop ARM64 поддерживается с помощью <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">пакета совместимости OpenCL и OpenGL.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-846">For non-Windows Insider customers on Windows 10 version 2004 (or later), ARM64 Photoshop is supported using the <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenCL and OpenGL Compatibility Pack</a>.</span></span> 
   </li>
 <li>  
-  <span data-ttu-id="990d9-1061">Пользователи программы инсайдерской windows могут скачать внутреннюю версию пакета совместимости OpenCL и OpenGL для использования с дополнительными приложениями.</span><span class="sxs-lookup"><span data-stu-id="990d9-1061">Customers in the Windows Insider Program can download an Insider version of the OpenCL and OpenGL Compatibility Pack for use with additional apps.</span></span>    
+  <span data-ttu-id="d41a5-847">Пользователи программы инсайдерской windows могут скачать внутреннюю версию пакета совместимости OpenCL и OpenGL для использования с дополнительными приложениями.</span><span class="sxs-lookup"><span data-stu-id="d41a5-847">Customers in the Windows Insider Program can download an Insider version of the OpenCL and OpenGL Compatibility Pack for use with additional apps.</span></span>    
   </li>
-</ul><span data-ttu-id="990d9-1062">
+</ul><span data-ttu-id="d41a5-848">
 <strong>Microsoft Edge</strong>
-</span><span class="sxs-lookup"><span data-stu-id="990d9-1062">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-848">
 <strong>Microsoft Edge</strong>
 </span></span><ul>
 <li>  
-  <span data-ttu-id="990d9-1063">Если веб-приложения или сайты работают в Internet Explorer 11, поддерживаемых версиях Google Chrome или любой версии Microsoft Edge, они также будут работать с Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="990d9-1063">If your web apps or sites work on Internet Explorer 11, supported versions of Google Chrome, or any version of Microsoft Edge, they'll also work with Microsoft Edge.</span></span>  
+  <span data-ttu-id="d41a5-849">Если веб-приложения или сайты работают в Internet Explorer 11, поддерживаемых версиях Google Chrome или любой версии Microsoft Edge, они также будут работать с Microsoft Edge.</span><span class="sxs-lookup"><span data-stu-id="d41a5-849">If your web apps or sites work on Internet Explorer 11, supported versions of Google Chrome, or any version of Microsoft Edge, they'll also work with Microsoft Edge.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-1064">Поскольку веб-сайт постоянно развивается, обязательно просмотрите опубликованный список известных изменений, которые влияют на совместимость <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">веб-сайтов для Microsoft Edge.</a></span><span class="sxs-lookup"><span data-stu-id="990d9-1064">As the web is constantly evolving, be sure to review this published list of known <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">site compatibility-impacting changes for Microsoft Edge</a>.</span></span>  
+  <span data-ttu-id="d41a5-850">Поскольку веб-сайт постоянно развивается, обязательно просмотрите опубликованный список известных изменений, которые влияют на совместимость <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">веб-сайтов для Microsoft Edge.</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-850">As the web is constantly evolving, be sure to review this published list of known <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">site compatibility-impacting changes for Microsoft Edge</a>.</span></span>  
   </li>
-</ul><span data-ttu-id="990d9-1065">
+</ul><span data-ttu-id="d41a5-851">
   <strong>Виртуальный рабочий стол Windows </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-1065">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-851">
   <strong>Windows Virtual Desktop </strong>  
 </span></span><ul>
 <li>  
-  <span data-ttu-id="990d9-1066">Виртуализованные приложения, работающие на узле сеансов удаленных рабочих столов в Windows Server, также работают в Windows 10 Корпоративная с поддержкой нескольких сеансов в рамках виртуального рабочего стола Windows.</span><span class="sxs-lookup"><span data-stu-id="990d9-1066">Virtualized apps that run on Windows Server Remote Desktop Session Host (RDSH) also run on Windows 10 Enterprise multi-session as part of Windows Virtual Desktop.</span></span>  
+  <span data-ttu-id="d41a5-852">Виртуализованные приложения, работающие на узле сеансов удаленных рабочих столов в Windows Server, также работают в Windows 10 Корпоративная с поддержкой нескольких сеансов в рамках виртуального рабочего стола Windows.</span><span class="sxs-lookup"><span data-stu-id="d41a5-852">Virtualized apps that run on Windows Server Remote Desktop Session Host (RDSH) also run on Windows 10 Enterprise multi-session as part of Windows Virtual Desktop.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-1067">Приложения, работающие в любой среде виртуальной инфраструктуры настольных компьютеров Windows 7 или Windows 10, также работают на Windows 7 Корпоративная и Windows 10 Enterprise в рамках Windows Virtual Desktop.</span><span class="sxs-lookup"><span data-stu-id="990d9-1067">Apps running on any Windows 7 or Windows 10 virtual desktop infrastructure (VDI) environment also run on Windows 7 Enterprise and Windows 10 Enterprise as part of Windows Virtual Desktop.</span></span>  
+  <span data-ttu-id="d41a5-853">Приложения, работающие в любой среде виртуальной инфраструктуры настольных компьютеров Windows 7 или Windows 10, также работают на Windows 7 Корпоративная и Windows 10 Enterprise в рамках Windows Virtual Desktop.</span><span class="sxs-lookup"><span data-stu-id="d41a5-853">Apps running on any Windows 7 or Windows 10 virtual desktop infrastructure (VDI) environment also run on Windows 7 Enterprise and Windows 10 Enterprise as part of Windows Virtual Desktop.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-1068">Приложения, работающие на клиентских устройствах Windows 7 или Windows 10, также работают в Windows 7 Корпоративная и Windows 10 Корпоративная в рамках виртуального рабочего стола Windows.</span><span class="sxs-lookup"><span data-stu-id="990d9-1068">Apps running on Windows 7 or Windows 10 client devices also run on Windows 7 Enterprise and Windows 10 Enterprise as part of Windows Virtual Desktop.</span></span>  
+  <span data-ttu-id="d41a5-854">Приложения, работающие на клиентских устройствах Windows 7 или Windows 10, также работают в Windows 7 Корпоративная и Windows 10 Корпоративная в рамках виртуального рабочего стола Windows.</span><span class="sxs-lookup"><span data-stu-id="d41a5-854">Apps running on Windows 7 or Windows 10 client devices also run on Windows 7 Enterprise and Windows 10 Enterprise as part of Windows Virtual Desktop.</span></span>  
   </li>
-</ul><span data-ttu-id="990d9-1069">
-  <strong>Примечание:</strong> Исключения и ограничения совместимости с несколькими сеансами Windows 10 Enterprise включают следующие:</span><span class="sxs-lookup"><span data-stu-id="990d9-1069">
+</ul><span data-ttu-id="d41a5-855">
+  <strong>Примечание:</strong> Исключения и ограничения совместимости с несколькими сеансами Windows 10 Enterprise включают следующие:</span><span class="sxs-lookup"><span data-stu-id="d41a5-855">
   <strong>Note:</strong> Windows 10 Enterprise multi-session compatibility exclusions and limitations include:</span></span>
 <ul>
 <li>  
-  <span data-ttu-id="990d9-1070">Ограниченное перенаправление оборудования.</span><span class="sxs-lookup"><span data-stu-id="990d9-1070">Limited redirection of hardware.</span></span>  
+  <span data-ttu-id="d41a5-856">Ограниченное перенаправление оборудования.</span><span class="sxs-lookup"><span data-stu-id="d41a5-856">Limited redirection of hardware.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-1071">Приложения с интенсивным использованием A/V могут работать с уменьшенной производительностью.</span><span class="sxs-lookup"><span data-stu-id="990d9-1071">A/V-intensive apps may perform in a diminished capacity.</span></span>  
+  <span data-ttu-id="d41a5-857">Приложения с интенсивным использованием A/V могут работать с уменьшенной производительностью.</span><span class="sxs-lookup"><span data-stu-id="d41a5-857">A/V-intensive apps may perform in a diminished capacity.</span></span>  
   </li>
 <li>  
-  <span data-ttu-id="990d9-1072">16-разрядные приложения не поддерживаются в 64-разрядных виртуальных рабочих столах Windows.</span><span class="sxs-lookup"><span data-stu-id="990d9-1072">16-bit apps aren't supported for 64-bit Windows Virtual Desktop.</span></span>  
+  <span data-ttu-id="d41a5-858">16-разрядные приложения не поддерживаются в 64-разрядных виртуальных рабочих столах Windows.</span><span class="sxs-lookup"><span data-stu-id="d41a5-858">16-bit apps aren't supported for 64-bit Windows Virtual Desktop.</span></span>  
   </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
-## <a name="microsoft-edge"></a><span data-ttu-id="990d9-1073">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="990d9-1073">Microsoft Edge</span></span>
+## <a name="microsoft-edge"></a><span data-ttu-id="d41a5-859">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="d41a5-859">Microsoft Edge</span></span>
 
 
 <table>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="990d9-1074"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-1074"><strong>Service</strong></span></span></th>
-<th><span data-ttu-id="990d9-1075"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-1075"><strong>FastTrack guidance details</strong></span></span></th>
-<th><span data-ttu-id="990d9-1076"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="990d9-1076"><strong>Source environment expectations</strong></span></span></th>
+<th><span data-ttu-id="d41a5-860"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-860"><strong>Service</strong></span></span></th>
+<th><span data-ttu-id="d41a5-861"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-861"><strong>FastTrack guidance details</strong></span></span></th>
+<th><span data-ttu-id="d41a5-862"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="d41a5-862"><strong>Source environment expectations</strong></span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="even">
-<td><span data-ttu-id="990d9-1077"><strong>Microsoft Edge</strong> </span><span class="sxs-lookup"><span data-stu-id="990d9-1077"><strong>Microsoft Edge</strong> </span></span></td>
+<td><span data-ttu-id="d41a5-863"><strong>Microsoft Edge</strong> </span><span class="sxs-lookup"><span data-stu-id="d41a5-863"><strong>Microsoft Edge</strong> </span></span></td>
 <td>
-<span data-ttu-id="990d9-1078">Мы предоставляем рекомендации по удаленному развертыванию и принятию и совместимости для:</span><span class="sxs-lookup"><span data-stu-id="990d9-1078">We provide remote deployment and adoption guidance and compatibility assistance for:</span></span> <ul> <li><span data-ttu-id="990d9-1079">Развертывание Microsoft Edge в Windows 10 с помощью Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager или Intune).</span><span class="sxs-lookup"><span data-stu-id="990d9-1079">Deploying Microsoft Edge on Windows 10 with Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager or Intune).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-1080">Настройка Microsoft Edge (с помощью групповых политик или конфигурации приложений Intune и политик приложений).</span><span class="sxs-lookup"><span data-stu-id="990d9-1080">Configuring Microsoft Edge (using group policies or Intune app configuration and app policies).</span></span>  </li>
-<li>  <span data-ttu-id="990d9-1081">Инвентаризация списка сайтов, которые могут потребовать использования в режиме Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="990d9-1081">Inventorying the list of sites that may require use in Internet Explorer mode.</span></span>  </li>
-<li>  <span data-ttu-id="990d9-1082">Включение режима Internet Explorer в существующем списке корпоративных сайтов.</span><span class="sxs-lookup"><span data-stu-id="990d9-1082">Enabling Internet Explorer mode with the existing Enterprise Site List.</span></span> <span data-ttu-id="990d9-1083">(Дополнительные сведения см. в <a href="https://docs.microsoft.com/fasttrack/process-and-expectations#engaging-fasttrack">странице Engaging FastTrack).</a></span><span class="sxs-lookup"><span data-stu-id="990d9-1083">(For more information, see <a href="https://docs.microsoft.com/fasttrack/process-and-expectations#engaging-fasttrack">Engaging FastTrack</a>).</span></span> <span data-ttu-id="990d9-1084">Кроме того, если у вас есть веб-приложение или сайт, который работает с Internet Explorer или Google Chrome и вы испытываете проблемы с совместимостью, мы предоставляем рекомендации по устранению проблемы без дополнительных затрат.</span><span class="sxs-lookup"><span data-stu-id="990d9-1084">Additionally, if you have a web app or site that works with Internet Explorer or Google Chrome and you experience compatibility issues, we provide guidance to resolve the issue at no additional cost.</span></span> <span data-ttu-id="990d9-1085">Чтобы запросить поддержку совместимости для App Assure, вопишитесь на портал <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack,</a> чтобы начать взаимодействие.</span><span class="sxs-lookup"><span data-stu-id="990d9-1085">To request compatibility support for App Assure, sign in to the <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack portal</a> to start an engagement.</span></span>  </li>
-<li> <span data-ttu-id="990d9-1086">Планирование руководства по внедрению edge и настройке закладки Microsoft Search.</span><span class="sxs-lookup"><span data-stu-id="990d9-1086">Planning guidance for Edge adoption and configuration guidance for Microsoft Search bookmarks.</span></span></li>
-</ul><span data-ttu-id="990d9-1087">
+<span data-ttu-id="d41a5-864">Мы предоставляем рекомендации по удаленному развертыванию и принятию и совместимости для:</span><span class="sxs-lookup"><span data-stu-id="d41a5-864">We provide remote deployment and adoption guidance and compatibility assistance for:</span></span> <ul> <li><span data-ttu-id="d41a5-865">Развертывание Microsoft Edge в Windows 10 с помощью Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager или Intune).</span><span class="sxs-lookup"><span data-stu-id="d41a5-865">Deploying Microsoft Edge on Windows 10 with Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager or Intune).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-866">Настройка Microsoft Edge (с помощью групповых политик или конфигурации приложений Intune и политик приложений).</span><span class="sxs-lookup"><span data-stu-id="d41a5-866">Configuring Microsoft Edge (using group policies or Intune app configuration and app policies).</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-867">Инвентаризация списка сайтов, которые могут потребовать использования в режиме Internet Explorer.</span><span class="sxs-lookup"><span data-stu-id="d41a5-867">Inventorying the list of sites that may require use in Internet Explorer mode.</span></span>  </li>
+<li>  <span data-ttu-id="d41a5-868">Включение режима Internet Explorer в существующем списке корпоративных сайтов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-868">Enabling Internet Explorer mode with the existing Enterprise Site List.</span></span> <span data-ttu-id="d41a5-869">(Дополнительные сведения см. в <a href="https://docs.microsoft.com/fasttrack/process-and-expectations#engaging-fasttrack">странице Engaging FastTrack).</a></span><span class="sxs-lookup"><span data-stu-id="d41a5-869">(For more information, see <a href="https://docs.microsoft.com/fasttrack/process-and-expectations#engaging-fasttrack">Engaging FastTrack</a>).</span></span> <span data-ttu-id="d41a5-870">Кроме того, если у вас есть веб-приложение или сайт, который работает с Internet Explorer или Google Chrome и вы испытываете проблемы с совместимостью, мы предоставляем рекомендации по устранению проблемы без дополнительных затрат.</span><span class="sxs-lookup"><span data-stu-id="d41a5-870">Additionally, if you have a web app or site that works with Internet Explorer or Google Chrome and you experience compatibility issues, we provide guidance to resolve the issue at no additional cost.</span></span> <span data-ttu-id="d41a5-871">Чтобы запросить поддержку совместимости для App Assure, вопишитесь на портал <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack,</a> чтобы начать взаимодействие.</span><span class="sxs-lookup"><span data-stu-id="d41a5-871">To request compatibility support for App Assure, sign in to the <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack portal</a> to start an engagement.</span></span>  </li>
+<li> <span data-ttu-id="d41a5-872">Планирование руководства по внедрению edge и настройке закладки Microsoft Search.</span><span class="sxs-lookup"><span data-stu-id="d41a5-872">Planning guidance for Edge adoption and configuration guidance for Microsoft Search bookmarks.</span></span></li>
+</ul><span data-ttu-id="d41a5-873">
 
 <strong>Ниже приводится неосякаемая область </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="990d9-1087">
+</span><span class="sxs-lookup"><span data-stu-id="d41a5-873">
 
 <strong>The following is out of scope </strong>  
 </span></span><ul>
-<li><span data-ttu-id="990d9-1088">Управление проектами по развертыванию Microsoft Edge для клиентов.</span><span class="sxs-lookup"><span data-stu-id="990d9-1088">Project management of the customer's Microsoft Edge deployment.</span></span></li>
-<li>  <span data-ttu-id="990d9-1089">Поддержка на месте.</span><span class="sxs-lookup"><span data-stu-id="990d9-1089">On-site support.</span></span></li>
+<li><span data-ttu-id="d41a5-874">Управление проектами по развертыванию Microsoft Edge для клиентов.</span><span class="sxs-lookup"><span data-stu-id="d41a5-874">Project management of the customer's Microsoft Edge deployment.</span></span></li>
+<li>  <span data-ttu-id="d41a5-875">Поддержка на месте.</span><span class="sxs-lookup"><span data-stu-id="d41a5-875">On-site support.</span></span></li>
 
 </td>
 <td></td>
