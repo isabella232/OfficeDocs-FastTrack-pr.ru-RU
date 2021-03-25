@@ -3,19 +3,19 @@ title: Условия
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.
-ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416428"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187988"
 ---
 # <a name="eligibility"></a>Условия
 
@@ -37,19 +37,19 @@ ms.locfileid: "50416428"
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security
-  - Расширенная защита от угроз (ATP) в Microsoft Defender
+  - Microsoft Defender для конечной точки
   - Microsoft Defender для удостоверений 
+  - Microsoft Defender для Office 365
   - Microsoft Edge
   - Управление информацией (Майкрософт)
   - Защита информации (Майкрософт)
   - Microsoft Intune
   - Microsoft Teams
-  - Office 365 Advanced Threat Protection (ATP)
   - OneDrive для бизнеса
   - Power BI
   - Project Online
   - SharePoint Online
-  - Windows 10
+  - Windows 10
   - Виртуальный рабочий стол Windows
   - Yammer корпоративный
 
@@ -117,7 +117,7 @@ ms.locfileid: "50416428"
   - Exchange Online (план 2)
   - Базовая подписка на Exchange Online
   - Exchange Online Protection
-  - Office 365 Advanced Threat Protection
+  - Microsoft Defender для Office 365
 
 #### <a name="microsoft-teams"></a>Microsoft Teams
 
