@@ -3,19 +3,19 @@ title: Продукты и возможности
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этом разделе содержатся сведения о сценариях рабочей нагрузки, поддерживаемых FastTrack, и ожиданиях исходных сред, необходимых перед началом работы. На основе текущей настройки мы работаем с вами над созданием плана восстановления, который соответствует минимальным требованиям для успешной работы с бортовой установкой.
-ms.openlocfilehash: 2bfca103fd9c58d95d9ba4a750e446a6e93b5719
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+ms.openlocfilehash: 70e279268f33591884c6bebb8625688ca724480d
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51188108"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51927037"
 ---
 # <a name="products-and-capabilities"></a>Продукты и возможности
 
@@ -821,7 +821,7 @@ FastTrack предоставляет рекомендации, которые п
 </tbody>
 </table>
 
-## <a name="office-365"></a>Office 365
+## <a name="office-365"></a>Office 365
 
 <table>
 <thead>
@@ -1079,7 +1079,7 @@ FastTrack предоставляет рекомендации, которые п
 </tbody>
 </table>
 
-## <a name="windows-10"></a>Windows 10
+## <a name="windows-10"></a>Windows 10
 
 <table>
 <thead>
