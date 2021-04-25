@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack поможет вам перенести данные почты и файла вашей исходной среды в Office 365 (Exchange Online. SharePoint Online и OneDrive для бизнеса). Тип предоставляемой помощи зависит от количества лицензий Office 365 у вас.
-ms.openlocfilehash: 07165233711d4d4931f8adac4809b56138078f5a
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 8d74a288291907db22213f317ce8e89923590907
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51927001"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996262"
 ---
 # <a name="data-migration"></a>Перенос данных
 
@@ -160,7 +160,7 @@ FastTrack поможет вам перенести данные почты и ф
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>Обязанности FastTrack для миграций Exchange Online
 
 Наши специалисты FastTrack выполняют стандартные действия в процессе проекта миграции. Дополнительные сведения об обязанностях по переносу данных см. в разделе[Процесс и ожидания](process-and-expectations.md).
 
@@ -363,7 +363,7 @@ FastTrack поможет вам перенести данные почты и ф
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>Обязанности FastTrack для переносов SharePoint Online
 
 Наши специалисты FastTrack выполняют стандартные действия в процессе проекта миграции. Дополнительные сведения об обязанностях по переносу данных см. в разделе[Процесс и ожидания](process-and-expectations.md)
 
@@ -555,7 +555,7 @@ FastTrack поможет вам перенести данные почты и ф
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>Обязанности FastTrack для переноса OneDrive для бизнеса
 
 Наши специалисты FastTrack выполняют стандартные действия в процессе проекта миграции. Дополнительные сведения об обязанностях по переносу данных см. в разделе[Процесс и ожидания](process-and-expectations.md).
 
@@ -756,7 +756,7 @@ FastTrack поможет вам перенести данные почты и ф
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Обязанности специалистов FastTrack
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Обязанности FastTrack для миграций Microsoft Teams и Microsoft 365 Groups
 
 Наши специалисты FastTrack выполняют стандартные действия в процессе проекта миграции. Дополнительные сведения об обязанностях по переносу данных см. в разделе[Процесс и ожидания](process-and-expectations.md).
 
