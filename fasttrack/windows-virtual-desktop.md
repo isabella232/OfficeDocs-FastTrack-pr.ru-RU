@@ -1,67 +1,86 @@
-<span data-ttu-id="4a5d6-101">**Виртуальный рабочий стол Windows**</span><span class="sxs-lookup"><span data-stu-id="4a5d6-101">**Windows Virtual Desktop**</span></span>
+---
+title: Виртуальный рабочий стол Windows
+ms.author: v-bermic
+author: rberg-steyer
+manager: jimmuir
+ms.date: 7/01/2020
+audience: ITPro
+ms.topic: overview
+ms.service: virtual-desktop
+localization_priority: None
+ms.collection: FastTrack
+description: FastTrack предоставляет рекомендации по развертыванию виртуальных настольных компьютеров Windows, чтобы помочь вам на борту этого рабочего стола.
+ms.openlocfilehash: 9e8712b7a1f324d02715527b22eca3f7e4db4656
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+ms.translationtype: MT
+ms.contentlocale: ru-RU
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996242"
+---
+# <a name="windows-virtual-desktop"></a><span data-ttu-id="76d81-103">Виртуальный рабочий стол Windows</span><span class="sxs-lookup"><span data-stu-id="76d81-103">Windows Virtual Desktop</span></span>
 
 <table>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="4a5d6-102"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="4a5d6-102"><strong>Service</strong></span></span></th>
-<th><span data-ttu-id="4a5d6-103"><strong>Сведения о руководстве по FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="4a5d6-103"><strong>FastTrack Guidance Details</strong></span></span></th>
-<th><span data-ttu-id="4a5d6-104"><strong>Требования к исходной среде</strong></span><span class="sxs-lookup"><span data-stu-id="4a5d6-104"><strong>Source Environment Expectations</strong></span></span></th>
+<th><span data-ttu-id="76d81-104"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="76d81-104"><strong>Service</strong></span></span></th>
+<th><span data-ttu-id="76d81-105"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="76d81-105"><strong>FastTrack Guidance Details</strong></span></span></th>
+<th><span data-ttu-id="76d81-106"><strong>Требования к исходной среде</strong></span><span class="sxs-lookup"><span data-stu-id="76d81-106"><strong>Source Environment Expectations</strong></span></span></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><span data-ttu-id="4a5d6-105">Виртуальный рабочий стол Windows</span><span class="sxs-lookup"><span data-stu-id="4a5d6-105">Windows Virtual Desktop</span></span></td>
-<td><p><span data-ttu-id="4a5d6-106">FastTrack предоставляет руководство по развертыванию виртуальных рабочих столов Windows для упрощения работы с этой службой виртуализации для настольных систем и приложений, а также позволяет использовать преимущества многосеансового режима Windows 10, оптимизированные для приложений M365 для предприятий со встроенной безопасностью и управлением Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="4a5d6-106">FastTrack provides Windows Virtual Desktop deployment guidance to help you onboard to this desktop and app virtualization service with ease while taking advantage of Windows 10 multi-session experience, optimized for M365 Apps for Enterprise with integrated security and management for Microsoft 365.</span></span></p>
-<p><span data-ttu-id="4a5d6-107">Вы работаете со специалистами FastTrack, чтобы:</span><span class="sxs-lookup"><span data-stu-id="4a5d6-107">You work with FastTrack Specialists to:</span></span></p>
+<td><span data-ttu-id="76d81-107">Виртуальный рабочий стол Windows</span><span class="sxs-lookup"><span data-stu-id="76d81-107">Windows Virtual Desktop</span></span></td>
+<td><p><span data-ttu-id="76d81-108">FastTrack предоставляет рекомендации по развертыванию виртуальных настольных компьютеров Windows, чтобы помочь вам в этой службе виртуализации настольных компьютеров и приложений с легкостью использовать много сеансы Windows 10, оптимизированные для Microsoft 365 Apps для предприятия с интегрированной безопасностью и управлением для Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="76d81-108">FastTrack provides Windows Virtual Desktop deployment guidance to help you onboard to this desktop and app virtualization service with ease while taking advantage of Windows 10 multi-session experience, optimized for Microsoft 365 Apps for Enterprise with integrated security and management for Microsoft 365.</span></span></p>
+<p><span data-ttu-id="76d81-109">Вы работаете со специалистами FastTrack, чтобы:</span><span class="sxs-lookup"><span data-stu-id="76d81-109">You work with FastTrack Specialists to:</span></span></p>
 <ul>
-<li><p><span data-ttu-id="4a5d6-108">Разверните среду ВВД с помощью многосеансового приложения Windows 10 Enterprise Multi — M365 для предприятий, используя следующие компоненты:</span><span class="sxs-lookup"><span data-stu-id="4a5d6-108">Deploy WVD environment with Windows 10 Enterprise multi-session + M365 Apps for Enterprise using the following:</span></span></p>
+<li><p><span data-ttu-id="76d81-110">Развертывание среды WVD с несколькими сеансами Windows 10 Enterprise + Microsoft 365 Apps для предприятия с помощью следующих ниже.</span><span class="sxs-lookup"><span data-stu-id="76d81-110">Deploy WVD environment with Windows 10 Enterprise multi-session + Microsoft 365 Apps for Enterprise using the following:</span></span></p>
 <ul>
-<li><p><span data-ttu-id="4a5d6-109">Образ Azure Marketplace</span><span class="sxs-lookup"><span data-stu-id="4a5d6-109">Azure Marketplace Image</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-110">Общий образ</span><span class="sxs-lookup"><span data-stu-id="4a5d6-110">Shared Image</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-111">Набор средств для развертывания Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="4a5d6-111">Office Deployment Toolkit (ODT)</span></span></p></li>
+<li><p><span data-ttu-id="76d81-111">Azure Marketplace Image</span><span class="sxs-lookup"><span data-stu-id="76d81-111">Azure Marketplace Image</span></span></p></li>
+<li><p><span data-ttu-id="76d81-112">Общий образ</span><span class="sxs-lookup"><span data-stu-id="76d81-112">Shared Image</span></span></p></li>
+<li><p><span data-ttu-id="76d81-113">Развертывание office набор средств (ODT)</span><span class="sxs-lookup"><span data-stu-id="76d81-113">Office Deployment Toolkit (ODT)</span></span></p></li>
 </ul></li>
-<li><p><span data-ttu-id="4a5d6-112">Настроить FSLogic</span><span class="sxs-lookup"><span data-stu-id="4a5d6-112">Configure FSLogix</span></span></p>
+<li><p><span data-ttu-id="76d81-114">Настроить FSLogic</span><span class="sxs-lookup"><span data-stu-id="76d81-114">Configure FSLogix</span></span></p>
 <ul>
-<li><p><span data-ttu-id="4a5d6-113">Развертывание агента Фслогикс с контейнером профилей</span><span class="sxs-lookup"><span data-stu-id="4a5d6-113">Deploy FSLogix Agent with Profile Container</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-114">Развертывание агента Фслогикс с контейнером Office</span><span class="sxs-lookup"><span data-stu-id="4a5d6-114">Deploy FSLogix Agent with Office Container</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-115">Настройка папки Фслогикс с исключениями содержимого</span><span class="sxs-lookup"><span data-stu-id="4a5d6-115">Configure FSLogix folder with content exclusions</span></span></p></li>
+<li><p><span data-ttu-id="76d81-115">Развертывание агента FSLogix с контейнером профилей</span><span class="sxs-lookup"><span data-stu-id="76d81-115">Deploy FSLogix Agent with Profile Container</span></span></p></li>
+<li><p><span data-ttu-id="76d81-116">Развертывание агента FSLogix с контейнером Office</span><span class="sxs-lookup"><span data-stu-id="76d81-116">Deploy FSLogix Agent with Office Container</span></span></p></li>
+<li><p><span data-ttu-id="76d81-117">Настройка папки FSLogix с исключениями контента</span><span class="sxs-lookup"><span data-stu-id="76d81-117">Configure FSLogix folder with content exclusions</span></span></p></li>
 </ul></li>
-<li><p><span data-ttu-id="4a5d6-116">Развертывание Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="4a5d6-116">Deploy Microsoft Edge</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-117">Развертывание Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="4a5d6-117">Deploy Microsoft Teams</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-118">Подключение с использованием клиентов виртуальных рабочих столов Windows</span><span class="sxs-lookup"><span data-stu-id="4a5d6-118">Connect using Windows Virtual Desktop Clients</span></span></p></li>
+<li><p><span data-ttu-id="76d81-118">Развертывание Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="76d81-118">Deploy Microsoft Edge</span></span></p></li>
+<li><p><span data-ttu-id="76d81-119">Развертывание Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="76d81-119">Deploy Microsoft Teams</span></span></p></li>
+<li><p><span data-ttu-id="76d81-120">Подключение с помощью виртуальных клиентов настольных компьютеров Windows</span><span class="sxs-lookup"><span data-stu-id="76d81-120">Connect using Windows Virtual Desktop Clients</span></span></p></li>
 </ul>
-<p><span data-ttu-id="4a5d6-119"><strong>Ниже приведена область действия</strong></span><span class="sxs-lookup"><span data-stu-id="4a5d6-119"><strong>The following is out of scope</strong></span></span></p>
+<p><span data-ttu-id="76d81-121"><strong>Ниже приводится неосякаемая область</strong></span><span class="sxs-lookup"><span data-stu-id="76d81-121"><strong>The following is out of scope</strong></span></span></p>
 <ul>
-<li><p><span data-ttu-id="4a5d6-120">Управление проектом развертывания виртуальных рабочих столов на клиенте Windows.</span><span class="sxs-lookup"><span data-stu-id="4a5d6-120">Project management of the customer's Windows Virtual Desktop deployment.</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-121">Поддержка на месте.</span><span class="sxs-lookup"><span data-stu-id="4a5d6-121">On-site support.</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-122">Виртуализация и развертывание сторонних приложений.</span><span class="sxs-lookup"><span data-stu-id="4a5d6-122">Third party application virtualization/deployment.</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-123">Настраиваемые изображения.</span><span class="sxs-lookup"><span data-stu-id="4a5d6-123">Custom images.</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-124">Миграция и сценарии, включающие VMware и Citrix.</span><span class="sxs-lookup"><span data-stu-id="4a5d6-124">Migrations and scenarios involving VMware and Citrix.</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-125">Сценарии Linux.</span><span class="sxs-lookup"><span data-stu-id="4a5d6-125">Linux scenarios.</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-126">Преобразование профилей пользователей или их миграция.</span><span class="sxs-lookup"><span data-stu-id="4a5d6-126">Conversion or migrations of user profiles.</span></span></p></li>
+<li><p><span data-ttu-id="76d81-122">Управление проектами развертывания виртуального рабочего стола клиента с Windows.</span><span class="sxs-lookup"><span data-stu-id="76d81-122">Project management of the customer's Windows Virtual Desktop deployment.</span></span></p></li>
+<li><p><span data-ttu-id="76d81-123">Поддержка на месте.</span><span class="sxs-lookup"><span data-stu-id="76d81-123">On-site support.</span></span></p></li>
+<li><p><span data-ttu-id="76d81-124">Виртуализация и развертывание сторонних приложений.</span><span class="sxs-lookup"><span data-stu-id="76d81-124">Third-party application virtualization/deployment.</span></span></p></li>
+<li><p><span data-ttu-id="76d81-125">Настраиваемые изображения.</span><span class="sxs-lookup"><span data-stu-id="76d81-125">Custom images.</span></span></p></li>
+<li><p><span data-ttu-id="76d81-126">Миграции и сценарии с участием VMware и Citrix.</span><span class="sxs-lookup"><span data-stu-id="76d81-126">Migrations and scenarios involving VMware and Citrix.</span></span></p></li>
+<li><p><span data-ttu-id="76d81-127">Сценарии Linux.</span><span class="sxs-lookup"><span data-stu-id="76d81-127">Linux scenarios.</span></span></p></li>
+<li><p><span data-ttu-id="76d81-128">Преобразование или миграция профилей пользователей.</span><span class="sxs-lookup"><span data-stu-id="76d81-128">Conversion or migrations of user profiles.</span></span></p></li>
 </ul>
-<p><span data-ttu-id="4a5d6-127">Обратитесь к <a href="https://go.microsoft.com/fwlink/?linkid=2080150">партнеру Майкрософт</a>за   помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="4a5d6-127">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span></p></td>
-<td><p><span data-ttu-id="4a5d6-128">У вас уже должны быть следующие компоненты:</span><span class="sxs-lookup"><span data-stu-id="4a5d6-128">You should already have the following:</span></span></p>
+<p><span data-ttu-id="76d81-129">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="76d81-129">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span></p></td>
+<td><p><span data-ttu-id="76d81-130">У вас уже должно быть следующее:</span><span class="sxs-lookup"><span data-stu-id="76d81-130">You should already have the following:</span></span></p>
 <ul>
-<li><p><span data-ttu-id="4a5d6-129"><a href="https://docs.microsoft.com/en-us/azure/virtual-desktop/overview#requirements">Требования лицензирования ВВД</a></span><span class="sxs-lookup"><span data-stu-id="4a5d6-129"><a href="https://docs.microsoft.com/en-us/azure/virtual-desktop/overview#requirements">WVD Licensing Requirements</a></span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-130">Сеть Azure:</span><span class="sxs-lookup"><span data-stu-id="4a5d6-130">Azure Networking:</span></span></p>
+<li><p><span data-ttu-id="76d81-131"><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Требования к лицензированию WVD</a></span><span class="sxs-lookup"><span data-stu-id="76d81-131"><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">WVD Licensing Requirements</a></span></span></p></li>
+<li><p><span data-ttu-id="76d81-132">Azure Networking:</span><span class="sxs-lookup"><span data-stu-id="76d81-132">Azure Networking:</span></span></p>
 <ul>
-<li><p><span data-ttu-id="4a5d6-131">Подсети &amp; создания виртуальной сети</span><span class="sxs-lookup"><span data-stu-id="4a5d6-131">VNET creation &amp; Subnetting</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-132">Брандмауэры и сетевые группы безопасности</span><span class="sxs-lookup"><span data-stu-id="4a5d6-132">Firewall / Network Security Groups</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-133">VPN/ExpressRoute</span><span class="sxs-lookup"><span data-stu-id="4a5d6-133">VPN / ExpressRoute</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-134">Маршрутизация в Azure из локальной организации</span><span class="sxs-lookup"><span data-stu-id="4a5d6-134">Routing to Azure from on-premises</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-135">Правила брандмауэра, чтобы разрешить подключение к ВВД</span><span class="sxs-lookup"><span data-stu-id="4a5d6-135">Firewall rules to allow connectivity to WVD</span></span></p>
+<li><p><span data-ttu-id="76d81-133">Подсети создания &amp; VNET</span><span class="sxs-lookup"><span data-stu-id="76d81-133">VNET creation &amp; Subnetting</span></span></p></li>
+<li><p><span data-ttu-id="76d81-134">Брандмауэр / Группы безопасности сети</span><span class="sxs-lookup"><span data-stu-id="76d81-134">Firewall / Network Security Groups</span></span></p></li>
+<li><p><span data-ttu-id="76d81-135">VPN / ExpressRoute</span><span class="sxs-lookup"><span data-stu-id="76d81-135">VPN / ExpressRoute</span></span></p></li>
+<li><p><span data-ttu-id="76d81-136">Маршрутиротка в Azure из локальной области</span><span class="sxs-lookup"><span data-stu-id="76d81-136">Routing to Azure from on-premises</span></span></p></li>
+<li><p><span data-ttu-id="76d81-137">Правила брандмауэра, позволяющие подключаться к WVD</span><span class="sxs-lookup"><span data-stu-id="76d81-137">Firewall rules to allow connectivity to WVD</span></span></p>
 <ul>
-<li><p><span data-ttu-id="4a5d6-136"><a href="https://docs.microsoft.com/en-us/azure/virtual-desktop/overview#supported-remote-desktop-clients">Ссылка на документацию</a></span><span class="sxs-lookup"><span data-stu-id="4a5d6-136"><a href="https://docs.microsoft.com/en-us/azure/virtual-desktop/overview#supported-remote-desktop-clients">Docs Reference</a></span></span></p></li>
+<li><p><span data-ttu-id="76d81-138"><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients">Справка по docs</a></span><span class="sxs-lookup"><span data-stu-id="76d81-138"><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients">Docs Reference</a></span></span></p></li>
 </ul></li>
 </ul></li>
-<li><p><span data-ttu-id="4a5d6-137">Общая Настройка Azure Active Directory</span><span class="sxs-lookup"><span data-stu-id="4a5d6-137">Azure Active Directory General Setup</span></span></p>
+<li><p><span data-ttu-id="76d81-139">Установка общего каталога Azure Active</span><span class="sxs-lookup"><span data-stu-id="76d81-139">Azure Active Directory General Setup</span></span></p>
 <ul>
-<li><p><span data-ttu-id="4a5d6-138">Стратегия идентификации <strong>(выберите только один из следующих трех вариантов)</strong></span><span class="sxs-lookup"><span data-stu-id="4a5d6-138">Identity Strategy <strong>(Select ONLY 1 of the following 3 options)</strong></span></span></p>
+<li><p><span data-ttu-id="76d81-140">Стратегия <strong>удостоверений (Выберите ТОЛЬКО 1 из следующих 3 параметров)</strong></span><span class="sxs-lookup"><span data-stu-id="76d81-140">Identity Strategy <strong>(Select ONLY 1 of the following 3 options)</strong></span></span></p>
 <ul>
-<li><p><span data-ttu-id="4a5d6-139">Active Directory с Azure AD Connect в Azure</span><span class="sxs-lookup"><span data-stu-id="4a5d6-139">Active Directory with Azure AD Connect in Azure</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-140">Active Directory с Azure AD Connect при локальной сети VPN/ER</span><span class="sxs-lookup"><span data-stu-id="4a5d6-140">Active Directory with Azure AD Connect On Premise over VPN / ER</span></span></p></li>
-<li><p><span data-ttu-id="4a5d6-141">Доменные службы Active Directory</span><span class="sxs-lookup"><span data-stu-id="4a5d6-141">Active Directory Domain Services</span></span></p></li>
+<li><p><span data-ttu-id="76d81-141">Active Directory с Подключением Azure AD в Azure</span><span class="sxs-lookup"><span data-stu-id="76d81-141">Active Directory with Azure AD Connect in Azure</span></span></p></li>
+<li><p><span data-ttu-id="76d81-142">Active Directory с Azure AD Connect on Premise over VPN /ER</span><span class="sxs-lookup"><span data-stu-id="76d81-142">Active Directory with Azure AD Connect On Premise over VPN / ER</span></span></p></li>
+<li><p><span data-ttu-id="76d81-143">Доменные службы Active Directory</span><span class="sxs-lookup"><span data-stu-id="76d81-143">Active Directory Domain Services</span></span></p></li>
 </ul></li>
 </ul></li>
 </ul></td>
