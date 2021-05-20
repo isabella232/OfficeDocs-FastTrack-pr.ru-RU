@@ -1,29 +1,29 @@
 ---
-title: Этапы onboarding и migration для правительства США Office 365
+title: Этапы onboarding и migration для Office 365 правительства США
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: 'Бортовая система Office 365 для правительства США Office 365 имеет четыре основных этапа: инициация, оценка, исправление и включить. Эти этапы можно выполнять с необязательным этапом миграции данных, как показано на следующем рисунке.'
-ms.openlocfilehash: 6b371c2f66f811ba8997c6380f23b2b6e0b24945
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+description: 'Office 365 для Office 365 правительства США имеет четыре основных этапа: инициация, оценка, исправление и включить. Эти этапы можно выполнять с необязательным этапом миграции данных, как показано на следующем рисунке.'
+ms.openlocfilehash: 7c6684323498ee1d7d71cc7c15e3f9c6797e3e1c
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926977"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570569"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы onboarding и migration для правительства США Office 365
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы onboarding и migration для Office 365 правительства США
 
 Подключение к Office 365 состоит из четырех основных фаз: начальной, оценки, исправления и включения. За этими фазами может следовать фаза переноса данных, как показано на рисунке ниже.
   
 ![Фазы подключения](media/O365-Onboarding-Phases.png)
   
-Подробные задачи для каждого этапа см. в [описании FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) and Your [Responsibilities for Office 365 US Government.](US-Gov-appendix-your-responsibilities.md)
+Подробные задачи для каждого этапа см. в Office 365 [fastTrack Responsibilities for us government](US-Gov-appendix-fasttrack-responsibilities.md) and [Your Responsibilities for Office 365 правительства США.](US-Gov-appendix-your-responsibilities.md)
   
 ## <a name="initiate-phase"></a>Начальная фаза
 
@@ -132,8 +132,8 @@ ms.locfileid: "51926977"
 - Настройка DNS.    
 - Создание учетных записей для устройств системы комнат.    
 - Развертывание поддерживаемого клиента Skype для бизнеса Online.   
-- Создание конфигурации разделенного сервера домена между локальной средой Lync 2010, Lync 2013 или серверной средой Skype для бизнеса 2015 и клиентом Skype для бизнеса Online (если это применимо).
-- Включение планов звонков, трансляции собраний в Skype, а также телефонной системы и звонков (на доступных рынках — недоступны в планах GCC High или DoD). 
+- Создание конфигурации разделенного сервера домена между локальной средой Lync 2010, Lync 2013 или Skype для бизнеса 2015 года и клиентом Skype для бизнеса Online (если применимо).
+- Включение планов звонков, Skype трансляции собраний, а также телефонная система и звонков (на доступных рынках — недоступны в GCC или планах DoD). 
     
 ![Этапы входящей миграции Lync во время фазы активации_1](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,7 +142,7 @@ ms.locfileid: "51926977"
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> В планах GCC High или DoD недоступны следующие данные.
+> В планах High или DoD GCC ниже.
 
 Мы предоставляем руководство по следующим вопросам: 
 - Проверка минимальных требований.   
@@ -173,7 +173,7 @@ ms.locfileid: "51926977"
 Мы предоставляем руководство по включению службы Yammer Enterprise.
 
 > [!NOTE]
-> Yammer Enterprise не является компонентом Office 365 правительства США, но может быть приобретен бесплатно в качестве отдельного предложения для каждого пользователя, лицензированного для Office 365 в GCC. В настоящее время это предложение ограничено клиентами, которые приобретают Office 365 GCC в соответствии с корпоративными соглашениями и корпоративными соглашениями о подписке. Yammer не доступен в планах GCC High или DoD. 
+> Yammer корпоративный не является компонентом Office 365 правительства США, но может быть приобретена бесплатно в качестве отдельного предложения для каждого пользователя, лицензированного для Office 365 в GCC. В настоящее время это предложение ограничено клиентами, которые Office 365 GCC по Enterprise соглашениям Enterprise подписки. Yammer недоступна в GCC или планах DoD. 
   
 ## <a name="microsoft-365-apps"></a>Приложения Microsoft 365
 
@@ -183,7 +183,7 @@ ms.locfileid: "51926977"
 - Установка приложений Microsoft 365 с портала Office 365 с помощью технологии "нажми и работай".    
 - Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS или Android.   
 - Настройка параметров обновления с помощью средства развертывания Office 365.    
-- Настройка единого сервера рассылки для Microsoft 365 Apps, включая помощь в создании файла configuration.xml для использования с помощью средства развертывания Office 365.    
+- Настройка отдельного сервера рассылки на Приложения Microsoft 365, включая помощь в создании файла configuration.xml для использования с помощью средства Office 365 развертывания.    
 - Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.
     
 ![Этапы входящей миграции Office профессиональный плюс](media/o365-onboarding-enable-m365-apps-2.png)

@@ -3,19 +3,19 @@ title: Условия
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.
-ms.openlocfilehash: b4a7af935ee8223f94ac60eca2d18a0b6e53ace7
-ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
+ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52283451"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570497"
 ---
 # <a name="eligibility"></a>Условия
 
