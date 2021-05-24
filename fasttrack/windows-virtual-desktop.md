@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: virtual-desktop
 localization_priority: None
 ms.collection: FastTrack
-description: FastTrack предоставляет рекомендации по развертыванию виртуальных настольных компьютеров Windows, чтобы помочь вам на борту этого рабочего стола.
-ms.openlocfilehash: 9e8712b7a1f324d02715527b22eca3f7e4db4656
-ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+description: FastTrack предоставляет Windows для развертывания виртуальных настольных компьютеров, чтобы помочь вам на борту этого рабочего стола.
+ms.openlocfilehash: bdec1f6438a34b5ec023be5159329617bc5a78f9
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996242"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592442"
 ---
 # <a name="windows-virtual-desktop"></a>Виртуальный рабочий стол Windows
 
@@ -30,28 +30,28 @@ ms.locfileid: "51996242"
 <tbody>
 <tr class="odd">
 <td>Виртуальный рабочий стол Windows</td>
-<td><p>FastTrack предоставляет рекомендации по развертыванию виртуальных настольных компьютеров Windows, чтобы помочь вам в этой службе виртуализации настольных компьютеров и приложений с легкостью использовать много сеансы Windows 10, оптимизированные для Microsoft 365 Apps для предприятия с интегрированной безопасностью и управлением для Microsoft 365.</p>
+<td><p>FastTrack предоставляет Windows руководство по развертыванию виртуальных настольных компьютеров, чтобы помочь вам в этой службе виртуализации настольных компьютеров и приложений с легкостью использовать Windows 10 много сеансов, оптимизированные для Приложения Microsoft 365 для Enterprise с интегрированной безопасностью и управлением для Microsoft 365.</p>
 <p>Вы работаете со специалистами FastTrack, чтобы:</p>
 <ul>
-<li><p>Развертывание среды WVD с несколькими сеансами Windows 10 Enterprise + Microsoft 365 Apps для предприятия с помощью следующих ниже.</p>
+<li><p>Развертывание среды WVD с Windows 10 Корпоративная нескольких сеансов + Приложения Microsoft 365 для Enterprise с помощью следующих ниже.</p>
 <ul>
 <li><p>Azure Marketplace Image</p></li>
 <li><p>Общий образ</p></li>
-<li><p>Развертывание office набор средств (ODT)</p></li>
+<li><p>Office Развертывание набор средств (ODT)</p></li>
 </ul></li>
 <li><p>Настроить FSLogic</p>
 <ul>
 <li><p>Развертывание агента FSLogix с контейнером профилей</p></li>
-<li><p>Развертывание агента FSLogix с контейнером Office</p></li>
+<li><p>Развертывание агента FSLogix с Office контейнером</p></li>
 <li><p>Настройка папки FSLogix с исключениями контента</p></li>
 </ul></li>
 <li><p>Развертывание Microsoft Edge</p></li>
 <li><p>Развертывание Microsoft Teams</p></li>
-<li><p>Подключение с помощью виртуальных клиентов настольных компьютеров Windows</p></li>
+<li><p>Подключение с Windows виртуальных настольных клиентов</p></li>
 </ul>
 <p><strong>Ниже приводится неосякаемая область</strong></p>
 <ul>
-<li><p>Управление проектами развертывания виртуального рабочего стола клиента с Windows.</p></li>
+<li><p>Project управления развертыванием виртуального рабочего стола Windows клиента.</p></li>
 <li><p>Поддержка на месте.</p></li>
 <li><p>Виртуализация и развертывание сторонних приложений.</p></li>
 <li><p>Настраиваемые изображения.</p></li>
@@ -62,7 +62,7 @@ ms.locfileid: "51996242"
 <p>Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</p></td>
 <td><p>У вас уже должно быть следующее:</p>
 <ul>
-<li><p><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Требования к лицензированию WVD</a></p></li>
+<li><p>[Требования к лицензированию WVD](/azure/virtual-desktop/overview#requirements)</p></li>
 <li><p>Azure Networking:</p>
 <ul>
 <li><p>Подсети создания &amp; VNET</p></li>
@@ -71,15 +71,15 @@ ms.locfileid: "51996242"
 <li><p>Маршрутиротка в Azure из локальной области</p></li>
 <li><p>Правила брандмауэра, позволяющие подключаться к WVD</p>
 <ul>
-<li><p><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients">Справка по docs</a></p></li>
+<li><p>[Справка по docs](/azure/virtual-desktop/overview#supported-remote-desktop-clients)</p></li>
 </ul></li>
 </ul></li>
-<li><p>Установка общего каталога Azure Active</p>
+<li><p>Azure Active Directory Общая настройка</p>
 <ul>
 <li><p>Стратегия <strong>удостоверений (Выберите ТОЛЬКО 1 из следующих 3 параметров)</strong></p>
 <ul>
-<li><p>Active Directory с Подключением Azure AD в Azure</p></li>
-<li><p>Active Directory с Azure AD Connect on Premise over VPN /ER</p></li>
+<li><p>Active Directory с azure AD Подключение Azure</p></li>
+<li><p>Active Directory с azure AD Подключение локально над VPN / ER</p></li>
 <li><p>Доменные службы Active Directory</p></li>
 </ul></li>
 </ul></li>

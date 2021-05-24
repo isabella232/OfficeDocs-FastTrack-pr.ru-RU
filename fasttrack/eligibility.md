@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.
-ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570497"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592405"
 ---
 # <a name="eligibility"></a>Условия
 
@@ -33,7 +33,7 @@ ms.locfileid: "52570497"
   - Приложения Microsoft 365
 
 > [!NOTE]
-> Пакет Office 365 профессиональный плюс переименован в Приложение Microsoft 365. В некоторых случаях используется устаревшее название. Дополнительные сведения о вступлении этого изменения в силу см. в статье [Изменение названия Office 365 профессиональный плюс](https://docs.microsoft.com/deployoffice/name-change).
+> Пакет Office 365 профессиональный плюс переименован в Приложение Microsoft 365. В некоторых случаях используется устаревшее название. Дополнительные сведения о вступлении этого изменения в силу см. в статье [Изменение названия Office 365 профессиональный плюс](/deployoffice/name-change).
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack поможет вам перенести данные почты и файла вашей исходной среды в Office 365 (Exchange Online. SharePoint Online и OneDrive для бизнеса). Тип предоставляемой помощи зависит от количества лицензий Office 365 у вас.
-ms.openlocfilehash: 916343d73c46410990785515ac5f32de24703acf
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 437da2c12375bfc2d9614c452b0685f18ad3d188
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570485"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592430"
 ---
 # <a name="data-migration"></a>Перенос данных
 
@@ -108,7 +108,7 @@ FastTrack поможет вам перенести данные почты и ф
 <tr class="even">
 <td><strong>Среда G Suite (только Gmail, Контакты и Календарь)</strong><br />
 <br />
-<strong>Примечание:</strong> Среда G Suite должна соответствовать требованиям, описанным в миграции <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">G Suite.</a></td>
+<strong>Примечание:</strong> Среда G Suite должна соответствовать требованиям, описанным в миграции [G Suite.](/Exchange/mailbox-migration/perform-g-suite-migration)</td>
 <td>Прямая или поэтапная миграция</td>
 <td><ul>
 <li> Сообщения электронной почты </li>
