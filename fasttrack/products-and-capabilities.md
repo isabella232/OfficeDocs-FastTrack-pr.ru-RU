@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этом разделе содержатся сведения о сценариях рабочей нагрузки, поддерживаемых FastTrack, и ожиданиях исходных сред, необходимых перед началом работы. На основе текущей настройки мы работаем с вами над созданием плана восстановления, который соответствует минимальным требованиям для успешной работы с бортовой установкой.
-ms.openlocfilehash: 56fe941acf3f5739802ac9065c843dbbc2f2525b
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: 9a4546b248a739ee980f1300b9575e780e383c1a
+ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592452"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626688"
 ---
 # <a name="products-and-capabilities"></a>Продукты и возможности
 
@@ -50,8 +50,9 @@ FastTrack предоставляет рекомендации, которые п
 <tbody>
 <tr class="odd">
 <td><strong>Базовое подключение</strong></td>
-<td>  Мы предоставляем удаленные рекомендации по основной интеграции, которая включает в себя подготовка службы, клиент и интеграцию удостоверений. Она также включает шаги по обеспечению основы для бортовых служб, таких как Exchange Online, SharePoint Online и Microsoft Teams, включая обсуждение вопросов [безопасности,](/office365/enterprise/office-365-network-connectivity-principles)подключения к сети и соответствия требованиям.  
-  Подключение одной или нескольких поддерживаемых служб можно начать после завершения базового подключения.
+<td>  Мы предоставляем удаленные рекомендации по основной интеграции, которая включает в себя подготовка службы, клиент и интеграцию удостоверений. Она также включает шаги по обеспечению основы для бортовых служб, таких как Exchange Online, SharePoint Online и Microsoft Teams, включая обсуждение вопросов <a href="/office365/enterprise/office-365-network-connectivity-principles">безопасности,</a>подключения к сети и соответствия требованиям.   
+
+Подключение одной или нескольких поддерживаемых служб можно начать после завершения базового подключения.
 </li>
 </ul>  
 
@@ -67,7 +68,8 @@ FastTrack предоставляет рекомендации, которые п
 <li>Перенос проверки подлинности из AD FS в Azure AD с помощью синхронизации с использованием хаширования паролей или сквозной проверки подлинности.</li>
 <li>Перенос предварительно интегрированных приложений (например, приложений azure AD gallery software-as-a-service (SaaS) из AD FS в Azure AD для единого входного (SSO).</li>
 <li>Включение интеграции приложений SaaS с SSO из галереи Azure AD.</li>
-<li>Включение автоматической подготовки пользователей для предварительно интегрированных приложений [](/azure/active-directory/saas-apps/tutorial-list) SaaS, указанных в списке учебников по интеграции приложений (ограниченных приложениями SaaS-галереи Azure AD и только исходящие подготовки).  </li>
+<li>Включение автоматической подготовки пользователей для предварительно интегрированных приложений <a href="/azure/active-directory/saas-apps/tutorial-list"></a> SaaS, указанных в списке учебников по интеграции приложений (ограниченных приложениями SaaS-галереи Azure AD и только исходящие подготовки).  </li>
+
 </td>
 
 <td>  <strong>Включить сеть </strong>  
@@ -108,12 +110,12 @@ FastTrack предоставляет рекомендации, которые п
 </tr>
 <tr class="odd">
 <td><strong>Сетевое здоровье</strong></td>
-<td>  Мы предоставляем удаленные рекомендации по получению и интерпретации данных подключения к ключевым сетям из среды, показывающие соответствие сайтов организации принципам сетевого подключения Корпорации [Майкрософт.](/office365/enterprise/office-365-network-connectivity-principles) Это подчеркивает оценку сети, которая напрямую влияет на скорость миграции, пользовательский опыт, производительность службы и надежность.  
+<td>  Мы предоставляем удаленные рекомендации по получению и интерпретации данных подключения к ключевым сетям из среды, показывающие соответствие сайтов организации принципам сетевого подключения Корпорации <a href="/office365/enterprise/office-365-network-connectivity-principles">Майкрософт.</a> Это подчеркивает оценку сети, которая напрямую влияет на скорость миграции, пользовательский опыт, производительность службы и надежность.  
   Мы также поможем вам с помощью любых действий по исправлению последствий, которые будут выделены в этих данных, чтобы помочь вам улучшить оценку сети.  </td>
 <td><ul>
 <li>  Microsoft 365 Доступ центра администрирования.  </li>
 <li>  Требуются новые версии Microsoft 365 приложений.  </li>
-<li>  Службы расположения, включенные в качестве рекомендаций по производительности Сети в [центре администрирования Microsoft 365 (предварительный просмотр).](/Office365/Enterprise/office-365-network-mac-perf-overview)  </li>
+<li>  Службы расположения, включенные в качестве рекомендаций по производительности Сети в <a href="/Office365/Enterprise/office-365-network-mac-perf-overview">центре администрирования Microsoft 365 (предварительный просмотр).</a>  </li>
 </ul>
 <h3 id="section"></h3></td>
 </tr>
@@ -339,7 +341,7 @@ FastTrack предоставляет рекомендации, которые п
 <li> Zscaler.</li>
 <li> iboss.</li>
 </ul>
-<li> Подключение [рекомендуемых приложений с](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) помощью соединители приложений.</li>
+<li> Подключение <a href="/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps"> рекомендуемых приложений с</a> помощью соединители приложений.</li>
 <li> Настройка управления приложениями условного доступа на порталах условного доступа и Cloud App Security для применения элементов управления сеансами в режиме реального времени.</li>
 <li> Развертывание панелей Cloud App Security и облачного обнаружения.</li>
 <li> Настройка оценки рисков приложений в зависимости от приоритетов организации.</li>
@@ -716,11 +718,11 @@ FastTrack предоставляет рекомендации, которые п
 <li> Понимание любых нормативных ограничений или требований в отношении управления ключами.  </li>
 <li>  Учетная запись службы, созданная для локального Active Directory, синхронизированного с Azure AD. </li>
 <li>  Метки, настроенные для классификации и защиты. </li>
-<li> Все необходимые условия для сканера защиты информации Azure на месте. Дополнительные сведения см. в дополнительных сведениях, необходимых для установки и развертывания сканера единой маркировки [Azure Information Protection.](/azure/information-protection/deploy-aip-scanner-prereqs) </li>
+<li> Все необходимые условия для сканера защиты информации Azure на месте. Дополнительные сведения см. в дополнительных сведениях, необходимых для установки и развертывания сканера единой маркировки <a href="/azure/information-protection/deploy-aip-scanner-prereqs">Azure Information Protection.</a> </li>
 <li>  Убедитесь, что на устройствах пользователей запущена поддерживаемая операционная система и установлены необходимые условия. Дополнительные сведения см. в следующих сведениях.</li>
 <ul>
-<li> [Руководство по администрированию: Установите клиент единой маркировки Azure Information Protection для пользователей](/azure/information-protection/rms-client/clientv2-admin-guide-install)   </li>
-<li>  [Что такое приложение Azure Information Protection для iOS или Android?](/azure/information-protection/rms-client/mobile-app-faq)  </li>
+<li> <a href="/azure/information-protection/rms-client/clientv2-admin-guide-install">Руководство по администрированию: Установите клиент единой маркировки Azure Information Protection для пользователей</a>   </li>
+<li>  <a href="/azure/information-protection/rms-client/mobile-app-faq">Что такое приложение Azure Information Protection для iOS или Android?</a>  </li>
 </ul>
 <li> Установка и конфигурация соединителя Azure RMS и серверов, включая соединителя Active Directory RMS (AD RMS) для гибридной поддержки.  </li>
 <li> Настройка и конфигурация Bring Your Own Key (BYOK), Double Key Encryption (DKE) (только для клиента единой маркировки) или Hold Your Own Key (HYOK) (только для классического клиента) если вам потребуется один из этих вариантов развертывания.  </li>
@@ -821,7 +823,7 @@ FastTrack предоставляет рекомендации, которые п
 </tbody>
 </table>
 
-## <a name="office-365"></a>Office 365
+## <a name="office-365"></a>Office 365
 
 <table>
 <thead>
@@ -852,7 +854,7 @@ FastTrack предоставляет рекомендации, которые п
 <li>  Настройка почтовых клиентов (Outlook для Windows, Outlook в Интернете, Outlook для iOS и Android).  </li>
 </ul>
   <strong>Миграция данных</strong>  <br>
-Сведения об использовании преимущества FastTrack для переноса данных для Office 365 см. [в этой информации.](data-migration.md)   
+Сведения об использовании преимущества FastTrack для переноса данных для Office 365 см. <a href="/fasttrack/data-migration">в этой информации.</a>   
 <td>  В исходных средах должен быть один из следующих минимальных уровней:
 <ul>
 <li>  Одна или несколько организаций Exchange с Exchange Server 2003 или более поздней версии.  </li>
@@ -864,7 +866,7 @@ FastTrack предоставляет рекомендации, которые п
 </tr>
 
 <td><strong>Microsoft Defender для Office 365</strong></td>
-<td>  Дополнительные сведения см. в <strong>веб-сайте Microsoft Defender для Office 365</strong> безопасности и соответствия [требованиям.](products-and-capabilities.md#security-and-compliance)  
+<td>  Дополнительные сведения см. в <strong>веб-сайте Microsoft Defender для Office 365</strong> безопасности и соответствия <a href="/fasttrack/products-and-capabilities#security-and-compliance">требованиям.</a>  
 </td>
 <td></td>
 </tr>
@@ -872,7 +874,7 @@ FastTrack предоставляет рекомендации, которые п
 
 <tr class="even">
 <td><strong>Управление информацией (Майкрософт)</strong></td>
-<td>  Дополнительные сведения см. в <strong>сайте Microsoft Information Governance</strong> in [Security and Compliance.](products-and-capabilities.md#security-and-compliance) 
+<td>  Дополнительные сведения см. в <strong>сайте Microsoft Information Governance</strong> in <a href="/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance.</a> 
 
 </td>
 <td></td>
@@ -880,7 +882,7 @@ FastTrack предоставляет рекомендации, которые п
 <tr class="odd">
 <td><strong>Защита информации (Майкрософт)</strong></td>
 <td>  
-Дополнительные сведения см. <strong>в веб-сайте Microsoft Information Protection</strong> in Security and [Compliance.](products-and-capabilities.md#security-and-compliance)
+Дополнительные сведения см. <strong>в веб-сайте Microsoft Information Protection</strong> in Security and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance.</a>
 
 </td>
 <td>
@@ -958,7 +960,7 @@ FastTrack предоставляет рекомендации, которые п
 <ul>
 <li>  Скачивание Outlook для iOS и Android через Apple App Store или Google Play.  </li>
 <li>  Настройка учетных записей и оценка почтового ящика Exchange Online.  </li>
-<li>  Защита Outlook мобильных устройств (дополнительные сведения см. в Outlook для iOS и [Android Exchange Online).](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android)  </li>
+<li>  Защита Outlook мобильных устройств (дополнительные сведения см. в Outlook для iOS и <a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">Android Exchange Online).</a>  </li>
 </ul></td>
 <td><ul>
 <li>  Идентификаторы, включенные в Azure AD для Office 365.  </li>
@@ -1022,7 +1024,7 @@ FastTrack предоставляет рекомендации, которые п
 <li>  Развертывание синхронизации OneDrive для бизнеса клиента.  </li>
 </ul>
   <strong>Миграция данных</strong>  <br>
-Сведения об использовании преимущества FastTrack для переноса данных для Office 365 см. [в этой информации.](data-migration.md)
+Сведения об использовании преимущества FastTrack для переноса данных для Office 365 см. <a href="/fasttrack/data-migration">в этой информации.</a>
 </ul></td>
 <td><br><strong>Для SharePoint гибрида:</strong>  
 <ul>
@@ -1058,19 +1060,19 @@ FastTrack предоставляет рекомендации, которые п
 <tbody>
 <tr class="even">
 <td><strong>Azure Active Directory Azure AD и Azure AD Premium</strong></td>
-<td>  Дополнительные сведения см. <strong>в Azure Active Directory (Azure AD)</strong> и Azure AD Premium безопасности и соответствия [требованиям.](products-and-capabilities.md#security-and-compliance)</td>
+<td>  Дополнительные сведения см. <strong>в Azure Active Directory (Azure AD)</strong> и Azure AD Premium безопасности и соответствия <a href="/fasttrack/products-and-capabilities#security-and-compliance">требованиям.</a></td>
 <td></td>
 </tr>
 <tr class="odd">#обеспечение безопасности и соответствия требованиям
 <td><strong>Защита информации Azure </strong></td>
-<td>  Дополнительные сведения о azure Information Protection см. в <strong>веб-сайте Microsoft Information Protection</strong> in [Security and Compliance.](products-and-capabilities.md#security-and-compliance)  </td>
+<td>  Дополнительные сведения о azure Information Protection см. в <strong>веб-сайте Microsoft Information Protection</strong> in <a href="/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance.</a>  </td>
 <td>  
   
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  Дополнительные сведения см. <strong>в Microsoft Intune</strong> в области безопасности [и соответствия](products-and-capabilities.md#security-and-compliance)требованиям.
+<td>  Дополнительные сведения см. <strong>в Microsoft Intune</strong> в области безопасности <a href="/fasttrack/products-and-capabilities#security-and-compliance">и соответствия</a>требованиям.
   </td>
 <td>  
   
@@ -1079,7 +1081,7 @@ FastTrack предоставляет рекомендации, которые п
 </tbody>
 </table>
 
-## <a name="windows-10"></a>Windows 10
+## <a name="windows-10"></a>Windows 10;
 
 <table>
 <thead>
@@ -1129,12 +1131,12 @@ FastTrack предоставляет рекомендации, которые п
 Для обновления инфраструктуры должны быть выполнены следующие требования:
 <ul>
 <li>  Microsoft Endpoint Configuration Manager.  </li>
-<li>  Версия Configuration Manager должна поддерживаться целевой Windows 10. Дополнительные сведения см. в таблице поддержки Configuration Manager в статье [Поддержка Windows 10 в Configuration Manager](/sccm/core/plan-design/configs/support-for-windows-10).  </li>
+<li>  Версия Configuration Manager должна поддерживаться целевой Windows 10. Дополнительные сведения см. в таблице поддержки Configuration Manager в статье <a href="/sccm/core/plan-design/configs/support-for-windows-10">Поддержка Windows 10 в Configuration Manager</a>.  </li>
 </ul>
 
 <tr class="odd">
 <td><strong>Microsoft Defender для конечной точки</strong></td>
-<td>  Дополнительные сведения см. в <strong> веб-сайте Microsoft Defender для конечной точки</strong> в [области безопасности и соответствия](products-and-capabilities.md#security-and-compliance)требованиям.</td>
+<td>  Дополнительные сведения см. в <strong> веб-сайте Microsoft Defender для конечной точки</strong> в <a href="/fasttrack/products-and-capabilities#security-and-compliance">области безопасности и соответствия</a>требованиям.</td>
 <td></td>
 
 </tbody>
@@ -1185,7 +1187,7 @@ FastTrack предоставляет рекомендации, которые п
 Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</td>
 <td>У вас уже должно быть следующее:
 <ul>
-<li>Windows требования к лицензированию виртуальных [настольных компьютеров.](/azure/virtual-desktop/overview#requirements)</li>
+<li>Windows требования к лицензированию виртуальных <a href="/azure/virtual-desktop/overview#requirements">настольных компьютеров.</a></li>
 <li>Сеть Azure:
 <ul>
 <li>Создание и подсети виртуальной сети (VNET).</li>
@@ -1194,7 +1196,7 @@ FastTrack предоставляет рекомендации, которые п
 <li>Маршрутная маршрутивка в Azure из локального помещения.</li>
 <li>Правила брандмауэра, позволяющие подключаться к Windows рабочего стола.
 </ul>
-Дополнительные сведения см. в [веб-версии Поддерживаемые клиенты удаленного рабочего стола.](/azure/virtual-desktop/overview#supported-remote-desktop-clients)
+Дополнительные сведения см. в <a href="//azure/virtual-desktop/overview#supported-remote-desktop-clients">веб-версии Поддерживаемые клиенты удаленного рабочего стола.</a>
 </ul>
 <ul><li>Общая настройка Azure AD:
 <ul>
@@ -1228,14 +1230,14 @@ FastTrack предоставляет рекомендации, которые п
 <ul>
 <li>  <strong>Windows 10</strong> (включая устройства ARM64)</li>
 <li> <strong>Приложения Microsoft 365</strong>  </li>
-<li>  <strong>Microsoft Edge -</strong> Руководство по развертыванию см. в [обзоре Microsoft Edge каналов.](/DeployEdge/microsoft-edge-channels)  </li>
-<li>  <strong>Windows виртуальный рабочий стол</strong> - Дополнительные сведения см. в [Windows виртуальный](/azure/virtual-desktop/overview) рабочий стол? и [Windows 10 Корпоративная много сеансов.](/azure/virtual-desktop/windows-10-multisession-faq)  </li>
+<li>  <strong>Microsoft Edge -</strong> Руководство по развертыванию см. в <a href="/DeployEdge/microsoft-edge-channels">обзоре Microsoft Edge каналов.</a>  </li>
+<li>  <strong>Windows виртуальный рабочий стол</strong> - Дополнительные сведения см. в <a href="/azure/virtual-desktop/overview">Windows виртуальный</a> рабочий стол? и <a href="/azure/virtual-desktop/windows-10-multisession-faq">Windows 10 Корпоративная много сеансов.</a>  </li>
 </ul>
 
 <strong>Ниже приводится неосякаемая область </strong>  
 <ul>
 <li>  Изучение и тестирование приложения с целью определения того, какие функции поддерживаются и не поддерживаются в Windows 10 и приложениях Microsoft 365. Дополнительные руководства по этому процессу см. на странице <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Центр развертывания компьютеров</a>. Если вас интересует глубокая оценка готовности к обновлению, заполните форму <a href="https://go.microsoft.com/fwlink/?linkid=2053818">Запрос клиента на оценку современных компьютеров</a>.</li>
-<li>  Анализ приложений независимых поставщиков программного обеспечения (ISV) на совместимость с Windows 10 и сведений о поддержке. Дополнительные сведения см. в разделе [Аналитика компьютеров](/sccm/desktop-analytics/overview).</li>
+<li>  Анализ приложений независимых поставщиков программного обеспечения (ISV) на совместимость с Windows 10 и сведений о поддержке. Дополнительные сведения см. в разделе <a href="/sccm/desktop-analytics/overview">Аналитика компьютеров</a>.</li>
 <li>Услуги по упаковке приложений. Команда App Assure упаковывает приложения, исправленные для Windows 10, чтобы обеспечить возможность их развертывания в среде клиента.</li>
 </ul>
 
@@ -1278,7 +1280,7 @@ FastTrack предоставляет рекомендации, которые п
   Если веб-приложения или сайты работают в Internet Explorer 11, поддерживаемых версиях Google Chrome или любой версии Microsoft Edge, они также будут работать с Microsoft Edge.  
   </li>
 <li>  
-  Так как [веб-сайт](/microsoft-edge/web-platform/site-impacting-changes)постоянно развивается, обязательно просмотрите опубликованный список известных изменений совместимости сайтов для Microsoft Edge .  
+  Так как <a href="/microsoft-edge/web-platform/site-impacting-changes">веб-сайт</a>постоянно развивается, обязательно просмотрите опубликованный список известных изменений совместимости сайтов для Microsoft Edge .  
   </li>
 </ul>
   <strong>Windows Виртуальный рабочий стол</strong>  
@@ -1327,7 +1329,7 @@ FastTrack предоставляет рекомендации, которые п
 Мы предоставляем рекомендации по удаленному развертыванию и принятию и совместимости для: <ul> <li>Развертывание Microsoft Edge на Windows 10 с Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager или Intune).  </li>
 <li>  Настройка Microsoft Edge (с помощью групповых политик или конфигурации приложений и политик приложений Intune).  </li>
 <li>  Инвентаризация списка сайтов, которые могут потребовать использования в режиме Internet Explorer.  </li>
-<li>  Включение режима Internet Explorer с существующим списком Enterprise сайта. (Дополнительные сведения см. в [странице Engaging FastTrack).](process-and-expectations.md#engaging-fasttrack) Кроме того, если у вас есть веб-приложение или сайт, который работает с Internet Explorer или Google Chrome и вы испытываете проблемы с совместимостью, мы предоставляем рекомендации по устранению проблемы без дополнительных затрат. Чтобы запросить поддержку совместимости для App Assure, вопишитесь на портал <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack,</a> чтобы начать взаимодействие.  </li>
+<li>  Включение режима Internet Explorer с существующим списком Enterprise сайта. Дополнительные сведения см. в <a href="/fasttrack/process-and-expectations#engaging-fasttrack">дополнительных сведениях о привлечении FastTrack.</a> Кроме того, если у вас есть веб-приложение или сайт, который работает с Internet Explorer или Google Chrome и вы испытываете проблемы с совместимостью, мы предоставляем рекомендации по устранению проблемы без дополнительных затрат. Чтобы запросить поддержку совместимости для App Assure, вопишитесь на портал <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack,</a> чтобы начать взаимодействие.  </li>
 <li> Планирование руководства по внедрению edge и настройке закладки Microsoft Search.</li>
 </ul>
 
