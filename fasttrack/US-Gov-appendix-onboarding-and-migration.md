@@ -3,19 +3,19 @@ title: Этапы onboarding и migration для Office 365 правительс
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 для Office 365 правительства США имеет четыре основных этапа: инициация, оценка, исправление и включить. Эти этапы можно выполнять с необязательным этапом миграции данных, как показано на следующем рисунке.'
-ms.openlocfilehash: 7c6684323498ee1d7d71cc7c15e3f9c6797e3e1c
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570569"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994964"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы onboarding и migration для Office 365 правительства США
 
@@ -23,7 +23,7 @@ ms.locfileid: "52570569"
   
 ![Фазы подключения](media/O365-Onboarding-Phases.png)
   
-Подробные задачи для каждого этапа см. в Office 365 [fastTrack Responsibilities for us government](US-Gov-appendix-fasttrack-responsibilities.md) and [Your Responsibilities for Office 365 правительства США.](US-Gov-appendix-your-responsibilities.md)
+Подробные задачи для каждого этапа см. в [FastTrack](US-Gov-appendix-fasttrack-responsibilities.md) Обязанности для Office 365 правительства США и ваши обязанности для Office 365 [правительства США](US-Gov-appendix-your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Начальная фаза
 
@@ -133,7 +133,7 @@ ms.locfileid: "52570569"
 - Создание учетных записей для устройств системы комнат.    
 - Развертывание поддерживаемого клиента Skype для бизнеса Online.   
 - Создание конфигурации разделенного сервера домена между локальной средой Lync 2010, Lync 2013 или Skype для бизнеса 2015 года и клиентом Skype для бизнеса Online (если применимо).
-- Включение планов звонков, Skype трансляции собраний, а также телефонная система и звонков (на доступных рынках — недоступны в GCC или планах DoD). 
+- Включение планов звонков, Собрание Skype вещания и телефонная система и звонков (на доступных рынках — недоступны в GCC планах High или DoD). 
     
 ![Этапы входящей миграции Lync во время фазы активации_1](media/O365-Onboarding-Enable-Lync.png)
   

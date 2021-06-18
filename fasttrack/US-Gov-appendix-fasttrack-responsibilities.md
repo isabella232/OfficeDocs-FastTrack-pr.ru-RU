@@ -1,23 +1,23 @@
 ---
-title: Обязанности FastTrack для Office 365 правительства США
+title: FastTrack Обязанности Office 365 правительства США
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: 10b0895536be5d4ddd0026baa6f5e3e939a52fb5
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 57e1ba446304fba42e3c1b815351d3942c6b4e39
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570521"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994916"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Обязанности FastTrack для Office 365 правительства США
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack Обязанности Office 365 правительства США
 
 При подключении специалисты FastTrack отвечают за указанные ниже аспекты.  
   
@@ -97,7 +97,7 @@ ms.locfileid: "52570521"
 
 Вы можете получить помощь по указанным ниже вопросам.
 - Удаленная помощь **в управлении сведениями Майкрософт** (см. [в этой странице Безопасность и соответствие](products-and-capabilities.md#security-and-compliance)требованиям).
-- Удаленная помощь **с помощью Microsoft Information Protection** (см. в этой странице Безопасность и [соответствие](products-and-capabilities.md#security-and-compliance)требованиям).
+- Удаленная помощь с **Microsoft Information Protection** (см. [в этой странице Безопасность и соответствие](products-and-capabilities.md#security-and-compliance)требованиям).
 - Удаленная помощь **с помощью Azure Information Protection** (см. в этой странице Безопасность и [соответствие](products-and-capabilities.md#security-and-compliance)требованиям).
 
 ## <a name="exchange-online"></a>Exchange Online
