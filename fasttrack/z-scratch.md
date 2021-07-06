@@ -1,5 +1,5 @@
 ---
-title: Безопасность и соответствие требованиям
+title: Тестирование
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
@@ -10,530 +10,129 @@ ms.service: O365-seccomp
 localization_priority: None
 ms.collection: FastTrack
 description: Сведения о руководстве fastTrack для службы Майкрософт.
-ms.openlocfilehash: 67dd428de8a8f48e0d52e4f6c6daf85cbd27ec76
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: 0db37fc7c623f4c1d9599e517abef4a7903858b6
+ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592403"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255544"
 ---
-# <a name="security-and-compliance"></a><span data-ttu-id="d0446-103">Безопасность и соответствие требованиям</span><span class="sxs-lookup"><span data-stu-id="d0446-103">Security and Compliance</span></span>
+|<span data-ttu-id="8b6ee-103">Тест 1</span><span class="sxs-lookup"><span data-stu-id="8b6ee-103">Test 1</span></span>  |<span data-ttu-id="8b6ee-104">Тест 2</span><span class="sxs-lookup"><span data-stu-id="8b6ee-104">Test 2</span></span> |<span data-ttu-id="8b6ee-105">Тест 3</span><span class="sxs-lookup"><span data-stu-id="8b6ee-105">Test 3</span></span>  |
+|---------|---------|---------|
+|<span data-ttu-id="8b6ee-106">**Тест A**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-106">**Test A**</span></span>     |         |         |
+|<span data-ttu-id="8b6ee-107">**Тест B**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-107">**Test B**</span></span>     |         |         |
+|<span data-ttu-id="8b6ee-108">**Тест C**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-108">**Test C**</span></span>     |         |         |
+
+
+
+
+
+|<span data-ttu-id="8b6ee-109">Тест 1</span><span class="sxs-lookup"><span data-stu-id="8b6ee-109">Test 1</span></span>  |<span data-ttu-id="8b6ee-110">Тест 2</span><span class="sxs-lookup"><span data-stu-id="8b6ee-110">Test 2</span></span>  |<span data-ttu-id="8b6ee-111">Тест 3</span><span class="sxs-lookup"><span data-stu-id="8b6ee-111">Test 3</span></span>  |
+|---------|---------|---------|
+|<span data-ttu-id="8b6ee-112">**Тест A**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-112">**Test A**</span></span>     |         |         |
+|<span data-ttu-id="8b6ee-113">**Тест B**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-113">**Test B**</span></span>     |         |         |
+|<span data-ttu-id="8b6ee-114">**Тест C**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-114">**Test C**</span></span>     |         |         |
+
+
+
+
+|<span data-ttu-id="8b6ee-115">Служба</span><span class="sxs-lookup"><span data-stu-id="8b6ee-115">Service</span></span>  |<span data-ttu-id="8b6ee-116">Сведения о руководстве FastTrack</span><span class="sxs-lookup"><span data-stu-id="8b6ee-116">FastTrack guidance details</span></span>  |<span data-ttu-id="8b6ee-117">Требования к исходной среде</span><span class="sxs-lookup"><span data-stu-id="8b6ee-117">Source environment expectations</span></span>  |
+|---------|---------|---------|
+|<span data-ttu-id="8b6ee-118">**Базовое подключение**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-118">**Core onboarding**</span></span>    |   <span data-ttu-id="8b6ee-119">Мы предоставляем удаленные рекомендации по основной интеграции, которая включает в себя подготовка службы, клиент и интеграцию удостоверений.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-119">We provide remote guidance on core onboarding, which involves service provisioning, tenant, and identity integration.</span></span> <span data-ttu-id="8b6ee-120">Она также включает шаги по обеспечению основы для бортовых служб, таких как Exchange Online, SharePoint Online и Microsoft Teams, включая обсуждение вопросов <a href="/office365/enterprise/office-365-network-connectivity-principles">безопасности,</a>подключения к сети и соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-120">It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Microsoft Teams, including a <a href="/office365/enterprise/office-365-network-connectivity-principles">discussion on security, network connectivity, and compliance</a>.</span></span>       |         |
+|<span data-ttu-id="8b6ee-121">**Приложения Microsoft 365**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-121">**Microsoft 365 Apps**</span></span>    |   <span data-ttu-id="8b6ee-122">Мы предоставляем рекомендации по удаленному развертыванию для:</span><span class="sxs-lookup"><span data-stu-id="8b6ee-122">We provide remote deployment guidance for:</span></span>  
+<ul>
+<li>  <span data-ttu-id="8b6ee-123">Решение проблем, связанных с развертыванием.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-123">Addressing deployment issues.</span></span>  </li>
+<li>  <span data-ttu-id="8b6ee-124">Назначение пользователям и устройствам лицензий с помощью Центра администрирования Microsoft 365 и Windows PowerShell.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-124">Assigning end-user and device-based licenses using the Microsoft 365 admin center and Windows PowerShell.</span></span>  </li>
+<li>  <span data-ttu-id="8b6ee-125">Установка приложений Microsoft 365 с портала Office 365 с помощью технологии "нажми и работай".</span><span class="sxs-lookup"><span data-stu-id="8b6ee-125">Installing Microsoft 365 Apps from the Office 365 portal using Click-to-Run.</span></span>  </li>
+<li>  <span data-ttu-id="8b6ee-126">Установка приложений Office Mobile (например, Outlook Mobile, Word Mobile, Excel Mobile и PowerPoint Mobile) на устройствах с iOS или Android.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-126">Installing Office Mobile apps (like Outlook Mobile, Word Mobile, Excel Mobile, and PowerPoint Mobile) on your iOS or Android devices.</span></span>  </li>
+<li>  <span data-ttu-id="8b6ee-127">Настройка параметров обновления с помощью средства развертывания Office 365.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-127">Configuring update settings using the Office 365 Deployment Tool.</span></span>  </li>
+<li>  <span data-ttu-id="8b6ee-128">Выбор и настройка локальной или облачной установки.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-128">Selection and setup of a local or cloud installation.</span></span>  </li>
+<li>  <span data-ttu-id="8b6ee-129">Создание XML-файла конфигурации средства развертывания Office с помощью центра развертывания Office или встроенного XML-файла для настройки пакета развертывания.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-129">Creation of the Office Deployment Tool configuration XML with the Office Customization Tool or native XML to configure the deployment package.</span></span>  </li>
+<li>  <span data-ttu-id="8b6ee-130">Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-130">Deployment using Microsoft Endpoint Configuration Manager, including assistance with the creation of Microsoft Endpoint Configuration Manager packaging.</span></span>  
+  <span data-ttu-id="8b6ee-131">Кроме того, если у вас есть макрос или надстройка, которая работала с предшествующими версиями Office и у вас проблемы с совместимостью, мы предоставляем рекомендации по исправлению проблемы совместимости без дополнительных затрат с помощью программы App Assure.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-131">Additionally, if you have a macro or add-in that worked with prior versions of Office and you experience compatibility issues, we provide guidance to remediate the compatibility issue at no additional cost through the App Assure program.</span></span> <span data-ttu-id="8b6ee-132">Дополнительные сведения см. в Windows 10 <a href="#windows-10">app</a> <strong>Assure.</strong></span><span class="sxs-lookup"><span data-stu-id="8b6ee-132">See the <strong>App Assure</strong> portion of <a href="#windows-10">Windows 10</a> for more details.</span></span> </li>  </br>    <span data-ttu-id="8b6ee-133">|         | | **Сетевое**     |        |         |</span><span class="sxs-lookup"><span data-stu-id="8b6ee-133">|         | |**Network health**     |        |         |</span></span>
+
+
+
+
+
+
+|<span data-ttu-id="8b6ee-134">Служба</span><span class="sxs-lookup"><span data-stu-id="8b6ee-134">Service</span></span>  |<span data-ttu-id="8b6ee-135">Сведения о руководстве FastTrack</span><span class="sxs-lookup"><span data-stu-id="8b6ee-135">FastTrack guidance details</span></span>  |<span data-ttu-id="8b6ee-136">Требования к исходной среде</span><span class="sxs-lookup"><span data-stu-id="8b6ee-136">Source environment expectations</span></span>  |
+|---------|---------|---------|
+|<span data-ttu-id="8b6ee-137">**Базовое подключение**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-137">**Core onboarding**</span></span>    |    <span data-ttu-id="8b6ee-138">• Тест</span><span class="sxs-lookup"><span data-stu-id="8b6ee-138">•  Test</span></span> 
+<span data-ttu-id="8b6ee-139">• Тест</span><span class="sxs-lookup"><span data-stu-id="8b6ee-139">•   Test</span></span>
+
+
+<span data-ttu-id="8b6ee-140">o Test o Test  Test  Test |         | | **Приложения Microsoft 365** |         |         | | **Сетевое** |         |         | |  **Проверка |**          |        |</span><span class="sxs-lookup"><span data-stu-id="8b6ee-140">o   Test o   Test    Test    Test |         | |**Microsoft 365 Apps**    |         |         | |**Network health**     |         |         | |  **Test A**   |          |        |</span></span>
+
+
+
+|<span data-ttu-id="8b6ee-141">Служба</span><span class="sxs-lookup"><span data-stu-id="8b6ee-141">Service</span></span>  |<span data-ttu-id="8b6ee-142">Сведения о руководстве FastTrack</span><span class="sxs-lookup"><span data-stu-id="8b6ee-142">FastTrack guidance details</span></span>  |<span data-ttu-id="8b6ee-143">Требования к исходной среде</span><span class="sxs-lookup"><span data-stu-id="8b6ee-143">Source environment expectations</span></span> |
+|---------|---------|---------|
+|<span data-ttu-id="8b6ee-144">**Тест A**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-144">**Test A**</span></span>     |   <span data-ttu-id="8b6ee-145">Мы предоставляем удаленные рекомендации по основной интеграции, которая включает в себя подготовка службы, клиент и интеграцию удостоверений.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-145">We provide remote guidance on core onboarding, which involves service provisioning, tenant, and identity integration.</span></span> <span data-ttu-id="8b6ee-146">Она также включает шаги по обеспечению основы для бортовых служб, таких как Exchange Online, SharePoint Online и Microsoft Teams, включая обсуждение вопросов <a href="/office365/enterprise/office-365-network-connectivity-principles">безопасности,</a>подключения к сети и соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-146">It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Microsoft Teams, including a <a href="/office365/enterprise/office-365-network-connectivity-principles">discussion on security, network connectivity, and compliance</a>.</span></span>      |         |
+|<span data-ttu-id="8b6ee-147">**Тест B**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-147">**Test B**</span></span>     |         |         |
+|<span data-ttu-id="8b6ee-148">**Тест C**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-148">**Test C**</span></span>     |         |         |
+
+
+|<span data-ttu-id="8b6ee-149">Служба</span><span class="sxs-lookup"><span data-stu-id="8b6ee-149">Service</span></span>  |<span data-ttu-id="8b6ee-150">Сведения о руководстве FastTrack</span><span class="sxs-lookup"><span data-stu-id="8b6ee-150">FastTrack guidance details</span></span>  |<span data-ttu-id="8b6ee-151">Требования к исходной среде</span><span class="sxs-lookup"><span data-stu-id="8b6ee-151">Source environment expectations</span></span> |
+|---------|---------|---------|
+|<span data-ttu-id="8b6ee-152">**Тест A**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-152">**Test A**</span></span>     |    <span data-ttu-id="8b6ee-153">Мы предоставляем удаленные рекомендации по основной интеграции, которая включает в себя подготовка службы, клиент и интеграцию удостоверений.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-153">We provide remote guidance on core onboarding, which involves service provisioning, tenant, and identity integration.</span></span> <span data-ttu-id="8b6ee-154">Она также включает шаги по обеспечению основы для бортовых служб, таких как Exchange Online, SharePoint Online и Microsoft Teams, включая обсуждение вопросов <a href="/office365/enterprise/office-365-network-connectivity-principles">безопасности,</a>подключения к сети и соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-154">It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Microsoft Teams, including a <a href="/office365/enterprise/office-365-network-connectivity-principles">discussion on security, network connectivity, and compliance</a>.</span></span>     |         |
+|<span data-ttu-id="8b6ee-155">**Тест B**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-155">**Test B**</span></span>     |         |         |
+|<span data-ttu-id="8b6ee-156">**Тест C**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-156">**Test C**</span></span>     |         |         |
+
+
+|<span data-ttu-id="8b6ee-157">Служба</span><span class="sxs-lookup"><span data-stu-id="8b6ee-157">Service</span></span>  |<span data-ttu-id="8b6ee-158">Сведения о руководстве FastTrack</span><span class="sxs-lookup"><span data-stu-id="8b6ee-158">FastTrack guidance details</span></span>  |<span data-ttu-id="8b6ee-159">Требования к исходной среде</span><span class="sxs-lookup"><span data-stu-id="8b6ee-159">Source environment expectations</span></span> |
+|---------|---------|---------|
+|<span data-ttu-id="8b6ee-160">**Тест A**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-160">**Test A**</span></span>     |  <span data-ttu-id="8b6ee-161">Мы предоставляем удаленные рекомендации по основной интеграции, которая включает в себя подготовка службы, клиент и интеграцию удостоверений.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-161">We provide remote guidance on core onboarding, which involves service provisioning, tenant, and identity integration.</span></span> <span data-ttu-id="8b6ee-162">Она также включает шаги по обеспечению основы для бортовых служб, таких как Exchange Online, SharePoint Online и Microsoft Teams, включая обсуждение вопросов <a href="/office365/enterprise/office-365-network-connectivity-principles">безопасности,</a>подключения к сети и соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-162">It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Microsoft Teams, including a <a href="/office365/enterprise/office-365-network-connectivity-principles">discussion on security, network connectivity, and compliance</a>.</span></span> <br>   <span data-ttu-id="8b6ee-163">Мы предоставляем рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="8b6ee-163">We provide guidance for:</span></span> </br>    <ul> <li>|  </li>     <ul>  |<li> </li> </ul> </ul>
+|<span data-ttu-id="8b6ee-164">**Тест B**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-164">**Test B**</span></span>     |         |         |
+|<span data-ttu-id="8b6ee-165">**Тест C**</span><span class="sxs-lookup"><span data-stu-id="8b6ee-165">**Test C**</span></span>     |         |         |
+
+
+
+
+
+
+
+
+
+
+
+
+## <a name="enterprise-mobility--security"></a><span data-ttu-id="8b6ee-166">Enterprise Mobility + Security</span><span class="sxs-lookup"><span data-stu-id="8b6ee-166">Enterprise Mobility + Security</span></span> 
 
 <table>
+<table style="width: 100%">
+<colgroup>
+<col span="1" style="width: 15%;">
+<col span="1" style="width: 55%;">
+<col span="1" style="width: 30%;">
+</colgroup>
 <thead>
 <tr class="header">
-<th><span data-ttu-id="d0446-104"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-104"><strong>Service</strong></span></span></th>
-<th><span data-ttu-id="d0446-105"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-105"><strong>FastTrack Guidance Details</strong></span></span></th>
-<th><span data-ttu-id="d0446-106"><strong>Требования к исходной среде</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-106"><strong>Source Environment Expectations</strong></span></span></th>
+<th><span data-ttu-id="8b6ee-167">Служба</span><span class="sxs-lookup"><span data-stu-id="8b6ee-167">Service</span></span></th>
+<th><span data-ttu-id="8b6ee-168">Сведения о руководстве FastTrack</span><span class="sxs-lookup"><span data-stu-id="8b6ee-168">FastTrack guidance details</span></span></th>
+<th><span data-ttu-id="8b6ee-169">Требования к исходной среде</span><span class="sxs-lookup"><span data-stu-id="8b6ee-169">Source environment expectations</span></span></th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
-<td><span data-ttu-id="d0446-107"><strong>Microsoft 365 Defender</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-107"><strong>Microsoft 365 Defender</strong></span></span></td>
-
-<td> <p> <span data-ttu-id="d0446-108">Microsoft 365 Defender — это объединенный пакет защиты предприятия до и после нарушения, который в основном координирует обнаружение, предотвращение, расследование и ответные действия между конечными точками, удостоверениями, электронной почтой и приложениями для обеспечения комплексной защиты от сложных атак.</span><span class="sxs-lookup"><span data-stu-id="d0446-108">Microsoft 365 Defender is a unified pre and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and apps to provide integrated protection against sophisticated attacks.</span></span> <span data-ttu-id="d0446-109">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-109">We provide remote guidance for:</span></span> </p> 
-<ul>
-<li>  <span data-ttu-id="d0446-110">Предоставление обзора центра Microsoft 365 безопасности.</span><span class="sxs-lookup"><span data-stu-id="d0446-110">Providing an overview of the Microsoft 365 security center.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-111">Анализ инцидентов с перекрестным продуктом, в том числе сосредоточение внимания на критически важных задачах, обеспечивая полную область атаки, влияние на активы и автоматизированные действия по исправлению, которые сгруппировали вместе.</span><span class="sxs-lookup"><span data-stu-id="d0446-111">Reviewing cross-product incidents, including focusing on what's critical by ensuring the full attack scope, impacted assets, and automated remediation actions that are grouped together.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-112">Демонстрация того, Microsoft 365 Defender может организовать исследование активов, пользователей, устройств и почтовых ящиков, которые могли быть скомпрометированы с помощью автоматического самовосстановления.</span><span class="sxs-lookup"><span data-stu-id="d0446-112">Demonstrating how Microsoft 365 Defender can orchestrate the investigation of assets, users, devices, and mailboxes that might have been compromised through automated self-healing.</span></span> </li>
-<li>  <span data-ttu-id="d0446-113">Объяснение и предоставление примеров того, как клиенты могут активно охотиться за попытками вторжения и действиями взлома, влияющими на вашу электронную почту, данные, устройства и учетные записи в нескольких наборах данных.</span><span class="sxs-lookup"><span data-stu-id="d0446-113">Explaining and providing examples of how customers can proactively hunt for intrusion attempts and breach activity affecting your email, data, devices, and accounts across multiple data sets.</span></span>   </li>
-<li> <span data-ttu-id="d0446-114">Показывая клиентам, как они могут целостно пересматривать и улучшать свою осанку безопасности с помощью Microsoft Secure Score.</span><span class="sxs-lookup"><span data-stu-id="d0446-114">Showing customers how they can review and improve their security posture holistically using Microsoft Secure Score.</span></span></li>
-</ul>
-<p><span data-ttu-id="d0446-115"><strong>Ниже приводится неосякаемая область</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-115"><strong>The following is out of scope</strong></span></span></p>
-<ul>
-<li> <span data-ttu-id="d0446-116">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="d0446-116">Project management of the customer's remediation activities.</span></span> </li>
-<li> <span data-ttu-id="d0446-117">Постоянное управление, реагирование на угрозы и исправление.</span><span class="sxs-lookup"><span data-stu-id="d0446-117">Ongoing management, threat response, and remediation.</span></span> </li>
-<li> <span data-ttu-id="d0446-118">Рекомендации по развертыванию или обучение по:</span><span class="sxs-lookup"><span data-stu-id="d0446-118">Deployment guidance or education on:</span></span>
-<ul>
-<li> <span data-ttu-id="d0446-119">Исправление или интерпретация различных типов оповещений и отслеживаемой активности.</span><span class="sxs-lookup"><span data-stu-id="d0446-119">How to remediate or interpret the various alert types and monitored activities.</span></span> </li>
-<li> <span data-ttu-id="d0446-120">Изучение пути перемещения пользователя, компьютера, поодаль или объекта.</span><span class="sxs-lookup"><span data-stu-id="d0446-120">How to investigate a user, computer, lateral movement path, or entity.</span></span> </li>
-<li> <span data-ttu-id="d0446-121">Настраиваемая охота на угрозы.</span><span class="sxs-lookup"><span data-stu-id="d0446-121">Custom threat hunting.</span></span>  </li>
-</ul>
-</li>
-<li> <span data-ttu-id="d0446-122">Сведения о безопасности и управление событиями (SIEM) или интеграция API.</span><span class="sxs-lookup"><span data-stu-id="d0446-122">Security information and event management (SIEM) or API integration.</span></span></li>
-</td>
-</tr>
 <tr class="even">
-<td><span data-ttu-id="d0446-123"><strong>Microsoft Cloud App Security</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-123"><strong>Microsoft Cloud App Security</strong></span></span></td>
-<td>  <span data-ttu-id="d0446-124">Microsoft Cloud App Security является брокером по безопасности облачного доступа (CASB), который обеспечивает богатую видимость, контроль над перемещениями данных и сложную аналитику для выявления и борьбы с киберугрозами во всех облачных службах Майкрософт и сторонних поставщиков.</span><span class="sxs-lookup"><span data-stu-id="d0446-124">Microsoft Cloud App Security is a Cloud Access Security Broker (CASB) that provides rich visibility, control over data travel, and sophisticated analytics to identify and combat cyber threats across all your Microsoft and third-party cloud services.</span></span> <span data-ttu-id="d0446-125">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-125">We provide remote guidance for:</span></span>
-<ul>
-<li>  <span data-ttu-id="d0446-126">Настройка портала, в том числе:</span><span class="sxs-lookup"><span data-stu-id="d0446-126">Configuring the portal, including:</span></span>  </li>
-<ul>
-<li> <span data-ttu-id="d0446-127">Импорт групп пользователей.</span><span class="sxs-lookup"><span data-stu-id="d0446-127">Importing user groups.</span></span></li>
-<li> <span data-ttu-id="d0446-128">Управление доступом и настройками администратора.</span><span class="sxs-lookup"><span data-stu-id="d0446-128">Managing admin access and settings.</span></span>  </li>
-<li> <span data-ttu-id="d0446-129">Scoping your deployment to select certain user groups to monitor or exclude from monitoring.</span><span class="sxs-lookup"><span data-stu-id="d0446-129">Scoping your deployment to select certain user groups to monitor or exclude from monitoring.</span></span></li>
-<li> <span data-ttu-id="d0446-130">Настройка ip-диапазонов и тегов.</span><span class="sxs-lookup"><span data-stu-id="d0446-130">Setting IP ranges and tags.</span></span></li>
-<li> <span data-ttu-id="d0446-131">Персонализация интерфейса для конечных пользователей с помощью логотипа и настраиваемого обмена сообщениями.</span><span class="sxs-lookup"><span data-stu-id="d0446-131">Personalizing the end-user experience with your logo and custom messaging.</span></span></li>
-</ul>
-<li> <span data-ttu-id="d0446-132">Настройка облачных открытий для предоставления теневых ИТ-данных с помощью:</span><span class="sxs-lookup"><span data-stu-id="d0446-132">Setting up cloud discovery to provide shadow IT using:</span></span></li>
-<ul>
-<li> <span data-ttu-id="d0446-133">Microsoft Defender для конечных точек.</span><span class="sxs-lookup"><span data-stu-id="d0446-133">Microsoft Defender for Endpoints.</span></span></li>
-<li> <span data-ttu-id="d0446-134">Zscaler.</span><span class="sxs-lookup"><span data-stu-id="d0446-134">Zscaler.</span></span></li>
-<li> <span data-ttu-id="d0446-135">iboss.</span><span class="sxs-lookup"><span data-stu-id="d0446-135">iboss.</span></span></li>
-</ul>
-<li> <span data-ttu-id="d0446-136">Подключение [рекомендуемых приложений с](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) помощью соединители приложений.</span><span class="sxs-lookup"><span data-stu-id="d0446-136">Connecting [featured apps](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) using app connectors.</span></span></li>
-<li> <span data-ttu-id="d0446-137">Настройка управления приложениями условного доступа на порталах условного доступа и Cloud App Security для применения элементов управления сеансами в режиме реального времени.</span><span class="sxs-lookup"><span data-stu-id="d0446-137">Setting up Conditional Access App Control in the Conditional Access and Cloud App Security portals to apply real time session controls.</span></span></li>
-<li> <span data-ttu-id="d0446-138">Развертывание панелей Cloud App Security и облачного обнаружения.</span><span class="sxs-lookup"><span data-stu-id="d0446-138">Deploying the Cloud App Security and Cloud Discovery dashboards.</span></span></li>
-<li> <span data-ttu-id="d0446-139">Настройка оценки рисков приложений в зависимости от приоритетов организации.</span><span class="sxs-lookup"><span data-stu-id="d0446-139">Customizing app risk scores based on your organization’s priorities.</span></span></li>
-<li> <span data-ttu-id="d0446-140">Создание тегов и категорий приложений.</span><span class="sxs-lookup"><span data-stu-id="d0446-140">Creating app tags and categories.</span></span></li>
-<li> <span data-ttu-id="d0446-141">Санкции и несанкционные приложения.</span><span class="sxs-lookup"><span data-stu-id="d0446-141">Sanctioning and unsanctioning apps.</span></span></li>
-<li> <span data-ttu-id="d0446-142">Использование журналов действий и файлов.</span><span class="sxs-lookup"><span data-stu-id="d0446-142">Using the activity and file logs.</span></span></li>
-<li> <span data-ttu-id="d0446-143">Управление приложениями OAuth.</span><span class="sxs-lookup"><span data-stu-id="d0446-143">Managing OAuth apps.</span></span></li>
-<li> <span data-ttu-id="d0446-144">Понимание корреляции инцидентов на портале Microsoft 365 Defender.</span><span class="sxs-lookup"><span data-stu-id="d0446-144">Understanding incident correlation in the Microsoft 365 Defender portal.</span></span></li>
-<li> <span data-ttu-id="d0446-145">Предоставление помощи в настройке в <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20</a> лучших случаях использования casBs (включая создание или обновление до шести политик) за исключением:</span><span class="sxs-lookup"><span data-stu-id="d0446-145">Providing configuration assistance with the <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">top 20 use cases for CASBs</a> (including the creation or updating of up to six (6) policies) except:</span></span> </li>
-<ul>
-<li> <span data-ttu-id="d0446-146">Аудит конфигурации среды интернета как среды службы (IaaS) (#18).</span><span class="sxs-lookup"><span data-stu-id="d0446-146">Auditing the configuration of your internet as a service (IaaS) environments (#18).</span></span></li>
-<li> <span data-ttu-id="d0446-147">Мониторинг действий пользователей для защиты от угроз в средах IaaS (#19).</span><span class="sxs-lookup"><span data-stu-id="d0446-147">Monitoring user activities to protect against threats in your IaaS environments (#19).</span></span></li>
-</ul>
-</ul>
-<p><span data-ttu-id="d0446-148"><strong>Ниже приводится неосякаемая область</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-148"><strong>The following is out of scope</strong></span></span></p>
-<ul>
-<li> <span data-ttu-id="d0446-149">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="d0446-149">Project management of the customer's remediation activities.</span></span></li>
-<li> <span data-ttu-id="d0446-150">Постоянное управление, реагирование на угрозы и исправление.</span><span class="sxs-lookup"><span data-stu-id="d0446-150">Ongoing management, threat response, and remediation.</span></span> </li>
-<li> <span data-ttu-id="d0446-151">Настройка инфраструктуры, установки или развертывания автоматических загрузок журналов для непрерывных отчетов с помощью Docker или сборщика журналов.</span><span class="sxs-lookup"><span data-stu-id="d0446-151">Setting up the infrastructure, installation, or deployment of automatic log uploads for continuous reports using Docker or a log collector.</span></span> <span data-ttu-id="d0446-152">Дополнительные сведения см. в <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">топ-20 случаев использования casBs.</a></span><span class="sxs-lookup"><span data-stu-id="d0446-152">See <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">Top 20 use cases for CASBs</a> for more details.</span></span></li>
-<li> <span data-ttu-id="d0446-153">Создание отчета об обнаружении облачных данных.</span><span class="sxs-lookup"><span data-stu-id="d0446-153">Creating a Cloud Discovery snapshot report.</span></span></li>
-<li> <span data-ttu-id="d0446-154">Блокировка использования приложений с помощью скриптов блоков.</span><span class="sxs-lookup"><span data-stu-id="d0446-154">Blocking app usage using block scripts.</span></span></li>
-<li> <span data-ttu-id="d0446-155">Подключение настраиваемой программы.</span><span class="sxs-lookup"><span data-stu-id="d0446-155">Connecting custom apps.</span></span></li>
-<li> <span data-ttu-id="d0446-156">Интеграция с сторонними поставщиками удостоверений (isPs) и поставщиками защиты от потери данных (DLP).</span><span class="sxs-lookup"><span data-stu-id="d0446-156">Integrating with third-party identity providers (IsPs) and data loss prevention (DLP) providers.</span></span></li>
-<li> <span data-ttu-id="d0446-157">Учебные курсы или руководства по расширенной охоте.</span><span class="sxs-lookup"><span data-stu-id="d0446-157">Training or guidance covering advanced hunting.</span></span></li>
-<li> <span data-ttu-id="d0446-158">Автоматическое расследование и исправление, включая Power Automate книги.</span><span class="sxs-lookup"><span data-stu-id="d0446-158">Automated investigation and remediation including Microsoft Power Automate playbooks.</span></span></li>
-<li> <span data-ttu-id="d0446-159">Сведения о безопасности и управление событиями (SIEM) или интеграция API (включая Azure Sentinel).</span><span class="sxs-lookup"><span data-stu-id="d0446-159">Security information and event management (SIEM) or API integration (including Azure Sentinel).</span></span></li>
-<li> <span data-ttu-id="d0446-160">Развертывание Cloud App Security как доказательство концепции.</span><span class="sxs-lookup"><span data-stu-id="d0446-160">Deploying Cloud App Security as a proof of concept.</span></span></li>
-</ul></td>
-</tr>
-
-
-
-<tr class="odd">
-<td><span data-ttu-id="d0446-161"><strong>Расширенная защита от угроз (ATP) в Microsoft Defender</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-161"><strong>Microsoft Defender Advanced Threat Protection (ATP)</strong></span></span></td>
-<td>  <span data-ttu-id="d0446-162">Расширенная защита от угроз (ATP) в Microsoft Defender — это платформа, разработанная для обнаружения, предотвращения и исследования расширенных угроз в корпоративных сетях, а также для реагирования на них.</span><span class="sxs-lookup"><span data-stu-id="d0446-162">Microsoft Defender Advanced Threat Protection (ATP) is a platform designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats.</span></span>  
-  <span data-ttu-id="d0446-163">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-163">We provide remote guidance for:</span></span>
-<ul>
-<li>  <span data-ttu-id="d0446-164">Развертывание технологий для защиты конечных точек.</span><span class="sxs-lookup"><span data-stu-id="d0446-164">Deploying the technologies to secure your endpoints.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-165">Настройка профилей защиты конечной точки и ограничений устройств.</span><span class="sxs-lookup"><span data-stu-id="d0446-165">Configuring endpoint protection and device restriction profiles.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-166">Оценка конфигураций версий ОС и устройств (включая intune, Microsoft Endpoint Configuration Manager, объекты групповой политики и сторонние конфигурации), а также состояние служб av Защитник Windows или другого программного обеспечения безопасности конечной точки.</span><span class="sxs-lookup"><span data-stu-id="d0446-166">Assessing the OS version and device management (including Intune, Microsoft Endpoint Configuration Manager, Group Policy Objects (GPOs), and third-party configurations) as well as the status of your Windows Defender AV services or other endpoint security software.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-167">Оценка состояния службы Windows или другого программного обеспечения безопасности конечной точки.</span><span class="sxs-lookup"><span data-stu-id="d0446-167">Assessing the status of your Windows AV services or other endpoint security software.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-168">Оценка прокси и брандмауэров, ограничивающих сетевой трафик.</span><span class="sxs-lookup"><span data-stu-id="d0446-168">Assessing proxies and firewalls restricting network traffic.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-169">Включение службы ATP в Защитнике Microsoft, объясняя, как развернуть профиль агента ATP с помощью конечной точки на борту.</span><span class="sxs-lookup"><span data-stu-id="d0446-169">Enabling the Microsoft Defender ATP service by explaining how to deploy an ATP agent profile using an onboard endpoint.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-170">Рекомендации по развертыванию, помощь в настройке и обучение по:</span><span class="sxs-lookup"><span data-stu-id="d0446-170">Deployment guidance, configuration assistance, and education on:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="d0446-171">Управление угрозами и уязвимостями.</span><span class="sxs-lookup"><span data-stu-id="d0446-171">Threat and vulnerability management.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-172">Сокращение направлений атак.</span><span class="sxs-lookup"><span data-stu-id="d0446-172">Attack surface reduction.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-173">Защита нового поколения.</span><span class="sxs-lookup"><span data-stu-id="d0446-173">Next-generation protection.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-174">Выявление конечных точек и реагирование на них.</span><span class="sxs-lookup"><span data-stu-id="d0446-174">Endpoint detection and response.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-175">Автоматическое исследование и защита.</span><span class="sxs-lookup"><span data-stu-id="d0446-175">Automated investigation and remediation.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-176">Оценка безопасности</span><span class="sxs-lookup"><span data-stu-id="d0446-176">Secure score.</span></span>  
-  </li>
-</ul></li>
-<li>  <span data-ttu-id="d0446-177">Просмотр имитаций и учебных пособий (например, сценариев практики, поддельных вредоносных программ и автоматических расследований).</span><span class="sxs-lookup"><span data-stu-id="d0446-177">Reviewing simulations and tutorials (like practice scenarios, fake malware, and automated investigations).</span></span>  </li>
-<li>  <span data-ttu-id="d0446-178">Общие сведения о функциях создания отчетов и аналитики угроз.</span><span class="sxs-lookup"><span data-stu-id="d0446-178">Overview of reporting and threat analytics features.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-179">Интеграция ATP Office 365 с ATP в Microsoft Defender</span><span class="sxs-lookup"><span data-stu-id="d0446-179">Integrating Office 365 ATP with Microsoft Defender ATP.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-180">Пошаговые руководства по поведению на портале Центра безопасности в Microsoft Defender.</span><span class="sxs-lookup"><span data-stu-id="d0446-180">Conduct walkthroughs of the Microsoft Defender Security Center portal.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-181">Следующие операционные системы:</span><span class="sxs-lookup"><span data-stu-id="d0446-181">The following operating systems:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="d0446-182">Windows 10.</span><span class="sxs-lookup"><span data-stu-id="d0446-182">Windows 10.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-183">Windows Server 2016.</span><span class="sxs-lookup"><span data-stu-id="d0446-183">Windows Server 2016.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-184">Windows Server 2019.</span><span class="sxs-lookup"><span data-stu-id="d0446-184">Windows Server 2019.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-185">Windows Core Edition Server 2019.</span><span class="sxs-lookup"><span data-stu-id="d0446-185">Windows Server 2019 Core Edition.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-186">Windows Сервер Semi-Annual (SAC) версии 1803.</span><span class="sxs-lookup"><span data-stu-id="d0446-186">Windows Server Semi-Annual Channel (SAC) version 1803.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-187">версии macOS 10.13, 10.14 и 10.15.</span><span class="sxs-lookup"><span data-stu-id="d0446-187">macOS versions 10.13, 10.14, and 10.15.</span></span>  
-  </li>
-</ul>
-</li>
-</ul><span data-ttu-id="d0446-188">
-<strong>Примечание:</strong> Все версии Windows Server должны управляться последней версией System Center Configuration Manager 2012 года (версии 1012 R2, 1511 или 1602) или Microsoft Endpoint Configuration Manager (версии 2002 или более).</span><span class="sxs-lookup"><span data-stu-id="d0446-188">
-<strong>Note:</strong> All Windows Server versions must be managed by the latest version of System Center Configuration Manager 2012 (versions 1012 R2, 1511, or 1602) or Microsoft Endpoint Configuration Manager (version 2002 or greater).</span></span> 
-
-<span data-ttu-id="d0446-189"></li>
-</ul>
-
-<strong>Ниже приводится неосякаемая область </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="d0446-189"></li>
-</ul>
-
-<strong>The following is out of scope </strong>  
-</span></span><ul>
-<li>  <span data-ttu-id="d0446-190">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="d0446-190">Project management of the customer's remediation activities.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-191">Поддержка на месте.</span><span class="sxs-lookup"><span data-stu-id="d0446-191">On-site support.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-192">Текущее управление и реагирование на угрозы.</span><span class="sxs-lookup"><span data-stu-id="d0446-192">Ongoing management and threat response.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-193">Подключение и настройка следующих агентов ATP в Microsoft Defender:</span><span class="sxs-lookup"><span data-stu-id="d0446-193">Onboarding or configuration for the following Microsoft Defender ATP agents:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="d0446-194">Windows Server 2008.</span><span class="sxs-lookup"><span data-stu-id="d0446-194">Windows Server 2008.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-195">Windows Server 2012.</span><span class="sxs-lookup"><span data-stu-id="d0446-195">Windows Server 2012.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-196">Linux.</span><span class="sxs-lookup"><span data-stu-id="d0446-196">Linux.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-197">Мобильные устройства (Android и iOS).</span><span class="sxs-lookup"><span data-stu-id="d0446-197">Mobile devices (Android and iOS).</span></span>  
-  </li>
-</ul></li>
-<li>  <span data-ttu-id="d0446-198">Бортовая и конфигурация сервера:</span><span class="sxs-lookup"><span data-stu-id="d0446-198">Server onboarding and configuration:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="d0446-199">Настройка прокси-сервера для автономной связи.</span><span class="sxs-lookup"><span data-stu-id="d0446-199">Configuring a proxy server for offline communications.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-200">Настройка пакетов развертывания Configuration Manager на экземплярах и версиях диспетчера конфигурации на уровне.</span><span class="sxs-lookup"><span data-stu-id="d0446-200">Configuring Configuration Manager deployment packages on down-level Configuration Manager instances and versions.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-201">На борту серверов в Центр безопасности Azure.</span><span class="sxs-lookup"><span data-stu-id="d0446-201">Onboarding servers to Azure Security Center.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-202">Серверы, не управляемые диспетчером конфигурации.</span><span class="sxs-lookup"><span data-stu-id="d0446-202">Servers not managed by Configuration Manager.</span></span>  
-  </li>
-</ul></li>
-<li>  <span data-ttu-id="d0446-203">бортовая и конфигурация macOS:</span><span class="sxs-lookup"><span data-stu-id="d0446-203">macOS onboarding and configuration:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="d0446-204">Развертывание на основе ручного intune.</span><span class="sxs-lookup"><span data-stu-id="d0446-204">Manual Intune-based deployment.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-205">Развертывание на основе JAMF.</span><span class="sxs-lookup"><span data-stu-id="d0446-205">JAMF-based deployment.</span></span>
-  </li>
-<li>  
-  <span data-ttu-id="d0446-206">Другое развертывание на основе продуктов для управления мобильными устройствами (MDM).</span><span class="sxs-lookup"><span data-stu-id="d0446-206">Other mobile device management (MDM) product-based deployment.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-207">Ручное развертывание.</span><span class="sxs-lookup"><span data-stu-id="d0446-207">Manual deployment.</span></span>  
-  </li>
-</ul></li>
-<li>  <span data-ttu-id="d0446-208">Конфигурация следующих возможностей сокращения направлений атак:</span><span class="sxs-lookup"><span data-stu-id="d0446-208">Configuration of the following attack surface reduction capabilities:</span></span>
-<ul>
-<li>  
-  <span data-ttu-id="d0446-209">Аппаратная изоляция.</span><span class="sxs-lookup"><span data-stu-id="d0446-209">Hardware-based isolation.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-210">Управление приложениями.</span><span class="sxs-lookup"><span data-stu-id="d0446-210">App control.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-211">Защита от эксплойтов.</span><span class="sxs-lookup"><span data-stu-id="d0446-211">Exploit protection.</span></span>  
-  </li>
-<li>  
-  <span data-ttu-id="d0446-212">Сетевой брандмауэр.</span><span class="sxs-lookup"><span data-stu-id="d0446-212">Network firewall.</span></span>  
-  </li>
-</ul></li>
-<li>  <span data-ttu-id="d0446-213">Развертывание или конфигурация экспертов Майкрософт по угрозам.</span><span class="sxs-lookup"><span data-stu-id="d0446-213">Enrollment or configuration of Microsoft Threat Experts.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-214">Настройка или обучение, просмотр API или сведений о безопасности и подключений к управлению событиями (SIEM).</span><span class="sxs-lookup"><span data-stu-id="d0446-214">Configuration or training reviewing API or security information and event management (SIEM) connections.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-215">Развертывание или конфигурация защиты от угроз (Майкрософт).</span><span class="sxs-lookup"><span data-stu-id="d0446-215">Enrollment or configuration of Microsoft Threat Protection (MTP).</span></span>  </li>
-<li>  <span data-ttu-id="d0446-216">Учебные курсы или руководства по расширенной охоте.</span><span class="sxs-lookup"><span data-stu-id="d0446-216">Training or guidance covering advanced hunting.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-217">Учебные материалы или руководства по использованию или созданию запросов Kusto.</span><span class="sxs-lookup"><span data-stu-id="d0446-217">Training or guidance covering the use of or creation of Kusto queries.</span></span></li>
-</li>
-</ul>
-<span data-ttu-id="d0446-218">Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.</span><span class="sxs-lookup"><span data-stu-id="d0446-218">Contact a <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft Partner</a> for assistance with these services.</span></span>  
-</ul></td>
+<td><span data-ttu-id="8b6ee-170"><strong>Azure Active Directory (Azure AD) и Azure AD Premium</strong></span><span class="sxs-lookup"><span data-stu-id="8b6ee-170"><strong>Azure Active Directory (Azure AD) and Azure AD Premium</strong></span></span></td>
+<td>  <span data-ttu-id="8b6ee-171">Дополнительные сведения см. <strong>в Azure Active Directory Azure AD</strong> и Azure AD Premium в области безопасности <a href="/fasttrack/products-and-capabilities#security-and-compliance">и соответствия требованиям.</a></span><span class="sxs-lookup"><span data-stu-id="8b6ee-171">For more information, see <strong> Azure Active Directory (Azure AD) and Azure AD Premium</strong> in <a href="/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance</a>.</span></span></td>
 <td></td>
-
-<tr class="odd">
-<td><span data-ttu-id="d0446-219"><strong>Защитник Майкрософт для удостоверения </strong></span><span class="sxs-lookup"><span data-stu-id="d0446-219"><strong>Microsoft Defender for Identity </strong></span></span></td>
-<td>  <span data-ttu-id="d0446-220">Microsoft Defender для удостоверений — это облачное решение для обеспечения безопасности, использующее ваши локальные сигналы Active Directory для выявления, обнаружения и исследования расширенных угроз, скомпрометированных удостоверений и вредоносных внутренних действий, направленных против вашей организации.</span><span class="sxs-lookup"><span data-stu-id="d0446-220">Microsoft Defender for Identity is a cloud-based security solution that leverages your on-premises Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.</span></span> <span data-ttu-id="d0446-221">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-221">We provide remote guidance for:</span></span>
-<ul>
-<li>   <span data-ttu-id="d0446-222">Создание экземпляра Defender for Identity.</span><span class="sxs-lookup"><span data-stu-id="d0446-222">Creating your instance of Defender for Identity.</span></span> </li>
-<li>   <span data-ttu-id="d0446-223">Подключение защитника удостоверений к Active Directory.</span><span class="sxs-lookup"><span data-stu-id="d0446-223">Connecting Defender for Identity to Active Directory.</span></span> </li>
-<li>   <span data-ttu-id="d0446-224">Оценка готовности среды к развертыванию датчика Defender для удостоверений на контроллерах домена, в том числе:</span><span class="sxs-lookup"><span data-stu-id="d0446-224">Assessing the readiness of your environment to deploy the Defender for Identity sensor on your domain controllers, including:</span></span></li>   
-<ul> 
-<li>  <span data-ttu-id="d0446-225">Запуск средства размеров для планирования емкости ресурсов.</span><span class="sxs-lookup"><span data-stu-id="d0446-225">Running the sizing tool for resource capacity planning.</span></span> </li>
-<li>  <span data-ttu-id="d0446-226">Запуск средства аудита для оценки совместимости контроллеров домена с датчиком.</span><span class="sxs-lookup"><span data-stu-id="d0446-226">Running the auditing tool to assess the compatibility of your domain controllers with the sensor.</span></span> </li>
-</ul>
-<li>  <span data-ttu-id="d0446-227">Развертывание датчика для захвата и размыва сетевого трафика и Windows событий непосредственно из контроллеров домена, в том числе:</span><span class="sxs-lookup"><span data-stu-id="d0446-227">Deploying the sensor to capture and parse network traffic and Windows events directly from your domain controllers, including:</span></span> </li>
-<ul> 
-<li>  <span data-ttu-id="d0446-228">Загрузка пакета датчиков.</span><span class="sxs-lookup"><span data-stu-id="d0446-228">Downloading the sensor package.</span></span> </li>
-<li>  <span data-ttu-id="d0446-229">Настройка датчика.</span><span class="sxs-lookup"><span data-stu-id="d0446-229">Configuring the sensor.</span></span> </li>
-<li>  <span data-ttu-id="d0446-230">Установка датчика на контроллере домена безмолвно.</span><span class="sxs-lookup"><span data-stu-id="d0446-230">Installing the sensor on your domain controller silently.</span></span> </li>
-<li>  <span data-ttu-id="d0446-231">Развертывание датчика в многолесной среде.</span><span class="sxs-lookup"><span data-stu-id="d0446-231">Deploying the sensor to your multi-forest environment.</span></span> </li>
-</ul>
-<li>  <span data-ttu-id="d0446-232">Интеграция defender for Identity с Microsoft Cloud App Security (Cloud App Security лицензирование не требуется).</span><span class="sxs-lookup"><span data-stu-id="d0446-232">Integrating  Defender for Identity with Microsoft Cloud App Security (Cloud App Security licensing isn't required).</span></span> </li>
-<li>  <span data-ttu-id="d0446-233">Предоставление рекомендаций по развертыванию, помощь в настройке и обучение по:</span><span class="sxs-lookup"><span data-stu-id="d0446-233">Providing deployment guidance, configuration assistance, and education on:</span></span> </li>
-<ul>
-<li> <span data-ttu-id="d0446-234">Настройка среды для уменьшения "шума".</span><span class="sxs-lookup"><span data-stu-id="d0446-234">Tuning the environment to reduce  “noise.”</span></span>  </li>
-<li>  <span data-ttu-id="d0446-235">Понимание отчета об оценке состояния безопасности удостоверений.</span><span class="sxs-lookup"><span data-stu-id="d0446-235">Understanding the identity security posture assessment report.</span></span> </li>
-<li>  <span data-ttu-id="d0446-236">Понимание оценки приоритетов для исследования пользователей и отчета о рейтинге исследования пользователей.</span><span class="sxs-lookup"><span data-stu-id="d0446-236">Understanding the user Investigation priority score and user Investigation ranking report.</span></span> </li>
-<li> <span data-ttu-id="d0446-237">Понимание неактивного отчета пользователя.</span><span class="sxs-lookup"><span data-stu-id="d0446-237">Understanding the inactive user report.</span></span>  </li>
-<li> <span data-ttu-id="d0446-238">Предоставление параметров исправлений на скомпрометированную учетную запись.</span><span class="sxs-lookup"><span data-stu-id="d0446-238">Providing remediation options on a compromised account.</span></span>  </li>
-</ul>
-<li>  <span data-ttu-id="d0446-239">Упрощение переноса из Advanced Threat Analytics (ATA) в Defender for Identity.</span><span class="sxs-lookup"><span data-stu-id="d0446-239">Facilitating the migration from Advanced Threat Analytics (ATA) to Defender for Identity.</span></span> </li>
-</ul>
-<p><span data-ttu-id="d0446-240"><strong>Ниже приводится неосякаемая область</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-240"><strong>The following is out of scope</strong></span></span></p>
-<ul>
-
-<li> <span data-ttu-id="d0446-241">Управление проектами, связанное с действиями клиента по внесению исправлений.</span><span class="sxs-lookup"><span data-stu-id="d0446-241">Project management of the customer's remediation activities.</span></span> </li>
-<li> <span data-ttu-id="d0446-242">Постоянное управление, реагирование на угрозы и исправление.</span><span class="sxs-lookup"><span data-stu-id="d0446-242">Ongoing management, threat response, and remediation.</span></span>  </li>
-<li> <span data-ttu-id="d0446-243">Развертывание датчика Defender для удостоверений, в том числе:</span><span class="sxs-lookup"><span data-stu-id="d0446-243">Deploying the Defender for Identity sensor, including:</span></span> </li>
-<ul>
-<li> <span data-ttu-id="d0446-244">Ручное планирование емкости.</span><span class="sxs-lookup"><span data-stu-id="d0446-244">Manual capacity planning.</span></span> </li>
-<li> <span data-ttu-id="d0446-245">Развертывание датчика в автономных емкостях.</span><span class="sxs-lookup"><span data-stu-id="d0446-245">Deploying the sensor in a standalone capacity.</span></span> </li>
-<li> <span data-ttu-id="d0446-246">Развертывание датчика с помощью адаптора сетевого интерфейса (NIC).</span><span class="sxs-lookup"><span data-stu-id="d0446-246">Deploying the sensor using a Network Interface Card (NIC) Teaming adaptor.</span></span> </li>
-<li> <span data-ttu-id="d0446-247">Развертывание датчика через сторонний инструмент.</span><span class="sxs-lookup"><span data-stu-id="d0446-247">Deploying the sensor through a third-party tool.</span></span> </li>
-<li> <span data-ttu-id="d0446-248">Подключение к облачной службе Defender for Identity с помощью подключения веб-прокси.</span><span class="sxs-lookup"><span data-stu-id="d0446-248">Connecting to the Defender for Identity cloud service through a web proxy connection.</span></span> </li>
-</ul>
-<li> <span data-ttu-id="d0446-249">Создание и управление медоносами.</span><span class="sxs-lookup"><span data-stu-id="d0446-249">Creation and management of honeytokens.</span></span> </li>
-<li> <span data-ttu-id="d0446-250">Рекомендации по развертыванию или обучение по:</span><span class="sxs-lookup"><span data-stu-id="d0446-250">Deployment guidance or education on:</span></span> </li>
-<ul>
-<li> <span data-ttu-id="d0446-251">Исправление или интерпретация различных типов оповещений и отслеживаемой деятельности.</span><span class="sxs-lookup"><span data-stu-id="d0446-251">Remediating or interpreting various alert types and monitored activities.</span></span>  </li>
-<li> <span data-ttu-id="d0446-252">Исследование пути перемещения пользователя, компьютера, поодаль или объекта.</span><span class="sxs-lookup"><span data-stu-id="d0446-252">Investigating a user, computer, lateral movement path, or entity.</span></span> </li>
-<li> <span data-ttu-id="d0446-253">Угроза или продвинутая охота.</span><span class="sxs-lookup"><span data-stu-id="d0446-253">Threat or advanced hunting.</span></span> </li>
-<li> <span data-ttu-id="d0446-254">Реагирование на инцидент.</span><span class="sxs-lookup"><span data-stu-id="d0446-254">Incident response.</span></span> </li>
-</ul>
-<li> <span data-ttu-id="d0446-255">Предоставление лабораторного руководства по оповещению о безопасности для Defender для identity.</span><span class="sxs-lookup"><span data-stu-id="d0446-255">Providing a security alert lab tutorial for Defender for Identity.</span></span> </li>
-<li> <span data-ttu-id="d0446-256">Предоставление уведомлений, когда Defender for Identity обнаруживает подозрительные действия, отправляя оповещения безопасности на сервер syslog с помощью назначенного датчика.</span><span class="sxs-lookup"><span data-stu-id="d0446-256">Providing notification when Defender for Identity detects suspicious activities by sending security alerts to your syslog server through a nominated sensor.</span></span>  </li>
-<li> <span data-ttu-id="d0446-257">Настройка defender for Identity для выполнения запросов с помощью удаленного протокола диспетчера безопасности (SAMR) для идентификации локальных администраторов на определенных машинах.</span><span class="sxs-lookup"><span data-stu-id="d0446-257">Configuring Defender for Identity to perform queries using security account manager remote (SAMR) protocol to identify local admins on specific machines.</span></span> </li>
-<li> <span data-ttu-id="d0446-258">Настройка VPN-решений для добавления сведений из VPN-подключения на страницу профиля пользователя.</span><span class="sxs-lookup"><span data-stu-id="d0446-258">Configuring VPN solutions to add information from the VPN connection to a user’s profile page.</span></span>  </li>
-<li> <span data-ttu-id="d0446-259">Сведения о безопасности и управление событиями (SIEM) или интеграция API (включая Azure Sentinel).</span><span class="sxs-lookup"><span data-stu-id="d0446-259">Security information and event management (SIEM) or API integration (including Azure Sentinel).</span></span> </li>
-<li> <span data-ttu-id="d0446-260">Развертывание датчиков Defender для удостоверений в качестве доказательства концепции.</span><span class="sxs-lookup"><span data-stu-id="d0446-260">Deploying Defender for Identity sensors as a proof of concept.</span></span></li>
-</ul></td>
-<td><ul>
-<li>  <span data-ttu-id="d0446-261">Развернут Active Directory.</span><span class="sxs-lookup"><span data-stu-id="d0446-261">Active Directory deployed.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-262">Контроллеры домена, которые вы собираетесь установить датчики Defender для удостоверений, подключены к облачной службе Defender для удостоверений.</span><span class="sxs-lookup"><span data-stu-id="d0446-262">The domain controllers you intend to install Defender for Identity sensors on have internet connectivity to the Defender for Identity cloud service.</span></span>  </li>
-<ul>
-<li> <span data-ttu-id="d0446-263">Брандмауэр и прокси должны быть открыты для связи с облачной службой Defender for Identity (\*.atp.azure.com порт 443 должен быть открыт).</span><span class="sxs-lookup"><span data-stu-id="d0446-263">Your firewall and proxy must be open to communicate with the Defender for Identity cloud service (\*.atp.azure.com port 443 must be open).</span></span></li>
-</ul>
-<li> <span data-ttu-id="d0446-264">Контроллеры домена, работающие на одном из следующих:</span><span class="sxs-lookup"><span data-stu-id="d0446-264">Domain controllers running on one of the following:</span></span></li>
-<ul>
-<li> <span data-ttu-id="d0446-265">Windows Сервер 2008 R2 SP1.</span><span class="sxs-lookup"><span data-stu-id="d0446-265">Windows Server 2008 R2 SP1.</span></span></li>
-<li> <span data-ttu-id="d0446-266">Windows Server 2012.</span><span class="sxs-lookup"><span data-stu-id="d0446-266">Windows Server 2012.</span></span></li>
-<li> <span data-ttu-id="d0446-267">Windows Server 2012 R2.</span><span class="sxs-lookup"><span data-stu-id="d0446-267">Windows Server 2012 R2.</span></span></li>
-<li> <span data-ttu-id="d0446-268">Windows Server 2016.</span><span class="sxs-lookup"><span data-stu-id="d0446-268">Windows Server 2016.</span></span></li>
-<li> <span data-ttu-id="d0446-269">Windows Server 2019 с KB4487044 (сборка ОС 17763.316).</span><span class="sxs-lookup"><span data-stu-id="d0446-269">Windows Server 2019 with KB4487044 (OS Build 17763.316).</span></span></li>
-</ul>
-</ul></td>
-</tr>
-
-<tr class="even">
-<td><span data-ttu-id="d0446-270"><strong>Управление информацией (Майкрософт)</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-270"><strong>Microsoft Information Governance</strong></span></span></td>
-<td>  <span data-ttu-id="d0446-271">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-271">We provide remote guidance for:</span></span>
-<ul>
-<li>  <span data-ttu-id="d0446-272">Метки и политики хранения.</span><span class="sxs-lookup"><span data-stu-id="d0446-272">Retention labels and policies.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-273">Управление записями.</span><span class="sxs-lookup"><span data-stu-id="d0446-273">Records management.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-274">Политики удаления.</span><span class="sxs-lookup"><span data-stu-id="d0446-274">Deletion policies.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-275">Соответствие требованиям к обмену данными.</span><span class="sxs-lookup"><span data-stu-id="d0446-275">Communication compliance.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-276">Управление внутренними рисками.</span><span class="sxs-lookup"><span data-stu-id="d0446-276">Insider risk management.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-277">Advanced eDiscovery.</span><span class="sxs-lookup"><span data-stu-id="d0446-277">Advanced eDiscovery.</span></span>  </li>
-</ul><span data-ttu-id="d0446-278">
-
-  <strong>Ниже приводится неосякаемая область </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="d0446-278">
-
-  <strong>The following is out of scope </strong>  
-</span></span><ul>
-<li> <span data-ttu-id="d0446-279">Разработка плана файлов управления записями.</span><span class="sxs-lookup"><span data-stu-id="d0446-279">Development of a records management file plan.</span></span></li>
-<li> <span data-ttu-id="d0446-280">Соединители данных.</span><span class="sxs-lookup"><span data-stu-id="d0446-280">Data connectors.</span></span></li>
-<li> <span data-ttu-id="d0446-281">Информационные барьеры.</span><span class="sxs-lookup"><span data-stu-id="d0446-281">Information barriers.</span></span></li>
-<li> <span data-ttu-id="d0446-282">Управление привилегированным доступом.</span><span class="sxs-lookup"><span data-stu-id="d0446-282">Privileged access management.</span></span></li>
-<li> <span data-ttu-id="d0446-283">Разработка информационной архитектуры в SharePoint.</span><span class="sxs-lookup"><span data-stu-id="d0446-283">Development of information architecture in SharePoint.</span></span></li>
-<li> <span data-ttu-id="d0446-284">Настраиваемый сценарий и кодирование.</span><span class="sxs-lookup"><span data-stu-id="d0446-284">Custom scripting and coding.</span></span></li>
-</td>
-<td><span data-ttu-id="d0446-285">Помимо основной <strong>части</strong> в <a href="products-and-capabilities.md#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="d0446-285">Aside from the <strong>Core onboarding</strong> portion in <a href="products-and-capabilities.md#general">General</a>, there are no minimum system requirements.</span></span></td>
 </tr>
 <tr class="odd">
-<td><span data-ttu-id="d0446-286"><strong>Защита информации (Майкрософт)</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-286"><strong>Microsoft Information Protection</strong></span></span></td>
-<td>  <span data-ttu-id="d0446-287">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-287">We provide remote guidance for:</span></span>
-<ul>
-<li>  <span data-ttu-id="d0446-288">Классификация данных.</span><span class="sxs-lookup"><span data-stu-id="d0446-288">Data classification.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-289">Типы конфиденциальной информации.</span><span class="sxs-lookup"><span data-stu-id="d0446-289">Sensitive information types.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-290">Создание меток конфиденциальности.</span><span class="sxs-lookup"><span data-stu-id="d0446-290">Creating sensitivity labels.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-291">Применение меток конфиденциальности.</span><span class="sxs-lookup"><span data-stu-id="d0446-291">Applying sensitivity labels.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-292">Унифицированное применение меток.</span><span class="sxs-lookup"><span data-stu-id="d0446-292">Unified labeling.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-293">Обучаемые классификаторы.</span><span class="sxs-lookup"><span data-stu-id="d0446-293">Trainable classifiers.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-294">Знакомство с данными посредством обозревателя содержимого и обозревателя действий.</span><span class="sxs-lookup"><span data-stu-id="d0446-294">Knowing your data with content explorer and activity explorer.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-295">Публикация меток с помощью политик (вручную и автоматически).</span><span class="sxs-lookup"><span data-stu-id="d0446-295">Publishing labels using policies (manual and automatic).</span></span>  </li>
-<li>  <span data-ttu-id="d0446-296">Создание политик защиты от потери данных для чатов и каналов Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="d0446-296">Creating data loss prevention (DLP) policies for Microsoft Teams chats and channels.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-297">Создание политик DLP конечной точки для Windows 10 устройств.</span><span class="sxs-lookup"><span data-stu-id="d0446-297">Creating Endpoint DLP policies for Windows 10 devices.</span></span>  </li>
-</ul><span data-ttu-id="d0446-298">
-
-<strong>Ниже приводится неосякаемая область </strong>  
-</span><span class="sxs-lookup"><span data-stu-id="d0446-298">
-
-<strong>The following is out of scope </strong>  
-</span></span><ul>
-<li><span data-ttu-id="d0446-299">Ключ клиента.</span><span class="sxs-lookup"><span data-stu-id="d0446-299">Customer key.</span></span></li>
-<li><span data-ttu-id="d0446-300">Настраиваемая разработка регулярных выражений (RegEx) для типов конфиденциальной информации.</span><span class="sxs-lookup"><span data-stu-id="d0446-300">Custom regular expressions (RegEx) development for sensitive information types.</span></span></li>
-<li><span data-ttu-id="d0446-301">Создание или изменение словарей ключевых слов.</span><span class="sxs-lookup"><span data-stu-id="d0446-301">Creation or modification of keyword dictionaries.</span></span></li>
-<li><span data-ttu-id="d0446-302">Настраиваемый сценарий и кодирование.</span><span class="sxs-lookup"><span data-stu-id="d0446-302">Custom scripting and coding.</span></span></li>
-</ul><span data-ttu-id="d0446-303">
-<strong>Примечание:</strong> Дополнительные сведения см. в <strong>профиле Azure Information Protection</strong> in <a href="products-and-capabilities.md#enterprise-mobility--security">Enterprise Mobility + Security.</a></span><span class="sxs-lookup"><span data-stu-id="d0446-303">
-<strong>Note:</strong> For more information, see <strong>Azure Information Protection</strong> in <a href="products-and-capabilities.md#enterprise-mobility--security">Enterprise Mobility + Security</a>.</span></span>
-<ul>
-
-</td>
-<td><span data-ttu-id="d0446-304">Помимо основной <strong>части</strong> в <a href="products-and-capabilities.md#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="d0446-304">Aside from the <strong>Core onboarding</strong> portion in <a href="products-and-capabilities.md#general">General</a>, there are no minimum system requirements.</span></span></td>
-</tr>
-
-<tr class="odd">
-<td><span data-ttu-id="d0446-305"><strong>Office 365 Advanced Threat Protection (ATP)</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-305"><strong>Office 365 Advanced Threat Protection (ATP)</strong></span></span></td>
-<td>  <span data-ttu-id="d0446-306">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-306">We provide remote guidance for:</span></span>
-<ul>
-<li>  <span data-ttu-id="d0446-307">Включение компонентов "Безопасные ссылки", "Безопасные вложения" и защиты от фишинга.</span><span class="sxs-lookup"><span data-stu-id="d0446-307">Enabling Safe Links, Safe Attachments, and anti-phishing.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-308">Настройка автоматизации, исследований и ответов.</span><span class="sxs-lookup"><span data-stu-id="d0446-308">Configuring automation, investigation, and response.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-309">Использование эмулятора атак.</span><span class="sxs-lookup"><span data-stu-id="d0446-309">Using Attack Simulator.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-310">Отчеты и анализ угроз.</span><span class="sxs-lookup"><span data-stu-id="d0446-310">Reporting and threat analytics.</span></span>  </li>
-</ul></td>
-<td><span data-ttu-id="d0446-311">Помимо основной <strong>части</strong> в <a href="products-and-capabilities.md#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="d0446-311">Aside from the <strong>Core onboarding</strong> portion in <a href="products-and-capabilities.md#general">General</a>, there are no minimum system requirements.</span></span></td>
-</tr>
-
-
-<tr class="odd">
-<td><span data-ttu-id="d0446-312"><strong>Ответ & обнаружения</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-312"><strong>Discovery & Response</strong></span></span></td>
+<td><span data-ttu-id="8b6ee-172"><strong>Защита информации Azure </strong></span><span class="sxs-lookup"><span data-stu-id="8b6ee-172"><strong>Azure Information Protection </strong></span></span></td>
+<td>  <span data-ttu-id="8b6ee-173">Дополнительные сведения о azure Information Protection <strong>см.</strong> в Microsoft Information Protection <a href="/fasttrack/products-and-capabilities#security-and-compliance">в области безопасности и соответствия требованиям.</a></span><span class="sxs-lookup"><span data-stu-id="8b6ee-173">For more information on Azure Information Protection, see <strong>Microsoft Information Protection</strong> in <a href="/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance</a>.</span></span>  </td>
 <td>  
-
-<span data-ttu-id="d0446-313"><strong>Advanced eDiscovery</strong>
   
-</span><span class="sxs-lookup"><span data-stu-id="d0446-313"><strong>Advanced eDiscovery</strong>
-  
-</span></span><ul>
-<li>  <span data-ttu-id="d0446-314">Включение компонентов "Безопасные ссылки", "Безопасные вложения" и защиты от фишинга.</span><span class="sxs-lookup"><span data-stu-id="d0446-314">Enabling Safe Links, Safe Attachments, and anti-phishing.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-315">Настройка автоматизации, исследований и ответов.</span><span class="sxs-lookup"><span data-stu-id="d0446-315">Configuring automation, investigation, and response.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-316">Использование эмулятора атак.</span><span class="sxs-lookup"><span data-stu-id="d0446-316">Using Attack Simulator.</span></span>  </li>
-<li>  <span data-ttu-id="d0446-317">Отчеты и анализ угроз.</span><span class="sxs-lookup"><span data-stu-id="d0446-317">Reporting and threat analytics.</span></span>  </li>
-</ul>
-
-<span data-ttu-id="d0446-318"><strong>Расширенный аудит</strong> (поддерживается только в E5)</span><span class="sxs-lookup"><span data-stu-id="d0446-318"><strong>Advanced Audit</strong> (only supported in E5)</span></span>
-
-<span data-ttu-id="d0446-319">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-319">We provide remote guidance for:</span></span> 
-<ul>
-<li> <span data-ttu-id="d0446-320">Включение усовершенствования аудита.</span><span class="sxs-lookup"><span data-stu-id="d0446-320">Enabling advanced auditing.</span></span></li>
-<li> <span data-ttu-id="d0446-321">Выполнение пользовательского интерфейса журнала аудита поиска и основных команд powerShell аудита.</span><span class="sxs-lookup"><span data-stu-id="d0446-321">Performing a search audit log UI and basic audit PowerShell commands.</span></span></li>
-</ul><span data-ttu-id="d0446-322">
-
-<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-322">
-
-<strong> Compliance Manager</strong></span></span>
-
-<span data-ttu-id="d0446-323">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-323">We provide remote guidance for:</span></span>  
-
-<ul> <li><span data-ttu-id="d0446-324">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="d0446-324">Reviewing role types.</span></span>  </li>
-<li> <span data-ttu-id="d0446-325">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="d0446-325">Adding and configuring assessments.</span></span></li>
-<li> <span data-ttu-id="d0446-326">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d0446-326">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
-<li> <span data-ttu-id="d0446-327">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="d0446-327">Reviewing built-in control mapping and assessing controls.</span></span></li>
-<li> <span data-ttu-id="d0446-328">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="d0446-328">Generating a report within an assessment.</span></span></li>
-</ul><span data-ttu-id="d0446-329">
-
-<strong>Ниже приводится неосякаемая область </strong> 
-</span><span class="sxs-lookup"><span data-stu-id="d0446-329">
-
-<strong>The following is out of scope </strong> 
-</span></span><ul>
-<li> <span data-ttu-id="d0446-330">Настраиваемый сценарий или кодирование.</span><span class="sxs-lookup"><span data-stu-id="d0446-330">Custom scripting or coding.</span></span></li>
-<li> <span data-ttu-id="d0446-331">API eDiscovery.</span><span class="sxs-lookup"><span data-stu-id="d0446-331">eDiscovery API.</span></span> </li>
-<li> <span data-ttu-id="d0446-332">Соединители данных.</span><span class="sxs-lookup"><span data-stu-id="d0446-332">Data connectors.</span></span> </li>
-<li> <span data-ttu-id="d0446-333">Границы соответствия требованиям и фильтры безопасности.</span><span class="sxs-lookup"><span data-stu-id="d0446-333">Compliance boundaries and security filters.</span></span></li>
-<li> <span data-ttu-id="d0446-334">Исследования данных.</span><span class="sxs-lookup"><span data-stu-id="d0446-334">Data investigations.</span></span></li>
-<li> <span data-ttu-id="d0446-335">Запросы субъекта данных.</span><span class="sxs-lookup"><span data-stu-id="d0446-335">Data subject requests.</span></span></li>
-<li> <span data-ttu-id="d0446-336">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="d0446-336">Design, architect, and third-party document review.</span></span></li>
-<li> <span data-ttu-id="d0446-337">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="d0446-337">Compliance with industry and regional regulations and requirements.</span></span></li>
-<li> <span data-ttu-id="d0446-338">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d0446-338">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
-</ul>
 </td>
-<td><span data-ttu-id="d0446-339">Помимо основной <strong>части</strong> в <a href="products-and-capabilities.md#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="d0446-339">Aside from the <strong>Core onboarding</strong> portion in <a href="products-and-capabilities.md#general">General</a>, there are no minimum system requirements.</span></span></td>
 </tr>
-<tr class="odd">
-<td><span data-ttu-id="d0446-340"><strong>Управление инсайдерской угрозой</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-340"><strong>Insider Threat Management</strong></span></span></td>
-
-<td>  <span data-ttu-id="d0446-341">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-341">We provide remote guidance for:</span></span>
-<ul>
-<li> <span data-ttu-id="d0446-342">Создание политик и просмотр параметров.</span><span class="sxs-lookup"><span data-stu-id="d0446-342">Creating policies and reviewing settings.</span></span></li>
-<li> <span data-ttu-id="d0446-343">Доступ к отчетам и оповещениям.</span><span class="sxs-lookup"><span data-stu-id="d0446-343">Accessing reports and alerts.</span></span></li>
-<li> <span data-ttu-id="d0446-344">Создание дел.</span><span class="sxs-lookup"><span data-stu-id="d0446-344">Creating cases.</span></span></li>
-<li> <span data-ttu-id="d0446-345">Создание шаблонов уведомлений.</span><span class="sxs-lookup"><span data-stu-id="d0446-345">Creating notice templates.</span></span></li>
-<li> <span data-ttu-id="d0446-346">Руководство по созданию соединиттеля кадровых ресурсов (HR).</span><span class="sxs-lookup"><span data-stu-id="d0446-346">Guidance on creating the human resources (HR) connector.</span></span></li>
-</ul><span data-ttu-id="d0446-347">
-
-<strong> Соответствие требованиям связи </strong></span><span class="sxs-lookup"><span data-stu-id="d0446-347">
-
-<strong> Communication Compliance </strong></span></span> 
-
-<span data-ttu-id="d0446-348">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-348">We provide remote guidance for:</span></span> 
-<ul>
-<li> <span data-ttu-id="d0446-349">Создание политик и просмотр параметров.</span><span class="sxs-lookup"><span data-stu-id="d0446-349">Creating policies and reviewing settings.</span></span></li>
-<li> <span data-ttu-id="d0446-350">Доступ к отчетам и оповещениям.</span><span class="sxs-lookup"><span data-stu-id="d0446-350">Accessing reports and alerts.</span></span></li>
-<li> <span data-ttu-id="d0446-351">Создание шаблонов уведомлений.</span><span class="sxs-lookup"><span data-stu-id="d0446-351">Creating notice templates.</span></span></li>
-</ul><span data-ttu-id="d0446-352">
-
-<strong> Диспетчер соответствия требованиям</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-352">
-
-<strong> Compliance Manager</strong></span></span>
-
-<span data-ttu-id="d0446-353">Мы предоставляем удаленные рекомендации по:</span><span class="sxs-lookup"><span data-stu-id="d0446-353">We provide remote guidance for:</span></span>  
-
-<ul> <li><span data-ttu-id="d0446-354">Просмотр типов ролей.</span><span class="sxs-lookup"><span data-stu-id="d0446-354">Reviewing role types.</span></span>  </li>
-<li> <span data-ttu-id="d0446-355">Добавление и настройка оценок.</span><span class="sxs-lookup"><span data-stu-id="d0446-355">Adding and configuring assessments.</span></span></li>
-<li> <span data-ttu-id="d0446-356">Оценка соответствия требованиям путем реализации действий по улучшению и определения того, как это влияет на оценку соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d0446-356">Assessing compliance by implementing improvement actions and determining how this impacts your compliance score.</span></span></li>
-<li> <span data-ttu-id="d0446-357">Проверка встроенного сопоставления элементов управления и оценки элементов управления.</span><span class="sxs-lookup"><span data-stu-id="d0446-357">Reviewing built-in control mapping and assessing controls.</span></span></li>
-<li> <span data-ttu-id="d0446-358">Создание отчета в рамках оценки.</span><span class="sxs-lookup"><span data-stu-id="d0446-358">Generating a report within an assessment.</span></span></li>
-</ul><span data-ttu-id="d0446-359">
-
-<strong>Ниже приводится неосякаемая область </strong> 
-</span><span class="sxs-lookup"><span data-stu-id="d0446-359">
-
-<strong>The following is out of scope </strong> 
-</span></span><ul>
-<li> <span data-ttu-id="d0446-360">Создание и управление Power Automate потоками.</span><span class="sxs-lookup"><span data-stu-id="d0446-360">Creating and managing Power Automate flows.</span></span></li>
-<li> <span data-ttu-id="d0446-361">Соединители данных (за пределами соединитетеля управления персоналом).</span><span class="sxs-lookup"><span data-stu-id="d0446-361">Data connectors (beyond the HR connector).</span></span> </li>
-<li> <span data-ttu-id="d0446-362">Настраиваемые конфигурации регулярного выражения (RegEx).</span><span class="sxs-lookup"><span data-stu-id="d0446-362">Custom regular expression (RegEx) configurations.</span></span></li>
-<li> <span data-ttu-id="d0446-363">Разработка, архитектор и проверка документов сторонних разработчиков.</span><span class="sxs-lookup"><span data-stu-id="d0446-363">Design, architect, and third-party document review.</span></span></li>
-<li> <span data-ttu-id="d0446-364">Информационные барьеры.</span><span class="sxs-lookup"><span data-stu-id="d0446-364">Information barriers.</span></span></li>
-<li> <span data-ttu-id="d0446-365">Управление привилегированным доступом.</span><span class="sxs-lookup"><span data-stu-id="d0446-365">Privileged access management.</span></span></li>
-<li> <span data-ttu-id="d0446-366">Соблюдение отраслевых и региональных правил и требований.</span><span class="sxs-lookup"><span data-stu-id="d0446-366">Compliance with industry and regional regulations and requirements.</span></span></li>
-<li> <span data-ttu-id="d0446-367">Практическое выполнение рекомендуемых действий по улучшению для оценки в диспетчере соответствия требованиям.</span><span class="sxs-lookup"><span data-stu-id="d0446-367">Hands-on implementation of recommended improvement actions for assessments in Compliance Manager.</span></span></li>
-</ul></td>
-<td><span data-ttu-id="d0446-368">Помимо основной <strong>части</strong> в <a href="products-and-capabilities.md#general">целом,</a>минимальные требования к системе не предъявляются.</span><span class="sxs-lookup"><span data-stu-id="d0446-368">Aside from the <strong>Core onboarding</strong> portion in <a href="products-and-capabilities.md#general">General</a>, there are no minimum system requirements.</span></span></td>
-</tr>
-
-
-</tbody>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-
-</tbody>
-</table>
-
-
-<table>
-<thead>
-<TABLE  CELLPADDING="2" CELLSPACING="2" WIDTH="100%">
-<tr class="header">
-<TD width 15%><span data-ttu-id="d0446-369"><strong>Служба</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-369"><strong>Service</strong></span></span></TD>
-<TD width 50%><span data-ttu-id="d0446-370"><strong>Сведения о руководстве FastTrack</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-370"><strong>FastTrack guidance details</strong></span></span></TD>
-<TD width 25%><span data-ttu-id="d0446-371"><strong>Ожидания среды исходных источников</strong></span><span class="sxs-lookup"><span data-stu-id="d0446-371"><strong>Source environment expectations</strong></span></span></TD>
-<TR>
-</thead>
-<tbody>
-
-
+<tr class="even">
+<td><span data-ttu-id="8b6ee-174"><strong>Microsoft Intune</strong></span><span class="sxs-lookup"><span data-stu-id="8b6ee-174"><strong>Microsoft Intune</strong></span></span></td>
+<td>  <span data-ttu-id="8b6ee-175">Дополнительные сведения см. <strong>в Microsoft Intune</strong> в области безопасности <a href="/fasttrack/products-and-capabilities#security-and-compliance">и соответствия</a>требованиям.</span><span class="sxs-lookup"><span data-stu-id="8b6ee-175">For more information, see <strong> Microsoft Intune</strong> in <a href="/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance</a>.</span></span>
+  </td>
+<td>  
+  
+</td>
 </tr>
 </tbody>
 </table>
