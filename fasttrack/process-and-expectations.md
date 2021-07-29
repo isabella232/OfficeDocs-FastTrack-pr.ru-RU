@@ -3,18 +3,18 @@ title: Процесс и ожидания
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 6/16/2021
+ms.date: 7/28/2021
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этой теме мы рассмотрим, как обратиться к специалистам FastTrack за помощью, а также способы предоставления этой помощи, советы для успешного взаимодействия и ключевые обязанности специалистов FastTrack и вашей организации.
-ms.openlocfilehash: c1f53250de4f82bca72cb6df11fda4dcaa2f6a68
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+ms.openlocfilehash: c662d14b8c0c3833fd4ad6d437a699e797049421
+ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994856"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53629548"
 ---
 # <a name="process-and-expectations"></a>Процесс и ожидания
 
