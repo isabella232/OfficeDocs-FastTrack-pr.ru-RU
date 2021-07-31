@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.
-ms.openlocfilehash: c264b4136ca7d55a54f9244b3dd1f32d627e3034
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+ms.openlocfilehash: 3ab88165cc36f9b7da37e5e9810922b8c7dc1f27
+ms.sourcegitcommit: fb70cfd530a627505b3f05caba50cd8f846c1a56
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629488"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661842"
 ---
 # <a name="eligibility"></a>Условия
 
@@ -55,7 +55,7 @@ ms.locfileid: "53629488"
 
 ## <a name="eligible-plans"></a>Поддерживаемые планы
 
-Чтобы получить право на fastTrack, необходимо приобрести не менее 150 лицензий в одной из ниженаступных планов. Элементы списка сгруппированы по семейству продуктов, чтобы помочь вам найти планы, приобретенные вашей компанией: Microsoft 365, Office 365, Enterprise Mobility & Security и Windows 10.
+Чтобы получить доступ к FastTrack, необходимо приобрести по крайней мере 150 лицензий на одного клиента. Элементы списка сгруппированы по семейству продуктов, чтобы помочь вам найти планы, приобретенные вашей компанией: Microsoft 365, Office 365, Enterprise Mobility & Security и Windows 10. 
 
 ### <a name="microsoft-365-plans"></a>Планы Microsoft 365
 
