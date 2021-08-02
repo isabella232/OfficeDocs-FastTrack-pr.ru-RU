@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этом разделе содержатся сведения о сценариях рабочей нагрузки, поддерживаемых FastTrack, и ожиданиях исходных сред, необходимых перед началом работы. На основе текущей настройки мы работаем с вами над созданием плана восстановления, который соответствует минимальным требованиям для успешной работы с бортовой установкой.
-ms.openlocfilehash: 8b7c1ea3867cebd2dc9f0ec1b309b3084288013d
-ms.sourcegitcommit: fb70cfd530a627505b3f05caba50cd8f846c1a56
+ms.openlocfilehash: 5d70ff4564bcaf3dba432304c1ab726c2f704a7b
+ms.sourcegitcommit: 142a445a491dcab79bf0779745d0beae81714507
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "53661854"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53679719"
 ---
 # <a name="products-and-capabilities"></a>Продукты и возможности
 
@@ -35,7 +35,7 @@ FastTrack предоставляет рекомендации, которые п
   - [Microsoft Edge](#microsoft-edge)
 
 > [!NOTE]
-> Сведения о требованиях к исходной среде для Office 365 для государственных организаций США см. в статье [Требования к исходной среде для Office 365 для государственных организаций США](/us-gov-appendix-source-environment-expectations).  
+> Сведения о требованиях к исходной среде для Office 365 для государственных организаций США см. в статье [Требования к исходной среде для Office 365 для государственных организаций США](US-Gov-appendix-source-environment-expectations.md).   
  
 ## <a name="general"></a>Общие
 
@@ -262,7 +262,7 @@ FastTrack предоставляет рекомендации, которые п
 </tr>
 
 <tr class="odd">
-<td><strong>Управление внутренними рисками</strong></td>
+<td><strong>Управление рисками на инсайдерской стороне</strong></td>
 
 <td>  Мы предоставляем удаленные рекомендации по:
 <ul>
