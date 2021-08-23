@@ -1,23 +1,23 @@
 ---
-title: Обязанности FastTrack для Office 365 правительства США
+title: FastTrack Обязанности Office 365 правительства США
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 7/28/2021
+ms.date: 8/18/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: cd4fa9cc96f84e5d7a5865dda077078032618bc0
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+ms.openlocfilehash: d193207dc8f3081faca635f62085d30de9f49104
+ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629500"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "58392356"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Обязанности FastTrack для Office 365 правительства США
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack Обязанности Office 365 правительства США
 
 При подключении специалисты FastTrack отвечают за указанные ниже аспекты.  
   

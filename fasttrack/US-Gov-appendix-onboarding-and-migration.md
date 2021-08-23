@@ -3,19 +3,19 @@ title: Этапы onboarding и migration для Office 365 правительс
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 7/28/2021
+ms.date: 8/18/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 для Office 365 правительства США имеет четыре основных этапа: инициация, оценка, исправление и включить. Эти этапы можно выполнять с необязательным этапом миграции данных, как показано на следующем рисунке.'
-ms.openlocfilehash: 087535f5f36c72bf5f1aa50145c1a908187131f6
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+ms.openlocfilehash: 427b9720a07c036111e1b4e50a4b38eb0a140175
+ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629536"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "58392433"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы onboarding и migration для Office 365 правительства США
 
@@ -23,7 +23,7 @@ ms.locfileid: "53629536"
   
 ![Фазы подключения](media/O365-Onboarding-Phases.png)
   
-Подробные задачи для каждого этапа см. в Office 365 [fastTrack Responsibilities for us government](US-Gov-appendix-fasttrack-responsibilities.md) and [Your Responsibilities for Office 365 правительства США.](US-Gov-appendix-your-responsibilities.md)
+Подробные задачи для каждого этапа см. в [FastTrack](US-Gov-appendix-fasttrack-responsibilities.md) Обязанности для Office 365 правительства США и ваши обязанности для Office 365 [правительства США](US-Gov-appendix-your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Начальная фаза
 
@@ -142,7 +142,7 @@ ms.locfileid: "53629536"
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> FastTrack помогает с областью, основанной на доступности функций в каждой соответствующей среде. Список доступных в настоящее время функций в каждой среде см. в <a href="/office365/servicedescriptions/teams-service-description#feature-availability">списке доступности компонентов.</a>
+> FastTrack с областью, основанной на доступности компонентов в каждой соответствующей среде. Список доступных в настоящее время функций в каждой среде см. в <a href="/office365/servicedescriptions/teams-service-description#feature-availability">списке доступности компонентов.</a>
 
 Для Microsoft Teams мы предоставляем удаленные рекомендации по: 
 - Подтверждение минимальных требований в Exchange Online, SharePoint Online, Office 365 группах и Azure Active Directory (Azure AD) для поддержки Teams.

@@ -3,19 +3,19 @@ title: Перенос данных
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 7/28/2021
+ms.date: 8/18/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack поможет вам перенести данные почты и файла вашей исходной среды в Office 365 (Exchange Online. SharePoint Online и OneDrive для бизнеса). Тип предоставляемой помощи зависит от количества лицензий Office 365 у вас.
-ms.openlocfilehash: f23500293334db525b4146e98498516ffaccff25
-ms.sourcegitcommit: d824630e1c1e1b712b36aee1428c97e46d55cbd5
+ms.openlocfilehash: b046873cfca76ad29105e09e0a3f9355434ec95f
+ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 07/28/2021
-ms.locfileid: "53629512"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "58392373"
 ---
 # <a name="data-migration"></a>Перенос данных
 
@@ -160,7 +160,7 @@ FastTrack поможет вам перенести данные почты и ф
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>Обязанности FastTrack для Exchange Online миграций
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>FastTrack обязанностей по Exchange Online миграций
 
 Наши специалисты FastTrack выполняют стандартные действия в процессе проекта миграции. Дополнительные сведения об обязанностях по переносу данных см. в разделе[Процесс и ожидания](process-and-expectations.md).
 
@@ -363,7 +363,7 @@ FastTrack поможет вам перенести данные почты и ф
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>Обязанности FastTrack для SharePoint миграций в Интернете
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>FastTrack ответственности за SharePoint миграции в Интернете
 
 Наши специалисты FastTrack выполняют стандартные действия в процессе проекта миграции. Дополнительные сведения об обязанностях по переносу данных см. в разделе[Процесс и ожидания](process-and-expectations.md)
 
@@ -555,7 +555,7 @@ FastTrack поможет вам перенести данные почты и ф
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>Обязанности FastTrack для OneDrive для бизнеса миграций
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>FastTrack обязанностей по OneDrive для бизнеса миграций
 
 Наши специалисты FastTrack выполняют стандартные действия в процессе проекта миграции. Дополнительные сведения об обязанностях по переносу данных см. в разделе[Процесс и ожидания](process-and-expectations.md).
 
@@ -569,7 +569,7 @@ FastTrack поможет вам перенести данные почты и ф
 
 ## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>Миграция в Microsoft Teams и Microsoft 365 группы
 
-Если вы решите использовать FastTrack для переноса файлов в группы Microsoft Teams Microsoft 365, мы предоставляем рекомендации по миграции и миграции данных. Мы предоставляем рекомендации по планированию миграции, настройке исходных сред и групп Teams и Microsoft 365 и использования наших служб миграции данных для переноса файлов. Создайте и запланируйте события переноса данных. Мы запускаем события переноса данных в соответствии с вашим графиком, следим за их ходом и предоставляем отчеты о состоянии. По завершению событий миграции можно ожидать перенос файлов из надлежащим образом запланированных и подходящих источников исходных сред в Teams и Microsoft 365 Groups. Teams каналов и Microsoft 365 группы должны быть предварительно заранее перенаправлены данные в эти типы назначения. Teams и Microsoft 365 группы влияют на ваши разрешения в расположении назначения файлов. Teams и Microsoft 365 группы построены для того, чтобы разрешить совместную работу. Группа Teams или Microsoft 365 определяет, кто имеет доступ к этим файлам при миграции в эти пункты назначения. FastTrack не добавляет конечных пользователей или групп в Teams или Microsoft 365 групп во время миграции.
+Если вы решите использовать FastTrack для переноса файлов в группы Microsoft Teams и Microsoft 365, мы предоставляем рекомендации по миграции и миграции данных. Мы предоставляем рекомендации по планированию миграции, настройке исходных сред и групп Teams и Microsoft 365 и использования наших служб миграции данных для переноса файлов. Создайте и запланируйте события переноса данных. Мы запускаем события переноса данных в соответствии с вашим графиком, следим за их ходом и предоставляем отчеты о состоянии. По завершению событий миграции можно ожидать перенос файлов из надлежащим образом запланированных и подходящих источников исходных сред в Teams и Microsoft 365 Groups. Teams каналов и Microsoft 365 группы должны быть предварительно заранее перенаправлены данные в эти типы назначения. Teams и Microsoft 365 группы влияют на ваши разрешения в расположении назначения файлов. Teams и Microsoft 365 группы построены для того, чтобы разрешить совместную работу. Группа Teams или Microsoft 365 определяет, кто имеет доступ к этим файлам при миграции в эти пункты назначения. FastTrack не добавляет конечных пользователей или групп в какой-либо Teams или Microsoft 365 групп во время миграции.
 
 ### <a name="considerations"></a>Рекомендации
 
@@ -756,7 +756,7 @@ FastTrack поможет вам перенести данные почты и ф
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Обязанности FastTrack для миграций Microsoft Teams и Microsoft 365 групп
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrack обязанностей по миграциям Microsoft Teams и Microsoft 365 групп
 
 Наши специалисты FastTrack выполняют стандартные действия в процессе проекта миграции. Дополнительные сведения об обязанностях по переносу данных см. в разделе[Процесс и ожидания](process-and-expectations.md).
 
@@ -768,4 +768,4 @@ FastTrack поможет вам перенести данные почты и ф
 - Подготовка всех Microsoft Teams каналов и Microsoft 365 групп в качестве целевых для событий миграции.
 
 > [!NOTE]
->FastTrack не заранее Microsoft Teams каналов или Microsoft 365 групп. FastTrack не добавляет конечных пользователей или групп в Microsoft Teams или Microsoft 365 группы. Перед переносом данных в эти пункты необходимо добавить конечных пользователей или группы во все Microsoft Teams и группы Microsoft 365, чтобы эти конечные пользователи могли получать доступ к этим недавно перенесенным документам.
+>FastTrack не предусматривает предварительного Microsoft Teams каналов или Microsoft 365 групп. FastTrack не добавляет конечных пользователей или групп в Microsoft Teams или Microsoft 365 группы. Перед переносом данных в эти пункты необходимо добавить конечных пользователей или группы во все Microsoft Teams и группы Microsoft 365, чтобы эти конечные пользователи могли получать доступ к этим недавно перенесенным документам.
