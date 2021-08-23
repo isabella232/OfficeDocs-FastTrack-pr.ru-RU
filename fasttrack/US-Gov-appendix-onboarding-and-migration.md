@@ -10,18 +10,18 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 для Office 365 правительства США имеет четыре основных этапа: инициация, оценка, исправление и включить. Эти этапы можно выполнять с необязательным этапом миграции данных, как показано на следующем рисунке.'
-ms.openlocfilehash: 427b9720a07c036111e1b4e50a4b38eb0a140175
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: 3498d5797825f59b36cf1478424015144c7dc65f
+ms.sourcegitcommit: f69357b9e3b2edf60c1b9b22f106ac0b1b345d02
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392433"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "58468481"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы onboarding и migration для Office 365 правительства США
 
 Подключение к Office 365 состоит из четырех основных фаз: начальной, оценки, исправления и включения. За этими фазами может следовать фаза переноса данных, как показано на рисунке ниже.
   
-![Фазы подключения](media/O365-Onboarding-Phases.png)
+![Этапы преимущества onboarding.](media/O365-Onboarding-Phases.png)
   
 Подробные задачи для каждого этапа см. в [FastTrack](US-Gov-appendix-fasttrack-responsibilities.md) Обязанности для Office 365 правительства США и ваши обязанности для Office 365 [правительства США](US-Gov-appendix-your-responsibilities.md).
   
@@ -51,7 +51,7 @@ ms.locfileid: "58392433"
   
 Это включает работу с вами, чтобы понять, как вы собираетесь использовать службу, а также цели и планы организации по использованию службы.
   
-![Этапы подключения во время фазы инициализации](media/O365-Onboarding-Initiate.png)
+![Onboarding steps during the Initiate phase.](media/O365-Onboarding-Initiate.png)
   
 ## <a name="assess-phase"></a>Фаза оценки
 
@@ -61,13 +61,13 @@ ms.locfileid: "58392433"
   
 На основе сведений о текущей конфигурации мы составим план устранения ошибок, выполнение которого обеспечит соответствие исходной среды минимальным требованиям для успешной входящей миграции в Office 365 и (при необходимости) успешный перенос почтовых ящиков и данных. Мы предложим ряд мероприятий для популяризации служб среди конечных пользователей. Кроме того, мы запланируем телефонные беседы по ключевым этапам устранения ошибок.
   
-![Этапы подключения для фазы оценки](media/O365.png)
+![Onboarding steps for the Assess phase.](media/O365.png)
   
 ## <a name="remediate-phase"></a>Фаза исправления
 
 Задачи устранения ошибок выполняются в соответствии с исходной средой, чтобы обеспечить соответствие требованиям для входящей миграции, внедрения и переноса каждой службы надлежащим образом.
   
-![Этапы подключения во время фазы устранения ошибок](media/O365-Onboarding-Remediate.png)
+![Этапы onboarding на этапе Исправление.](media/O365-Onboarding-Remediate.png)
   
 Кроме того, мы предложим ряд мероприятий для популяризации служб среди конечных пользователей. Перед началом этапа включения мы совместно с вами проверим результаты действий по устранению ошибок и убедимся, что вы готовы продолжить работу. 
   
@@ -81,9 +81,9 @@ ms.locfileid: "58392433"
 
 Базовое подключение предусматривает подготовку служб к работе, а также интеграцию клиента и удостоверений. Кроме того, оно предусматривает выполнение действий по созданию базы для подключения служб, например Exchange Online, SharePoint Online и Skype для бизнеса Online. Вы и ваш менеджер FastTrack будете проводить контрольные собрания, чтобы оценить прогресс в достижении поставленных целей и определить, какая дальнейшая помощь нужна.
   
-![Этапы базового подключения во время фазы активации_1](media/O365-Onboarding-Enable-Core.png)
+![Основные этапы в процессе phase_1.](media/O365-Onboarding-Enable-Core.png)
   
-![Базовые этапы входящей миграции во время фазы активации_2](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
+![Основные этапы в процессе phase_2.](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
 > WAP означает "прокси-служба веб-приложения" (Web Application Proxy). SSL означает Secure Sockets Layer. SDS означает School Data Sync. Дополнительные сведения о Microsoft School Data Sync см. в [этой статье](https://go.microsoft.com/fwlink/?linkid=871480). 
@@ -103,9 +103,9 @@ ms.locfileid: "58392433"
 - Настройка потока обработки почты между исходной средой обмена сообщениями и Exchange Online (при необходимости).   
 - Перенос почты из исходной среды обмена сообщениями в Office 365.   
     > [!NOTE]
-    > Дополнительные сведения о переносе почты и данных см. в статье [Перенос данных](data-migration.md). 
+    > Дополнительные сведения о переносе почты и данных см. в статье [Миграция данных](data-migration.md). 
   
-![Этапы входящей миграции Exchange во время фазы активации](media/O365-Onboarding-Enable-Exchange.png)
+![Exchange на этапе Включить.](media/O365-Onboarding-Enable-Exchange.png)
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online и OneDrive для бизнеса
 
@@ -117,15 +117,15 @@ ms.locfileid: "58392433"
     
 Специалисты FastTrack предоставляют необходимые инструменты и документацию по переносу данных в Office 365, а также выполняют настройку в случаях, когда это возможно и целесообразно.
   
-![Этапы входящей миграции SharePoint и Skype для бизнеса](media/O365-Onboarding-Enable-SP.png)
+![SharePoint и Skype для бизнеса действий.](media/O365-Onboarding-Enable-SP.png)
   
 ## <a name="onedrive-for-business"></a>OneDrive для бизнеса
 
 Этапы подключения OneDrive для бизнеса зависят от того, используете ли вы SharePoint, и (если это так) от используемой версии. 
   
-![Этапы входящей миграции OneDrive во время фазы активации](media/O365-Onboarding-Enable-ODB.png)
+![OneDrive на этапе Включить.](media/O365-Onboarding-Enable-ODB.png)
   
-## <a name="skype-for-business-online"></a>Skype для бизнеса Online
+## <a name="skype-for-business-online"></a>Skype для Бизнеса Онлайн
 
 Для Skype для бизнеса Online мы предоставляем удаленные рекомендации по: 
 - Настройка портов брандмауэра.    
@@ -135,9 +135,9 @@ ms.locfileid: "58392433"
 - Создание конфигурации разделенного сервера домена между локальной средой Lync 2010, Lync 2013 или Skype для бизнеса 2015 года и клиентом Skype для бизнеса Online (если применимо).
 - Включение планов звонков, Skype трансляции собраний, а также телефонная система и звонков (на доступных рынках — недоступны в GCC или планах DoD). 
     
-![Этапы входящей миграции Lync во время фазы активации_1](media/O365-Onboarding-Enable-Lync.png)
+![Lync onboarding steps during the Enable phase_1.](media/O365-Onboarding-Enable-Lync.png)
   
-![Этапы входящей миграции Skype для бизнеса во время фазы активации_2](media/SfBOifappborderupdate.png)
+![Skype для бизнеса в процессе phase_2.](media/SfBOifappborderupdate.png)
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
@@ -179,7 +179,7 @@ ms.locfileid: "58392433"
 - Настройка организации и интеграция в Microsoft Stream.
 - Руководство по Skype для бизнеса Teams перехода. 
     
-![Схема групп Майкрософт в FastTrack (фаза включения)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![FastTrack Microsoft Teams (Включить фазу).](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -194,7 +194,7 @@ ms.locfileid: "58392433"
 - Настройка пула корпоративных ресурсов (ERP).   
 - Создание первого проекта. 
     
-![Шаги на этапе активации Project Online](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
+![Действия, которые происходят во время этапа Включить для Project Online.](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
   
 ## <a name="yammer-enterprise"></a>Yammer корпоративный
 
@@ -214,4 +214,4 @@ ms.locfileid: "58392433"
 - Настройка отдельного сервера рассылки на Приложения Microsoft 365, включая помощь в создании файла configuration.xml для использования с помощью средства Office 365 развертывания.    
 - Развертывание с помощью Microsoft Endpoint Configuration Manager, а также создание пакета Microsoft Endpoint Configuration Manager.
     
-![Этапы входящей миграции Office профессиональный плюс](media/o365-onboarding-enable-m365-apps-2.png)
+![Office Действия onboarding ProPlus.](media/o365-onboarding-enable-m365-apps-2.png)
