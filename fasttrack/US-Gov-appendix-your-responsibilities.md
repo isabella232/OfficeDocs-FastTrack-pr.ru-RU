@@ -3,19 +3,19 @@ title: Ваши обязанности по Office 365 правительств�
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: В процессе подключения вы отвечаете за указанные ниже аспекты.
-ms.openlocfilehash: be41b6a9f0080909d01da1106ab8f1f638381973
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: 2127589d1c0f10e2836081bc2e28286a8d6eacef
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392385"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517563"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Ваши обязанности по Office 365 правительства США
 

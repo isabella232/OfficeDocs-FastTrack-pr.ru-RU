@@ -3,19 +3,19 @@ title: Перенос данных
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack поможет вам перенести данные почты и файла вашей исходной среды в Office 365 (Exchange Online. SharePoint Online и OneDrive для бизнеса). Тип предоставляемой помощи зависит от количества лицензий Office 365 у вас.
-ms.openlocfilehash: b046873cfca76ad29105e09e0a3f9355434ec95f
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: 3986656ccbe03aa2c618b4f6cb29229450e8c325
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392373"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517491"
 ---
 # <a name="data-migration"></a>Перенос данных
 

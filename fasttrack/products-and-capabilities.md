@@ -3,19 +3,19 @@ title: Продукты и возможности
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/18/2021
+ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: В этом разделе содержатся сведения о сценариях рабочей нагрузки, поддерживаемых FastTrack и ожиданиях исходных сред, необходимых перед началом работы. На основе текущей настройки мы работаем с вами над созданием плана восстановления, который соответствует минимальным требованиям для успешной работы с бортовой установкой.
-ms.openlocfilehash: b885d646bb7159cc0fdfdfc05884293c98eeec92
-ms.sourcegitcommit: 71ec2c25b514f3a21ed58ca3499af1576e8f2c8d
+ms.openlocfilehash: 09fca3c7f02d260cd335ab04ecc566b0e4e0bd9c
+ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "58392409"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58517599"
 ---
 # <a name="products-and-capabilities"></a>Продукты и возможности
 
