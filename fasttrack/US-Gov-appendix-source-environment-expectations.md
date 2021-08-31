@@ -7,15 +7,15 @@ ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
 description: Преимущество FastTrack Center включает руководство по настройке уровней интеграции с исходной средой (например, если в исходной среде уже есть службы, которые требуется переместить в Office 365).
-ms.openlocfilehash: 16805cfed345741c33aaa37bc6c2a377fede9c8a
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+ms.openlocfilehash: c5c42fe98c550ea60e88437e786705709af80885
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517539"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710194"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Исходные ожидания среды для Office 365 правительства США
 

@@ -7,15 +7,15 @@ ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: FastTrack
 description: В этом разделе содержатся сведения о сценариях рабочей нагрузки, поддерживаемых FastTrack и ожиданиях исходных сред, необходимых перед началом работы. На основе текущей настройки мы работаем с вами над созданием плана восстановления, который соответствует минимальным требованиям для успешной работы с бортовой установкой.
-ms.openlocfilehash: 09fca3c7f02d260cd335ab04ecc566b0e4e0bd9c
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+ms.openlocfilehash: 6961a7d2378bf5b85593cde4e3763eb40f3315ab
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517599"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710517"
 ---
 # <a name="products-and-capabilities"></a>Продукты и возможности
 

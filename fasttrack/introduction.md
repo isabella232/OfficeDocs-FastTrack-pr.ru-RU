@@ -9,15 +9,15 @@ ms.topic: overview
 f1_keywords:
 - microsoft-365-onboarding-benefit
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: FastTrack
 description: FastTrack — это преимущество, предназначенное для развертывания Microsoft 365 (включенное в соответствующие подписки) без дополнительных затрат. Службы FastTrack можно использовать с новой или существующей соответствующей подпиской.
-ms.openlocfilehash: 886d88266d4c5ff4d3975259f914c80022f59e4d
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+ms.openlocfilehash: 1348cdf97c4a9d5385a42ccdfe5fa4af2231bd99
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517467"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710342"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Преимущество FastTrack Center для Microsoft 365
 

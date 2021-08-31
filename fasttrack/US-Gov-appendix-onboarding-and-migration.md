@@ -7,15 +7,15 @@ ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
 description: 'Office 365 для Office 365 правительства США имеет четыре основных этапа: инициация, оценка, исправление и включить. Эти этапы можно выполнять с необязательным этапом миграции данных, как показано на следующем рисунке.'
-ms.openlocfilehash: 741a8dfa3ce96a53f9519b3a41185b97bddafd0c
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+ms.openlocfilehash: 8dab94d7641c3542900408754bd97d4ad1ae3179
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517575"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710230"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы onboarding и migration для Office 365 правительства США
 
@@ -125,7 +125,7 @@ ms.locfileid: "58517575"
   
 ![OneDrive на этапе Включить.](media/O365-Onboarding-Enable-ODB.png)
   
-## <a name="skype-for-business-online"></a>Skype для Бизнеса Онлайн
+## <a name="skype-for-business-online"></a>Skype для бизнеса Online
 
 Для Skype для бизнеса Online мы предоставляем удаленные рекомендации по: 
 - Настройка портов брандмауэра.    

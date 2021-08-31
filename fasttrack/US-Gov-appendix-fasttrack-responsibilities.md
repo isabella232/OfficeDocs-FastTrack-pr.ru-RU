@@ -7,15 +7,15 @@ ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
 description: При подключении специалисты FastTrack отвечают за указанные ниже аспекты.
-ms.openlocfilehash: b542a6373b6614172ef87546e6efb2b24210a5b4
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+ms.openlocfilehash: fbc15c5882d02126dee53f0185c1078b71f13467
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517510"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710464"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack Обязанности Office 365 правительства США
 

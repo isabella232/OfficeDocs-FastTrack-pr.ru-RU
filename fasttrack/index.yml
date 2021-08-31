@@ -1,43 +1,37 @@
 ### YamlMime:Hub
-title: Документация и ресурсы по Microsoft FastTrack
-summary: Узнайте, как Microsoft FastTrack помогает клиентам развертывать облачные решения Майкрософт. Клиенты с подписке на Microsoft 365, Azure или Dynamics 365 могут использовать FastTrack без дополнительных затрат на срок действия подписки.
+title: Документация FastTrack и ресурсы Майкрософт
+summary: 'Узнайте, как корпорация Майкрософт FastTrack клиентам развертывать облачные решения Майкрософт. Клиенты с подходящими подписками на Microsoft 365, Azure или Dynamics 365 могут использовать FastTrack без дополнительных затрат на срок службы подписки.'
 brand: m365
 metadata:
-  title: Документация и ресурсы по Microsoft FastTrack
-  description: Узнайте, как Microsoft FastTrack помогает клиентам развертывать облачные решения Майкрософт. Клиенты с подписке на Microsoft 365, Azure или Dynamics 365 могут использовать FastTrack без дополнительных затрат на срок действия подписки.
+  title: Документация FastTrack и ресурсы Майкрософт
+  description: 'Узнайте, как корпорация Майкрософт FastTrack клиентам развертывать облачные решения Майкрософт. Клиенты с подходящими подписками на Microsoft 365, Azure или Dynamics 365 могут использовать FastTrack без дополнительных затрат на срок службы подписки.'
   ms.service: microsoft-365-enterprise
   ms.topic: hub-page
   audience: ITPro
   author: samanro
   ms.author: samanro
   ms.date: 07/03/2019
-  localization_priority: Priority
-  ms.openlocfilehash: a44789bd440b93d4778304bde9d35f6b0cd7ec5b
-  ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
-  ms.translationtype: MT
-  ms.contentlocale: ru-RU
-  ms.lasthandoff: 08/17/2020
-  ms.locfileid: "46776460"
+  ms.localizationpriority: high
 conceptualContent:
   items:
-  - title: FastTrack для Microsoft 365
-    links:
-    - url: /fasttrack/introduction
-      itemType: overview
-      text: Обзор (включая Office 365, Enterprise Mobility + Security и Windows 10)
-  - title: FastTrack для Azure
-    links:
-    - url: https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03
-      itemType: overview
-      text: Основные преимущества
-    - url: https://azure.microsoft.com/programs/azure-fasttrack/partners/
-      itemType: concept
-      text: FastTrack для партнеров Azure
-  - title: FastTrack для Dynamics 365
-    links:
-    - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
-      itemType: overview
-      text: Общие сведения о службах взаимодействия с клиентами
-    - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
-      itemType: concept
-      text: Dynamics для операций & финансов
+    - title: "FastTrack для Microsoft\_365"
+      links:
+        - url: /fasttrack/introduction
+          itemType: overview
+          text: 'Обзор (включает Office 365, Enterprise Mobility + Security и Windows 10)'
+    - title: FastTrack Azure
+      links:
+        - url: 'https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03'
+          itemType: overview
+          text: Основные преимущества
+        - url: 'https://azure.microsoft.com/programs/azure-fasttrack/partners/'
+          itemType: concept
+          text: FastTrack Azure Partners
+    - title: FastTrack dynamics 365
+      links:
+        - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
+          itemType: overview
+          text: Обзор взаимодействия с клиентами
+        - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
+          itemType: concept
+          text: Динамика финансовых & операций

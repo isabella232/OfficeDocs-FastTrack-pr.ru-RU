@@ -7,15 +7,15 @@ ms.date: 8/25/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: FastTrack
 description: В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.
-ms.openlocfilehash: e8d3529ee9f94f52137b2eb5dce0011a489a0639
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+ms.openlocfilehash: ff9fdea073bebc9f24781c88c452b9b32c17f476
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517479"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710540"
 ---
 # <a name="eligibility"></a>Условия
 

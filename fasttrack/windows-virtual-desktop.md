@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 audience: ITPro
 ms.topic: overview
 ms.service: virtual-desktop
-localization_priority: None
+ms.localizationpriority: ''
 ms.collection: FastTrack
 description: FastTrack предоставляет Windows для развертывания виртуальных настольных компьютеров, чтобы помочь вам на борту этого рабочего стола.
-ms.openlocfilehash: bdec1f6438a34b5ec023be5159329617bc5a78f9
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: f6925cbbb9e18921139d370ef32bb64f4658069e
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592442"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710528"
 ---
 # <a name="windows-virtual-desktop"></a>Виртуальный рабочий стол Windows
 
@@ -23,14 +23,14 @@ ms.locfileid: "52592442"
 <thead>
 <tr class="header">
 <th><strong>Служба</strong></th>
-<th><strong>Сведения о руководстве FastTrack</strong></th>
+<th><strong>FastTrack Сведения о руководстве</strong></th>
 <th><strong>Требования к исходной среде</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>Виртуальный рабочий стол Windows</td>
-<td><p>FastTrack предоставляет Windows руководство по развертыванию виртуальных настольных компьютеров, чтобы помочь вам в этой службе виртуализации настольных компьютеров и приложений с легкостью использовать Windows 10 много сеансов, оптимизированные для Приложения Microsoft 365 для Enterprise с интегрированной безопасностью и управлением для Microsoft 365.</p>
+<td><p>FastTrack предоставляет Windows руководство по развертыванию виртуальных настольных компьютеров, чтобы помочь вам в этой службе виртуализации настольных компьютеров и приложений с легкостью, воспользовавшись Windows 10 много сеансов, оптимизированных для Приложения Microsoft 365 для Enterprise с интегрированной безопасностью и управлением для Microsoft 365.</p>
 <p>Вы работаете со специалистами FastTrack, чтобы:</p>
 <ul>
 <li><p>Развертывание среды WVD с Windows 10 Корпоративная нескольких сеансов + Приложения Microsoft 365 для Enterprise с помощью следующих ниже.</p>

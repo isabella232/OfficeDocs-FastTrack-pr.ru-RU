@@ -6,15 +6,15 @@ manager: jimmuir
 ms.date: 8/25/2021
 ms.topic: conceptual
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.collection: FastTrack
 description: В этой теме мы рассмотрим, как обратиться к специалистам FastTrack за помощью, а также способы предоставления этой помощи, советы для успешного взаимодействия и ключевые обязанности специалистов FastTrack и вашей организации.
-ms.openlocfilehash: bede9ca238ec77b86867eaa5c30a63298ef04c78
-ms.sourcegitcommit: 7ad41bd0aac5b3e2a0b3843d507b3eff0615941b
+ms.openlocfilehash: fdad877b5d84d554e0b100e224f97ae89e4d3a99
+ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/25/2021
-ms.locfileid: "58517515"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58710516"
 ---
 # <a name="process-and-expectations"></a>Процесс и ожидания
 
