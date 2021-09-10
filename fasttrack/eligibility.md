@@ -11,11 +11,11 @@ ms.localizationpriority: medium
 ms.collection: FastTrack
 description: В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.
 ms.openlocfilehash: 46e7cee8c160f29a2558e86eb3f6abe0249f1c3b
-ms.sourcegitcommit: afb7b49daa1241dd2158dc81221afdc740fd4535
+ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58826113"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "58971255"
 ---
 # <a name="eligibility"></a>Условия
 

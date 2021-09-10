@@ -11,11 +11,11 @@ ms.localizationpriority: ''
 ms.collection: FastTrack
 description: В процессе подключения вы отвечаете за указанные ниже аспекты.
 ms.openlocfilehash: a6c05ede4edf2026694bb1365d6653c363b5358a
-ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
+ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58710172"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "58971288"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Ваши обязанности по Office 365 правительства США
 

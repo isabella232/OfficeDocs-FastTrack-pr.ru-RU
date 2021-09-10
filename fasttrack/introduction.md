@@ -13,11 +13,11 @@ ms.localizationpriority: medium
 ms.collection: FastTrack
 description: FastTrack — это преимущество, предназначенное для развертывания Microsoft 365 (включенное в соответствующие подписки) без дополнительных затрат. Службы FastTrack можно использовать с новой или существующей соответствующей подпиской.
 ms.openlocfilehash: 2cf1902250f237df4023a0d52f6ac97d8535093e
-ms.sourcegitcommit: afb7b49daa1241dd2158dc81221afdc740fd4535
+ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/31/2021
-ms.locfileid: "58826101"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "58971245"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Преимущество FastTrack Center для Microsoft 365
 

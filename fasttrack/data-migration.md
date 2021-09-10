@@ -11,11 +11,11 @@ ms.localizationpriority: medium
 ms.collection: FastTrack
 description: FastTrack поможет вам перенести данные почты и файла вашей исходной среды в Office 365 (Exchange Online. SharePoint Online и OneDrive для бизнеса). Тип предоставляемой помощи зависит от количества лицензий Office 365 у вас.
 ms.openlocfilehash: cc2299dc36440568aef0a5b573807b2b5ef255bd
-ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
+ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58710482"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "58971248"
 ---
 # <a name="data-migration"></a>Перенос данных
 

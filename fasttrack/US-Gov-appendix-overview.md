@@ -10,11 +10,11 @@ ms.service: o365-administration
 ms.localizationpriority: ''
 description: С FastTrack Center Benefit для Office 365 вы работаете удаленно со специалистами FastTrack, чтобы ваша Office 365 среда была готова к использованию, планированию и использованию в организации.
 ms.openlocfilehash: c8779b4a7a090aec0594bd8820f8160f179dfad5
-ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
+ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58710494"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "58971268"
 ---
 # <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Приложение Б. Обзор преимущества FastTrack Center для Office 365 для государственных организаций США
 

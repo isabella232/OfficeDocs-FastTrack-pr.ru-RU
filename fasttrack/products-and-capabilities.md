@@ -10,12 +10,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.collection: FastTrack
 description: В этом разделе содержатся сведения о сценариях рабочей нагрузки, поддерживаемых FastTrack и ожиданиях исходных сред, необходимых перед началом работы. На основе текущей настройки мы работаем с вами над созданием плана восстановления, который соответствует минимальным требованиям для успешной работы с бортовой установкой.
-ms.openlocfilehash: 6961a7d2378bf5b85593cde4e3763eb40f3315ab
-ms.sourcegitcommit: 3d086ab6c4743afbedebed55a3ddb65f05422a1b
+ms.openlocfilehash: f530d0af7d84a28dee216b2faef34e4f5193adf9
+ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58710517"
+ms.lasthandoff: 09/10/2021
+ms.locfileid: "58971258"
 ---
 # <a name="products-and-capabilities"></a>Продукты и возможности
 
@@ -37,7 +37,7 @@ FastTrack предоставляет рекомендации, которые п
 > [!NOTE]
 > Сведения о требованиях к исходной среде для Office 365 для государственных организаций США см. в статье [Требования к исходной среде для Office 365 для государственных организаций США](US-Gov-appendix-source-environment-expectations.md).    
  
-## <a name="general"></a>Общие
+## <a name="general"></a>Общее
 
 <table>
 <table style="width: 100%">
@@ -66,7 +66,7 @@ FastTrack предоставляет рекомендации, которые п
 
 Мы предоставляем удаленные рекомендации по:
 <ul>
-<li>Подготовка локального удостоверения Active Directory для синхронизации с Azure Active Directory (Azure AD), включая установку и настройку Azure AD Подключение (одно- или нескольких лесных) и лицензирование (включая лицензирование на основе групп).</li>
+<li>Подготовка локального удостоверения Active Directory для синхронизации с Azure Active Directory (Azure AD), включая установку и настройку Azure AD Подключение (одно- или нескольких лесных) и лицензирование (включая лицензирование на основе групп).</li> 
 <li>Создание облачных удостоверений, включая массовый импорт и лицензирование, включая использование группового лицензирования.</li>
 <li>Выбор и включение правильного метода проверки подлинности для облачного путешествия, синхронизация хеш-паролей, сквозная проверка подлинности или службы Федерации Active Directory (AD FS).</li>
 <li> Выбор и включение более удобного опыта проверки подлинности для пользователей с помощью проверки подлинности без паролей (Fast Identity Online (FIDO)2 или Microsoft Authenticator App).</li>
@@ -383,7 +383,7 @@ FastTrack предоставляет рекомендации, которые п
 <li> Постоянное управление, реагирование на угрозы и исправление. </li>
 <li> Обсуждения, сравнивающие Cloud App Security с другими предложениями CASB.</li>
 <li> Настройка Cloud App Security соответствия требованиям или нормативным требованиям.</li>
-<li> Развертывание службы в непробной производственной среде.</li>
+<li> Развертывание службы в непроизводимой тестовой среде.</li>
 <li> Развертывание обнаружения облачных приложений в качестве доказательства концепции.</li>
 <li> Поддержка <a href=" /fasttrack/us-gov-appendix-overview">GCC-High или GCC-DoD (Office 365 правительства США).</a></li>
 <li> Настройка инфраструктуры, установки или развертывания автоматических загрузок журналов для непрерывных отчетов с помощью Docker или сборщика журналов. </li>
@@ -659,7 +659,7 @@ FastTrack предоставляет рекомендации, которые п
 <td><strong>Microsoft Defender для Office 365</strong></td>
 <td>  Microsoft Defender для Office 365 защищает организацию от злонамеренных угроз, связанных с сообщениями электронной почты, ссылками (URL-адресами) и средствами для совместной работы. Defender для Office 365 включает:<ul>
 <li> <a href="/microsoft-365/security/office-365-security/defender-for-office-365?view=o365-worldwide#configure-microsoft-defender-for-office-365-policies"> Политики защиты от угроз.</a>Определите политики защиты от угроз, чтобы установить соответствующий уровень защиты для вашей организации.</li>
-<li> <a href="/microsoft-365/security/office-365-security/defender-for-office-365?view=o365-worldwide#view-microsoft-defender-for-office-365-reports">Отчеты.</a>Просмотр отчетов в режиме реального времени для мониторинга производительности Defender Office 365 в организации.</li>
+<li> <a href="/microsoft-365/security/office-365-security/defender-for-office-365?view=o365-worldwide#view-microsoft-defender-for-office-365-reports">Отчеты.</a> Просматривайте отчеты в режиме реального времени, чтобы отслеживать производительность Defender для Office 365 в организации.</li>
 <li> <a href="/microsoft-365/security/office-365-security/defender-for-office-365?view=o365-worldwide#use-threat-investigation-and-response-capabilities">Анализ угроз и реагирование на них</a>. Используйте передовые инструменты для анализа, изучения, моделирования и предотвращения угроз.</li>
 <li> <a href="/microsoft-365/security/office-365-security/office-365-air?view=o365-worldwide">Автоматизированный анализ угроз и реагирование на них</a>. Экономьте время и усилия при анализе и устранении угроз.</li>
 </ul>
