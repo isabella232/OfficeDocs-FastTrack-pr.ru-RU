@@ -14,8 +14,8 @@ ms.openlocfilehash: c5c42fe98c550ea60e88437e786705709af80885
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971265"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157835"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Исходные ожидания среды для Office 365 правительства США
 

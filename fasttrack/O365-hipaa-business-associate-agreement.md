@@ -13,8 +13,8 @@ ms.openlocfilehash: c53d40764cc26260cb27dca6122b861be2ba96ea
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971275"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157843"
 ---
 # <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a>Приложение А. Соглашение HIPAA-BAA для FastTrack Center
 

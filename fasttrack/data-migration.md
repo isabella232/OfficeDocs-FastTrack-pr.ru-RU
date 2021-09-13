@@ -14,8 +14,8 @@ ms.openlocfilehash: cc2299dc36440568aef0a5b573807b2b5ef255bd
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971248"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157859"
 ---
 # <a name="data-migration"></a>Перенос данных
 

@@ -14,8 +14,8 @@ ms.openlocfilehash: 46e7cee8c160f29a2558e86eb3f6abe0249f1c3b
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971255"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157856"
 ---
 # <a name="eligibility"></a>Условия
 

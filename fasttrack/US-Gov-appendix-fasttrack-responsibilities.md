@@ -14,8 +14,8 @@ ms.openlocfilehash: fbc15c5882d02126dee53f0185c1078b71f13467
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971278"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157827"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack Обязанности Office 365 правительства США
 

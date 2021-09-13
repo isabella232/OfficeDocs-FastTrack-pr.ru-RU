@@ -16,8 +16,8 @@ ms.openlocfilehash: 2cf1902250f237df4023a0d52f6ac97d8535093e
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971245"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157824"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Преимущество FastTrack Center для Microsoft 365
 

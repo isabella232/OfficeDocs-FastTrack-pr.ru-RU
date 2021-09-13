@@ -14,8 +14,8 @@ ms.openlocfilehash: f530d0af7d84a28dee216b2faef34e4f5193adf9
 ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "58971258"
+ms.lasthandoff: 09/12/2021
+ms.locfileid: "59157848"
 ---
 # <a name="products-and-capabilities"></a>Продукты и возможности
 
