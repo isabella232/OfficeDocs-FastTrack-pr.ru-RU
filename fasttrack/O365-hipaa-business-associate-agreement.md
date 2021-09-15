@@ -3,18 +3,18 @@ title: Приложение А. Соглашение HIPAA-BAA для FastTrack 
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 8/25/2021
+ms.date: 9/14/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ms.localizationpriority: medium
 description: 'При наличии соглашения HIPAA-BAA с корпорацией Майкрософт на использование служб FastTrack в это соглашение включаются все службы, перечисленные в списке FastTrack Center Benefit for Office 365, за исключением:'
-ms.openlocfilehash: c53d40764cc26260cb27dca6122b861be2ba96ea
-ms.sourcegitcommit: 79f14ca91bf967bdb9f7f222e2e174c2f4a62bf5
+ms.openlocfilehash: afb164b466a5870c5422d4ab6df496404f42e66f
+ms.sourcegitcommit: 654cf051c108ccaef38b9385c8ef177f5039c4e9
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/12/2021
-ms.locfileid: "59157843"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59330081"
 ---
 # <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a>Приложение А. Соглашение HIPAA-BAA для FastTrack Center
 
