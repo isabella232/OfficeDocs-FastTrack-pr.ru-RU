@@ -3,19 +3,19 @@ title: Продукты и возможности
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 9/14/2021
+ms.date: 9/22/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.collection: FastTrack
 description: В этом разделе содержатся сведения о сценариях рабочей нагрузки, поддерживаемых FastTrack и ожиданиях исходных сред, необходимых перед началом работы. На основе текущей настройки мы работаем с вами над созданием плана восстановления, который соответствует минимальным требованиям для успешной работы с бортовой установкой.
-ms.openlocfilehash: eaff4d9e66457f61487f49b6a484cbcc94306be5
-ms.sourcegitcommit: 654cf051c108ccaef38b9385c8ef177f5039c4e9
+ms.openlocfilehash: a346e3d909d9ae15355f3b0a30aa76b43feafd60
+ms.sourcegitcommit: 1d02df511db1a97c0633430be990f76879b095fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59327604"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59484322"
 ---
 # <a name="products-and-capabilities"></a>Продукты и возможности
 
@@ -37,7 +37,7 @@ FastTrack предоставляет рекомендации, которые п
 > [!NOTE]
 > Сведения о требованиях к исходной среде для Office 365 для государственных организаций США см. в статье [Требования к исходной среде для Office 365 для государственных организаций США](US-Gov-appendix-source-environment-expectations.md).    
  
-## <a name="general"></a>Общее
+## <a name="general"></a>Общие указания
 
 <table>
 <table style="width: 100%">
@@ -262,7 +262,7 @@ FastTrack предоставляет рекомендации, которые п
 </tr>
 
 <tr class="odd">
-<td><strong>Управление рисками на инсайдерской стороне</strong></td>
+<td><strong>Управление внутренними рисками</strong></td>
 
 <td>  Мы предоставляем удаленные рекомендации по:
 <ul>
@@ -415,8 +415,9 @@ FastTrack предоставляет рекомендации, которые п
 <li>  Правила уменьшения поверхности атаки.</li>
 <li>  Microsoft Defender.</li>
 <li>  антивирусная программа в Microsoft Defender исключений.</li>
+<li>  Фильтр SmartScreen в Microsoft Defender </li>
 </ul>
-<li>  фильтр SmartScreen в Microsoft Defender </li>
+
 <li>  Оценка состояния службы Windows или другого программного обеспечения безопасности конечной точки.  </li>
 <li>  Оценка прокси и брандмауэров, ограничивающих сетевой трафик.  </li>
 <li>  Включение службы Microsoft Defender для конечных точек, объясняя, как развернуть профиль агента Microsoft Defender для обнаружение и нейтрализация атак на конечные точки (EDR) с помощью одного из поддерживаемых методов управления.  </li>
@@ -448,7 +449,7 @@ FastTrack предоставляет рекомендации, которые п
 <li>  Общие сведения о функциях создания отчетов и аналитики угроз.  </li>
 <li>  Интеграция Microsoft Defender для Office 365 с Microsoft Defender для конечной точки.  </li>
 <li>  Пошаговые руководства по поведению на портале Центра безопасности в Microsoft Defender.  </li>
-<li>  Настройка и настройка следующих операционных систем:
+<li>  Onboarding and configuration of the following operating systems:
 <ul>
 <li>  
   Windows 10.  
@@ -576,7 +577,7 @@ FastTrack предоставляет рекомендации, которые п
 <li>  Конфигурация Windows 365 cloud PC.</li>
 <li>  Виртуализация и развертывание сторонних приложений.</li>
 <li>  Настраиваемые изображения.</li>
-<li>  ALl другие области, не перечисленные в качестве в области для Windows 365.</li>
+<li>  Все остальные области, не перечисленные в качестве в области для Windows 365.</li>
 </ul>
 </ul>
 Обратитесь <a href="https://go.microsoft.com/fwlink/?linkid=2080150">к партнеру Майкрософт</a> за помощью в этих службах.  

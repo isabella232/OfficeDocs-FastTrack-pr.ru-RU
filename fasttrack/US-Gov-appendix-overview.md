@@ -3,18 +3,18 @@ title: Приложение Б. Обзор преимущества FastTrack Ce
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 9/14/2021
+ms.date: 9/22/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ms.localizationpriority: ''
 description: С FastTrack Center Benefit для Office 365 вы работаете удаленно со специалистами FastTrack, чтобы ваша Office 365 среда была готова к использованию, планированию и использованию в организации.
-ms.openlocfilehash: 080e4caf6f214d411f40574bae55147fe9b256fc
-ms.sourcegitcommit: 654cf051c108ccaef38b9385c8ef177f5039c4e9
+ms.openlocfilehash: 888a5399aec54c7bf54e0afdf1861a49a6329486
+ms.sourcegitcommit: 1d02df511db1a97c0633430be990f76879b095fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59327654"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59484360"
 ---
 # <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Приложение Б. Обзор преимущества FastTrack Center для Office 365 для государственных организаций США
 

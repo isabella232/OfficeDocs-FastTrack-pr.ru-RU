@@ -3,23 +3,23 @@ title: Условия
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 9/14/2021
+ms.date: 9/22/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.collection: FastTrack
 description: В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.
-ms.openlocfilehash: 741da89265986bdfb45e12a5eb337a65c6790e45
-ms.sourcegitcommit: 654cf051c108ccaef38b9385c8ef177f5039c4e9
+ms.openlocfilehash: aa4143b3ca09caabf8f6e99c02c54b75d4a5c4cc
+ms.sourcegitcommit: 1d02df511db1a97c0633430be990f76879b095fc
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "59327684"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59484361"
 ---
 # <a name="eligibility"></a>Условия
 
-В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы. 
+В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.  
 
 Помощь по программе FastTrack предоставляется клиентам, имеющим 150 и более лицензий на один из поддерживаемых планов семейств продуктов Майкрософт: Microsoft 365, Office 365, Enterprise Mobility & Security или Windows 10. Это могут быть планы для отдельного продукта (например, Exchange Online) или набора продуктов (Office 365 E3). Поскольку корпорация Майкрософт предоставляет множество вариантов приобретения, имеется обширный список поддерживаемых планов, размещенный в разделе [Поддерживаемые планы](#eligible-plans).
 
