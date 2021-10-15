@@ -3,7 +3,7 @@ title: Преимущество FastTrack Center для Microsoft 365
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 9/22/2021
+ms.date: 10/20/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.collection: FastTrack
 description: FastTrack — это преимущество, предназначенное для развертывания Microsoft 365 (включенное в соответствующие подписки) без дополнительных затрат. Службы FastTrack можно использовать с новой или существующей соответствующей подпиской.
-ms.openlocfilehash: f5104decd155f1aa792ad3887c6a6ab77136e453
-ms.sourcegitcommit: 1d02df511db1a97c0633430be990f76879b095fc
+ms.openlocfilehash: 677c9d46265e9f42d0f6f80b9479ba695fb907c0
+ms.sourcegitcommit: 2dec21801e6272da43cabf4a7eaf044bf2f7d047
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59484317"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60386079"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Преимущество FastTrack Center для Microsoft 365
 

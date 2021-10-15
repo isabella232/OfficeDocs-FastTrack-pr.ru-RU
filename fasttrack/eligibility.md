@@ -3,25 +3,25 @@ title: Условия
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 9/22/2021
+ms.date: 10/20/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 ms.localizationpriority: medium
 ms.collection: FastTrack
 description: В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.
-ms.openlocfilehash: aa4143b3ca09caabf8f6e99c02c54b75d4a5c4cc
-ms.sourcegitcommit: 1d02df511db1a97c0633430be990f76879b095fc
+ms.openlocfilehash: e7ffe2cb0f049c4e44c668a6c450b4a024c36f4c
+ms.sourcegitcommit: 2dec21801e6272da43cabf4a7eaf044bf2f7d047
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59484361"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60385989"
 ---
 # <a name="eligibility"></a>Условия
 
 В этой статье изложены условия получения удаленной помощи специалистов в рамках программы FastTrack, действующей для приобретаемых лицензий Microsoft 365, а также перечислены конкретные продукты и возможности, на которые распространяются условия этой программы.  
 
-Помощь по программе FastTrack предоставляется клиентам, имеющим 150 и более лицензий на один из поддерживаемых планов семейств продуктов Майкрософт: Microsoft 365, Office 365, Enterprise Mobility & Security или Windows 10. Это могут быть планы для отдельного продукта (например, Exchange Online) или набора продуктов (Office 365 E3). Поскольку корпорация Майкрософт предоставляет множество вариантов приобретения, имеется обширный список поддерживаемых планов, размещенный в разделе [Поддерживаемые планы](#eligible-plans).
+FastTrack для клиентов с 150 или более лицензиями из следующих семей продуктов Майкрософт: Microsoft 365, Office 365, Enterprise Mobility & Security и Windows 10. Это могут быть планы для отдельного продукта (например, Exchange Online) или набора продуктов (Office 365 E3). Поскольку корпорация Майкрософт предоставляет множество вариантов приобретения, имеется обширный список поддерживаемых планов, размещенный в разделе [Поддерживаемые планы](#eligible-plans).
 
 ## <a name="products-and-capabilities-covered"></a>Продукты и возможности, на которые распространяются условия
 

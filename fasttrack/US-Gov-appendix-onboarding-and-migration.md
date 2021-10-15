@@ -3,19 +3,19 @@ title: Этапы onboarding и migration для Office 365 правительс
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 9/22/2021
+ms.date: 10/20/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 ms.localizationpriority: ''
 ms.collection: FastTrack
 description: 'Office 365 для Office 365 правительства США имеет четыре основных этапа: инициация, оценка, исправление и включить. Эти этапы можно выполнять с необязательным этапом миграции данных, как показано на следующем рисунке.'
-ms.openlocfilehash: 67a92ff3d8616bf642b9421f1eaf4028701b7c2b
-ms.sourcegitcommit: 1d02df511db1a97c0633430be990f76879b095fc
+ms.openlocfilehash: 3cd0b2b386212ff7fffc7b4c3b9e4b181d041328
+ms.sourcegitcommit: 2dec21801e6272da43cabf4a7eaf044bf2f7d047
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59484385"
+ms.lasthandoff: 10/15/2021
+ms.locfileid: "60386069"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Этапы onboarding и migration для Office 365 правительства США
 
